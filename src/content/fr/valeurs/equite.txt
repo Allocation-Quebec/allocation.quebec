@@ -1,0 +1,54 @@
+# 2. ÉQUITÉ – L’Allocation de Subsistance : Un Pas Vers une Société Plus Juste  
+
+## Pourquoi la naissance ne devrait pas dicter votre destin  
+
+Un enfant qui naît dans une famille pauvre a moins de chances de réussir à l’école, d’avoir un bon emploi et de vivre en bonne santé. Avec une allocation de subsistance, nous pouvons briser ce cycle en offrant à tous un socle économique stable, peu importe leur milieu d’origine.  
+
+- Réduction des inégalités économiques entre riches et pauvres  
+- Meilleur accès à l’éducation et à la formation  
+- Soutien aux familles et aux travailleurs précaires  
+
+L’économiste John Rawls, dans sa **théorie de la justice**, défend l’idée qu’une société juste doit offrir des opportunités équitables à tous, indépendamment de leur naissance[^rawls1971]. Une allocation de subsistance s’inscrit dans cette vision en garantissant un revenu minimal permettant à chacun de se développer pleinement.  
+
+## Preuves et Expériences : Réduction des Inégalités  
+
+### 1. L'Expérience au Kenya (GiveDirectly, 2016-2018)  
+
+- Réduction de l’extrême pauvreté de 42 %  
+- Plus d’enfants ont pu aller à l’école  
+- Hausse des investissements dans les entreprises locales  
+
+[^haushofer2016]  
+
+Pourquoi c’est important ?  
+Une allocation de subsistance permet aux individus de sortir durablement de la pauvreté en investissant dans leur avenir. Cela s’explique par le **[théorème de Modigliani](https://en.wikipedia.org/wiki/Life-cycle_hypothesis)**, qui montre que les individus gèrent mieux leur consommation lorsqu’ils ont un revenu stable tout au long de leur vie.  
+
+### 2. Simulation pour le Québec (IRIS, 2017)  
+
+- Une allocation universelle de 12 000 $/an pourrait réduire de 50 % le taux de pauvreté au Québec  
+- Bénéficiaires principaux : les femmes, les jeunes et les travailleurs précaires  
+
+[^iris2017]  
+
+Pourquoi c’est important ?  
+Lutter contre la pauvreté améliore la santé publique, la stabilité sociale et la croissance économique. Selon la **[courbe de Kuznets](https://en.wikipedia.org/wiki/Kuznets_curve)**, une société où les inégalités sont trop fortes freine son propre développement économique à long terme.  
+
+## Imaginez un Québec où…  
+
+- Aucun enfant ne commence la vie avec un désavantage économique  
+- Les travailleurs précaires ont une sécurité financière de base  
+- Chacun peut aspirer à mieux, sans être freiné par des conditions socio-économiques injustes  
+
+Carte interactive :  
+Voyez comment une allocation réduirait les inégalités dans votre région.  
+
+## Participez au Débat !  
+
+Que feriez-vous si vous aviez un revenu de base pour vous appuyer ?  
+Partagez votre vision d’un Québec plus équitable !  
+
+## Références et Sources  
+
+[^haushofer2016]: Haushofer & Shapiro. 2016. "The Short-Term Impact of Unconditional Cash Transfers to the Poor."  
+[^iris2017]: IRIS. 2017. "L’allocation universelle : plus qu’un rêve, une possibilité."  
+[^rawls1971]: Rawls, John. 1971. "A Theory of Justice." Harvard University Press.  

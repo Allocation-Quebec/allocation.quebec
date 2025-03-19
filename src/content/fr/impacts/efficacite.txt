@@ -1,0 +1,59 @@
+% EFFICACITÉ – L’Allocation de Subsistance comme Correction d’une Distorsion du Marché du Travail  
+
+## L’illusion d’un marché du travail efficient sous contrainte de subsistance  
+
+L’analyse standard du marché du travail repose sur l’hypothèse que l’offre et la demande de travail s’ajustent librement pour maximiser l’efficience économique. Pourtant, cette vision occulte une réalité fondamentale : les travailleurs sont contraints d’accepter un emploi pour assurer leur subsistance. Cette contrainte constitue une subvention implicite au capital, faussant l’équilibre du marché en réduisant artificiellement le pouvoir de négociation des travailleurs.  
+
+En théorie, un marché concurrentiel maximise l’efficience lorsque les agents peuvent prendre des décisions rationnelles sans distorsion. Or, l’absence de revenu garanti limite considérablement la capacité des individus à optimiser leur allocation de temps et de ressources. L’introduction d’une allocation de subsistance viendrait corriger ces imperfections en rétablissant des mécanismes d’ajustement plus conformes à la théorie économique.  
+
+## Distorsions et imperfections du marché du travail actuel  
+
+### Contrainte de subsistance et mauvaise allocation des talents  
+
+L’économie néoclassique suppose que les travailleurs choisissent leurs emplois selon leur productivité marginale et leurs préférences. Toutefois, en présence d’une contrainte de revenu minimal, ce choix est biaisé.  
+
+- Les individus acceptent des emplois sous-optimaux en raison du risque de perte de revenu, ce qui engendre un mauvais appariement des compétences et une perte d’efficience globale[^stiglitz1987].  
+- La théorie du capital humain montre que l’investissement en formation dépend du coût d’opportunité[^becker1964]. Une pression immédiate à générer du revenu réduit cet investissement, ce qui nuit à la croissance de la productivité à long terme.  
+
+### Distorsion du rapport de force dans la négociation salariale  
+
+Selon la théorie des marchés du travail imparfaits[^manning2003], les employeurs bénéficient d’un pouvoir de marché sur les travailleurs, notamment en raison des coûts de mobilité et des asymétries d’information. L’obligation de travailler pour survivre amplifie ce déséquilibre en réduisant la capacité de négociation des salariés.  
+
+- Le salaire d’équilibre est maintenu en dessous du niveau correspondant à la productivité marginale, transférant ainsi une part de la richesse produite vers le capital.  
+- La faible élasticité de l’offre de travail empêche une allocation efficace des ressources, rendant le marché du travail moins réactif aux changements sectoriels.  
+
+### Manque de flexibilité et résistance aux mutations économiques  
+
+L’efficacité d’un marché repose sur la capacité des travailleurs à se repositionner en fonction des évolutions technologiques et structurelles[^acemoglu2019]. Cependant, l’incertitude financière freine les transitions.  
+
+- Un travailleur qui craint une perte de revenu hésitera à entreprendre une reconversion pourtant nécessaire, par exemple dans le cadre de la transition numérique ou écologique.  
+- Les rigidités dans la mobilité professionnelle ralentissent l’adaptation du marché du travail aux besoins économiques réels.  
+
+## L’Allocation de Subsistance comme Correction de Marché  
+
+Une allocation de subsistance agit comme un filet de sécurité réduisant l’incertitude et améliorant l’efficience des décisions économiques. Son introduction permettrait de :  
+
+- Réduire la mauvaise allocation des talents en permettant aux travailleurs de chercher un emploi correspondant mieux à leurs compétences, améliorant ainsi la productivité globale.  
+- Accroître le pouvoir de négociation des salariés, forçant les entreprises à rémunérer le travail plus justement et à compenser par des gains d’innovation plutôt que par l’exploitation d’une main-d’œuvre captive.  
+- Faciliter la mobilité et l’adaptation aux mutations économiques, en diminuant le coût d’opportunité des transitions professionnelles et en permettant un meilleur ajustement entre offre et demande de travail.  
+
+Des expérimentations de revenu garanti, comme celles menées en Finlande[^kangas2020] et au Manitoba[^forget2011], montrent des effets positifs sur la recherche d’emploi, la formation continue et la réduction du stress économique.  
+
+## Vers un marché du travail plus efficient et compétitif  
+
+Si l’on considère l’allocation de subsistance comme une correction des imperfections du marché plutôt qu’une simple politique redistributive, on constate qu’elle :  
+
+- Améliore l’appariement emploi-compétences, augmentant ainsi la productivité.  
+- Accroît la concurrence sur le marché du travail, réduisant le monopsonisme des employeurs.  
+- Favorise la flexibilité et l’adaptation économique, facilitant la transition vers des secteurs d’avenir.  
+
+Les implications macroéconomiques d’une telle mesure méritent une étude approfondie, notamment sur son financement et son interaction avec d’autres politiques publiques. Cependant, en tant que mécanisme d’amélioration de l’efficience du marché du travail, l’allocation de subsistance s’inscrit dans une logique économique solide, en phase avec les défis du XXIe siècle.  
+
+## Références  
+
+[^stiglitz1987]: Stiglitz, J. E. 1987. "The Causes and Consequences of the Dependence of Quality on Price." *Journal of Economic Literature.*  
+[^becker1964]: Becker, G. S. 1964. *Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education.* University of Chicago Press.  
+[^manning2003]: Manning, A. 2003. *Monopsony in Motion: Imperfect Competition in Labor Markets.* Princeton University Press.  
+[^acemoglu2019]: Acemoglu, D., & Restrepo, P. 2019. "Automation and New Tasks: How Technology Displaces and Reinstates Labor." *Journal of Economic Perspectives.*  
+[^kangas2020]: Kangas, O., et al. 2020. *The Basic Income Experiment 2017–2018 in Finland.* Government of Finland.  
+[^forget2011]: Forget, E. L. 2011. "The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment." *Canadian Public Policy.*  

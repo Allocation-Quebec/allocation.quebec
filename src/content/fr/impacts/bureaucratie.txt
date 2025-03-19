@@ -1,0 +1,63 @@
+% BUREAUCRATIE – L’Allocation de Subsistance comme Réduction des Coûts et Simplification de l’Administration Publique  
+
+## Une bureaucratie lourde et coûteuse  
+
+Les États modernes ont développé des systèmes administratifs complexes pour gérer les programmes sociaux, le marché du travail et la redistribution des revenus. Cette bureaucratie repose sur une multitude de dispositifs conditionnels, chacun nécessitant une gestion, un contrôle et des interventions régulières[^murray1984].  
+
+- Multiplication des formulaires et vérifications d’éligibilité  
+- Coûts administratifs élevés liés aux services sociaux  
+- Effets désincitatifs et trappes à pauvreté causés par des dispositifs conditionnels  
+
+L’**allocation de subsistance**, en remplaçant plusieurs programmes sociaux et en simplifiant la redistribution, pourrait considérablement réduire la taille et le coût de l’appareil bureaucratique tout en améliorant son efficacité.  
+
+## Une administration simplifiée et plus efficace  
+
+L’implémentation d’une allocation de subsistance permettrait de transformer l’administration publique en réduisant les couches bureaucratiques et en favorisant une gestion plus efficace des ressources.  
+
+### Suppression des tests d’éligibilité et des contrôles  
+
+Les systèmes de protection sociale traditionnels sont souvent conditionnels, nécessitant des vérifications fréquentes de revenus, d’emploi ou de situation familiale[^cloward1971].  
+
+- Des milliers de fonctionnaires sont affectés à l’examen des dossiers, aux contrôles de conformité et à la gestion des plaintes.  
+- Des coûts élevés sont associés à la surveillance des fraudes, parfois supérieurs aux économies réalisées.  
+- L’administration sociale devient rigide et coûteuse à gérer.  
+
+Avec une allocation de subsistance, ces vérifications deviennent inutiles, car chaque individu reçoit un montant fixe sans condition.  
+
+### Fusion et simplification des programmes sociaux  
+
+Les États gèrent une pluralité de programmes : aide sociale, allocations familiales, subventions au logement, crédits d’impôt pour les bas revenus[^barr2004].  
+
+- Chaque programme a son propre budget, ses critères d’éligibilité et son administration dédiée.  
+- Il en résulte des inefficiences et des incohérences entre dispositifs.  
+- L’aide est fragmentée, créant des incitations parfois contradictoires.  
+
+Avec une allocation de subsistance, plusieurs de ces dispositifs peuvent être fusionnés en une seule politique universelle, réduisant ainsi la redondance et les coûts de gestion.  
+
+### Réduction des coûts administratifs  
+
+L’administration publique consacre une part importante de ses ressources au fonctionnement de ses services plutôt qu’à l’aide directe aux citoyens[^tullock1965].  
+
+- Une grande partie des fonds alloués aux programmes sociaux est absorbée par les coûts de gestion.  
+- La complexité administrative engendre des délais et des erreurs qui nuisent aux bénéficiaires.  
+- La bureaucratie devient un obstacle à l’accès rapide et efficace aux services publics.  
+
+Une allocation de subsistance transférée automatiquement via l’administration fiscale permettrait d’optimiser l’utilisation des ressources publiques.  
+
+## Vers un État plus agile et moins coûteux  
+
+En instaurant une allocation de subsistance, il devient possible de concevoir une administration plus efficace, avec plusieurs avantages.  
+
+- Moins de bureaucratie, grâce à la suppression des dispositifs complexes et conditionnels.  
+- Réduction des coûts de gestion des aides sociales.  
+- Allocation plus transparente et accessible, réduisant les erreurs et les délais.  
+- État recentré sur des missions essentielles comme la santé, l’éducation et les infrastructures.  
+
+Une telle réforme permettrait de transformer l’État-providence en un modèle plus agile et performant, réduisant le poids administratif tout en assurant une redistribution plus équitable.  
+
+## Références  
+
+[^murray1984]: Murray, C. 1984. *Losing Ground: American Social Policy, 1950-1980.* Basic Books.  
+[^cloward1971]: Cloward, R., & Piven, F. 1971. *Regulating the Poor: The Functions of Public Welfare.* Pantheon Books.  
+[^barr2004]: Barr, N. 2004. *The Economics of the Welfare State.* Oxford University Press.  
+[^tullock1965]: Tullock, G. 1965. *The Politics of Bureaucracy.* Public Affairs Press.  

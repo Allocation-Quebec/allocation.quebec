@@ -1,0 +1,68 @@
+# 4. SÉCURITÉ – L’Allocation de Subsistance : Un Rempart Contre l’Incertitude  
+
+## Et si vous n’aviez plus à vivre avec la peur du lendemain ?  
+
+Chaque mois, des milliers de Québécois doivent choisir entre payer leur loyer ou remplir leur frigo. Une dépense imprévue, une perte d’emploi ou une maladie peuvent faire basculer une vie dans la précarité du jour au lendemain.  
+
+L’allocation de subsistance agirait comme un filet de sécurité économique, protégeant chacun contre les aléas de la vie et offrant une stabilité essentielle pour mieux planifier son avenir.  
+
+- Un revenu garanti pour amortir les chocs financiers  
+- Moins de stress et d’anxiété face aux imprévus  
+- Accès stable au logement et à l’alimentation  
+- Réduction de la précarité économique pour tous  
+
+L’économiste Milton Friedman a défendu le concept d’un impôt négatif sur le revenu comme solution à l’instabilité économique et aux lacunes des programmes sociaux traditionnels[^friedman1962]. L’allocation de subsistance s’inscrit dans cette logique en garantissant une base économique à chacun.  
+
+## Preuves et Expériences : Moins d’Incertitude, Plus de Stabilité  
+
+### 1. Réduction de l’Insécurité Alimentaire et du Stress Financier  
+
+- Les ménages bénéficiant d’un revenu garanti vivent moins d’anxiété financière  
+- Moins de recours aux banques alimentaires  
+- Une meilleure capacité à faire face aux dépenses imprévues  
+
+[^baird2018]  
+
+Pourquoi c’est important ?  
+Le stress financier est un facteur majeur de maladies chroniques et de troubles de santé mentale, comme l’illustre la **[théorie du stress économique](https://en.wikipedia.org/wiki/Economic_stress)**. Réduire cette insécurité améliore la qualité de vie et la santé publique.  
+
+### 2. Sécurité Résidentielle : Réduction du Risque de Perte de Logement  
+
+- Une allocation stable permet de mieux gérer les paiements de loyer  
+- Moins de risques d’expulsion et de sans-abrisme  
+- Davantage de Québécois pourraient accéder à un logement sécuritaire  
+
+[^iris2017]  
+
+Pourquoi c’est important ?  
+Le logement est une condition essentielle à la stabilité économique et sociale. La **[théorie du capital humain](https://en.wikipedia.org/wiki/Human_capital)** explique que les individus peuvent mieux investir dans leur avenir lorsqu’ils ont un environnement stable.  
+
+### 3. Un Bouclier Contre les Chocs Économiques  
+
+- Crises économiques, pandémies, licenciements massifs... l’économie est imprévisible  
+- Avec une allocation universelle, la consommation reste stable, réduisant l’impact des récessions  
+- Les travailleurs touchés par des pertes d’emploi ont un coussin financier pour rebondir  
+
+Pourquoi c’est important ?  
+Une économie plus résiliente protège tout le monde, des travailleurs aux entreprises. Ce phénomène est illustré par la **[loi de Say](https://en.wikipedia.org/wiki/Say%27s_law)**, qui souligne l’importance d’une demande stable pour la croissance économique.  
+
+## Imaginez un Québec où…  
+
+- Personne ne vit avec l’angoisse de ne pas pouvoir payer son loyer  
+- Les crises économiques ne plongent plus des milliers de personnes dans la pauvreté  
+- Chacun a un minimum garanti pour traverser les moments difficiles  
+- L’itinérance diminue, la santé mentale s’améliore, et la société est plus stable  
+
+Simulateur interactif :  
+Voyez comment une allocation de subsistance améliorerait votre sécurité financière en cas d’imprévu.  
+
+## Participez au Débat !  
+
+Avez-vous déjà ressenti une insécurité financière qui vous empêchait de bien vivre ?  
+Partagez votre expérience et votre vision d’un Québec plus sûr !  
+
+## Références et Sources  
+
+[^baird2018]: Baird et al. 2018. "Cash Transfers and Health: Evidence from the U.S."  
+[^iris2017]: IRIS. 2017. "L’allocation universelle : une solution pour la pauvreté."  
+[^friedman1962]: Friedman, Milton. 1962. "Capitalism and Freedom." University of Chicago Press.  
