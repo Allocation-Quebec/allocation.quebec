@@ -28,10 +28,10 @@
 					<nav id="navigation-principale">
 						<h2 hidden="">Navigation principale</h2>
 						<div class="menu-deroulant">
-							<h3 class="h5">Pourquoi ?</h3>
+							<h3 class="h6">Pourquoi ?</h3>
 							<div>
 								<section>
-									<h4 class="h5">Valeurs</h4>
+									<h4 class="h6">Valeurs</h4>
 									<a href="/valeurs/liberte">Liberté</a>
 									<a href="/valeurs/dignite">Dignité</a>
 									<a href="/valeurs/ecologie">Écologie</a>
@@ -39,7 +39,7 @@
 									<a href="/valeurs/solidarite">Solidarité</a>
 								</section>
 								<section>
-									<h4 class="h5">Bienfaits</h4>
+									<h4 class="h6">Bienfaits</h4>
 									<a href="/bienfaits/bureaucratie">Bureaucratie</a>
 									<a href="/bienfaits/dereglementation">Déréglementation</a>
 									<a href="/bienfaits/innovation">Innovation</a>
@@ -49,7 +49,7 @@
 							</div>
 						</div>
 						<div class="menu-deroulant">
-							<h3 class="h5">Pour qui ?</h3>
+							<h3 class="h6">Pour qui ?</h3>
 							<div>
 								<a href="/roles/travailleurs">Travailleur•es</a>
 								<a href="/roles/consommateurs">Consommateur•rices</a>
@@ -60,11 +60,18 @@
 								<a href=""></a>
 							</div>
 						</div>
-						<div>
-							<h3 class="h5">Comment ?</h3>
+						<div class="menu-deroulant">
+							<h3 class="h6">Comment ?</h3>
+							<div>
+								<a href="/moyens/abolition">Abolition de programmes</a>
+								<a href="/moyens/etat">Rôle de l'État</a>
+								<a href="/moyens/financement">Financement</a>
+								<a href="/moyens/deploiement">Déploiement progressif</a>
+								<a href="/moyens/plan">Plan complet</a>
+							</div>
 						</div>
 						<div class="menu-deroulant">
-							<h3 class="h5">En savoir plus</h3>
+							<h3 class="h6">En savoir plus</h3>
 							<div>
 								<a href="/plus/appellation">Pourquoi cette appellation ?</a>
 								<a href="/plus/mythes">Mythes persistants</a>
@@ -74,7 +81,7 @@
 								<a href="/plus/faq">Foire aux questions</a>
 							</div>
 						</div>
-						<a class="h5" href="/impliquez-vous">Impliquez-vous !</a>
+						<a class="h6" href="/impliquez-vous">Impliquez-vous !</a>
 					</nav>
 				</div>
 			</header>
