@@ -4,95 +4,180 @@
 <strong>Et si votre survie ne dépendait plus de votre prochain chèque de paie ?</strong>
 <p>Des milliers de personnes occupent des emplois qu’ils détestent par peur de ne pas pouvoir payer leur loyer. D’autres rêvent de retourner aux études, de démarrer une entreprise ou de consacrer du temps à leur famille, mais se heurtent toujours à la même réalité : sans revenu stable, ces choix sont impossibles.
 </p>
-<p>Une allocation de subsistance changerait la donne en garantissant à chacun•e un minimum vital pour se libérer de la précarité et prendre des décisions basées sur ses aspirations, et non sur l’urgence de survivre.</p>
 </header>
 
+
+<section>
+<header>
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>L’économiste **Amartya Sen**, dans sa **théorie des capabilités**, soutient que la liberté réelle des individus repose sur leurs moyens économiques et sociaux[^sen1999]. Une allocation de subsistance renforcerait ces capabilités en offrant à chacun la possibilité d’exercer un choix véritable dans son parcours de vie.</p>
 </aside>
 
-<small>Quand la liberté devient réelle</small>
+<small>Preuves et expériences</small>
+<h2><i><img src="/assets/img/chain.svg" alt=""/></i> Quand la liberté devient réelle</h2>
 
-## Preuves et Expériences 
+<p>Une allocation de subsistance changerait la donne en garantissant à chacun•e un minimum vital pour se libérer de la précarité et prendre des décisions basées sur ses aspirations, et non sur l’urgence de survivre.</p>
+
+</header>
 
 <section>
+
 <header>
-### Finlande : expérience de revenu de base
-Moins de stress, plus d’initiatives.
+<small>expérience de revenu de base</small>
+<h3><i>🇫🇮</i> Finlande : Moins de stress, plus d’initiatives</h3>
 </header>
+
+<div class="prose">
 
 L’expérience finlandaise du revenu de base, menée entre janvier 2017 et décembre 2018, était un projet pilote national visant à évaluer les effets d’un revenu de base inconditionnel sur l’emploi et le bien-être. Pendant deux ans, 2 000 chômeurs âgés de 25 à 58 ans ont reçu un revenu mensuel de 560 euros, sans conditions ni obligation d’accepter un emploi. 
 
 Les résultats ont montré peu d’impact sur le taux d’emploi global, mais une amélioration notable du bien-être psychologique, de la confiance en soi et de la perception de la sécurité économique des participants. L’expérience a été saluée pour sa rigueur méthodologique, bien que ses résultats aient été jugés limités par la taille restreinte de l’échantillon et son ciblage exclusif sur les chômeurs.
 
-<ul class="grille">
-<li>
-**Bien-être accru**  
-Les bénéficiaires ont rapporté une meilleure santé mentale, moins de stress, moins de symptômes de dépression[^1].
-</li>
-
-<li>
-**Satisfaction de vie plus élevée**  
-Les participants au revenu de base étaient significativement plus satisfaits de leur vie que le groupe témoin[^1].
-</li>
-
-<li>
-**Effets limités sur l'emploi**  
-Le revenu de base n’a pas entraîné d’augmentation significative du taux d’emploi, bien que des variations aient été observées dans certaines sous-catégories[^2].
-</li>
-
-<li>
-**Participation accrue à des petits boulots ou à des projets**  
-Quelques différences dans l’emploi informel ou entrepreneurial ont été notées, bien que non statistiquement significatives[^2][^3].
-</li>
-
-<li>
-**Simplicité administrative**  
-Le versement automatique du revenu de base a réduit la bureaucratie et amélioré la perception du système social[^1].
-</li>
-
-<li>
-**Moins de peur de la perte d'avantages sociaux**  
-Les participants se sont sentis plus libres d’accepter des opportunités d’emploi, car le revenu était garanti[^1].
-</li>
-
-<li>
-**Aucune incitation claire à rester inactif**  
-Aucune preuve que le revenu de base décourageait la recherche d'emploi[^3].
-</li>
-</ul>
-
-
 #### Pourquoi c’est important ?
 
 Un individu qui ne vit plus dans la peur du lendemain ose prendre des risques, que ce soit pour changer de métier, déménager ou se lancer en affaires. Cette dynamique est en accord avec la **[théorie du choix rationnel](https://en.wikipedia.org/wiki/Rational_choice_theory)**, qui stipule que les individus prennent de meilleures décisions lorsque les contraintes économiques sont réduites.
 
+</div>
+
+#### Résultats concrets
+
+<ul class="grille">
+<li class="carte">
+<strong class="h5">Bien-être accru</strong>
+<p>Les bénéficiaires ont rapporté une meilleure santé mentale, moins de stress, moins de symptômes de dépression[^1].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Satisfaction de vie plus élevée</strong>
+<p>Les participants au revenu de base étaient significativement plus satisfaits de leur vie que le groupe témoin[^1].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Effets limités sur l'emploi</strong>
+<p>Le revenu de base n’a pas entraîné d’augmentation significative du taux d’emploi, bien que des variations aient été observées dans certaines sous-catégories[^2].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Participation accrue à des petits boulots ou à des projets</strong>
+<p>Quelques différences dans l’emploi informel ou entrepreneurial ont été notées, bien que non statistiquement significatives[^2][^3].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Simplicité administrative</strong>
+<p>Le versement automatique du revenu de base a réduit la bureaucratie et amélioré la perception du système social[^1].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Moins de peur de la perte d'avantages sociaux</strong>
+<p>Les participants se sont sentis plus libres d’accepter des opportunités d’emploi, car le revenu était garanti[^1].</p>
+</li>
+<li class="carte">
+<strong class="h5">Aucune incitation claire à rester inactif</strong>
+<p>Aucune preuve que le revenu de base décourageait la recherche d'emploi[^3].</p>
+</li>
+</ul>
 </section>
 
 <section>
-### 2. Canada : L’expérience Mincome au Manitoba
 
-- Les jeunes restaient plus longtemps à l’école, car leurs familles n’avaient plus besoin de leur salaire
-- Moins de consultations médicales liées au stress et aux troubles anxieux
-- Plus de stabilité et d’opportunités professionnelles
+<header>
+<small>L’expérience Mincome au Manitoba</small>
+<h3><i>🇨🇦</i> Canada : libérer de la pauvreté</h3>
+</header>
 
-[^forget2011]
+<div class="prose">
 
-Pourquoi c’est important ?
+L’expérience Mincome, menée de 1974 à 1979 à Dauphin, au Manitoba, fut le premier projet pilote canadien de revenu minimum garanti. Financé conjointement par les gouvernements fédéral et provincial, il visait à évaluer les effets sociaux et économiques d’un revenu inconditionnel versé aux familles à faible revenu. 
+
+Bien que l’expérience ait été interrompue avant l’analyse complète des données, des recherches ultérieures ont révélé des résultats significatifs : baisse des hospitalisations, amélioration de la santé mentale, hausse de la fréquentation scolaire et peu d’impact négatif sur l’emploi — à l’exception d’une réduction modeste du travail chez les jeunes et les mères, principalement pour poursuivre des études ou s’occuper des enfants. Mincome a temporairement éliminé la pauvreté à Dauphin, offrant un exemple précoce et concret des effets d’un revenu de base sur une petite communauté canadienne.
+
+#### Pourquoi c’est important ?
 
 L’accès à un revenu stable réduit les **[externalités négatives](https://en.wikipedia.org/wiki/Externality#Negative_externalities)**, notamment les coûts sociaux liés à la santé et au décrochage scolaire.
+</div>
+
+#### Résultats concrets
+
+<ul class="grille">
+<li class="carte">
+<strong class="h5">Amélioration de la santé publique</strong>
+<p>On a observé une baisse de 8,5 % des hospitalisations à Dauphin pendant l’expérience, notamment pour des problèmes liés à la santé mentale et aux accidents[^4].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Amélioration de la santé mentale</strong>
+<p>Les participants ont signalé moins de dépression et d'anxiété, surtout chez les femmes et les jeunes mères[^4][^5].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Maintien de l’incitation au travail</strong>
+<p>La plupart des participants ont continué à travailler. Les seules baisses d’activité concernaient principalement les mères de jeunes enfants et les jeunes adultes qui ont prolongé leurs études[^5].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Hausse de la réussite scolaire</strong>
+<p>On a noté une augmentation de la fréquentation scolaire et une diminution des taux d'abandon chez les jeunes bénéficiaires[^5].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Réduction de la pauvreté</strong>
+<p>Le programme a temporairement éliminé la pauvreté à Dauphin pendant sa mise en œuvre[^6].</p>
+</li>
+
+<li class="carte">
+<strong class="h5">Expérience inachevée</strong>
+<p>Le projet a été interrompu en 1979 avant la fin complète de l’analyse, et plusieurs données n’ont pas été traitées avant les années 2000[^6].</p>
+</li>
+</ul>
+
+
 
 </section>
 
 <section>
-### 3. Entrepreneurs et Créateurs : Un Nouveau Souffle pour l’Innovation
+<header>
+<small>Entrepreneurs et Créateurs</small>
+<h3><i>🇺🇸</i> États-Unis : un nouveau souffle pour l’innovation</h3>
+</header>
 
-Aux États-Unis, une étude montre que les artistes bénéficiant d’un revenu garanti passent 50 % plus de temps sur leur art et lancent plus de projets[^santens2016].
+<div class="prose">
 
-Pourquoi c’est important ?
+Plusieurs études et expériences, notamment aux États-Unis, indiquent qu’un revenu garanti peut libérer un potentiel créatif et entrepreneurial important. En réduisant la pression économique, il permet aux individus – artistes, travailleurs autonomes, aspirants entrepreneurs – de consacrer plus de temps à leurs projets, de prendre des risques créatifs, et d’explorer des modèles d’affaires innovants.
+
+C’est particulièrement vrai dans les industries culturelles et de l’innovation, où l’instabilité financière constitue un frein majeur. Des données empiriques confirment une augmentation du temps alloué à la création, une diversification des projets, et une plus grande persévérance dans les activités indépendantes[^1][^2].
+
+#### Pourquoi c’est important ?
 
 L’innovation est favorisée par un environnement où l’incertitude économique est moindre, comme l’explique la **[destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction)** de Joseph Schumpeter. Une allocation de subsistance pourrait ainsi stimuler la dynamique entrepreneuriale.
+
+</div>
+
+#### Résultats concrets
+
+<ul class="grille">
+<li class="carte">
+  <strong class="h5">Davantage de temps consacré à la création</strong>
+  <p>Aux États-Unis, les artistes bénéficiant d’un revenu garanti ont consacré en moyenne 50 % plus de temps à leur pratique artistique[^7].</p>
+</li>
+
+<li class="carte">
+  <strong class="h5">Hausse du nombre de projets lancés</strong>
+  <p>Les bénéficiaires du programme ont lancé plus de projets créatifs et collaboratifs, profitant de la stabilité pour expérimenter[^7].</p>
+</li>
+
+<li class="carte">
+  <strong class="h5">Amélioration de la persévérance entrepreneuriale</strong>
+  <p>Un revenu de base réduit le taux d’abandon de projets d’affaires ou de carrière indépendante dans les premiers mois critiques[^8].</p>
+</li>
+
+<li class="carte">
+  <strong class="h5">Accès élargi à l'entrepreneuriat</strong>
+  <p>Les personnes issues de milieux précaires ou marginalisés ont davantage tenté de lancer des entreprises ou des activités créatives[^8].</p>
+</li>
+</ul>
+
+</section>
 
 </section>
 
@@ -110,23 +195,32 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 </aside>
 
 <section>
-## Et de votre côté ?
+
+<header>
+<small>Témoignages et aspirations</small>
+<h2>Et vous ?</h2>
+</header>
 
 Quelle liberté personnelle pourrait vous donner une allocation de subsistance ?
 
-Rejoignez la conversation et partagez votre témoignage !
+<textarea placeholder="Partagez vos aspirations de liberté !"></textarea>
 
 </section>
 
-<footer>
 
-## Références et Sources
 [^1]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 28–29. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
 [^2]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 21–23. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
 [^3]: Kela (2019). *Policy Brief: Results of Finland’s Basic Income Experiment*. p. 2. [https://www.kela.fi/documents/10180/3028073/PolicyBrief_0319_Basic_Income.pdf](https://www.kela.fi/documents/10180/3028073/PolicyBrief_0319_Basic_Income.pdf)
 [^kangas2020]: Kangas et al. 2020. "The Basic Income Experiment 2017–2018 in Finland."
-[^forget2011]: Forget, Evelyn L. 2011. "The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment."
 [^santens2016]: Santens, Scott. 2016. "Basic Income and the Creative Class."
 [^sen1999]: Sen, Amartya. 1999. "Development as Freedom." Oxford University Press.
+[^4]: Forget, Evelyn L. (2011). *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment*. Canadian Public Policy, 37(3), p. 283–305. [https://doi.org/10.3138/cpp.37.3.283](https://doi.org/10.3138/cpp.37.3.283)
+[^5]: Hum, Derek et Simpson, Wayne (1993). *Economic Response to a Guaranteed Annual Income: Experience from Canada and the United States*. Journal of Labor Economics, 11(1), p. S263–S296.
+[^6]: Calnitsky, David & Latner, Jonathan P. (2017). *Basic Income in a Small Town: Understanding the Elusive Effects on Work*. Social Problems, 64(3), p. 373–397. [https://doi.org/10.1093/socpro/spw040](https://doi.org/10.1093/socpro/spw040)
+[^7]: Santens, Scott (2016). *Artists With a Basic Income Spend More Time on Art*. [https://medium.com/basic-income/guaranteed-income-lets-artists-spend-more-time-on-art-f6c0e0f2f23d](https://medium.com/basic-income/guaranteed-income-lets-artists-spend-more-time-on-art-f6c0e0f2f23d)
 
-</footer>
+[^8]: Calnitsky, David (2016). *More Normal than Welfare: The Mincome Experiment, Stigma, and Community Experience*. Canadian Review of Sociology, 53(1), p. 26–71.
+
+[^9]: Schumpeter, Joseph A. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers.  
+Voir aussi la page Wikipédia sur la [destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction).
+
