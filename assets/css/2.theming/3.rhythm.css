@@ -17,6 +17,10 @@
 		margin-top: var(--SpacingThin);
 	}
 
+	*:is(h4) {
+		margin-top: var(--SpacingBroad);
+	}
+
 	p+p {
 		margin-top: var(--SpacingThinner);
 	}
@@ -39,14 +43,14 @@
 
 	/* Basic container rhythm */
 	main>*+* {
-		margin-top: var(--SpacingBroad);
+		margin-top: var(--SpacingBroadest);
 	}
 
-	main>*+h2 {
-		margin-top: var(--SpacingBroadest);
+	main>header+* {
+		margin-top: var(--SpacingBroader);
 	}
 
 	main>:is(section, div)>*+* {
-		margin-top: var(--SpacingBroadest);
+		margin-top: var(--SpacingLarge);
 	}
 }

@@ -13,6 +13,7 @@ html {
 body {
 	display: grid;
 	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 120ch) [main-end] 1fr [full-end];
+	column-gap: 40px;
 
 	&>*,
 	main>:is(section, header) {
@@ -27,6 +28,8 @@ body {
 	}
 }
 
+
+
 body>header {
 	--Color: oklch(98% 6% 88deg);
 	background-color: oklch(45% 39% 274deg);
@@ -35,42 +38,194 @@ body>header {
 	h1 {
 		text-transform: uppercase;
 		font-weight: 800;
-		flex-basis: max-content;
-		flex-grow: 0;
+		margin-left: -80px;
+		flex: max-content 0 0;
 		--ScaleLevel: var(--Shorter);
 		--Color: oklch(98% 38% 19deg);
 
 
-			em {
-				font-style: normal;
-				color: oklch(90% 17% 219deg);
-			}
+		em {
+			font-style: normal;
+			color: oklch(90% 17% 219deg);
+		}
 	}
 
 	&>div {
 		align-items: center;
+		gap: 40px;
 	}
+}
+
+body>main {
+	position: relative;
+}
+
+body>main>header {
+	&>h1 {
+		display: flex;
+		align-items: baseline;
+
+		&::before {
+			content: "";
+			top: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4);
+			margin-top: 4rem;
+			margin-left: -60px;
+			bottom: 0;
+			position: absolute;
+			border-left: 2px solid oklch(92% 6% 88deg);
+		}
+
+		&::after {
+			order: -1;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			position: absolute;
+			content: "★";
+			/* color: oklch(55% 39% 274deg); */
+			font-size: 0.4125em;
+			width: 2.75ch;
+			height: 2.75ch;
+			aspect-ratio: 1;
+			border-radius: 50%;
+			border: 2px solid oklch(88% 6% 88deg);
+			background-color:  oklch(55% 39% 274deg);
+			margin-left: calc(-60px - 1.4625ch + 1px);
+			margin-top: 0.875ch;
+		}
+
+	}
+
+	&~* {
+		position: relative;
+	}
+
 }
 
 [id=navigation-principale] {
 	display: flex;
-	gap: 10px;
 
-	div>*, a {
+	& :is(a, h4) {
+		display: block;
+		padding: 8px 10px;
+		margin: 0;
+		--ScaleLevel: var(--Shorter);
+		line-height: 1;
+	}
+
+	& a {
+		color: oklch(90% 17% 219deg);
+		font-weight: 520;
+		&:hover {
+			color: oklch(98% 38% 19deg);
+		}
+	}
+
+	& :is(h3, h4) {
+		color: oklch(75% 39% 274deg);
+		font-weight: 520;
+	}
+
+	&>:is(div, a) {
 		padding: 20px;
 	}
 
+	&>:is(div) {
+		border-left: 1px solid transparent;
+
+		&>div {
+			border: 1px solid transparent;
+			border-top: none;
+		}
+
+		&::after {
+			content: "";
+			top: 100%;
+			position:absolute;
+			left: 0;
+			right: 0;
+			border-bottom: 2px solid transparent;
+		}
+
+		/* &:first-of-type { */
+		/* 	border-left: none; */
+		/* } */
+
+		/* &:last-of-type { */
+		/* 	border-right: none; */
+		/* } */
+
+		&>div {
+			margin-left: -1px;
+		}
+
+		&:hover {
+			z-index: 1;
+			&, &>div {
+				border-color: oklch(75% 39% 274deg);
+			}
+			& {
+				border-bottom-color: oklch(45% 39% 274deg);
+			}
+			&::after {
+				border-color: oklch(45% 39% 274deg);
+			}
+			/* filter: drop-shadow(0px 0px 3px oklch(40% 36% 274deg)); */
+		}
+	}
+	&:has(>div:hover)>div:not(:hover) {
+		background-color: oklch(40% 36% 274deg);
+	}
+
+
 	&>a:last-child {
+		font-weight: 700;
 		margin-left: auto;
 	}
 }
 
+/* html:has(.menu-deroulant:hover) main>header { */
+/* 	--Color: oklch(70% 39% 274deg); */
+/* } */
+
 .menu-deroulant {
 	position: relative;
 
+	&:hover {
+		/* background-color: oklch(45% 39% 274deg); */
+	}
+
 	&>div {
+		margin: 0;
+		gap: 0;
+		flex-direction: column;
 		position: absolute;
 		top: 100%;
+		left: 0;
+		padding: 20px 10px;
+		width: max-content;
+		background-color: oklch(45% 39% 274deg);
+		border-radius: 0 0 4px 4px;
+		box-shadow: 0px 14px 24px oklch(40% 36% 274deg / 0.6);
+
+		&:has(section) {
+			flex-direction: row;
+			flex-wrap: nowrap;
+			gap: 40px;
+		}
+
+		&>section {
+			/* position: relative; */
+		}
+
+		&>section+section:before {
+			content: "";
+			position: absolute;
+			top: 0;
+			bottom: 0;
+			border-left: 1px solid oklch(75% 39% 274deg);
+			margin-left: -20px;
+		}
 	}
 
 	&:not(:hover)>div {
@@ -86,6 +241,7 @@ header {
 		text-transform: uppercase;
 		font-weight: 800;
 		font-size: 0.625em;
+		/* color:oklch(40% 36% 274deg); */
 	}
 }
 
@@ -94,16 +250,28 @@ main>* {
 }
 
 main>header {
-	padding: 20px;
+	padding: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4) var(--Row);
 	background-color: oklch(55% 39% 274deg);
 	--Color: oklch(98% 6% 88deg);
 
 	p {
 		--FontWeight: 500;
 	}
+
+	small+h1 {
+	}
+
+	h1+strong {
+		margin-top: var(--SpacingThinner);
+
+		&+* {
+			margin-top: var(--SpacingBroad);
+		}
+	}
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: "Atlas Grotesk";
 	font-family: "Aktiv Grotesk VF Trial";
 	font-weight: 650;
@@ -111,8 +279,15 @@ h1, h2, h3, h4, h5, h6 {
 	/* color: oklch(59% 38% 29deg); */
 }
 
-h1 {
+h1, h2 {
 	font-weight: 440;
+
+	small+& {
+		margin-top: var(--SpacingThinner);
+	}
+}
+
+h1 {
 	--ScaleLevel: var(--Hugest);
 	/* color: oklch(55% 39% 274deg); */
 }
@@ -121,14 +296,20 @@ h1+strong {
 	--ScaleLevel: var(--Taller);
 }
 
-p {
-	max-width: 60ch;
+p, small, strong, li {
+	max-width: 80ch;
+	text-wrap: pretty;
 }
 
 sup {
 	line-height: 0;
+	background-color: oklch(98% 38% 19deg);
+	padding: 1px 2px 0px;
 	margin-left: 0.1625em;
-	font-size: 0.8125em;
+	font-size: 0.6125em;
+	border-radius: 2px;
+	font-weight: 700;
+	font-family: "Aktiv Grotesk VF Trial";
 }
 
 .footnote-ref {
@@ -140,48 +321,100 @@ h1 + p {
 	margin-top: var(--SpacingBroader);
 }
 
+main section aside {
+	float: right;
+}
+
+main>section>header>aside {
+	margin-top: -80px;
+}
+
 .encart {
 	padding: 20px;
-	background-color: oklch(98% 38% 19deg);
-	max-width: 40ch;
-	--FontWeight: 600;
+	background-color: oklch(90% 17% 219deg);
+	background-color:  oklch(98% 6% 88deg);
+	max-width: 30ch;
+	--FontWeight: 400;
 	--LineHeightFactor: 0.8125;
 	--ScaleLevel: var(--Short);
 	margin-left: auto;
-	margin-right: 40px;
-	float: right;
-	/* margin-top: -80px; */
+	/* margin-right: 40px; */
+	border-radius: 8px;
+	border: 1px solid oklch(75% 39% 274deg);
+	font-family: "Aktiv Grotesk VF Trial";
+	/* box-shadow: 0px 4px 18px rgba(0,0,0,0.1); */
+
 
 	&>span {
-		--Color: oklch(59% 38% 29deg);
 		/* text-transform: uppercase; */
-		font-weight: 700;
+	--Color:  oklch(55% 39% 274deg);
+	text-transform: uppercase;
+		font-size: 0.7125em;
+		font-weight: 800;
+		/* background-color: oklch(90% 17% 219deg); */
+		/* border: 1px solid oklch(75% 39% 274deg); */
+		/* background-color: oklch(98% 38% 19deg); */
+		/* background-color: oklch(55% 39% 274deg); */
+		display: block;
+		color: oklch(55% 39% 274deg);
+		width: max-content;
+		/* padding: 8px 15px; */
+		/* border-radius: 1.5em; */
 
-		&::after {
-			content: "!";
-			font-family: "Aktiv Grotesk VF Trial";
-			font-weight: 700;
-			font-size: 1.125em;
-			line-height: 0;
-			margin-left: 0.25em;
-			rotate: 5deg;
-			position: relative;
-			display: inline-block;
-		}
+		/* &::after { */
+		/* 	content: "!"; */
+		/* 	font-family: "Aktiv Grotesk VF Trial"; */
+		/* 	font-weight: 700; */
+		/* 	font-size: 1.125em; */
+		/* 	line-height: 0; */
+		/* 	margin-left: 0.25em; */
+		/* 	rotate: 5deg; */
+		/* 	position: relative; */
+		/* 	display: inline-block; */
+		/* } */
 
 		&+* {
-			margin-top: calc(var(--Row) / 4);
+			margin-top: 20px;
 		}
 	}
 }
 
 .grille {
 	display: grid;
-	grid-column: 1 / -1;
-	gap: 40px;
-	grid-template-columns: repeat(auto-fit, minmax(30ch, 1fr));
-	padding: clamp(20px, round(2vw, 10px), 40px);
+	grid-template-columns: repeat(auto-fit, minmax(25ch, 1fr));
+	padding: 0;
 	list-style-type: none;
+
+	gap: 20px;
+
+	&.maconnerie {
+	}
+
+}
+
+
+.carte {
+	--Color: oklch(45% 39% 274deg);
+	--ScaleLevel: var(--Short);
+	--LineHeightFactor: 0.75;
+
+	font-family: "Aktiv Grotesk VF Trial";
+	margin: 0;
+	padding: 20px;
+	border-radius: 8px;
+	/* border-top: 2px solid oklch(88% 6% 88deg); */
+	border-bottom: 2px solid oklch(88% 6% 88deg);
+	background-color: oklch(98% 6% 88deg);
+	background-color: rgba(255,255,255,0.6);
+	box-shadow: 0px 2px 30px oklch(94% 16% 88deg);
+	
+	&>strong {
+		display block;
+	}
+
+	&>*+* {
+		margin-top: var(--SpacingThinnest);
+	}
 }
 
 .footnotes a {
@@ -190,4 +423,33 @@ h1 + p {
 
 li>strong {
 	display: block;
+}
+
+:is(h2, h3)>i {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	font-size: 0.5125em;
+	padding: 0.75ch;
+	width: 2.25ch;
+	height: 2.25ch;
+	aspect-ratio: 1;
+	border-radius: 50%;
+	border: 2px solid currentColor;
+	background-color: oklch(98% 6% 88deg);
+	margin-left: calc(-60px - 2ch + 1px);
+	margin-top: 0.25ch;
+}
+
+
+h3:has(i) {
+	position: relative;
+}
+h3>i {
+	border-color: transparent;
+	font-size: 1.25em;
+	margin-top: 0;
+	top: 50%;
+	translate: 0% -50%;
 }
