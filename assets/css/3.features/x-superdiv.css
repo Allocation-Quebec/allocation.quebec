@@ -28,21 +28,21 @@
 	/* Prose container ------------- */
 		.prose {
 			--DivMaxWidth: initial;
-			--DivColumnWidth: 60ch;
-			--DivItemMaxWidthOnly: 65ch;
+			--DivColumnWidth: 45ch;
+			--DivItemMaxWidthOnly: 45ch;
+			--DivColumnGap: var(--SpacingBroad);
 		}
 
 		.prose {
 			--DivDisplay: block;
 			max-width: var(--DivMaxWidth);
-			column-count: 2;
-			column-gap: var(--SpacingRow);
+			column-gap: var(--DivColumnGap);
 			column-width: var(--DivColumnWidth);
 		}
 
 		.prose>* {
 			--DivItemGutter: 0;
-			--DivItemMaxWidth: 22ch;
+			/* --DivItemMaxWidth: 22ch; */
 		}
 
 		.prose>*+* {
