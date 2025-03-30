@@ -1,4 +1,5 @@
 html {
+	text-wrap: pretty;
 	font-family: "PT Serif";
 	font-family: "Aleo";
 	/* font-family: "Source Serif 4"; */
@@ -8,6 +9,11 @@ html {
 	--Color: #555;
 	font-weight: 450;
 	--TargetFontSize: round(3vw, 2px);
+}
+
+* {
+	/* color: #333 !important; */
+	/* background-color: white !important; */
 }
 
 body {
@@ -234,13 +240,17 @@ body>main>header {
 	}
 }
 
-header {
+main>header {
 	font-family: "Aktiv Grotesk VF Trial";
+}
+
+header {
 
 	small {
 		text-transform: uppercase;
 		font-weight: 800;
-		font-size: 0.625em;
+		--ScaleLevel: var(--Shorter);
+		font-family: "Aktiv Grotesk VF Trial";
 		/* color:oklch(40% 36% 274deg); */
 	}
 }
@@ -253,6 +263,7 @@ main>header {
 	padding: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4) var(--Row);
 	background-color: oklch(55% 39% 274deg);
 	--Color: oklch(98% 6% 88deg);
+	/* z-index: 1; */
 
 	p {
 		--FontWeight: 500;
@@ -261,44 +272,46 @@ main>header {
 	small+h1 {
 	}
 
-	h1+strong {
-		margin-top: var(--SpacingThinner);
+}
 
-		&+* {
-			margin-top: var(--SpacingBroad);
-		}
+:is(h1, .h1)+strong {
+	display: block;
+	margin-top: var(--SpacingThinner);
+	--ScaleLevel: var(--Taller);
+
+	&+* {
+		margin-top: var(--SpacingBroad);
 	}
 }
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: "Atlas Grotesk";
+	/* font-family: "Atlas Grotesk"; */
 	font-family: "Aktiv Grotesk VF Trial";
-	font-weight: 650;
+	--FontWeight: 650;
 	/* font-family: "Open Sans"; */
 	/* color: oklch(59% 38% 29deg); */
 }
 
-h1, h2 {
-	font-weight: 440;
+.h1, h1, .h2, h2 {
+	--FontWeight: 440;
 
-	small+& {
-		margin-top: var(--SpacingThinner);
-	}
+}
+
+small+:is(h1, h2, h3) {
+	margin-top: var(--SpacingThinner);
 }
 
 h1 {
-	--ScaleLevel: var(--Hugest);
+	/* --ScaleLevel: var(--Hugest); */
 	/* color: oklch(55% 39% 274deg); */
 }
 
 h1+strong {
-	--ScaleLevel: var(--Taller);
 }
 
 p, small, strong, li {
 	max-width: 80ch;
-	text-wrap: pretty;
 }
 
 sup {
@@ -321,6 +334,44 @@ h1 + p {
 	margin-top: var(--SpacingBroader);
 }
 
+p + h4 {
+	margin-top: var(--SpacingBroader);
+}
+
+h4 + * {
+	margin-top: var(--SpacingThinner);
+}
+
+section>h4 {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+
+	&::after {
+		content: "";
+		border-top: 2px solid oklch(92% 6% 88deg);
+		flex-grow: 1;
+	}
+
+	&::before {
+		content: "";
+		border-top: 2px solid oklch(92% 6% 88deg);
+		width: 40px;
+		margin-left: -60px;
+	}
+
+}
+
+section>section {
+	&>*+* {
+		margin-top: var(--SpacingBroad);
+	}
+	&>*+h4 {
+		margin-top: var(--SpacingBroadest);
+	}
+}
+
+
 main section aside {
 	float: right;
 }
@@ -329,12 +380,19 @@ main>section>header>aside {
 	margin-top: -80px;
 }
 
+h4+p {
+	--FontWeight: 600;
+	/* font-family: "Aktiv Grotesk VF Trial"; */
+}
+
 .encart {
+	/* z-index: 1; */
+	position: relative;
 	padding: 20px;
 	background-color: oklch(90% 17% 219deg);
 	background-color:  oklch(98% 6% 88deg);
 	max-width: 30ch;
-	--FontWeight: 400;
+	/* --FontWeight: 450; */
 	--LineHeightFactor: 0.8125;
 	--ScaleLevel: var(--Short);
 	margin-left: auto;
@@ -347,8 +405,8 @@ main>section>header>aside {
 
 	&>span {
 		/* text-transform: uppercase; */
-	--Color:  oklch(55% 39% 274deg);
-	text-transform: uppercase;
+		--Color:  oklch(55% 39% 274deg);
+		text-transform: uppercase;
 		font-size: 0.7125em;
 		font-weight: 800;
 		/* background-color: oklch(90% 17% 219deg); */
@@ -374,7 +432,7 @@ main>section>header>aside {
 		/* } */
 
 		&+* {
-			margin-top: 20px;
+			margin-top: var(--SpacingThinner);
 		}
 	}
 }
@@ -385,7 +443,11 @@ main>section>header>aside {
 	padding: 0;
 	list-style-type: none;
 
-	gap: 20px;
+	gap: 2px;
+
+	&>* {
+		margin: 0;
+	}
 
 	&.maconnerie {
 	}
@@ -401,13 +463,13 @@ main>section>header>aside {
 	font-family: "Aktiv Grotesk VF Trial";
 	margin: 0;
 	padding: 20px;
-	border-radius: 8px;
+	border-radius: 4px;
 	/* border-top: 2px solid oklch(88% 6% 88deg); */
-	border-bottom: 2px solid oklch(88% 6% 88deg);
+	/* border-bottom: 2px solid oklch(4% 16% 88deg / 0.3); */
 	background-color: oklch(98% 6% 88deg);
-	background-color: rgba(255,255,255,0.6);
-	box-shadow: 0px 2px 30px oklch(94% 16% 88deg);
-	
+	background-color: rgba(255,255,255,1);
+	box-shadow: 0px 1px 2px oklch(4% 16% 88deg / 0.25);
+
 	&>strong {
 		display block;
 	}
@@ -440,6 +502,7 @@ li>strong {
 	background-color: oklch(98% 6% 88deg);
 	margin-left: calc(-60px - 2ch + 1px);
 	margin-top: 0.25ch;
+	/* z-index: 1; */
 }
 
 
@@ -452,4 +515,133 @@ h3>i {
 	margin-top: 0;
 	top: 50%;
 	translate: 0% -50%;
+}
+
+
+.splash {
+
+	grid-column: 1 / -1;
+	padding: var(--SpacingLarge) 0;
+	min-height: 100dvh;
+	background-color: oklch(55% 39% 274deg);
+	/* background-color: oklch(45% 39% 274deg); */
+	--Color: oklch(98% 6% 88deg);
+	/* --Color:oklch(90% 17% 219deg); */
+	/* display: flex
+	; */
+	/* flex-direction: column; */
+	/* align-items: center; */
+	/* justify-content: center; */
+	/* --LineHeightFactor: 0.75; */
+	/* margin-top: var(--SpacingThin); */
+	display: grid
+	;
+	grid-template-columns: subgrid;
+	/* grid-auto-rows: max-content; */
+	align-content: center;
+	/* text-wrap: balance; */
+	/* font-family: "Aktiv Grotesk VF Trial"; */
+
+	&>*+* {
+		margin-top: var(--SpacingBroadest);
+	}
+
+	h2 {
+		/* --ScaleLevel: var(--Giant); */
+		/* --FontWeight: 600; */
+
+		/* text-transform: uppercase; */
+
+		&>i {
+			background-color: oklch(55% 39% 274deg);
+		}
+	}
+
+	&>header {
+		/* --ScaleLevel: var(--Hugest); */
+		font-family: "Aktiv Grotesk VF Trial";
+
+		i {
+			display: none;
+		}
+	}
+
+	&>* {
+		grid-column: main;
+	}
+
+	&>p {
+		/* --Color: oklch(90% 17% 219deg); */
+		/* --Color: oklch(98% 6% 88deg); */
+		/* margin-top: 10px; */
+		/* margin-left: auto; */
+		/* align-self: end; */
+	}
+
+	&>ul {
+		/* --ScaleLevel: var(--Tall); */
+		--FontWeight: 500;
+		--ScaleLevel: var(--Tall);
+		/* grid-template-columns: repeat(auto-fit, minmax(42ch, 1fr)); */
+		/* gap: 40px; */
+		/* margin-top: 180px; */
+		/* --Color: oklch(98% 6% 88deg); */
+		/* align-self: stretch; */
+		/* text-align: center; */
+		/* grid-column: full; */
+		counter-reset: imagine;
+		/* padding: 0; */
+		/* margin-left: -100px; */
+		/* z-index: 1; */
+		/* background-color: inherit; */
+	}
+
+	li {
+		counter-increment: imagine;
+		/* display: flex; */
+		/* --Color:oklch(90% 17% 219deg); */
+		/* gap: 20px; */
+		/* font-family: "Aktiv Grotesk VF Trial"; */
+		/* align-items: center; */
+		/* background-color: oklch(45% 39% 274deg); */
+		--ScaleLevel: var(--Taller);
+		/* color: white; */
+		/* text-wrap: balance; */
+
+		&>i {
+			font-size: 2lh;
+			display: block;
+			display: none;
+		}
+
+		&::before {
+			content: counter(imagine)". ";
+			--FontWeight: 700;
+		/* 	flex-shrink: 0; */
+		/* 	display: inline-flex; */
+		/* 	align-items: center; */
+		/* 	justify-content: center; */
+		/* 	width: 2.75ch; */
+		/* 	font-weight: 700; */
+		/* 	height: 2.75ch; */
+		/* 	line-height: 0; */
+		/* 	border-radius: 50%; */
+		/* 	text-align: center; */
+		/* 	/1* font-size: 2em; *1/ */
+		/* 	background-color: oklch(45% 39% 274deg); */
+		/* 	/1* color: oklch(45% 39% 274deg); *1/ */
+		/* 	/1* font-size: 0.75em; *1/ */
+		/* 	margin-bottom: var(--SpacingThinner); */
+		/* 	margin-left: -80px; */
+		/* 	position: absolute; */
+		/* 	z-index: 1; */
+		}
+		/* margin-top: 0; */
+		/* --LineHeightFactor: 0.75; */
+	}
+
+	li+li {
+		/* margin-top: 0; */
+		/* margin-top: var(--SpacingThin); */
+	}
 }
