@@ -4,6 +4,7 @@
 <strong>Et si votre survie ne dépendait plus de votre prochain chèque de paie ?</strong>
 <p>Des milliers de personnes occupent des emplois qu’ils détestent par peur de ne pas pouvoir payer leur loyer. D’autres rêvent de retourner aux études, de démarrer une entreprise ou de consacrer du temps à leur famille, mais se heurtent toujours à la même réalité : sans revenu stable, ces choix sont impossibles.
 </p>
+<p>Une allocation de subsistance changerait la donne en garantissant à chacun.e un minimum vital pour se libérer de la précarité et prendre des décisions basées sur ses aspirations, et non sur l’urgence de survivre. Plusieurs expériences internationales le démontre. En voici quelques unes.</p>
 </header>
 
 
@@ -14,10 +15,6 @@
 <p>L’économiste **Amartya Sen**, dans sa **théorie des capabilités**, soutient que la liberté réelle des individus repose sur leurs moyens économiques et sociaux[^sen1999]. Une allocation de subsistance renforcerait ces capabilités en offrant à chacun la possibilité d’exercer un choix véritable dans son parcours de vie.</p>
 </aside>
 
-<small>Preuves et expériences</small>
-<h2><i><img src="/assets/img/chain.svg" alt=""/></i> Quand la liberté devient réelle</h2>
-
-<p>Une allocation de subsistance changerait la donne en garantissant à chacun•e un minimum vital pour se libérer de la précarité et prendre des décisions basées sur ses aspirations, et non sur l’urgence de survivre.</p>
 
 </header>
 
@@ -181,18 +178,27 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 
 </section>
 
-<aside class="resume">
-## Imaginez un Québec où…
+<section class="splash">
+<header>
 
-- Pouvoir refuser un emploi toxique sans craindre la misère
-- Avoir la flexibilité d’explorer un nouveau chemin professionnel
-- Être libre d’investir son temps dans l’éducation, la création ou l’engagement citoyen
-- Personne ne reste coincé dans un emploi qui l’épuise, uniquement pour survivre
-- Les jeunes peuvent choisir un parcours éducatif sans accumuler de dettes écrasantes
-- Les parents peuvent équilibrer travail et famille sans stress financier
-- Chacun a le choix de contribuer à la société selon ses talents et ses aspirations
+<small>Quand la liberté devient réelle</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez maintenant un Québec plus libre, où vous pourriez...</strong>
+</header>
 
-</aside>
+
+<ul class="grille">
+<li class="carte"><i>🙅</i> Refuser ou quitter un emploi toxique sans craindre la misère.</li>
+<li class="carte"><i>👨🏻‍⚕️</i> Avoir la flexibilité d’explorer un nouveau chemin professionnel.</li>
+<li class="carte"><i>👩🏻‍🎨</i> Investir votre temps dans la création ou l’engagement citoyen.</li>
+<li class="carte"><i>📚</i> Choisir l'éducation sans accumuler de dettes écrasantes.</li>
+<li class="carte"><i>🤰🏼</i> Équilibrer plus facilement travail et famille.</li>
+<li class="carte"><i>👨🏾‍🎤</i> Contribuer à la société selon vos talents et vos aspirations.</li>
+</ul>
+
+<p class="h3">Grâce à l'allocation de subsistance, un tel Québec est possible.</p>
+
+</section>
 
 <section>
 
