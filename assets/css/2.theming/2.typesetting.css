@@ -4,7 +4,7 @@
 
 	/* Adaptation of the typography ----------------------- */
 	@media (max-width: 60em) { :root { --Scale: var(--MinorSecond); } }
-	@media (min-width: 60em) { :root { --Scale: var(--MinorThird); } }
+	@media (min-width: 60em) { :root { --Scale: var(--MajorThird); } }
 
 
 	/* Typographic scale ----------------------- */
