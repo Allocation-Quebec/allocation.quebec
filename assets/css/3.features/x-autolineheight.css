@@ -24,7 +24,7 @@
 		--LineHeight: calc(var(--alh-line_height, 1.5625) * var(--LineHeightFactor, 1)); 
 	}
 
-	h1, h2, h3, p {
+	h1, h2, h3, li, p {
 		--magic-2_5: clamp(0px, calc((var(--alh-threshold_2_5)) * 9999999), var(--Row));
 		--magic-3: clamp(0px, calc((var(	--alh-threshold_3)) * 9999999), var(--Row));
 		--switch-2_5: var(--is-3-rows, 0px);
