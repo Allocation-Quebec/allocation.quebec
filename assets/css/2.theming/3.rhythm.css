@@ -17,12 +17,12 @@
 		margin-top: var(--SpacingThin);
 	}
 
-	*:is(h4) {
+	*+:is(h4) {
 		margin-top: var(--SpacingBroad);
 	}
 
 	p+p {
-		margin-top: var(--SpacingThinner);
+		margin-top: var(--SpacingRow);
 	}
 
 	*+li {
@@ -47,10 +47,14 @@
 	}
 
 	main>header+* {
-		margin-top: var(--SpacingBroader);
+		margin-top: var(--SpacingBroadest);
+	}
+
+	main>:is(section, div)>header+* {
+		margin-top: var(--SpacingLarge);
 	}
 
 	main>:is(section, div)>*+* {
-		margin-top: var(--SpacingLarge);
+		margin-top: var(--SpacingLarger);
 	}
 }
