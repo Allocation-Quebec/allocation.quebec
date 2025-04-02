@@ -24,14 +24,14 @@
 			</xsl:if>
 			<header>
 				<div>
-					<h1>Allocation <em>Québec</em></h1>
+					<h1 class="signature">Allocation <em>Québec</em></h1>
 					<nav id="navigation-principale">
 						<h2 hidden="">Navigation principale</h2>
 						<div class="menu-deroulant">
-							<h3 class="h6">Pourquoi ?</h3>
+							<h3 class="h5">Pourquoi ?</h3>
 							<div>
 								<section>
-									<h4 class="h6">Valeurs</h4>
+									<h4 class="h5">Valeurs</h4>
 									<a href="/valeurs/liberte">Liberté</a>
 									<a href="/valeurs/dignite">Dignité</a>
 									<a href="/valeurs/ecologie">Écologie</a>
@@ -39,7 +39,7 @@
 									<a href="/valeurs/solidarite">Solidarité</a>
 								</section>
 								<section>
-									<h4 class="h6">Bienfaits</h4>
+									<h4 class="h5">Bienfaits</h4>
 									<a href="/bienfaits/bureaucratie">Bureaucratie</a>
 									<a href="/bienfaits/dereglementation">Déréglementation</a>
 									<a href="/bienfaits/innovation">Innovation</a>
@@ -49,7 +49,7 @@
 							</div>
 						</div>
 						<div class="menu-deroulant">
-							<h3 class="h6">Pour qui ?</h3>
+							<h3 class="h5">Pour qui ?</h3>
 							<div>
 								<a href="/roles/travailleurs">Travailleur•es</a>
 								<a href="/roles/consommateurs">Consommateur•rices</a>
@@ -61,7 +61,7 @@
 							</div>
 						</div>
 						<div class="menu-deroulant">
-							<h3 class="h6">Comment ?</h3>
+							<h3 class="h5">Comment ?</h3>
 							<div>
 								<a href="/moyens/abolition">Abolition de programmes</a>
 								<a href="/moyens/etat">Rôle de l'État</a>
@@ -71,7 +71,7 @@
 							</div>
 						</div>
 						<div class="menu-deroulant">
-							<h3 class="h6">En savoir plus</h3>
+							<h3 class="h5">En savoir plus</h3>
 							<div>
 								<a href="/plus/appellation">Pourquoi cette appellation ?</a>
 								<a href="/plus/mythes">Mythes persistants</a>
@@ -81,14 +81,73 @@
 								<a href="/plus/faq">Foire aux questions</a>
 							</div>
 						</div>
-						<a class="h6" href="/impliquez-vous">Impliquez-vous !</a>
+						<a class="h5" href="/impliquez-vous">Impliquez-vous !</a>
 					</nav>
 				</div>
 			</header>
 			<main>
 				<xsl:apply-templates mode="main-content" />
 			</main>
-		</body>
-	</xsl:template>
-</xsl:stylesheet>
+			<footer class="full secondary dark">
+					<article>
+						<h2 hidden="">Mission</h2>
+						<strong class="signature">Allocation <em>Québec</em></strong>
+						<p>permet aux québécois de réfléchir collectivement à la création d’une allocation de subsistance, un projet de société concret et accessible et dont les retombées positives bénéficieraient à tous et toutes.</p>
+					</article>
+					<section id="plan-site">
+						<h2 hidden="">Plan du site</h2>
+						<div>
+							<section>
+								<h3 class="h5">Pourquoi ?</h3>
+								<div>
+									<section>
+										<h4 class="h5">Valeurs</h4>
+										<a href="/valeurs/liberte">Liberté</a>
+										<a href="/valeurs/dignite">Dignité</a>
+										<a href="/valeurs/ecologie">Écologie</a>
+										<a href="/valeurs/securite">Securité</a>
+										<a href="/valeurs/solidarite">Solidarité</a>
+									</section>
+									<section>
+										<h4 class="h5">Bienfaits</h4>
+										<a href="/bienfaits/bureaucratie">Bureaucratie</a>
+										<a href="/bienfaits/dereglementation">Déréglementation</a>
+										<a href="/bienfaits/innovation">Innovation</a>
+										<a href="/bienfaits/efficacite">Efficacité</a>
+										<a href="/bienfaits/productivite">Productivité</a>
+									</section>
+								</div>
+							</section>
+							<section>
+								<h3 class="h5">Pour qui ?</h3>
+								<a href="/roles/travailleurs">Travailleur•es</a>
+								<a href="/roles/consommateurs">Consommateur•rices</a>
+								<a href="/roles/artistes">Artistes</a>
+								<a href="/roles/entrepreneurs">Entrepreneur•es</a>
+								<a href="/roles/parents">Parents</a>
+								<a href="/roles/etudiants">Étudiant•es</a>
+							</section>
+							<section>
+								<h3 class="h5">Comment ?</h3>
+								<a href="/moyens/abolition">Abolition de programmes</a>
+								<a href="/moyens/etat">Rôle de l'État</a>
+								<a href="/moyens/financement">Financement</a>
+								<a href="/moyens/deploiement">Déploiement progressif</a>
+								<a href="/moyens/plan">Plan complet</a>
+							</section>
+							<section>
+								<h3 class="h5">En savoir plus</h3>
+								<a href="/plus/appellation">Pourquoi cette appellation ?</a>
+								<a href="/plus/mythes">Mythes persistants</a>
+								<a href="/plus/partisans">Panthéon des partisans</a>
+								<a href="/plus/considerations">Considérations pratiques</a>
+								<a href="/plus/theorie">Fondements théoriques</a>
+								<a href="/plus/faq">Foire aux questions</a>
+							</section>
+						</div>
+					</section>
+				</footer>
+			</body>
+		</xsl:template>
+	</xsl:stylesheet>
 
