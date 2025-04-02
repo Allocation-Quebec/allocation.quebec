@@ -33,7 +33,12 @@
 		margin-left: var(--SpacingThinnest);
 	}
 
+
 	:is(h3, h4)+* {
+		margin-top: var(--SpacingBroad);
+	}
+
+	:is(h3, h4)+p {
 		margin-top: var(--SpacingThinner);
 	}
 
@@ -51,10 +56,14 @@
 	}
 
 	main>:is(section, div)>header+* {
-		margin-top: var(--SpacingLarge);
+		/* margin-top: var(--SpacingLarge); */
 	}
 
-	main>:is(section, div)>*+* {
+	main>*+* {
 		margin-top: var(--SpacingLarger);
+	}
+
+	[hidden]:first-child+* {
+		margin-top: initial;
 	}
 }
