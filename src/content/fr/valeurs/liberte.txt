@@ -1,6 +1,6 @@
 <header>
 <small>un tremplin vers l’autonomie</small>
-<h1>Liberté</h1>
+<h1><i><img src="/assets/img/chain.svg" alt=""/></i> Liberté</h1>
 <strong>Et si votre survie ne dépendait plus de votre prochain chèque de paie ?</strong>
 <p>Des milliers de personnes occupent des emplois qu’ils détestent par peur de ne pas pouvoir payer leur loyer. D’autres rêvent de retourner aux études, de démarrer une entreprise ou de consacrer du temps à leur famille, mais se heurtent toujours à la même réalité : sans revenu stable, ces choix sont impossibles.
 </p>
@@ -8,15 +8,6 @@
 </header>
 
 
-<section>
-<header>
-<aside class="encart">
-<span class="h4">Encart savoir</span>
-<p>L’économiste **Amartya Sen**, dans sa **théorie des capabilités**, soutient que la liberté réelle des individus repose sur leurs moyens économiques et sociaux[^sen1999]. Une allocation de subsistance renforcerait ces capabilités en offrant à chacun la possibilité d’exercer un choix véritable dans son parcours de vie.</p>
-</aside>
-
-
-</header>
 
 <section>
 
@@ -24,6 +15,14 @@
 <small>expérience de revenu de base</small>
 <h3><i>🇫🇮</i> Finlande : Moins de stress, plus d’initiatives</h3>
 </header>
+
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>L’économiste **Amartya Sen**, dans sa **théorie des capabilités**, soutient que la liberté réelle des individus repose sur leurs moyens économiques et sociaux[^sen1999].</p>
+<p>Une allocation de subsistance renforcerait ces capabilités en offrant à chacun la possibilité d’exercer un choix véritable dans son parcours de vie.</p>
+</aside>
+
+
 
 <div class="prose">
 
@@ -146,7 +145,7 @@ C’est particulièrement vrai dans les industries culturelles et de l’innovat
 
 #### Pourquoi c’est important ?
 
-L’innovation est favorisée par un environnement où l’incertitude économique est moindre, comme l’explique la **[destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction)** de Joseph Schumpeter. Une allocation de subsistance pourrait ainsi stimuler la dynamique entrepreneuriale.
+L’innovation est favorisée par un environnement où l’incertitude économique est moindre, comme l’explique la **[destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction)** de Joseph Schumpeter[^9]. Une allocation de subsistance pourrait ainsi stimuler la dynamique entrepreneuriale.
 
 </div>
 
@@ -176,9 +175,8 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 
 </section>
 
-</section>
 
-<section class="splash">
+<section class="full dark">
 <header>
 
 <small>Quand la liberté devient réelle</small>
@@ -196,37 +194,65 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 <li class="carte"><i>👨🏾‍🎤</i> Contribuer à la société selon vos talents et vos aspirations.</li>
 </ul>
 
-<p class="h3">Grâce à l'allocation de subsistance, un tel Québec est possible.</p>
-
 </section>
 
-<section>
+<section class="full dark">
 
 <header>
 <small>Témoignages et aspirations</small>
-<h2>Et vous ?</h2>
+<h2 class="h1">Et vous ?</h2>
+<strong>Partagez vos aspirations de liberté !</strong>
 </header>
 
-Quelle liberté personnelle pourrait vous donner une allocation de subsistance ?
+<div class="grille">
+<textarea placeholder=""></textarea>
+<blockquote class="carte">
+<p>Sit corporis dolor eius eos amet velit Fugiat impedit eum unde consequatur quaerat quae Aperiam veritatis omnis ipsum accusantium corrupti dolores Libero esse laudantium in provident voluptates! Debitis debitis dicta?</p>
+<cite class="h4">Chris Dostie</cite>
+</blockquote>
+<blockquote class="carte">
+<p>Consectetur accusamus mollitia sint dolores voluptatibus velit ab voluptas eius Asperiores asperiores nostrum soluta animi nemo! Possimus non illum non fugit nam? Qui quod assumenda natus velit praesentium, maiores Temporibus</p>
+<cite class="h4">Alain Térieur</cite>
+</blockquote>
+<blockquote class="carte">
+<p>Adipisicing odit laborum doloribus eos qui! Tempore nam laboriosam in officia laborum suscipit Dolorem nulla quo incidunt optio tempore In maiores atque fugit qui ipsa ipsam possimus nesciunt blanditiis Officiis.  </p>
+<cite class="h4">Alex Térieur</cite>
+</blockquote>
+<blockquote class="carte">
+<p>Lorem laudantium voluptatum sed neque voluptas? Reprehenderit assumenda incidunt nulla esse tempore. Mollitia id velit reprehenderit necessitatibus praesentium Molestiae eum quo id explicabo similique aut, nam Corporis a maxime porro.</p>
+<cite class="h4">Gaétan Tanguay</cite>
+</blockquote>
+<blockquote class="carte">
+<p>Elit dicta a facilis ipsum corrupti tempora. Nesciunt amet sint maiores quos nesciunt. Saepe alias rerum ullam totam molestiae Dicta aspernatur quaerat voluptatem magnam rem Quidem a blanditiis exercitationem perferendis</p>
+<cite class="h4">Alain Proviste</cite>
+</blockquote>
+<blockquote class="carte">
+<p>Adipisicing et distinctio unde atque officia. Debitis libero est ducimus maxime facere Animi hic doloribus dolore ipsa iusto Neque excepturi blanditiis adipisci aliquid quibusdam Ad nihil nostrum voluptatibus tempore voluptatum?</p>
+<cite class="h4">Nicolas Cage</cite>
+</blockquote>
+<blockquote class="carte">
+<p>Consectetur quas delectus molestias iste illo. Pariatur sint aut sed molestiae facere saepe! Suscipit sequi cupiditate distinctio vitae culpa et! Suscipit iusto blanditiis asperiores voluptates dolores illo. Mollitia veniam pariatur</p>
+<cite class="h4">Jean Bon</cite>
+</blockquote>
+</div>
 
-<textarea placeholder="Partagez vos aspirations de liberté !"></textarea>
+</section>
 
+<section class="full secondary">
+<h2 hidden="hidden">Conclusion</h2>
+<p class="h1">Grâce à l'allocation de subsistance, un Québec plus <em>libre</em> est possible.</p>
 </section>
 
 
 [^1]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 28–29. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
 [^2]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 21–23. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
 [^3]: Kela (2019). *Policy Brief: Results of Finland’s Basic Income Experiment*. p. 2. [https://www.kela.fi/documents/10180/3028073/PolicyBrief_0319_Basic_Income.pdf](https://www.kela.fi/documents/10180/3028073/PolicyBrief_0319_Basic_Income.pdf)
-[^kangas2020]: Kangas et al. 2020. "The Basic Income Experiment 2017–2018 in Finland."
-[^santens2016]: Santens, Scott. 2016. "Basic Income and the Creative Class."
-[^sen1999]: Sen, Amartya. 1999. "Development as Freedom." Oxford University Press.
+[^sen1999]: Sen, Amartya. 1999. *Development as Freedom*. Oxford University Press.
 [^4]: Forget, Evelyn L. (2011). *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment*. Canadian Public Policy, 37(3), p. 283–305. [https://doi.org/10.3138/cpp.37.3.283](https://doi.org/10.3138/cpp.37.3.283)
 [^5]: Hum, Derek et Simpson, Wayne (1993). *Economic Response to a Guaranteed Annual Income: Experience from Canada and the United States*. Journal of Labor Economics, 11(1), p. S263–S296.
 [^6]: Calnitsky, David & Latner, Jonathan P. (2017). *Basic Income in a Small Town: Understanding the Elusive Effects on Work*. Social Problems, 64(3), p. 373–397. [https://doi.org/10.1093/socpro/spw040](https://doi.org/10.1093/socpro/spw040)
 [^7]: Santens, Scott (2016). *Artists With a Basic Income Spend More Time on Art*. [https://medium.com/basic-income/guaranteed-income-lets-artists-spend-more-time-on-art-f6c0e0f2f23d](https://medium.com/basic-income/guaranteed-income-lets-artists-spend-more-time-on-art-f6c0e0f2f23d)
-
 [^8]: Calnitsky, David (2016). *More Normal than Welfare: The Mincome Experiment, Stigma, and Community Experience*. Canadian Review of Sociology, 53(1), p. 26–71.
-
 [^9]: Schumpeter, Joseph A. (1942). *Capitalism, Socialism and Democracy*. Harper & Brothers.  
 Voir aussi la page Wikipédia sur la [destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction).
 
