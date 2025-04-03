@@ -88,7 +88,7 @@
 			<main>
 				<xsl:apply-templates mode="main-content" />
 			</main>
-			<footer class="full secondary dark">
+			<footer id="pied-site" class="full secondary dark">
 					<article>
 						<h2 hidden="">Mission</h2>
 						<strong class="signature grande">Allocation <em>Québec</em></strong>
