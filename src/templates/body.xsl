@@ -146,6 +146,7 @@
 							</section>
 						</div>
 					</section>
+					<p>2025 <span style="transform: scaleX(-1); display: inline-block;">© </span> Gauche d'auteur</p>
 				</footer>
 			</body>
 		</xsl:template>
