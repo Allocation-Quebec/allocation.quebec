@@ -98,7 +98,7 @@
 						<h2 hidden="">Plan du site</h2>
 						<div>
 							<section>
-								<h3 class="h5">Pourquoi ?</h3>
+								<h3 class="h4">Pourquoi ?</h3>
 								<div>
 									<section>
 										<h4 class="h5">Valeurs</h4>
@@ -119,30 +119,30 @@
 								</div>
 							</section>
 							<section>
-								<h3 class="h5">Pour qui ?</h3>
 								<a href="/roles/travailleurs">Travailleur•es</a>
 								<a href="/roles/consommateurs">Consommateur•rices</a>
 								<a href="/roles/artistes">Artistes</a>
 								<a href="/roles/entrepreneurs">Entrepreneur•es</a>
 								<a href="/roles/parents">Parents</a>
 								<a href="/roles/etudiants">Étudiant•es</a>
+								<h3 class="h4">Pour qui ?</h3>
 							</section>
 							<section>
-								<h3 class="h5">Comment ?</h3>
 								<a href="/moyens/abolition">Abolition de programmes</a>
 								<a href="/moyens/etat">Rôle de l'État</a>
 								<a href="/moyens/financement">Financement</a>
 								<a href="/moyens/deploiement">Déploiement progressif</a>
 								<a href="/moyens/plan">Plan complet</a>
+								<h3 class="h4">Comment ?</h3>
 							</section>
 							<section>
-								<h3 class="h5">En savoir plus</h3>
 								<a href="/plus/appellation">Pourquoi cette appellation ?</a>
 								<a href="/plus/mythes">Mythes persistants</a>
 								<a href="/plus/partisans">Panthéon des partisans</a>
 								<a href="/plus/considerations">Considérations pratiques</a>
 								<a href="/plus/theorie">Fondements théoriques</a>
 								<a href="/plus/faq">Foire aux questions</a>
+								<h3 class="h4">En savoir plus</h3>
 							</section>
 						</div>
 					</section>
