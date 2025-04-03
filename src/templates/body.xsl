@@ -92,7 +92,7 @@
 					<article>
 						<h2 hidden="">Mission</h2>
 						<strong class="signature">Allocation <em>Québec</em></strong>
-						<p>permet aux québécois de réfléchir collectivement à la création d’une allocation de subsistance, un projet de société concret et accessible et dont les retombées positives bénéficieraient à tous et toutes.</p>
+						<p>invite les québécois.es à réfléchir collectivement à la création d’une allocation de subsistance, un projet de société porteur pour le XXI<sup>e</sup> siècle et dont les retombées positives bénéficieraient à tous et toutes.</p>
 					</article>
 					<section id="plan-site">
 						<h2 hidden="">Plan du site</h2>
