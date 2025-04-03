@@ -193,9 +193,15 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 <li class="carte"><i>📚</i> Choisir l'éducation sans accumuler de dettes écrasantes.</li>
 <li class="carte"><i>🤰🏼</i> Équilibrer plus facilement travail et famille.</li>
 <li class="carte"><i>👨🏾‍🎤</i> Contribuer à la société selon vos talents et vos aspirations.</li>
+<li class="carte editable">
+<span>Et vous ? Comment profiteriez-vous de cette liberté ?</span>
+<textarea placeholder="Laissez votre témoignage ici"></textarea>
+</li>
 </ul>
-<h3 class="carte">Témoignages et aspirations</h3>
-<textarea placeholder="Et vous ? Comment profiteriez-vous de cette liberté ?"></textarea>
+<div class="carte">
+<h3 class="h5">Témoignages et aspirations</h3>
+<p>Voici ce que vos concitoyen.nes ont laissé comme témoignages.</p>
+</div>
 <blockquote class="carte">
 <p>Sit corporis dolor eius eos amet velit Fugiat impedit eum unde consequatur quaerat quae Aperiam veritatis omnis ipsum accusantium corrupti dolores Libero esse laudantium in provident voluptates! Debitis debitis dicta?</p>
 <cite class="h4">Chris Dostie</cite>
