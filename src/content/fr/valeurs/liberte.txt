@@ -185,8 +185,7 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 </header>
 
 
-<div class="grille">
-<ul>
+<ul class="grille">
 <li class="carte"><i>🙅</i> Refuser ou quitter un emploi toxique sans craindre la misère.</li>
 <li class="carte"><i>👨🏻‍⚕️</i> Avoir la flexibilité d’explorer un nouveau chemin professionnel.</li>
 <li class="carte"><i>👩🏻‍🎨</i> Investir votre temps dans la création ou l’engagement citoyen.</li>
@@ -195,13 +194,14 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 <li class="carte"><i>👨🏾‍🎤</i> Contribuer à la société selon vos talents et vos aspirations.</li>
 <li class="carte editable">
 <span>Et vous ? Comment profiteriez-vous de cette liberté ?</span>
-<textarea placeholder="Laissez votre témoignage ici"></textarea>
+<textarea placeholder="Laissez votre témoignage ici..."></textarea>
 </li>
 </ul>
-<div class="carte">
-<h3 class="h5">Témoignages et aspirations</h3>
-<p>Voici ce que vos concitoyen.nes ont laissé comme témoignages.</p>
-</div>
+
+<h3 class="h4">Ce que vos concitoyen.nes en disent</h3>
+<!-- <p>Voici ce que vos concitoyen.nes ont laissé comme témoignages.</p> -->
+
+<div class="grille">
 <blockquote class="carte">
 <p>Sit corporis dolor eius eos amet velit Fugiat impedit eum unde consequatur quaerat quae Aperiam veritatis omnis ipsum accusantium corrupti dolores Libero esse laudantium in provident voluptates! Debitis debitis dicta?</p>
 <cite class="h4">Chris Dostie</cite>
@@ -232,13 +232,8 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 </blockquote>
 </div>
 
-</section>
-
-<section class="full secondary">
-<h2 hidden="hidden">Conclusion</h2>
 <p class="h1">Avec une allocation de subsistance, un Québec plus <em>libre</em> est possible.</p>
 </section>
-
 
 [^1]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 28–29. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
 [^2]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 21–23. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
