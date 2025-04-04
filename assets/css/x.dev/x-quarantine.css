@@ -33,6 +33,15 @@ html {
 	/* text-box: trim-start cap; */
 }
 
+hr {
+	/* height: 0; */
+
+	color: var(--Color);
+	/* border: none; */
+	/* background: none; */
+	/* border-top: 2px solid currentColor; */
+}
+
 body {
 	display: grid;
 	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 120ch) [main-end] 1fr [full-end];
@@ -129,7 +138,7 @@ body>main>header {
 	}
 
 	&~* {
-		position: relative;
+		/* position: relative; */
 	}
 
 }
@@ -243,7 +252,7 @@ body>main>header {
 		width: max-content;
 		background-color: oklch(45% 39% 274deg);
 		border-radius: 0 0 4px 4px;
-		box-shadow: 0px 14px 24px oklch(40% 36% 274deg / 0.6);
+		box-shadow: 0px 12px 15px oklch(40% 36% 274deg / 0.5);
 
 		&:has(section) {
 			flex-direction: row;
@@ -431,16 +440,23 @@ h4+p {
 	/* padding: 20px; */
 	/* background-color: oklch(90% 17% 219deg); */
 	/* background-color: oklch(98% 6% 88deg); */
-	max-width: 28ch;
+	/* max-width: 28ch; */
 	--FontWeight: 600;
 	/* --LineHeightFactor: 0.875; */
 	--ScaleLevel: var(--Short);
 	/* margin-left: auto; */
-	margin-left: 40px;
+	/* margin-left: 40px; */
 	/* border-radius: 8px; */
 	/* border: 1px solid oklch(75% 39% 274deg); */
 	/* font-family: "Aktiv Grotesk VF Trial"; */
 	/* box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.1); */
+
+
+	/* flex-basis: var(--SpacingLargest); */
+	/* flex-grow: 1; */
+	*:has(+&) {
+		grid-column: 1 / -2;
+	}
 
 	&>span {
 		/* text-transform: uppercase; */
@@ -520,9 +536,9 @@ h4+p {
 	}
 
 	blockquote& {
-		display: flex;
-		flex-direction: column;
-		gap: 10px;
+		/* display: flex; */
+		/* flex-direction: column; */
+		/* gap: 10px; */
 		
 		p {
 			font-family: "Aleo";
@@ -531,10 +547,11 @@ h4+p {
 	}
 
 	& cite {
+		display: block;
 		&::before {
 			content: "— ";
 		}
-		margin-top: auto;
+		/* margin-top: auto; */
 	}
 }
 
@@ -615,10 +632,14 @@ section>p:only-of-type {
 	/* max-width: 2ch; */
 	/* --LineHeightFactor: 0.75; */
 	justify-self: center;
-	text-wrap: balance;
+	/* text-wrap: balance; */
 
 	*+& {
 		margin-top: var(--SpacingLarger);
+	}
+
+	& em {
+		color: oklch(90% 36% 143deg);
 	}
 
 	&:last-child {
@@ -758,18 +779,23 @@ section>p:only-of-type {
 		/* align-items: center; */
 		/* background-color: oklch(45% 39% 274deg); */
 		--ScaleLevel: var(--Tall);
+		--FontWeight: 600;
 		/* color: white; */
 		/* text-wrap: balance; */
 
-		& i {
-			font-size: 2lh;
-			display: block;
-			display: none;
+		&.carte em {
+			color: oklch(90% 36% 143deg);
 		}
 
+		/* & i { */
+		/* 	font-size: 2lh; */
+		/* 	display: block; */
+		/* 	display: none; */
+		/* } */
+
 		&::before {
-			flex-shrink: 0;
-			display: inline-flex;
+			/* flex-shrink: 0; */
+			/* display: inline-flex; */
 			/* align-items: center; */
 			/* justify-content: center; */
 			/* width: 2.75ch; */
@@ -777,7 +803,7 @@ section>p:only-of-type {
 			/* height: 2.75ch; */
 			/* line-height: 0; */
 			/* border-radius: 50%; */
-			text-align: center;
+			/* text-align: center; */
 			/* font-size: 2em; */
 			/* background-color: oklch(45% 39% 274deg); */
 			color: oklch(85% 39% 274deg);
@@ -797,13 +823,22 @@ section>p:only-of-type {
 	}
 }
 
-ul {
+.full ul {
 	counter-reset: imagine;
 	li {
+		padding-left: 2ch;
+		position: relative;
 		counter-increment: imagine;
 		&::before {
 			content: counter(imagine)". ";
-			--FontWeight: 700;
+			font-weight: 700;
+			position: absolute;
+			left: 0;
+			margin-top: -0.05em;
+			/* top: 0; */
+			/* height: 0.5em; */
+			/* line-height: 1.2; */
+			font-family: "Aktiv Grotesk VF Trial";
 		}
 	}
 }
@@ -937,8 +972,10 @@ ul {
 
 	&>article {
 		padding-bottom: var(--SpacingBroader);
+		--FontWeight: 600;
 		border-bottom: 2px solid white;
 		width: max-content;
+		max-width: 100%;
 
 	}
 	&>* {
@@ -951,7 +988,6 @@ ul {
 
 	&>article {
 		/* --ScaleLevel: var(--Shorter); */
-		--FontWeight: 600;
 		/* flex-basis: 20ch; */
 	}
 
@@ -968,7 +1004,7 @@ ul {
 	}
 	&>div {
 
-		flex-wrap: nowrap;
+		/* flex-wrap: nowrap; */
 		&>* {
 			flex-basis: auto;
 			flex-shrink: 1;
