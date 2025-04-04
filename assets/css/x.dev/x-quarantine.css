@@ -372,7 +372,8 @@ main>* {
 }
 
 main>header {
-	padding-block: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4) var(--Row);
+	padding: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4) var(--Row);
+	padding-inline: 0;
 	background-color: oklch(55% 39% 274deg);
 	--Color: oklch(98% 6% 88deg);
 	/* z-index: 1; */
