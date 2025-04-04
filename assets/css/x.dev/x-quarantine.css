@@ -45,7 +45,7 @@ hr {
 body {
 	display: grid;
 	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 120ch) [main-end] 1fr [full-end];
-	column-gap: 40px;
+	column-gap: var(--SpacingRow);
 
 	&>*,
 	main>header {
@@ -95,53 +95,103 @@ body>header {
 		align-items: center;
 		gap: 40px;
 	}
+
+	@media (orientation: portrait) {
+		&, &>div {
+			display: contents;
+		}
+
+		h1 {
+			padding: var(--SpacingThinner) var(--SpacingRow);
+			background-color: oklch(45% 39% 274deg);
+			grid-column: full;
+		}
+	}
 }
 
 body>main {
 	position: relative;
 }
 
-body>main>header {
-	&>h1 {
-		display: flex;
-		align-items: baseline;
+@media (min-width: 100ch) {
 
-		&::before {
-			content: "";
-			top: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4);
-			margin-top: 4rem;
-			margin-left: -60px;
-			bottom: 0;
-			position: absolute;
-			border-left: 2px solid oklch(92% 6% 88deg);
+	body>main>header {
+		&>h1 {
+			display: flex;
+			align-items: baseline;
+
+			&::before {
+				content: "";
+				top: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4);
+				margin-top: 4rem;
+				margin-left: -60px;
+				bottom: 0;
+				position: absolute;
+				border-left: 2px solid oklch(92% 6% 88deg);
+			}
 		}
 
-		/* &::after { */
-		/* 	order: -1; */
-		/* 	display: flex; */
-		/* 	align-items: center; */
-		/* 	justify-content: center; */
-		/* 	position: absolute; */
-		/* 	content: "★"; */
-		/* 	/1* color: oklch(55% 39% 274deg); *1/ */
-		/* 	font-size: 0.4125em; */
-		/* 	width: 2.75ch; */
-		/* 	height: 2.75ch; */
-		/* 	aspect-ratio: 1; */
-		/* 	border-radius: 50%; */
-		/* 	border: 2px solid oklch(88% 6% 88deg); */
-		/* 	background-color:  oklch(55% 39% 274deg); */
-		/* 	margin-left: calc(-60px - 1.4625ch + 1px); */
-		/* 	margin-top: 0.875ch; */
-		/* } */
-
+		&~* {
+			position: relative;
+		}
 	}
 
-	&~* {
-		/* position: relative; */
+
+	:is(h1, h2, h3)>i {
+		margin-left: calc(-60px - 2ch + 1px);
+		position: absolute;
+		padding: 0.75ch;
+		width: 2.25ch;
+		height: 2.25ch;
+		aspect-ratio: 1;
+		border-radius: 50%;
+		border: 2px solid transparent;
+		background-color: oklch(98% 6% 88deg);
+		margin-top: 0.25ch;
 	}
 
+	h1>i {
+		margin-left: calc(-60px - 1.5ch - 2px);
+		aspect-ratio: 1;
+		border-radius: 50%;
+		border: 2px solid oklch(88% 6% 88deg);
+		background-color:  oklch(55% 39% 274deg);
+		margin-top: 0.75ch;
+	}
+
+	h3>i {
+		margin-top: 0;
+		top: 50%;
+		translate: 0% -50%;
+	}
 }
+
+:is(h1, h2, h3)>i {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.5125em;
+	height: 0.5lh;
+	/* z-index: 1; */
+}
+
+h1>i {
+
+	img {
+		height: 100%;
+	}
+}
+
+
+h3:has(i) {
+	position: relative;
+}
+h3>i {
+	font-size: 1.25em;
+	vertical-align: middle;
+	margin-right: 0.25ch;
+}
+
 
 [id=navigation-principale] {
 
@@ -149,7 +199,16 @@ body>main>header {
 		border-color: transparent !important;
 	}
 
+	@media (orientation: portrait) {
+		border-top: 2px solid black !important;
+		overflow-x: auto;
+	}
+
 	display: flex;
+
+	&>* {
+		flex-shrink: 0;
+	}
 
 	& :is(a, h4) {
 		display: block;
@@ -228,6 +287,12 @@ body>main>header {
 		font-weight: 700;
 		margin-left: auto;
 	}
+
+	@media (orientation: portrait) {
+		order: 1;
+		grid-column: full;
+		background-color: oklch(45% 39% 274deg);
+	}
 }
 
 /* html:has(.menu-deroulant:hover) main>header { */
@@ -236,6 +301,8 @@ body>main>header {
 
 .menu-deroulant {
 	position: relative;
+
+
 
 	&:hover {
 		/* background-color: oklch(45% 39% 274deg); */
@@ -253,6 +320,11 @@ body>main>header {
 		background-color: oklch(45% 39% 274deg);
 		border-radius: 0 0 4px 4px;
 		box-shadow: 0px 12px 15px oklch(40% 36% 274deg / 0.5);
+
+		@media (orientation: portrait) {
+			bottom: 100%;
+			top: auto;
+		}
 
 		&:has(section) {
 			flex-direction: row;
@@ -300,7 +372,7 @@ main>* {
 }
 
 main>header {
-	padding: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4) var(--Row);
+	padding-block: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4) var(--Row);
 	background-color: oklch(55% 39% 274deg);
 	--Color: oklch(98% 6% 88deg);
 	/* z-index: 1; */
@@ -454,8 +526,16 @@ h4+p {
 
 	/* flex-basis: var(--SpacingLargest); */
 	/* flex-grow: 1; */
-	*:has(+&) {
-		grid-column: 1 / -2;
+	@media (max-width: 60em) {
+		&, *:has(+&) {
+			grid-column: 1 / -1;
+		}
+	}
+
+	@media (min-width: 60em) {
+		*:has(+&) {
+			grid-column: 1 / -2;
+		}
 	}
 
 	&>span {
@@ -517,12 +597,19 @@ h4+p {
 
 .carte {
 	--ScaleLevel: var(--Short);
-	--LineHeightFactor: 0.75;
 	font-family: "Aktiv Grotesk VF Trial";
 	display: block;
 
 	p {
 		/* font-style: italic; */
+	}
+
+	@media (max-width: 110ch) {
+		--LineHeightFactor: 0.875;
+	}
+
+	@media (min-width: 110ch) {
+		--LineHeightFactor: 0.75;
 	}
 
 	margin: 0;
@@ -539,7 +626,7 @@ h4+p {
 		/* display: flex; */
 		/* flex-direction: column; */
 		/* gap: 10px; */
-		
+
 		p {
 			font-family: "Aleo";
 			font-style: italic;
@@ -578,51 +665,6 @@ li>strong {
 	/* display: block; */
 }
 
-:is(h1, h2, h3)>i {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	position: absolute;
-	font-size: 0.5125em;
-	padding: 0.75ch;
-	width: 2.25ch;
-	height: 2.25ch;
-	aspect-ratio: 1;
-	border-radius: 50%;
-	border: 2px solid currentColor;
-	background-color: oklch(98% 6% 88deg);
-	margin-left: calc(-60px - 2ch + 1px);
-	margin-top: 0.25ch;
-	/* z-index: 1; */
-}
-
-h1>i {
-	width: 1.5ch;
-	height: 1.5ch;
-	aspect-ratio: 1;
-	border-radius: 50%;
-	border: 2px solid oklch(88% 6% 88deg);
-	background-color:  oklch(55% 39% 274deg);
-	margin-left: calc(-60px - 1.5ch - 2px);
-	margin-top: 0.75ch;
-
-	svg * {
-		fill: oklch(88% 6% 88deg);
-	}
-}
-
-
-h3:has(i) {
-	position: relative;
-}
-h3>i {
-	border-color: transparent;
-	font-size: 1.25em;
-	margin-top: 0;
-	top: 50%;
-	translate: 0% -50%;
-}
-
 section>p:only-of-type {
 	/* text-align: center; */
 	font-weight: 800;
@@ -632,6 +674,8 @@ section>p:only-of-type {
 	/* max-width: 2ch; */
 	/* --LineHeightFactor: 0.75; */
 	justify-self: center;
+	font-family: "Aktiv Grotesk VF Trial";
+	min-width: initial;
 	/* text-wrap: balance; */
 
 	*+& {
@@ -647,6 +691,10 @@ section>p:only-of-type {
 		section:has(&) {
 			padding-bottom: 0;
 		}
+	}
+
+	@media (max-width: 110ch) {
+		--LineHeightFactor: 0.75;
 	}
 }
 
