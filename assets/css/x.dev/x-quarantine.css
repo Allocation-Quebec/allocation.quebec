@@ -307,7 +307,7 @@ main>header {
 
 :is(h1, .h1)+strong {
 	display: block;
-	margin-top: var(--SpacingThinner);
+	margin-top: var(--SpacingThinnest);
 	--ScaleLevel: var(--Taller);
 
 	&+* {
@@ -370,7 +370,7 @@ h1 + p {
 }
 
 p + h4 {
-	margin-top: var(--SpacingBroader);
+	margin-top: var(--SpacingBroad);
 }
 
 h4 + * {
@@ -668,11 +668,11 @@ section>p:only-of-type {
 	}
 
 	&>*+* {
-		margin-top: var(--SpacingLarge);
+		margin-top: var(--SpacingBroader);
 	}
 
-	&>:is(h3, .h3, h4, .h4)+* {
-		margin-top: var(--SpacingBroader);
+	&>*+:is(h3, .h3, h4, .h4) {
+		margin-top: var(--SpacingLarge);
 	}
 
 
@@ -879,13 +879,13 @@ ul {
 
 	& ol {
 		column-width: 50ch;
-		column-gap: 40px;
+		column-gap: var(--SpacingBroader);
 		padding: 0;
 	}
 	& li {
 		display: inline-block;
 		margin-top: 0;
-		margin-bottom:  var(--SpacingThinner);
+		margin-bottom:  var(--SpacingThin);
 		--ScaleLevel: var(--Short);
 		--LineHeightFactor: 0.875;
 
@@ -936,7 +936,7 @@ ul {
 
 
 	&>article {
-		padding-bottom: var(--SpacingBroadest);
+		padding-bottom: var(--SpacingBroader);
 		border-bottom: 2px solid white;
 		width: max-content;
 
@@ -946,7 +946,7 @@ ul {
 	}
 
 	&>*+* {
-		margin-top: var(--SpacingBroadest);
+		margin-top: var(--SpacingBroader);
 	}
 
 	&>article {
