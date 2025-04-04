@@ -28,7 +28,7 @@
 	/* Prose container ------------- */
 		.prose {
 			--DivMaxWidth: initial;
-			--DivColumnWidth: 45ch;
+			--DivColumnWidth: 42ch;
 			--DivItemMaxWidthOnly: 45ch;
 			--DivColumnGap: var(--SpacingBroad);
 		}
@@ -45,9 +45,9 @@
 			/* --DivItemMaxWidth: 22ch; */
 		}
 
-		.prose>*+* {
-			margin-top: var(--SpacingThinner);
-		}
+		/* .prose>*+* { */
+		/* 	margin-top: var(--SpacingThinner); */
+		/* } */
 
 		.prose>*:only-child {
 			max-width: var(--DivItemMaxWidthOnly);
