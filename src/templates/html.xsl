@@ -23,7 +23,6 @@
 				<link href="https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" rel="stylesheet"/>
 				<!-- <script src="https://unpkg.com/htmx.org@1.9.11/dist/htmx.min.js" defer=""></script> -->
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-				<meta charset="UTF-8" />
 				<xsl:choose>
 					<xsl:when test="$lang='en'">
 						<meta name="description" content="Allocation Québec is a participatory platform designed to engage the public in developing a plan for a subsistence allowance in Quebec. Explore ideas, economic data, and proposals for a more fair and sustainable future." />
