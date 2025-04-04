@@ -3,8 +3,8 @@
 	html { font-family: var(--BaseFontStack, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"); }
 
 	/* Adaptation of the typography ----------------------- */
-	@media (max-width: 60em) { :root { --Scale: var(--MinorSecond); } }
-	@media (min-width: 60em) { :root { --Scale: var(--MajorThird); } }
+	@media (max-width: 110ch) { :root { --Scale: var(--MinorThird); } }
+	@media (min-width: 110ch) { :root { --Scale: var(--MajorThird); } }
 
 
 	/* Typographic scale ----------------------- */
