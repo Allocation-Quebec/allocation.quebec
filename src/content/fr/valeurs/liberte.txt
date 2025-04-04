@@ -233,7 +233,7 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 
 <hr/>
 
-<p class="h1">Avec une allocation de subsistance, un Québec <em>plus libre</em> est possible.</p>
+<p>Avec une allocation de subsistance, un Québec <em>plus libre</em> est possible.</p>
 </section>
 
 [^1]: Kela (2019). *The basic income experiment 2017–2018 in Finland. Preliminary results*. p. 28–29. [https://julkaisut.valtioneuvosto.fi/handle/10024/161361](https://julkaisut.valtioneuvosto.fi/handle/10024/161361)
