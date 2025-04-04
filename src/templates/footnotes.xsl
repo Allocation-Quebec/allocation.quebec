@@ -16,10 +16,20 @@
 		</xsl:for-each>
 	</xsl:variable>
 
+	<!-- Suppress the after-footnotes block for now -->
+
+	<xsl:template match="*[@data-after='footnotes']"/>
+
+	<xsl:template match="*[@data-after='footnotes']" mode="after-footnotes">
+		<xsl:copy>
+			<xsl:apply-templates select="@* | node()"/>
+		</xsl:copy>
+	</xsl:template>
+
 	<xsl:template match="section[@id='footnotes']">
-		<footer>
+		<section>
 			<xsl:attribute name="class">
-				<xsl:text>full secondary footnotes</xsl:text>
+				<xsl:text>full dark footnotes</xsl:text>
 				<xsl:if test="@class">
 					<xsl:text> </xsl:text>
 					<xsl:value-of select="@class"/>
@@ -28,7 +38,6 @@
 
 			<!-- Copy all attributes except class -->
 			<xsl:apply-templates select="@*[name() != 'class']"/>
-			<header>
 				<xsl:choose>
 					<xsl:when test="root[@lang='fr']">
 						<h2 class="h3">Références</h2>
@@ -37,9 +46,9 @@
 						<h2 class="h3">References</h2>
 					</xsl:otherwise>
 				</xsl:choose>
-			</header>
 			<xsl:apply-templates/>
-		</footer>
+		</section>
+		<xsl:apply-templates select="//*[@data-after='footnotes']" mode="after-footnotes" />
 	</xsl:template>
 
 	<xsl:template name="copy-p-without-backlinks">
