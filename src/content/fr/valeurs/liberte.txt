@@ -185,14 +185,14 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 
 
 <ul class="grille">
-<li class="carte"><em>Refuser ou quitter un emploi toxique</em> sans craindre la misère.</li>
-<li class="carte">Avoir la flexibilité d’explorer <em>un nouveau chemin professionnel</em>.</li>
-<li class="carte">Investir votre temps dans <em>la création ou l’engagement citoyen</em>.</li>
-<li class="carte"><em>Choisir l'éducation</em> sans accumuler de dettes écrasantes.</li>
-<li class="carte"><em>Équilibrer travail et famille</em> plus aisément.</li>
-<li class="carte">Contribuer à la société selon vos <em>talents et vos aspirations</em>.</li>
+<li class="carte"><em>Refuser ou quitter</em> un emploi toxique sans craindre la misère.</li>
+<li class="carte">Avoir la <em>flexibilité d’explorer</em> un nouveau chemin professionnel.</li>
+<li class="carte"><em>Investir</em> votre temps dans la création ou l’engagement citoyen.</li>
+<li class="carte"><em>Choisir</em> l'éducation sans accumuler de dettes écrasantes.</li>
+<li class="carte"><em>Équilibrer</em> travail et famille plus aisément.</li>
+<li class="carte"><em>Contribuer</em> à la société selon vos talents et vos aspirations.</li>
 <li class="carte editable">
-<span>Et vous ? Comment profiteriez-vous de cette liberté ?</span>
+<span><em>Et vous ?</em> Comment profiteriez-vous de cette liberté ?</span>
 <textarea placeholder="Laissez votre témoignage ici..."></textarea>
 </li>
 </ul>
