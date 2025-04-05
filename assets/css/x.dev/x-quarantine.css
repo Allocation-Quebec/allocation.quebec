@@ -1,3 +1,8 @@
+:root {
+	--Grotesk: aktiv-grotesk, "Aktiv Grotesk VF Trial";
+	--Condensed: aktiv-grotesk-condensed;
+}
+
 body::after {
 	/* content: ""; */
 	position: fixed;
@@ -65,7 +70,7 @@ body {
 	text-transform: uppercase;
 	font-weight: 800;
 	flex: max-content 0 0;
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
 	--Color: oklch(98% 38% 19deg);
 
 
@@ -83,7 +88,7 @@ body {
 body>header {
 	--Color: oklch(98% 6% 88deg);
 	background-color: oklch(45% 39% 274deg);
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
 
 	& h1 {
 
@@ -195,13 +200,18 @@ h3>i {
 
 [id=navigation-principale] {
 
-	*, ::before {
-		border-color: transparent !important;
-	}
+	/* *, ::before { */
+	/* 	border-color: transparent !important; */
+	/* } */
 
 	@media (orientation: portrait) {
-		border-top: 2px solid black !important;
+		order: 1;
+		grid-column: full;
+		background-color: oklch(45% 39% 274deg);
+		border-top: 2px solid oklch(55% 39% 274deg);
 		overflow-x: auto;
+		position: sticky;
+		bottom: 0;
 	}
 
 	display: flex;
@@ -236,21 +246,21 @@ h3>i {
 	}
 
 	&>:is(div) {
-		border-left: 1px solid transparent;
+	/* 	border-left: 1px solid transparent; */
 
-		&>div {
-			border: 1px solid transparent;
-			border-top: none;
-		}
+	/* 	&>div { */
+	/* 		border: 1px solid transparent; */
+	/* 		border-top: none; */
+	/* 	} */
 
-		&::after {
-			content: "";
-			top: 100%;
-			position:absolute;
-			left: 0;
-			right: 0;
-			border-bottom: 2px solid transparent;
-		}
+		/* &::after { */
+			/* content: ""; */
+			/* top: 100%; */
+			/* position:absolute; */
+			/* left: 0; */
+			/* right: 0; */
+			/* border-bottom: 2px solid transparent; */
+		/* } */
 
 		/* &:first-of-type { */
 		/* 	border-left: none; */
@@ -260,21 +270,21 @@ h3>i {
 		/* 	border-right: none; */
 		/* } */
 
-		&>div {
-			margin-left: -1px;
-		}
+		/* &>div { */
+		/* 	margin-left: -1px; */
+		/* } */
 
 		&:hover {
 			z-index: 1;
-			&, &>div {
-				border-color: oklch(75% 39% 274deg);
-			}
-			& {
-				border-bottom-color: oklch(45% 39% 274deg);
-			}
-			&::after {
-				border-color: oklch(45% 39% 274deg);
-			}
+		/* 	&, &>div { */
+		/* 		border-color: oklch(75% 39% 274deg); */
+		/* 	} */
+		/* 	& { */
+		/* 		border-bottom-color: oklch(45% 39% 274deg); */
+		/* 	} */
+		/* 	&::after { */
+		/* 		border-color: oklch(45% 39% 274deg); */
+		/* 	} */
 			/* filter: drop-shadow(0px 0px 3px oklch(40% 36% 274deg)); */
 		}
 	}
@@ -289,9 +299,6 @@ h3>i {
 	}
 
 	@media (orientation: portrait) {
-		order: 1;
-		grid-column: full;
-		background-color: oklch(45% 39% 274deg);
 	}
 }
 
@@ -312,18 +319,25 @@ h3>i {
 		margin: 0;
 		gap: 0;
 		flex-direction: column;
-		position: absolute;
-		top: 100%;
 		left: 0;
 		padding: 20px 10px;
-		width: max-content;
 		background-color: oklch(45% 39% 274deg);
-		border-radius: 0 0 4px 4px;
-		box-shadow: 0px 12px 15px oklch(40% 36% 274deg / 0.5);
 
 		@media (orientation: portrait) {
-			bottom: 100%;
+			bottom: var(--SpacingBroadest);
 			top: auto;
+			left: 0;
+			right: 0;
+			position: fixed;
+			box-shadow: 0px -12px 15px oklch(40% 36% 274deg / 0.5);
+		}
+
+		@media (orientation: landscape) {
+			width: max-content;
+			position: absolute;
+			top: 100%;
+			border-radius: 0 0 4px 4px;
+			box-shadow: 0px 12px 15px oklch(40% 36% 274deg / 0.5);
 		}
 
 		&:has(section) {
@@ -337,7 +351,7 @@ h3>i {
 		}
 
 		&>section+section:before {
-			content: "";
+			/* content: ""; */
 			position: absolute;
 			top: 0;
 			bottom: 0;
@@ -353,7 +367,7 @@ h3>i {
 }
 
 main header {
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
 }
 
 header {
@@ -362,7 +376,7 @@ header {
 		text-transform: uppercase;
 		font-weight: 800;
 		--ScaleLevel: var(--Shorter);
-		font-family: "Aktiv Grotesk VF Trial";
+		font-family: var(--Grotesk);
 		/* color:oklch(40% 36% 274deg); */
 	}
 }
@@ -400,7 +414,7 @@ main>header {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
 	/* font-family: "Atlas Grotesk"; */
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
 	--FontWeight: 650;
 	/* font-family: "Open Sans"; */
 	/* color: oklch(59% 38% 29deg); */
@@ -428,18 +442,21 @@ p, small, strong, li {
 }
 
 sup {
-	line-height: 0;
+	line-height: 1;
 	font-style: normal;
 }
 
 a>sup {
 	background-color: oklch(98% 38% 19deg);
-	padding: 1px 2px 0px;
+	padding: 3px 2px;
 	margin-left: 0.1625em;
 	font-size: 0.6125em;
 	border-radius: 2px;
 	font-weight: 700;
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
+	display: inline-block;
+	text-box: trim-both cap alphabetic;
+	margin-top: -0.25em;
 }
 
 .footnote-ref {
@@ -503,7 +520,7 @@ main>section>header>aside {
 
 h4+p {
 	/* --FontWeight: 600; */
-	/* font-family: "Aktiv Grotesk VF Trial"; */
+	/* font-family: var(--Grotesk); */
 	font-style: italic;
 }
 
@@ -521,7 +538,7 @@ h4+p {
 	/* margin-left: 40px; */
 	/* border-radius: 8px; */
 	/* border: 1px solid oklch(75% 39% 274deg); */
-	/* font-family: "Aktiv Grotesk VF Trial"; */
+	/* font-family: var(--Grotesk); */
 	/* box-shadow: 0px 4px 18px rgba(0, 0, 0, 0.1); */
 
 
@@ -557,7 +574,7 @@ h4+p {
 
 		/* &::after { */
 		/* 	content: "!"; */
-		/* 	font-family: "Aktiv Grotesk VF Trial"; */
+		/* 	font-family: var(--Grotesk); */
 		/* 	font-weight: 700; */
 		/* 	font-size: 1.125em; */
 		/* 	line-height: 0; */
@@ -598,7 +615,7 @@ h4+p {
 
 .carte {
 	--ScaleLevel: var(--Short);
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
 	display: block;
 
 	p {
@@ -668,14 +685,14 @@ li>strong {
 
 section>p:only-of-type {
 	/* text-align: center; */
-	font-weight: 800;
+	/* font-weight: 800; */
 	text-transform: uppercase;
 	font-stretch: condensed;
 	--ScaleLevel: var(--Hugest);
 	/* max-width: 2ch; */
 	/* --LineHeightFactor: 0.75; */
 	justify-self: center;
-	font-family: "Aktiv Grotesk VF Trial";
+	/* font-family: var(--Condensed); */
 	min-width: initial;
 	/* text-wrap: balance; */
 
@@ -762,7 +779,7 @@ section>p:only-of-type {
 		/* grid-auto-rows: max-content; */
 		align-content: center;
 		/* text-wrap: balance; */
-		/* font-family: "Aktiv Grotesk VF Trial"; */
+		/* font-family: var(--Grotesk); */
 
 
 
@@ -781,7 +798,7 @@ section>p:only-of-type {
 
 	& header {
 		/* --ScaleLevel: var(--Hugest); */
-		font-family: "Aktiv Grotesk VF Trial";
+		font-family: var(--Grotesk);
 
 		i {
 			display: none;
@@ -801,7 +818,7 @@ section>p:only-of-type {
 	}
 
 	& ul {
-		/* font-family: "Aktiv Grotesk VF Trial"; */
+		/* font-family: var(--Grotesk); */
 		/* --ScaleLevel: var(--Tall); */
 		--FontWeight: 500;
 		--ScaleLevel: var(--Tall);
@@ -887,7 +904,7 @@ section>p:only-of-type {
 			/* top: 0; */
 			/* height: 0.5em; */
 			/* line-height: 1.2; */
-			font-family: "Aktiv Grotesk VF Trial";
+			font-family: var(--Grotesk);
 		}
 	}
 }
@@ -995,13 +1012,15 @@ section>p:only-of-type {
 	& a[href^="#fnref"] {
 		color: #333;
 		background-color: oklch(80% 38% 19deg);
-		padding: 1px 2px 0px;
+		padding: 3px 2px;
 		margin-left: 0.1625em;
 		font-size: 0.875em;
 		border-radius: 2px;
 		font-weight: 700;
-		font-family: "Aktiv Grotesk VF Trial";
+		font-family: var(--Grotesk);
 		text-decoration: none;
+		display: inline-block;
+		text-box: trim-both cap alphabetic;
 
 		&:visited {
 			background-color: oklch(80% 6% 88deg);
@@ -1012,7 +1031,7 @@ section>p:only-of-type {
 
 [id=pied-site] {
 	margin: 0;
-	font-family: "Aktiv Grotesk VF Trial";
+	font-family: var(--Grotesk);
 	padding-bottom: var(--SpacingThin);
 	/* --ScaleLevel: var(--Short); */
 	--FontWeight: 500;
