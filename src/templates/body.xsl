@@ -22,71 +22,70 @@
 					<xsl:apply-templates select="." mode="noscript"/>
 				</noscript>
 			</xsl:if>
-			<div>
-				<header id="entete-principal">
-					<h1 class="signature">Allocation <em>Québec</em></h1>
-				</header>
-				<nav id="navigation-principale">
-					<h2 hidden="">Navigation principale</h2>
-					<div>
-						<div class="menu-deroulant">
-							<h3 class="h5">Pourquoi ?</h3>
-							<div>
-								<section>
-									<h4 class="h5">Valeurs</h4>
-									<a href="/fr/valeurs/liberte">Liberté</a>
-									<a href="/fr/valeurs/dignite">Dignité</a>
-									<a href="/fr/valeurs/ecologie">Écologie</a>
-									<a href="/fr/valeurs/securite">Securité</a>
-									<a href="/fr/valeurs/solidarite">Solidarité</a>
-								</section>
-								<section>
-									<h4 class="h5">Bienfaits</h4>
-									<a href="/fr/bienfaits/bureaucratie">Bureaucratie</a>
-									<a href="/fr/bienfaits/dereglementation">Déréglementation</a>
-									<a href="/fr/bienfaits/innovation">Innovation</a>
-									<a href="/fr/bienfaits/efficacite">Efficacité</a>
-									<a href="/fr/bienfaits/productivite">Productivité</a>
-								</section>
-							</div>
+			<header id="entete-principal">
+				<h1 class="signature">Allocation <em>Québec</em></h1>
+			</header>
+			<nav id="navigation-principale">
+				<h2 hidden="">Navigation principale</h2>
+				<div>
+					<div class="menu-deroulant">
+						<h3 class="h5">Pourquoi ?</h3>
+						<div>
+							<section>
+								<h4 class="h5">Valeurs</h4>
+								<a href="/fr/valeurs/liberte">Liberté</a>
+								<a href="/fr/valeurs/dignite">Dignité</a>
+								<a href="/fr/valeurs/ecologie">Écologie</a>
+								<a href="/fr/valeurs/equite">Équité</a>
+								<a href="/fr/valeurs/securite">Securité</a>
+								<a href="/fr/valeurs/solidarite">Solidarité</a>
+							</section>
+							<section>
+								<h4 class="h5">Bienfaits</h4>
+								<a href="/fr/bienfaits/bureaucratie">Bureaucratie</a>
+								<a href="/fr/bienfaits/dereglementation">Déréglementation</a>
+								<a href="/fr/bienfaits/innovation">Innovation</a>
+								<a href="/fr/bienfaits/efficacite">Efficacité</a>
+								<a href="/fr/bienfaits/productivite">Productivité</a>
+							</section>
 						</div>
-						<div class="menu-deroulant">
-							<h3 class="h5">Pour qui ?</h3>
-							<div>
-								<a href="/fr/roles/travailleurs">Travailleur•es</a>
-								<a href="/fr/roles/consommateurs">Consommateur•rices</a>
-								<a href="/fr/roles/artistes">Artistes</a>
-								<a href="/fr/roles/entrepreneurs">Entrepreneur•es</a>
-								<a href="/fr/roles/parents">Parents</a>
-								<a href="/fr/roles/etudiants">Étudiant•es</a>
-								<a href="/fr"></a>
-							</div>
-						</div>
-						<div class="menu-deroulant">
-							<h3 class="h5">Comment ?</h3>
-							<div>
-								<a href="/fr/moyens/abolition">Abolition de programmes</a>
-								<a href="/fr/moyens/etat">Rôle de l'État</a>
-								<a href="/fr/moyens/financement">Financement</a>
-								<a href="/fr/moyens/deploiement">Déploiement progressif</a>
-								<a href="/fr/moyens/plan">Plan complet</a>
-							</div>
-						</div>
-						<div class="menu-deroulant">
-							<h3 class="h5">En savoir plus</h3>
-							<div>
-								<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>
-								<a href="/fr/plus/mythes">Mythes persistants</a>
-								<a href="/fr/plus/partisans">Panthéon des partisans</a>
-								<a href="/fr/plus/considerations">Considérations pratiques</a>
-								<a href="/fr/plus/theorie">Fondements théoriques</a>
-								<a href="/fr/plus/faq">Foire aux questions</a>
-							</div>
-						</div>
-						<a class="h5" href="/fr/impliquez-vous">Impliquez-vous !</a>
 					</div>
-				</nav>
-			</div>
+					<div class="menu-deroulant">
+						<h3 class="h5">Pour qui ?</h3>
+						<div>
+							<a href="/fr/roles/travailleurs">Travailleur•es</a>
+							<a href="/fr/roles/consommateurs">Consommateur•rices</a>
+							<a href="/fr/roles/artistes">Artistes</a>
+							<a href="/fr/roles/entrepreneurs">Entrepreneur•es</a>
+							<a href="/fr/roles/parents">Parents</a>
+							<a href="/fr/roles/etudiants">Étudiant•es</a>
+							<a href="/fr"></a>
+						</div>
+					</div>
+					<div class="menu-deroulant">
+						<h3 class="h5">Comment ?</h3>
+						<div>
+							<a href="/fr/moyens/abolition">Abolition de programmes</a>
+							<a href="/fr/moyens/etat">Rôle de l'État</a>
+							<a href="/fr/moyens/financement">Financement</a>
+							<a href="/fr/moyens/deploiement">Déploiement progressif</a>
+							<a href="/fr/moyens/plan">Plan complet</a>
+						</div>
+					</div>
+					<div class="menu-deroulant">
+						<h3 class="h5">En savoir plus</h3>
+						<div>
+							<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>
+							<a href="/fr/plus/mythes">Mythes persistants</a>
+							<a href="/fr/plus/partisans">Panthéon des partisans</a>
+							<a href="/fr/plus/considerations">Considérations pratiques</a>
+							<a href="/fr/plus/theorie">Fondements théoriques</a>
+							<a href="/fr/plus/faq">Foire aux questions</a>
+						</div>
+					</div>
+					<a class="h5" href="/fr/impliquez-vous">Impliquez-vous !</a>
+				</div>
+			</nav>
 			<main>
 				<xsl:apply-templates mode="main-content" />
 			</main>
@@ -107,6 +106,7 @@
 									<a href="/fr/valeurs/liberte">Liberté</a>
 									<a href="/fr/valeurs/dignite">Dignité</a>
 									<a href="/fr/valeurs/ecologie">Écologie</a>
+									<a href="/fr/valeurs/equite">Équité</a>
 									<a href="/fr/valeurs/securite">Securité</a>
 									<a href="/fr/valeurs/solidarite">Solidarité</a>
 								</section>
