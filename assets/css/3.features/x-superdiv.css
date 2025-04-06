@@ -28,7 +28,7 @@
 	/* Prose container ------------- */
 		.prose {
 			--DivMaxWidth: initial;
-			--DivColumnWidth: 42ch;
+			--DivColumnWidth: 43ch;
 			--DivItemMaxWidthOnly: 45ch;
 			--DivColumnGap: var(--SpacingBroad);
 		}
