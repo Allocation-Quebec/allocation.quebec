@@ -35,7 +35,7 @@ find "$SRC_DIR" -type f -name "*.txt" | while read -r txt_file; do
     mkdir -p "$output_subdir"
 
     # Transformer avec Pandoc
-    pandoc "$txt_file" -o "$output_file"
+    pandoc "$txt_file" -o "$output_file" --wrap=none
 
     if [ $? -eq 0 ]; then
         echo "✅ TXT → HTML : $txt_file → $output_file"
