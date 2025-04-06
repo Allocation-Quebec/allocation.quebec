@@ -1,67 +1,129 @@
-% DÉRÉGLEMENTATION – L’Allocation de Subsistance comme Outil de Simplification du Marché du Travail  
+<header>
+<small>un tremplin vers une économie agile</small>
+<h1><i><img src="/assets/img/unlock.svg" alt=""/></i> Déréglementation</h1>
+<strong>Et si on pouvait libérer sans abandonner ?</strong>
+<p>La déréglementation est souvent perçue comme un retrait de l’État. Mais elle peut aussi signifier une simplification, une réduction des barrières inutiles, une liberté accrue de créer, de travailler, de participer.</p>
+<p>Une allocation de subsistance permet d’alléger certaines réglementations protectrices devenues obsolètes, tout en assurant un filet commun. Elle rend possible une nouvelle forme de liberté économique, plus inclusive, plus fluide.</p>
+</header>
 
-## L’interventionnisme étatique et ses limites  
+<section>
+<header>
+<small>travail et réglementation</small>
+<h3><i>👷</i> Libérer sans précariser</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Beaucoup de réglementations sur le travail existent pour pallier l’absence de sécurité de revenu : salaire minimum, durée du travail, indemnités. Mais elles sont parfois rigides, mal adaptées à certains contextes ou contournées dans l’économie informelle.</p>
+<p>Un revenu universel redéfinit le cadre : il garantit une base à tous, ce qui permet d’assouplir certaines normes sans sacrifier la sécurité. Il rend possible des formes de travail plus flexibles, adaptées, choisies.</p>
 
-Le marché du travail est l’un des plus réglementés dans les économies modernes. L’État intervient par des salaires minimums, des subventions, des réglementations sur les conditions de travail et des dispositifs de protection sociale. Ces interventions visent à corriger les imperfections du marché et à assurer une certaine équité entre travailleurs et employeurs.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Plutôt que d’opposer liberté et protection, le revenu de base réconcilie les deux. Il permet une flexibilité encadrée par une dignité garantie.</p>
+</div>
 
-Cependant, cet interventionnisme génère des coûts administratifs élevés, des rigidités et des effets pervers. Une allocation de subsistance universelle pourrait remplacer une partie de ces régulations en garantissant aux travailleurs une sécurité financière de base, rendant certaines contraintes obsolètes et ouvrant la voie à une déréglementation partielle du marché du travail.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le philosophe <strong>Philippe Van Parijs</strong> soutient que le revenu de base “désactive” certaines fonctions de l’État-providence, en rendant inutiles des mécanismes de compensation[^vanparijs1995].</p>
+<p>Moins de régulation coercitive, plus d’autonomie réelle.</p>
+</aside>
+</div>
 
-## Vers une simplification des régulations  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Réduction du travail au noir</strong>
+<p>Des projets pilotes ont montré que les gens sont plus enclins à déclarer leurs revenus quand un revenu de base existe (voir p. 20)[^haarmann2009]. Moins de peur, plus de transparence.</p></li>
 
-L’instauration d’une allocation de subsistance permettrait de réduire la nécessité de certaines interventions étatiques en garantissant une liberté économique accrue aux travailleurs et aux employeurs.  
+<li class="carte"><strong class="h5">Assouplissement des normes sans effets négatifs</strong>
+<p>Des réglementations peuvent être assouplies sans affecter la stabilité des individus quand un revenu de base est en place (voir p. 24)[^vanparijs1995]. La liberté devient compatible avec la sécurité.</p></li>
 
-### Réduction de la nécessité du salaire minimum  
+<li class="carte"><strong class="h5">Diminution du contentieux du travail</strong>
+<p>Moins de conflits liés aux conditions d’emploi ont été signalés (voir p. 27)[^basicincomeearth2013]. Le revenu universel désamorce plusieurs tensions structurelles.</p></li>
 
-Le salaire minimum vise à éviter que les travailleurs soient sous-payés en leur assurant un niveau de vie décent[^stigler1946]. Cependant, il présente plusieurs inconvénients.  
+<li class="carte"><strong class="h5">Hausse des activités économiques informelles déclarées</strong>
+<p>Les gens régularisent plus facilement leur microactivité ou leur petite entreprise (voir p. 21)[^kela2020]. La simplicité fiscale encourage la contribution citoyenne.</p></li>
 
-- Il peut créer du chômage en augmentant le coût du travail, notamment pour les emplois peu qualifiés.  
-- Il limite la flexibilité salariale, empêchant certains arrangements entre employeurs et employés.  
-- Il peut favoriser le travail informel, lorsque les entreprises ne peuvent pas payer ces niveaux de salaire.  
+<li class="carte"><strong class="h5">Flexibilisation du temps de travail</strong>
+<p>Les bénéficiaires choisissent plus souvent des horaires atypiques ou à temps partiel sans perdre en sécurité (voir p. 18)[^forget2017]. Le revenu universel devient un outil d’adaptation moderne.</p></li>
 
-Avec une allocation de subsistance, le besoin d’un salaire minimum pourrait être réduit, car aucun travailleur ne serait forcé d’accepter un emploi à un salaire insuffisant pour survivre.  
+<li class="carte"><strong class="h5">Moins de recours aux dispositifs d’urgence</strong>
+<p>Avec une base garantie, les individus n'ont plus besoin d’avoir recours à des mesures correctives complexes (voir p. 19)[^forget2011]. Moins de règles = moins de rafistolage.</p></li>
+</ul>
+</section>
 
-### Moins de réglementation sur les conditions de travail  
+<section>
+<header>
+<small>entrepreneuriat et contraintes</small>
+<h3><i>🏗️</i> Libérer l’action</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Créer une entreprise ou lancer une initiative citoyenne implique souvent de naviguer dans un maquis réglementaire. Les obligations, permis, seuils fiscaux et règles de financement peuvent dissuader les plus motivés.</p>
+<p>Un revenu de base universel n’élimine pas ces règles, mais il donne du temps, de l’espace mental, et un coussin financier pour les affronter. Il transforme le rapport à la réglementation en offrant un socle qui sécurise les démarches.</p>
 
-L’État impose des normes sur les horaires, les contrats, les congés et la sécurité au travail pour protéger les travailleurs contre des abus[^besley2009].  
+<h4>Pourquoi c’est important ?</h4>
+<p>La vraie liberté d’entreprendre n’existe pas quand on risque de tout perdre au premier faux pas. Il faut un socle pour oser.</p>
+</div>
 
-Toutefois, une partie de ces réglementations devient moins nécessaire si les travailleurs ont une alternative viable au salariat.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>L’OCDE note que les barrières réglementaires pèsent davantage sur les petits entrepreneurs, surtout ceux issus de groupes sous-représentés[^oecd2019].</p>
+<p>Un revenu universel compense cette inégalité d’accès à l’action économique.</p>
+</aside>
+</div>
 
-- Si un travail ne respecte pas des conditions raisonnables, les individus peuvent le refuser sans risque immédiat.  
-- La flexibilité contractuelle peut être accrue, favorisant des formes d’emploi adaptées aux besoins contemporains comme le télétravail, les missions courtes ou le travail à la demande.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Hausse des créations d’entreprises individuelles</strong>
+<p>Les expériences de revenu universel ont stimulé l’envie de se lancer dans de petits projets d’affaires (voir p. 21)[^kela2020]. Moins de peur du vide = plus d’audace.</p></li>
 
-Avec une allocation de subsistance, l’État pourrait assouplir certaines normes et permettre des arrangements plus flexibles entre employeurs et employés.  
+<li class="carte"><strong class="h5">Simplification du rapport aux obligations fiscales</strong>
+<p>Les bénéficiaires s’y retrouvent plus facilement dans leurs démarches fiscales (voir p. 28)[^ccds2007]. Moins de complexité = plus de conformité.</p></li>
 
-### Rationalisation de la protection sociale  
+<li class="carte"><strong class="h5">Réduction du stress réglementaire</strong>
+<p>Les participants rapportent un sentiment de contrôle accru face aux démarches (voir p. 27)[^forget2017]. Le filet universel donne du souffle administratif.</p></li>
 
-Les systèmes de protection sociale sont complexes, coûteux et souvent inefficaces[^barr2004]. Une allocation de subsistance remplace ou simplifie plusieurs dispositifs existants.  
+<li class="carte"><strong class="h5">Meilleure adaptation aux nouvelles formes de travail</strong>
+<p>Freelance, travail en plateforme, projet hybride : le revenu de base permet une plus grande fluidité (voir p. 24)[^basicincomeearth2013]. L’économie change — il faut des règles qui suivent.</p></li>
 
-- Moins de besoin de subventions salariales, comme les crédits d’impôt pour les bas revenus.  
-- Moins de recours aux programmes d’assurance chômage, car les travailleurs disposent déjà d’un revenu de base.  
-- Une simplification des aides sociales spécifiques, qui pourraient être fusionnées en un seul dispositif.  
+<li class="carte"><strong class="h5">Allégement de la dépendance aux subventions</strong>
+<p>Des créateurs et travailleurs autonomes ont pu s’affranchir de certaines aides conditionnelles (voir p. 26)[^haarmann2009]. Moins de bureaucratie, plus de souplesse.</p></li>
 
-Avec une allocation universelle, la bureaucratie liée aux prestations sociales pourrait être fortement réduite.  
+<li class="carte"><strong class="h5">Décloisonnement entre secteurs</strong>
+<p>Des projets mêlant art, social, environnement et affaires ont émergé plus librement (voir p. 29)[^basicincomeearth2013]. L’innovation naît là où les règlements s’assouplissent.</p></li>
+</ul>
+</section>
 
-### Encouragement à la déréglementation sectorielle  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand libérer devient possible pour tous</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-Certains secteurs sont fortement réglementés pour éviter l’exploitation de la main-d’œuvre, comme l’agriculture ou les services à la personne. Avec une allocation de subsistance, la pression à réguler ces secteurs diminue, car les travailleurs disposent d’un filet de sécurité leur permettant de :  
+<ul class="grille">
+<li class="carte">On peut entreprendre sans risquer l’exclusion.</li>
+<li class="carte">Les règles sont là pour protéger, pas pour bloquer.</li>
+<li class="carte">La flexibilité du travail est un choix, pas une contrainte.</li>
+<li class="carte">Chacun peut naviguer les démarches sans y perdre des semaines.</li>
+<li class="carte">La déréglementation devient un outil de liberté réelle, pas d’abandon.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Qu’oseriez-vous faire si les règles devenaient enfin soutenantes ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
 
-- Choisir des emplois en fonction de leur qualité réelle, sans contrainte de survie.  
-- Négocier de meilleures conditions sans intervention étatique.  
-- Permettre aux secteurs réglementés d’évoluer vers des formes plus flexibles et innovantes.  
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« J’ai lâché l’idée de me lancer : trop de paperasse, trop de risques. »</p><cite class="h4">Nicolas B.</cite></blockquote>
+<blockquote class="carte"><p>« J’ai pu faire mon truc sans être coincée par les règles d’assurance-emploi. »</p><cite class="h4">Fatou D.</cite></blockquote>
+<blockquote class="carte"><p>« J’ai déclaré mes revenus sans stress pour la première fois. »</p><cite class="h4">Louis C.</cite></blockquote>
+</div>
 
-## Vers un marché du travail plus flexible et compétitif  
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus libre et plus juste</em> est possible.</p>
+</section>
 
-Une allocation de subsistance ne signifie pas la suppression totale des protections, mais elle permettrait d’alléger la réglementation et de favoriser un marché du travail plus concurrentiel.  
-
-- Moins de rigidités imposées par l’État, avec un marché du travail qui fonctionne davantage sur la base de choix réels.  
-- Réduction des coûts administratifs liés aux régulations du travail et aux dispositifs sociaux.  
-- Accélération de l’innovation et de l’adaptation du marché, en libérant l’expérimentation de nouvelles formes d’emploi.  
-- Renforcement de l’autonomie des travailleurs, qui pourraient négocier leurs conditions de manière plus équitable.  
-
-Plutôt qu’un frein, une allocation de subsistance pourrait être un levier de modernisation et de simplification du cadre réglementaire, rendant l’économie plus agile et résiliente.  
-
-## Références  
-
-[^stigler1946]: Stigler, G. J. 1946. "The Economics of Minimum Wage Legislation." *American Economic Review.*  
-[^besley2009]: Besley, T., & Ghatak, M. 2009. "Regulation and Development." *Handbook of Development Economics.*  
-[^barr2004]: Barr, N. 2004. *The Economics of the Welfare State.* Oxford University Press.  
+[^vanparijs1995]: Van Parijs, Philippe. 1995. *Real Freedom for All.* pp. 24.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 24–29.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 26.  
+[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 18, 21, 24, 29.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 19, 27.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 19.  
+[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 28.  
+[^oecd2019]: OECD. 2019. *Employment Outlook: The Future of Work.* pp. 33.  

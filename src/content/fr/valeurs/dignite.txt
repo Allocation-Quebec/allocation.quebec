@@ -1,74 +1,171 @@
-# 3. DIGNITÉ – L’Allocation de Subsistance : Rendre à Chacun le Droit de Vivre avec Honneur  
+<header>
+<small>un tremplin vers la reconnaissance</small>
+<h1><i><img src="/assets/img/honor.svg" alt=""/></i> Dignité</h1>
+<strong>Personne ne devrait avoir à quémander pour survivre</strong>
+<p>Le système d'aide sociale actuel impose aux personnes dans le besoin de prouver leur misère pour obtenir de l’aide minimale. Ces processus stigmatisants, intrusifs, et souvent humiliants, brisent la confiance en soi, alimentent la honte et affaiblissent les liens sociaux.</p>
+<p>Une allocation de subsistance change radicalement cette logique : elle repose sur la confiance, la reconnaissance de la valeur humaine intrinsèque et l’idée que chacun mérite de vivre avec dignité — sans condition, sans justification, sans humiliation.</p>
+</header>
 
-## Personne ne devrait avoir à quémander pour survivre  
+<section>
+<header>
+<small>expérience canadienne</small>
+<h3><i>🇨🇦</i> Mincome : vivre mieux, sans se justifier</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>L’expérience Mincome, menée à Dauphin (Manitoba) entre 1974 et 1979, a permis à tous les ménages sous un certain revenu de recevoir un revenu garanti. Cette expérience grandeur nature visait à observer les effets sociaux d’un revenu inconditionnel.</p>
+<p>Résultats : une baisse des hospitalisations de 8,5 %, surtout pour des troubles liés au stress, à la santé mentale et aux accidents domestiques. Le taux de décrochage scolaire a diminué, particulièrement chez les garçons. Aucun retrait massif du marché du travail n’a été observé. Le tissu social s’est resserré.</p>
+<p>En somme : la sécurité produit de la stabilité, et la stabilité permet de faire des choix — pour soi, sa famille, sa santé, sa communauté.</p>
 
-Aujourd’hui, au Québec, l’aide sociale est souvent perçue comme un système humiliant et contraignant. Les bénéficiaires doivent prouver leur pauvreté, justifier leur incapacité à travailler et passer à travers une bureaucratie lourde et intrusive. Résultat ? Beaucoup de personnes hésitent à demander de l’aide par peur d’être stigmatisées.  
+<h4>Pourquoi c’est important ?</h4>
+<p>La pauvreté n’est pas seulement une privation de revenu, mais une violence sociale et symbolique. Retirer la conditionnalité, c’est retirer l’humiliation. C’est reconnaître chaque personne comme digne, par défaut.</p>
+</div>
 
-L’allocation de subsistance changerait cette réalité en offrant un revenu de base garanti, accessible à tous, sans conditions humiliantes. Ce n’est pas un cadeau, c’est un droit : celui de vivre avec dignité, sans avoir à quémander pour survivre.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>La philosophe et sociologue <strong>Nancy Fraser</strong> affirme que la lutte pour la justice sociale passe autant par la redistribution des ressources que par la reconnaissance des identités et des statuts sociaux.</p>
+<p>Les programmes conditionnels d'aide, souvent intrusifs et contrôlants, aggravent l'exclusion symbolique. Le revenu de base, en étant inconditionnel, répond à ces deux dimensions de la justice sociale.</p>
+</aside>
+</div>
 
-- Élimination de la stigmatisation liée à l’aide sociale  
-- Autonomie financière pour tous, sans bureaucratie intrusive  
-- Reconnaissance du travail non rémunéré (aidants naturels, bénévoles, artistes)  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Baisse de 8,5 % des hospitalisations</strong>
+<p>Une diminution notable des admissions à l’hôpital a été observée, en particulier pour des troubles liés au stress et à la santé mentale[^forget2011]. Cela démontre que la sécurité financière améliore directement la santé globale de la population.</p></li>
 
-L’économiste Karl Polanyi, dans son analyse du marché du travail, montre que la protection sociale est essentielle pour éviter que l’humain ne soit réduit à une simple marchandise[^polanyi1944]. Une allocation de subsistance garantirait à chacun la possibilité de vivre sans subir cette marchandisation.  
+<li class="carte"><strong class="h5">Hausse de la scolarisation</strong>
+<p>Les jeunes, surtout les garçons, ont retardé leur entrée sur le marché du travail pour poursuivre leurs études. Cela montre que le revenu garanti soutient des choix éducatifs à long terme plutôt que des sacrifices immédiats.</p></li>
 
-## Preuves et Expériences : Moins de Stigmatisation, Plus d’Autonomie  
+<li class="carte"><strong class="h5">Aucune baisse massive du travail</strong>
+<p>La majorité des bénéficiaires ont continué à travailler, sauf quelques ajustements temporaires chez les mères et les étudiants. Cela contredit le mythe selon lequel la sécurité économique mènerait à l’oisiveté.</p></li>
 
-### 1. L’Expérience Mincome au Canada (1974-1979)  
+<li class="carte"><strong class="h5">Réduction du stress familial</strong>
+<p>Des familles rapportaient moins de conflits liés à l’argent et une ambiance plus stable à la maison. Cette paix domestique contribue directement au sentiment de dignité et de sécurité psychologique.</p></li>
 
-- Réduction du stress et de l’anxiété liés à la pauvreté  
-- Sentiment accru de contrôle sur sa vie  
-- Moins de consultations médicales pour troubles mentaux  
+<li class="carte"><strong class="h5">Soutien au bénévolat</strong>
+<p>Des citoyens ont commencé à s’impliquer davantage dans des projets communautaires et sociaux. Libérés de la contrainte économique, ils retrouvaient le désir d’agir pour le collectif[^pinto2021].</p></li>
 
-[^forget2011]  
+<li class="carte"><strong class="h5">Moins de stigmatisation</strong>
+<p>Recevoir un revenu n’était plus associé à un statut inférieur ou à un échec personnel. Cela permettait à chacun de se sentir reconnu, et non jugé.</p></li>
+</ul>
+</section>
 
-Pourquoi c’est important ?  
-La pauvreté crée une détresse psychologique qui entrave la capacité à prendre de bonnes décisions économiques, comme l’explique la **[théorie de la rareté](https://en.wikipedia.org/wiki/Scarcity_(social_psychology))**. Un revenu garanti permettrait de briser ce cycle.  
+<section>
+<header>
+<small>expérience internationale</small>
+<h3><i>🌍</i> Namibie : un village relevé par le respect</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Entre 2008 et 2009, le village d’Otjivero en Namibie a reçu un revenu de base inconditionnel pendant 24 mois. Chaque habitant recevait 100 dollars namibiens (environ 13 $ CAD) par mois, sans condition.</p>
+<p>Les résultats furent immédiats : la pauvreté extrême fut réduite de moitié, la malnutrition infantile chuta de 42 %, la fréquentation scolaire augmenta de 90 % à 96 %, et la criminalité baissa de 36 %[^haarmann2009]. Mais au-delà des chiffres, les témoignages évoquaient un changement de posture : les habitants marchaient la tête haute, prenaient des initiatives, créaient des micro-entreprises et participaient aux affaires locales.</p>
 
-### 2. L’Allocation Universelle en Namibie (2008-2009)  
+<h4>Pourquoi c’est important ?</h4>
+<p>Le sentiment de dignité restauré ne vient pas seulement du revenu, mais du fait que ce revenu est universel, sans jugement. On ne vous observe pas, on ne vous soupçonne pas : on vous fait confiance.</p>
+</div>
 
-Dans le village d’Otjivero, une allocation universelle a été testée :  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Les expériences de revenu de base en contexte de pauvreté extrême montrent que la transformation la plus rapide est souvent symbolique : les gens se sentent vus, considérés, reconnus.</p>
+<p>Ce sentiment d’appartenance retrouvé est un levier puissant pour l’émancipation collective.</p>
+</aside>
+</div>
 
-- Diminution de 50 % de la pauvreté extrême  
-- Hausse des petites entreprises et du commerce local  
-- Amélioration des indicateurs de santé  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Pauvreté extrême réduite de 76 % à 37 %</strong>
+<p>En deux ans, la pauvreté sévère a chuté de moitié dans le village (voir p. 2, 17)[^haarmann2009]. Cette amélioration rapide montre qu’une base économique stable restaure immédiatement la capacité à vivre dignement.</p></li>
 
-[^haarmann2009]  
+<li class="carte"><strong class="h5">Malnutrition infantile en baisse de 42 %</strong>
+<p>Les enfants recevaient davantage de repas quotidiens et de meilleure qualité (voir p. 18)[^haarmann2009]. Garantir la sécurité alimentaire des plus jeunes, c’est garantir leur dignité dès les premières années.</p></li>
 
-Pourquoi c’est important ?  
-Quand la survie n’est plus une lutte quotidienne, les individus peuvent investir dans leur avenir et celui de leur communauté, réduisant ainsi la dépendance aux aides ponctuelles.  
+<li class="carte"><strong class="h5">Hausse de la scolarisation</strong>
+<p>Le taux de scolarisation est passé de 90 % à 96 % pendant l’expérience (voir p. 18)[^haarmann2009]. Les familles pouvaient laisser leurs enfants à l’école sans compromettre leur survie immédiate.</p></li>
 
-## Reconnaître le Travail Invisible : Une Question de Dignité  
+<li class="carte"><strong class="h5">Baisse de la criminalité de 36 %</strong>
+<p>Le comité local a constaté une réduction significative des vols et délits mineurs (voir p. 19)[^haarmann2009]. Moins de désespoir, c’est aussi moins de comportements de survie illégaux.</p></li>
 
-Chaque jour, des milliers de Québécois accomplissent un travail essentiel sans être rémunérés :  
+<li class="carte"><strong class="h5">Création de 45 micro-entreprises</strong>
+<p>Des coiffeuses, couturiers et vendeurs de nourriture ont pu lancer leur activité grâce à ce revenu (voir p. 20)[^haarmann2009]. Un petit filet régulier permet de passer à l’action avec dignité.</p></li>
 
-- Parents à temps plein s’occupant de jeunes enfants  
-- Aidants naturels prenant soin de proches malades ou âgés  
-- Bénévoles dans des organismes communautaires  
+<li class="carte"><strong class="h5">Diminution des conflits domestiques</strong>
+<p>La violence au sein des ménages a reculé, notamment grâce à la baisse du stress économique (voir p. 21)[^haarmann2009]. Quand l’argent ne manque pas, la paix revient plus facilement dans les foyers.</p></li>
+</ul>
+</section>
 
-Avec une allocation de subsistance, ce travail invisible serait enfin reconnu. Selon une étude, le travail domestique et de soins non rémunéré représente l’équivalent de 30 % du PIB du Québec[^iris2019].  
+<section>
+<header>
+<small>travail invisible et dignité ignorée</small>
+<h3><i>🧡</i> Reconnaître sans condition</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Des millions de Québécois contribuent à la société sans recevoir de rémunération : soins aux enfants, aux aîné·es, à des personnes en situation de handicap, soutien communautaire, bénévolat. Ces formes de travail sont invisibles dans les statistiques économiques, mais essentielles au bon fonctionnement du Québec.</p>
+<p>Une allocation de subsistance offre une reconnaissance symbolique et matérielle à celles et ceux qui accomplissent ce "travail du care". Elle rend possible l’autonomie de ces personnes, sans qu’elles doivent sacrifier leur sécurité économique.</p>
 
-Pourquoi c’est important ?  
-Une société juste ne se mesure pas seulement à son PIB, mais à la valeur qu’elle accorde au travail humain sous toutes ses formes. Cette reconnaissance est cohérente avec la **[théorie du care](https://en.wikipedia.org/wiki/Ethics_of_care)**, qui met en avant l’importance des activités de soin dans le fonctionnement social.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Actuellement, le filet social récompense principalement l’activité salariée. Ce biais renforce les inégalités de genre, marginalise les aidants naturels et invisibilise les contributions non marchandes.</p>
+</div>
 
-## Imaginez un Québec où…  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le sociologue <strong>Serge Paugam</strong> a montré que l’exclusion sociale naît souvent de la perte de reconnaissance statutaire autant que matérielle.</p>
+<p>Le revenu de base peut être compris comme une institution réparatrice qui assure à chaque individu une appartenance minimale mais réelle au corps social.</p>
+</aside>
+</div>
 
-- Personne ne subit l’humiliation de devoir prouver qu’il mérite de l’aide  
-- Les parents et aidants naturels reçoivent un soutien financier pour leur travail essentiel  
-- Les gens ont la liberté de choisir leur chemin sans être freinés par des conditions bureaucratiques humiliantes  
-- La pauvreté cesse d’être une marque de honte et devient un problème collectif à résoudre  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Reconnaissance du travail non-rémunéré</strong>
+<p>Les tâches de soin, d’accompagnement ou de parentalité retrouvent une valeur économique implicite. Cela repositionne les aidants comme contributeurs légitimes à la société.</p></li>
 
-Témoignages interactifs :  
-Lisez les récits de ceux qui ont bénéficié d’un revenu garanti et partagez votre propre histoire.  
+<li class="carte"><strong class="h5">Réduction de la dépendance conjugale</strong>
+<p>Les femmes vivant dans des relations inégalitaires peuvent accéder à un revenu de base indépendant. Cela crée un filet d’autonomie là où régnait parfois la domination.</p></li>
 
-## Participez au Débat !  
+<li class="carte"><strong class="h5">Autonomie pour les aidants naturels</strong>
+<p>Ceux qui accompagnent un proche n’ont plus à choisir entre aider et gagner leur vie. Cette liberté d’engagement fait partie intégrante du respect de leur rôle social.</p></li>
 
-Pensez-vous que l’aide sociale actuelle est trop compliquée et humiliante ?  
-Partagez votre expérience et vos idées pour un Québec plus digne !  
+<li class="carte"><strong class="h5">Équilibre vie-travail choisi</strong>
+<p>Le revenu de base permet une réduction volontaire du temps de travail salarié. Cela ouvre l’espace à d’autres formes de contribution souvent invisibles mais essentielles.</p></li>
 
-## Références et Sources  
+<li class="carte"><strong class="h5">Temps libéré pour la participation sociale</strong>
+<p>Bénévolat, entraide locale, engagement citoyen deviennent accessibles à plus de gens. Participer à la société, c’est aussi exister dans le regard des autres.</p></li>
 
-[^forget2011]: Forget, Evelyn L. 2011. "The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment."  
-[^haarmann2009]: Haarmann et al. 2009. "Basic Income Grant Pilot Project – Namibia."  
-[^iris2019]: IRIS. 2019. "Le travail invisible : Une richesse sous-estimée."  
-[^polanyi1944]: Polanyi, Karl. 1944. "The Great Transformation." Beacon Press.  
+<li class="carte"><strong class="h5">Diminution des sentiments d’exclusion</strong>
+<p>Le revenu universel assure à chacun une place et un droit à l’existence digne. Il efface les frontières entre ceux qui "méritent" et les autres.</p></li>
+</ul>
+</section>
+
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand la dignité devient structurelle</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
+
+<ul class="grille">
+<li class="carte">Personne ne doit mendier, prouver ou quémander pour vivre.</li>
+<li class="carte">L’État fait confiance à chacun, sans condition.</li>
+<li class="carte">Le soin, l’écoute, le soutien sont reconnus à égalité avec l’emploi salarié.</li>
+<li class="carte">La honte n’a plus sa place dans le système social.</li>
+<li class="carte">On peut prendre soin d’un proche sans risquer l’exclusion économique.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si vous n’aviez plus peur de tomber ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
+
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« J’ai pris soin de ma mère pendant 4 ans. Sans revenu. Sans filet. »</p><cite class="h4">Sophie L.</cite></blockquote>
+<blockquote class="carte"><p>« J’ai honte de faire une demande. C’est comme si je volais. »</p><cite class="h4">Marc R.</cite></blockquote>
+<blockquote class="carte"><p>« Ce n’est pas l’argent qui me manque le plus. C’est le respect. »</p><cite class="h4">Rania K.</cite></blockquote>
+</div>
+
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus digne</em> est possible.</p>
+</section>
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.*  
+[^fraser2000]: Fraser, Nancy. 2000. *Recognition without Ethics?*  
+[^standing2017]: Standing, Guy. 2017. *Basic Income: And How We Can Make It Happen.*  
+[^pinto2021]: Pinto, A. D. et al. 2021. *Basic Income: A Conceptual Review and Research Agenda.*  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.*  
+[^paugam1996]: Paugam, Serge. 1996. *La disqualification sociale.*  

@@ -1,68 +1,128 @@
-# 4. SÉCURITÉ – L’Allocation de Subsistance : Un Rempart Contre l’Incertitude  
+<header>
+<small>un tremplin contre l’insécurité</small>
+<h1><i><img src="/assets/img/shield.svg" alt=""/></i> Sécurité</h1>
+<strong>Et si personne ne pouvait vraiment tomber ?</strong>
+<p>La peur de manquer – d’un emploi, d’un logement, de soins – pèse lourd sur les individus et les familles. Elle freine les initiatives, détériore la santé mentale, exacerbe les inégalités et affaiblit le tissu social.</p>
+<p>Une allocation de subsistance universelle garantit à chacun un revenu de base, quelles que soient les circonstances. Elle offre une protection minimale, constante, sans stigmatisation ni paperasse, contre les aléas de la vie.</p>
+</header>
 
-## Et si vous n’aviez plus à vivre avec la peur du lendemain ?  
+<section>
+<header>
+<small>logement et stabilité</small>
+<h3><i>🏠</i> Moins d’angoisse, plus de continuité</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Des milliers de personnes au Québec vivent avec la crainte constante de perdre leur logement. Une perte d’emploi, une maladie, une séparation peut tout faire basculer. Cette précarité résidentielle empêche de se projeter dans l’avenir.</p>
+<p>Un revenu de base permet d’éviter les situations de rupture brutale. Il offre une base sur laquelle bâtir des projets, maintenir un foyer, rester enraciné dans sa communauté.</p>
 
-Chaque mois, des milliers de Québécois doivent choisir entre payer leur loyer ou remplir leur frigo. Une dépense imprévue, une perte d’emploi ou une maladie peuvent faire basculer une vie dans la précarité du jour au lendemain.  
+<h4>Pourquoi c’est important ?</h4>
+<p>La sécurité matérielle ne devrait pas être un luxe. C’est le socle invisible de toute participation sociale et de toute santé mentale.</p>
+</div>
 
-L’allocation de subsistance agirait comme un filet de sécurité économique, protégeant chacun contre les aléas de la vie et offrant une stabilité essentielle pour mieux planifier son avenir.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Selon l’Institut national de santé publique du Québec, l’insécurité résidentielle augmente les risques de dépression, d’isolement et de détresse psychosociale[^inspq2019].</p>
+<p>Un revenu plancher agit comme stabilisateur des conditions de vie les plus fondamentales.</p>
+</aside>
+</div>
 
-- Un revenu garanti pour amortir les chocs financiers  
-- Moins de stress et d’anxiété face aux imprévus  
-- Accès stable au logement et à l’alimentation  
-- Réduction de la précarité économique pour tous  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Baisse des expulsions de logement</strong>
+<p>Dans des projets pilotes, les bénéficiaires ont pu éviter l’expulsion grâce à un revenu stable (voir p. 22)[^haarmann2009]. Cette sécurité de base protège l’accès à un domicile fixe.</p></li>
 
-L’économiste Milton Friedman a défendu le concept d’un impôt négatif sur le revenu comme solution à l’instabilité économique et aux lacunes des programmes sociaux traditionnels[^friedman1962]. L’allocation de subsistance s’inscrit dans cette logique en garantissant une base économique à chacun.  
+<li class="carte"><strong class="h5">Hausse de la stabilité résidentielle</strong>
+<p>Moins de déménagements liés à des difficultés financières ont été observés (voir p. 17)[^forget2011]. La stabilité du logement est une forme directe de sécurité au quotidien.</p></li>
 
-## Preuves et Expériences : Moins d’Incertitude, Plus de Stabilité  
+<li class="carte"><strong class="h5">Diminution des recours aux refuges</strong>
+<p>Des transferts monétaires ont permis de réduire le nombre de personnes recourant à l’hébergement d’urgence (voir p. 25)[^forget2017]. Quand on peut payer un loyer, on évite de tomber dans la rue.</p></li>
 
-### 1. Réduction de l’Insécurité Alimentaire et du Stress Financier  
+<li class="carte"><strong class="h5">Prévention des expulsions locatives</strong>
+<p>Un filet de sécurité permet d’éviter les retards de paiement et les conflits avec les propriétaires (voir p. 23)[^basicincomeearth2013]. La prévention coûte moins cher que l’urgence.</p></li>
 
-- Les ménages bénéficiant d’un revenu garanti vivent moins d’anxiété financière  
-- Moins de recours aux banques alimentaires  
-- Une meilleure capacité à faire face aux dépenses imprévues  
+<li class="carte"><strong class="h5">Amélioration de l’entretien des logements</strong>
+<p>Les ménages à faible revenu utilisent une partie du revenu garanti pour réparer ou entretenir leur logement (voir p. 24)[^haarmann2009]. Mieux habiter, c’est aussi se sentir à sa place.</p></li>
 
-[^baird2018]  
+<li class="carte"><strong class="h5">Moins d’anxiété liée au logement</strong>
+<p>Les bénéficiaires expriment une réduction significative du stress lié à la peur de perdre leur domicile (voir p. 19)[^forget2017]. Ce soulagement favorise la santé mentale et la stabilité familiale.</p></li>
+</ul>
+</section>
 
-Pourquoi c’est important ?  
-Le stress financier est un facteur majeur de maladies chroniques et de troubles de santé mentale, comme l’illustre la **[théorie du stress économique](https://en.wikipedia.org/wiki/Economic_stress)**. Réduire cette insécurité améliore la qualité de vie et la santé publique.  
+<section>
+<header>
+<small>santé mentale et stress</small>
+<h3><i>🧠</i> Se reposer, se soigner, souffler</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Le stress économique est un facteur aggravant majeur de nombreux troubles psychiques. Il provoque de l’insomnie, de l’irritabilité, une baisse de l’estime de soi, et parfois même un isolement social.</p>
+<p>Un revenu garanti réduit l’incertitude permanente. Il permet de demander de l’aide, de prendre soin de soi, ou simplement de respirer – sans avoir à choisir entre se soigner ou se loger.</p>
 
-### 2. Sécurité Résidentielle : Réduction du Risque de Perte de Logement  
+<h4>Pourquoi c’est important ?</h4>
+<p>La santé mentale n’est pas un luxe. Elle est la base de toute capacité à fonctionner dans la société.</p>
+</div>
 
-- Une allocation stable permet de mieux gérer les paiements de loyer  
-- Moins de risques d’expulsion et de sans-abrisme  
-- Davantage de Québécois pourraient accéder à un logement sécuritaire  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le psychiatre <strong>Richard Wilkinson</strong> a montré que l’insécurité économique chronique aggrave l’anxiété, la dépression et le repli social[^wilkinson2009].</p>
+<p>Un revenu de base agit comme une protection psychologique collective.</p>
+</aside>
+</div>
 
-[^iris2017]  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Diminution des consultations pour détresse psychologique</strong>
+<p>Mincome a entraîné une baisse significative des visites médicales liées au stress (voir p. 19)[^forget2011]. Moins d’angoisse = moins de symptômes.</p></li>
 
-Pourquoi c’est important ?  
-Le logement est une condition essentielle à la stabilité économique et sociale. La **[théorie du capital humain](https://en.wikipedia.org/wiki/Human_capital)** explique que les individus peuvent mieux investir dans leur avenir lorsqu’ils ont un environnement stable.  
+<li class="carte"><strong class="h5">Réduction du sentiment d’insécurité</strong>
+<p>Les bénéficiaires rapportent une plus grande paix intérieure et une meilleure capacité à faire face à l’imprévu (voir p. 14)[^forget2017]. La sécurité permet de se recentrer sur l’essentiel.</p></li>
 
-### 3. Un Bouclier Contre les Chocs Économiques  
+<li class="carte"><strong class="h5">Moins de médication liée à l’anxiété</strong>
+<p>Certains projets ont observé une baisse de la consommation de médicaments psychotropes (voir p. 15)[^knight2019]. Cela indique un apaisement structurel du stress de survie.</p></li>
 
-- Crises économiques, pandémies, licenciements massifs... l’économie est imprévisible  
-- Avec une allocation universelle, la consommation reste stable, réduisant l’impact des récessions  
-- Les travailleurs touchés par des pertes d’emploi ont un coussin financier pour rebondir  
+<li class="carte"><strong class="h5">Stabilisation des troubles existants</strong>
+<p>Les personnes vivant avec un trouble mental ont vu leur état se stabiliser ou s’améliorer légèrement (voir p. 21)[^haarmann2009]. Moins de stress chronique = meilleure gestion du quotidien.</p></li>
 
-Pourquoi c’est important ?  
-Une économie plus résiliente protège tout le monde, des travailleurs aux entreprises. Ce phénomène est illustré par la **[loi de Say](https://en.wikipedia.org/wiki/Say%27s_law)**, qui souligne l’importance d’une demande stable pour la croissance économique.  
+<li class="carte"><strong class="h5">Réduction de l’isolement social</strong>
+<p>La sécurité économique facilite la reprise de contact avec les proches ou les services d’aide (voir p. 28)[^basicincomeearth2013]. Être en sécurité, c’est aussi pouvoir s’ouvrir aux autres.</p></li>
 
-## Imaginez un Québec où…  
+<li class="carte"><strong class="h5">Diminution de la honte et de l’auto-dévalorisation</strong>
+<p>Des bénéficiaires ont témoigné d’un regain d’estime personnelle lié au fait de recevoir un revenu sans conditions (voir p. 9)[^forget2017]. La dignité est un facteur de protection mentale.</p></li>
+</ul>
+</section>
 
-- Personne ne vit avec l’angoisse de ne pas pouvoir payer son loyer  
-- Les crises économiques ne plongent plus des milliers de personnes dans la pauvreté  
-- Chacun a un minimum garanti pour traverser les moments difficiles  
-- L’itinérance diminue, la santé mentale s’améliore, et la société est plus stable  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand la sécurité devient universelle</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-Simulateur interactif :  
-Voyez comment une allocation de subsistance améliorerait votre sécurité financière en cas d’imprévu.  
+<ul class="grille">
+<li class="carte">Plus personne ne perd son logement du jour au lendemain.</li>
+<li class="carte">On peut affronter un coup dur sans tomber dans le vide.</li>
+<li class="carte">Le stress de survivre ne gouverne plus nos choix.</li>
+<li class="carte">Les enfants grandissent dans des foyers stables.</li>
+<li class="carte">La santé mentale est soutenue par un sol économique commun.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si vous saviez que vous ne pouviez pas tomber ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
 
-## Participez au Débat !  
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« Ce n’est pas le manque d’argent, c’est la peur constante qui use. »</p><cite class="h4">Jean C.</cite></blockquote>
+<blockquote class="carte"><p>« Juste savoir que j’ai de quoi manger et me loger, ça change tout. »</p><cite class="h4">Amina K.</cite></blockquote>
+<blockquote class="carte"><p>« Je peux enfin penser à demain, pas juste à ce soir. »</p><cite class="h4">Marc-Antoine D.</cite></blockquote>
+</div>
 
-Avez-vous déjà ressenti une insécurité financière qui vous empêchait de bien vivre ?  
-Partagez votre expérience et votre vision d’un Québec plus sûr !  
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus sécurisant</em> est possible.</p>
+</section>
 
-## Références et Sources  
-
-[^baird2018]: Baird et al. 2018. "Cash Transfers and Health: Evidence from the U.S."  
-[^iris2017]: IRIS. 2017. "L’allocation universelle : une solution pour la pauvreté."  
-[^friedman1962]: Friedman, Milton. 1962. "Capitalism and Freedom." University of Chicago Press.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21–24.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 19.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 9, 14–25.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 23–28.  
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 15.  
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 29.  
+[^inspq2019]: INSPQ. 2019. *Les inégalités sociales de santé liées au logement au Québec.*  

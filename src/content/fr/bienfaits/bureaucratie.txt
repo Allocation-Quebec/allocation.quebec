@@ -1,63 +1,128 @@
-% BUREAUCRATIE – L’Allocation de Subsistance comme Réduction des Coûts et Simplification de l’Administration Publique  
+<header>
+<small>un tremplin contre les lourdeurs inutiles</small>
+<h1><i><img src="/assets/img/files.svg" alt=""/></i> Bureaucratie</h1>
+<strong>Et si on cessait de compliquer ce qui devrait être simple ?</strong>
+<p>Le système de soutien social actuel est souvent lent, complexe et intrusif. Les formulaires s'accumulent, les vérifications s’éternisent, les erreurs administratives se multiplient. Trop de personnes passent entre les mailles ou renoncent à l’aide à laquelle elles ont droit.</p>
+<p>Une allocation de subsistance simplifie radicalement le paysage : un seul versement universel, sans conditions, sans formulaires infinis. Moins de bureaucratie, plus de clarté, plus de justice.</p>
+</header>
 
-## Une bureaucratie lourde et coûteuse  
+<section>
+<header>
+<small>complexité administrative</small>
+<h3><i>📑</i> Sortir du labyrinthe</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Des dizaines de programmes différents, chacun avec ses critères, ses formulaires, ses guichets, ses délais. Cette complexité administrative décourage même les plus déterminés, et pèse lourd sur les institutions publiques.</p>
+<p>Un revenu de base universel supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Il réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
 
-Les États modernes ont développé des systèmes administratifs complexes pour gérer les programmes sociaux, le marché du travail et la redistribution des revenus. Cette bureaucratie repose sur une multitude de dispositifs conditionnels, chacun nécessitant une gestion, un contrôle et des interventions régulières[^murray1984].  
+<h4>Pourquoi c’est important ?</h4>
+<p>Quand le système est trop compliqué, ce sont souvent les plus vulnérables qui renoncent ou échouent à obtenir ce qu’ils méritent. Simplifier, c’est aussi réparer une injustice structurelle.</p>
+</div>
 
-- Multiplication des formulaires et vérifications d’éligibilité  
-- Coûts administratifs élevés liés aux services sociaux  
-- Effets désincitatifs et trappes à pauvreté causés par des dispositifs conditionnels  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le politiste <strong>Gøsta Esping-Andersen</strong> a montré que les systèmes de protection les plus efficaces sont ceux où les droits sociaux sont automatiques et universels[^esping1990].</p>
+<p>Une bureaucratie légère renforce l’inclusion et la dignité.</p>
+</aside>
+</div>
 
-L’**allocation de subsistance**, en remplaçant plusieurs programmes sociaux et en simplifiant la redistribution, pourrait considérablement réduire la taille et le coût de l’appareil bureaucratique tout en améliorant son efficacité.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Réduction du non-recours à l’aide</strong>
+<p>L’universalité élimine les erreurs d’inadmissibilité et le découragement face aux démarches (voir p. 28)[^basicincomeearth2013]. Un droit accessible est un droit exercé.</p></li>
 
-## Une administration simplifiée et plus efficace  
+<li class="carte"><strong class="h5">Moins de dossiers incomplets ou rejetés</strong>
+<p>Les systèmes conditionnels souffrent de taux élevés de refus administratifs — problème inexistant avec une prestation automatique (voir p. 24)[^ccds2007]. La simplicité administrative devient un filet de sécurité.</p></li>
 
-L’implémentation d’une allocation de subsistance permettrait de transformer l’administration publique en réduisant les couches bureaucratiques et en favorisant une gestion plus efficace des ressources.  
+<li class="carte"><strong class="h5">Diminution des files d’attente</strong>
+<p>Les services sociaux peuvent se concentrer sur l’accompagnement plutôt que sur la paperasse (voir p. 21)[^macdonald2016]. Le temps libéré devient du temps utile.</p></li>
 
-### Suppression des tests d’éligibilité et des contrôles  
+<li class="carte"><strong class="h5">Baisse du nombre de révisions et litiges</strong>
+<p>Moins de décisions contestées, moins de recours devant les tribunaux administratifs (voir p. 14)[^forget2017]. Un système clair diminue les tensions.</p></li>
 
-Les systèmes de protection sociale traditionnels sont souvent conditionnels, nécessitant des vérifications fréquentes de revenus, d’emploi ou de situation familiale[^cloward1971].  
+<li class="carte"><strong class="h5">Réduction du stress administratif pour les citoyens</strong>
+<p>Les bénéficiaires rapportent un soulagement significatif lié à la fin des justifications récurrentes (voir p. 19)[^forget2017]. Moins d’humiliation, plus de confiance.</p></li>
 
-- Des milliers de fonctionnaires sont affectés à l’examen des dossiers, aux contrôles de conformité et à la gestion des plaintes.  
-- Des coûts élevés sont associés à la surveillance des fraudes, parfois supérieurs aux économies réalisées.  
-- L’administration sociale devient rigide et coûteuse à gérer.  
+<li class="carte"><strong class="h5">Simplification du travail des fonctionnaires</strong>
+<p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain (voir p. 16)[^basicincomeearth2013]. La bureaucratie devient un outil, pas un obstacle.</p></li>
+</ul>
+</section>
 
-Avec une allocation de subsistance, ces vérifications deviennent inutiles, car chaque individu reçoit un montant fixe sans condition.  
+<section>
+<header>
+<small>coût de la complexité</small>
+<h3><i>🧮</i> Plus de clarté, moins de gaspillage</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Chaque vérification, chaque formulaire, chaque comité d’évaluation a un coût. Des milliards de dollars sont dépensés chaque année pour faire fonctionner des systèmes complexes… plutôt que pour soutenir directement les personnes.</p>
+<p>Une allocation de base libère des ressources. Moins de couches administratives, moins de frais de contrôle, moins de redondance. C’est une politique plus simple, plus propre, plus efficace.</p>
 
-### Fusion et simplification des programmes sociaux  
+<h4>Pourquoi c’est important ?</h4>
+<p>Un bon système social n’a pas à être compliqué. Il doit être juste, lisible et humain.</p>
+</div>
 
-Les États gèrent une pluralité de programmes : aide sociale, allocations familiales, subventions au logement, crédits d’impôt pour les bas revenus[^barr2004].  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le prix Nobel d’économie <strong>Herbert Simon</strong> a démontré que trop de complexité nuit à la prise de décision efficace dans les grandes organisations[^simon1976].</p>
+<p>La simplification structurelle est un levier de performance publique.</p>
+</aside>
+</div>
 
-- Chaque programme a son propre budget, ses critères d’éligibilité et son administration dédiée.  
-- Il en résulte des inefficiences et des incohérences entre dispositifs.  
-- L’aide est fragmentée, créant des incitations parfois contradictoires.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Réduction des coûts de gestion</strong>
+<p>Les modèles de revenu de base montrent une baisse importante des dépenses administratives (voir p. 10)[^macdonald2016]. L’argent va directement aux gens, pas aux structures.</p></li>
 
-Avec une allocation de subsistance, plusieurs de ces dispositifs peuvent être fusionnés en une seule politique universelle, réduisant ainsi la redondance et les coûts de gestion.  
+<li class="carte"><strong class="h5">Moins de doublons entre programmes</strong>
+<p>L’universalité permet de regrouper plusieurs prestations redondantes (voir p. 16)[^macdonald2016]. Cela évite les inefficacités systémiques.</p></li>
 
-### Réduction des coûts administratifs  
+<li class="carte"><strong class="h5">Transparence accrue pour les citoyens</strong>
+<p>Les gens comprennent enfin d’où vient l’argent et pourquoi ils y ont droit (voir p. 33)[^basicincomeearth2013]. La lisibilité renforce la confiance démocratique.</p></li>
 
-L’administration publique consacre une part importante de ses ressources au fonctionnement de ses services plutôt qu’à l’aide directe aux citoyens[^tullock1965].  
+<li class="carte"><strong class="h5">Réduction des erreurs administratives</strong>
+<p>Moins de critères = moins de risques d’erreur ou d’omission (voir p. 23)[^forget2011]. La clarté protège tout le monde, des citoyens aux institutions.</p></li>
 
-- Une grande partie des fonds alloués aux programmes sociaux est absorbée par les coûts de gestion.  
-- La complexité administrative engendre des délais et des erreurs qui nuisent aux bénéficiaires.  
-- La bureaucratie devient un obstacle à l’accès rapide et efficace aux services publics.  
+<li class="carte"><strong class="h5">Moins de personnel affecté au contrôle</strong>
+<p>Des ressources peuvent être redirigées vers des missions d’accompagnement ou de prévention (voir p. 12)[^basicincomeearth2013]. La bureaucratie devient facilitatrice plutôt que gardienne.</p></li>
 
-Une allocation de subsistance transférée automatiquement via l’administration fiscale permettrait d’optimiser l’utilisation des ressources publiques.  
+<li class="carte"><strong class="h5">Modernisation de l’administration publique</strong>
+<p>Un système universel est plus facile à intégrer aux outils numériques de l’État (voir p. 28)[^ccds2007]. L’innovation publique passe par la simplification.</p></li>
+</ul>
+</section>
 
-## Vers un État plus agile et moins coûteux  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand la bureaucratie devient un soutien, pas une épreuve</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-En instaurant une allocation de subsistance, il devient possible de concevoir une administration plus efficace, avec plusieurs avantages.  
+<ul class="grille">
+<li class="carte">L’aide est automatique, pas conditionnelle.</li>
+<li class="carte">Les gens comprennent enfin les services auxquels ils ont droit.</li>
+<li class="carte">Les fonctionnaires ont le temps d’écouter, pas juste de vérifier.</li>
+<li class="carte">Les erreurs administratives ne brisent plus des vies.</li>
+<li class="carte">La simplicité devient une valeur démocratique.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si l’État était enfin simple à comprendre ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
 
-- Moins de bureaucratie, grâce à la suppression des dispositifs complexes et conditionnels.  
-- Réduction des coûts de gestion des aides sociales.  
-- Allocation plus transparente et accessible, réduisant les erreurs et les délais.  
-- État recentré sur des missions essentielles comme la santé, l’éducation et les infrastructures.  
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« J’ai abandonné ma demande. Je n’étais pas capable de suivre le processus. »</p><cite class="h4">Élise B.</cite></blockquote>
+<blockquote class="carte"><p>« Trop d’étapes, trop de preuves, trop d’humiliations. »</p><cite class="h4">Karim M.</cite></blockquote>
+<blockquote class="carte"><p>« J’ai reçu l’aide… après la crise. Trop tard. »</p><cite class="h4">Jean-François L.</cite></blockquote>
+</div>
 
-Une telle réforme permettrait de transformer l’État-providence en un modèle plus agile et performant, réduisant le poids administratif tout en assurant une redistribution plus équitable.  
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus simple et plus juste</em> est possible.</p>
+</section>
 
-## Références  
-
-[^murray1984]: Murray, C. 1984. *Losing Ground: American Social Policy, 1950-1980.* Basic Books.  
-[^cloward1971]: Cloward, R., & Piven, F. 1971. *Regulating the Poor: The Functions of Public Welfare.* Pantheon Books.  
-[^barr2004]: Barr, N. 2004. *The Economics of the Welfare State.* Oxford University Press.  
-[^tullock1965]: Tullock, G. 1965. *The Politics of Bureaucracy.* Public Affairs Press.  
+[^esping1990]: Esping-Andersen, Gøsta. 1990. *The Three Worlds of Welfare Capitalism.* pp. 112.  
+[^simon1976]: Simon, Herbert A. 1976. *Administrative Behavior.* pp. 89.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33.  
+[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 19.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 23.  
+[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 24, 28.  

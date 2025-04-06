@@ -1,54 +1,128 @@
-# 2. ÉQUITÉ – L’Allocation de Subsistance : Un Pas Vers une Société Plus Juste  
+<header>
+<small>un tremplin vers l’égalité réelle</small>
+<h1><i><img src="/assets/img/balance.svg" alt=""/></i> Équité</h1>
+<strong>Et si on commençait par donner à chacun les mêmes bases ?</strong>
+<p>Les inégalités économiques minent la cohésion sociale, détériorent la santé publique et réduisent les opportunités pour tous. Pourtant, nos systèmes de soutien accentuent parfois ces écarts en étant inaccessibles, conditionnels ou stigmatisants.</p>
+<p>Une allocation de subsistance universelle offre à chaque individu un même plancher de sécurité, peu importe sa situation ou son statut. C’est une manière concrète de construire une société où chacun peut participer pleinement, sans être ralenti par des obstacles injustes ou arbitraires.</p>
+</header>
 
-## Pourquoi la naissance ne devrait pas dicter votre destin  
+<section>
+<header>
+<small>revenus et inégalités</small>
+<h3><i>📉</i> Réduire l’écart, pas l’effort</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Les écarts de revenus extrêmes nuisent à tous, y compris aux plus riches. Ils affectent la santé, la réussite scolaire, la confiance sociale et la mobilité économique. Or, les transferts ciblés ou temporaires ne parviennent souvent pas à corriger durablement ces déséquilibres.</p>
+<p>Un revenu de base garantit que personne ne tombe sous un seuil inacceptable, tout en maintenant la liberté d’entreprendre, d’innover ou de travailler davantage. Il agit comme une égalisation du point de départ, pas de l’arrivée.</p>
 
-Un enfant qui naît dans une famille pauvre a moins de chances de réussir à l’école, d’avoir un bon emploi et de vivre en bonne santé. Avec une allocation de subsistance, nous pouvons briser ce cycle en offrant à tous un socle économique stable, peu importe leur milieu d’origine.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Il ne s’agit pas de tout niveler, mais de donner à chacun les moyens de contribuer. Moins d’inégalités, c’est aussi moins de divisions sociales et plus de confiance collective.</p>
+</div>
 
-- Réduction des inégalités économiques entre riches et pauvres  
-- Meilleur accès à l’éducation et à la formation  
-- Soutien aux familles et aux travailleurs précaires  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Selon Wilkinson & Pickett, les sociétés plus égalitaires présentent moins de problèmes sociaux : moins de violence, d’obésité, de décrochage scolaire, de maladies mentales[^wilkinson2009].</p>
+<p>Un revenu garanti agit sur les inégalités dès la racine, sans stigmatisation ni bureaucratie.</p>
+</aside>
+</div>
 
-L’économiste John Rawls, dans sa **théorie de la justice**, défend l’idée qu’une société juste doit offrir des opportunités équitables à tous, indépendamment de leur naissance[^rawls1971]. Une allocation de subsistance s’inscrit dans cette vision en garantissant un revenu minimal permettant à chacun de se développer pleinement.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Réduction des écarts de revenu</strong>
+<p>Des simulations au Canada montrent que l’instauration d’un revenu de base réduit significativement l’indice de Gini (voir p. 22)[^macdonald2016]. Cela signifie une société plus égalitaire dès la structure.</p></li>
 
-## Preuves et Expériences : Réduction des Inégalités  
+<li class="carte"><strong class="h5">Moins de pauvreté infantile</strong>
+<p>Un revenu garanti abaisserait de moitié le taux de pauvreté chez les enfants au Canada (voir p. 19)[^forget2017]. Les premières années de vie sont décisives : égaliser les conditions dès l’enfance, c’est créer un avenir plus juste.</p></li>
 
-### 1. L'Expérience au Kenya (GiveDirectly, 2016-2018)  
+<li class="carte"><strong class="h5">Amélioration de la santé publique</strong>
+<p>Les écarts de santé diminuent dans les sociétés plus égalitaires (voir p. 42)[^wilkinson2009]. Moins de stress économique = moins de maladies chroniques.</p></li>
 
-- Réduction de l’extrême pauvreté de 42 %  
-- Plus d’enfants ont pu aller à l’école  
-- Hausse des investissements dans les entreprises locales  
+<li class="carte"><strong class="h5">Meilleure réussite scolaire</strong>
+<p>Une sécurité de revenu familiale réduit l’absentéisme, améliore les résultats et soutient les choix postsecondaires (voir p. 31)[^forget2017]. Chaque jeune mérite les mêmes chances.</p></li>
 
-[^haushofer2016]  
+<li class="carte"><strong class="h5">Baisse de la criminalité</strong>
+<p>Plusieurs études relient inégalités fortes et taux de criminalité élevés (voir p. 54)[^wilkinson2009]. Un revenu plancher agit comme prévention sociale de fond.</p></li>
 
-Pourquoi c’est important ?  
-Une allocation de subsistance permet aux individus de sortir durablement de la pauvreté en investissant dans leur avenir. Cela s’explique par le **[théorème de Modigliani](https://en.wikipedia.org/wiki/Life-cycle_hypothesis)**, qui montre que les individus gèrent mieux leur consommation lorsqu’ils ont un revenu stable tout au long de leur vie.  
+<li class="carte"><strong class="h5">Renforcement du sentiment d’équité</strong>
+<p>Les bénéficiaires se disent traités “à égalité” lorsqu’aucune condition ne leur est imposée (voir p. 7)[^basicincomeearth2013]. Ce ressenti améliore la confiance en l’État et entre citoyens.</p></li>
+</ul>
+</section>
 
-### 2. Simulation pour le Québec (IRIS, 2017)  
+<section>
+<header>
+<small>groupes marginalisés</small>
+<h3><i>🧕🏽</i> Rejoindre celles et ceux qu’on oublie</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Certains groupes sont systématiquement désavantagés : personnes racisées, autochtones, ex-détenus, migrants précaires, personnes sans domicile. Ils peinent à accéder à l’aide existante ou sont découragés par la complexité administrative.</p>
+<p>Un revenu universel contourne ces barrières. Il atteint tout le monde sans exception ni condition, rétablissant une forme d’égalité de traitement et de dignité, peu importe l’histoire ou le statut.</p>
 
-- Une allocation universelle de 12 000 $/an pourrait réduire de 50 % le taux de pauvreté au Québec  
-- Bénéficiaires principaux : les femmes, les jeunes et les travailleurs précaires  
+<h4>Pourquoi c’est important ?</h4>
+<p>Une politique qui profite à tous doit d’abord profiter à ceux qui ont le plus été laissés pour compte. L’universalité devient un outil de justice réparatrice.</p>
+</div>
 
-[^iris2017]  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>L’économiste <strong>Amartya Sen</strong> distingue “l’égalité formelle” (traiter tout le monde pareil) et “l’équité réelle” (compenser les désavantages)[^sen1999].</p>
+<p>Le revenu universel agit sur cette seconde dimension en fournissant une base commune concrète à tous, peu importe leur point de départ.</p>
+</aside>
+</div>
 
-Pourquoi c’est important ?  
-Lutter contre la pauvreté améliore la santé publique, la stabilité sociale et la croissance économique. Selon la **[courbe de Kuznets](https://en.wikipedia.org/wiki/Kuznets_curve)**, une société où les inégalités sont trop fortes freine son propre développement économique à long terme.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Hausse de l’accès aux soins</strong>
+<p>Les bénéficiaires marginalisés rapportent plus de consultations préventives lorsque leur revenu est garanti (voir p. 38)[^basicincomeearth2013]. La peur du coût ne freine plus l’accès à la santé.</p></li>
 
-## Imaginez un Québec où…  
+<li class="carte"><strong class="h5">Amélioration de l’habitation</strong>
+<p>Plusieurs personnes vivant en logement instable ont pu stabiliser leur situation grâce à un revenu régulier (voir p. 23)[^haarmann2009]. L’accès à un toit est une condition de base de l’équité réelle.</p></li>
 
-- Aucun enfant ne commence la vie avec un désavantage économique  
-- Les travailleurs précaires ont une sécurité financière de base  
-- Chacun peut aspirer à mieux, sans être freiné par des conditions socio-économiques injustes  
+<li class="carte"><strong class="h5">Réduction des discriminations systémiques</strong>
+<p>Lorsque le revenu ne dépend plus d’un employeur ou d’un statut légal, les biais structurels pèsent moins (voir p. 24)[^sen1999]. Cela offre un espace d’émancipation face aux inégalités d’accès aux droits.</p></li>
 
-Carte interactive :  
-Voyez comment une allocation réduirait les inégalités dans votre région.  
+<li class="carte"><strong class="h5">Recul de l’itinérance</strong>
+<p>Des projets de transferts directs ont permis à des personnes à la rue de se reloger rapidement (voir p. 5)[^forget2017]. La stabilité commence souvent avec une clé de porte.</p></li>
 
-## Participez au Débat !  
+<li class="carte"><strong class="h5">Moins de recours aux services d’urgence</strong>
+<p>Des hôpitaux ont constaté une baisse des admissions en lien avec des situations de détresse sociale chez les bénéficiaires (voir p. 17)[^forget2011]. L’équité, c’est aussi désengorger les services publics.</p></li>
 
-Que feriez-vous si vous aviez un revenu de base pour vous appuyer ?  
-Partagez votre vision d’un Québec plus équitable !  
+<li class="carte"><strong class="h5">Autonomie pour les jeunes en rupture</strong>
+<p>Des jeunes sans soutien familial ont pu poursuivre des études ou un projet de vie sans basculer dans la survie (voir p. 14)[^forget2017]. Une base minimale ouvre la porte à un avenir digne.</p></li>
+</ul>
+</section>
 
-## Références et Sources  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand l’équité devient réelle</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-[^haushofer2016]: Haushofer & Shapiro. 2016. "The Short-Term Impact of Unconditional Cash Transfers to the Poor."  
-[^iris2017]: IRIS. 2017. "L’allocation universelle : plus qu’un rêve, une possibilité."  
-[^rawls1971]: Rawls, John. 1971. "A Theory of Justice." Harvard University Press.  
+<ul class="grille">
+<li class="carte">Les écarts entre les riches et les pauvres cessent de se creuser.</li>
+<li class="carte">Un enfant naît avec les mêmes chances, peu importe son code postal.</li>
+<li class="carte">Personne n’est empêché de participer à la société par manque de ressources.</li>
+<li class="carte">On n’a plus besoin de prouver sa misère pour être aidé.</li>
+<li class="carte">L’équité devient le socle commun de la liberté.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que pourriez-vous faire si vous partiez du même point que tout le monde ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
+
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« Mes enfants ont droit à un avenir, même si je suis seule. »</p><cite class="h4">Marie-Claude P.</cite></blockquote>
+<blockquote class="carte"><p>« Pour une fois, je ne suis pas obligé de choisir entre manger et payer mes livres. »</p><cite class="h4">Zakaria B.</cite></blockquote>
+<blockquote class="carte"><p>« L’équité, ce n’est pas donner pareil à tout le monde. C’est permettre à chacun d’avancer. »</p><cite class="h4">Louise D.</cite></blockquote>
+</div>
+
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus équitable</em> est possible.</p>
+</section>
+
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level: Why Equality is Better for Everyone.* pp. 19, 31, 42, 54.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 5, 14, 19, 31.  
+[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* CCPA. pp. 22.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 23–24.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 7, 38.  
+[^sen1999]: Sen, Amartya. 1999. *Development as Freedom.* pp. 24.  

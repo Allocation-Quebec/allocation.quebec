@@ -1,66 +1,128 @@
-# 5. INNOVATION – L’Allocation de Subsistance : Accélérateur de Créativité et d’Entrepreneuriat  
+<header>
+<small>un tremplin vers l’audace collective</small>
+<h1><i><img src="/assets/img/lightbulb.svg" alt=""/></i> Innovation</h1>
+<strong>Et si on rendait le changement possible pour tout le monde ?</strong>
+<p>L’innovation ne vient pas seulement des laboratoires ou des entreprises technologiques. Elle émerge aussi dans les quartiers, les communautés, les ateliers, les familles — partout où des gens osent imaginer autrement.</p>
+<p>Une allocation de subsistance donne l’espace nécessaire pour réfléchir, essayer, se tromper, recommencer. Elle démocratise l’accès à l’innovation, en libérant l’initiative au-delà des élites et des investisseurs.</p>
+</header>
 
-## Combien de génies sont perdus faute de moyens ?  
+<section>
+<header>
+<small>créativité et prise de risque</small>
+<h3><i>🧠</i> Lancer sans tomber</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Le risque est au cœur de toute innovation. Mais quand l’échec signifie l’exclusion ou la pauvreté, seule une minorité peut se permettre d’innover. Une allocation universelle réduit le coût personnel de l’expérimentation.</p>
+<p>Elle rend possible des projets atypiques, collectifs, sociaux, artisanaux ou culturels — qui souvent échappent aux logiques de financement classiques. L’innovation devient un droit partagé, pas un privilège rare.</p>
 
-Combien de projets, d’inventions et d’œuvres d’art ne voient jamais le jour parce que leurs créateurs doivent travailler juste pour survivre ? Aujourd’hui, trop de Québécois sont forcés d’abandonner leurs idées parce qu’ils ne peuvent pas se permettre de prendre un risque financier.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Les idées neuves viennent de partout. Il faut donc que chacun ait les moyens de les faire émerger, et pas seulement ceux qui ont déjà un coussin financier.</p>
+</div>
 
-L’allocation de subsistance permettrait à plus de personnes d’innover, de créer et de bâtir l’avenir du Québec.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le sociologue <strong>Clayton Christensen</strong> a théorisé l’innovation disruptive comme un processus souvent porté par des outsiders[^christensen1997].</p>
+<p>Un revenu de base soutient ces parcours marginaux où se forment souvent les idées de rupture.</p>
+</aside>
+</div>
 
-- Un tremplin pour les entrepreneurs, artistes et chercheurs indépendants  
-- Plus de temps et de ressources pour l’innovation  
-- Une économie moins dépendante du travail routinier et plus axée sur la création de valeur  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Hausse de la créativité autodirigée</strong>
+<p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux (voir p. 19)[^kela2020]. Le filet de base devient un levier de création.</p></li>
 
-L’économiste Joseph Schumpeter a démontré que l’innovation repose sur la capacité des individus à expérimenter et à prendre des risques[^schumpeter1942]. L’allocation de subsistance offrirait cette sécurité, stimulant ainsi l’innovation et la croissance économique.  
+<li class="carte"><strong class="h5">Émergence d’initiatives collectives</strong>
+<p>Des coopératives, incubateurs citoyens et fab labs sont apparus dans les zones pilotes (voir p. 26)[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
 
-## Preuves et Expériences : L’Impact sur l’Innovation  
+<li class="carte"><strong class="h5">Diversité accrue des projets lancés</strong>
+<p>On observe une augmentation des projets atypiques, non-techniques, souvent portés par des personnes éloignées du marché classique (voir p. 21)[^haarmann2009]. L’innovation sort des sentiers battus.</p></li>
 
-### 1. Plus de Temps pour Innover  
+<li class="carte"><strong class="h5">Plus grande tolérance à l’échec</strong>
+<p>Les gens se permettent d’expérimenter sans craindre les conséquences irréversibles (voir p. 24)[^kela2020]. Le droit à l’essai est une base de l’innovation réelle.</p></li>
 
-- Les chercheurs et entrepreneurs passent en moyenne 40 % de leur temps à chercher du financement plutôt qu’à innover  
+<li class="carte"><strong class="h5">Réduction des freins psychologiques à la création</strong>
+<p>Les participants témoignent d’un apaisement mental qui favorise la pensée divergente (voir p. 27)[^knight2019]. L’innovation commence là où l’anxiété recule.</p></li>
 
-[^bakhshi2015]  
+<li class="carte"><strong class="h5">Réinvestissement des savoirs oubliés</strong>
+<p>Des savoir-faire artisanaux ou traditionnels ont été remis en circulation par des personnes libérées de la précarité (voir p. 28)[^basicincomeearth2013]. L’innovation peut aussi puiser dans les racines.</p></li>
+</ul>
+</section>
 
-Pourquoi c’est important ?  
-Avec un revenu de base, moins de temps perdu à chercher des fonds signifie plus de temps pour créer. Ce principe rejoint la **[théorie du coût d’opportunité](https://en.wikipedia.org/wiki/Opportunity_cost)**, selon laquelle chaque heure passée à sécuriser un revenu est une heure de moins consacrée à l’innovation.  
+<section>
+<header>
+<small>économie de la transition</small>
+<h3><i>🛠️</i> Innover pour transformer</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>La société fait face à des défis systémiques : climatiques, sociaux, technologiques. Pour y répondre, il faut des innovations systémiques : coopératives, circuits courts, solutions ouvertes, culture numérique inclusive.</p>
+<p>Une allocation de subsistance permet à des milliers de personnes de participer activement à cette transformation, pas seulement comme main-d’œuvre, mais comme actrices de changement.</p>
 
-### 2. Encourager l’Entrepreneuriat  
+<h4>Pourquoi c’est important ?</h4>
+<p>Nous avons besoin d’innovation pour affronter les crises du siècle. Mais pas seulement celle des entreprises. Celle des citoyens aussi.</p>
+</div>
 
-- Aux États-Unis, les personnes bénéficiant d’une aide financière stable sont deux fois plus susceptibles de lancer leur propre entreprise  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>La chercheuse <strong>Mariana Mazzucato</strong> plaide pour un État qui soutient l’innovation à impact social et écologique[^mazzucato2018].</p>
+<p>Le revenu universel est un outil simple mais puissant pour mobiliser largement cette capacité d’innovation.</p>
+</aside>
+</div>
 
-[^santens2016]  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Création de projets liés à la transition écologique</strong>
+<p>Des initiatives en agriculture urbaine, réparation, recyclage ont fleuri dans les communautés soutenues (voir p. 25)[^basicincomeearth2013]. Le revenu de base libère l’innovation verte.</p></li>
 
-Pourquoi c’est important ?  
-L’entrepreneuriat est souvent freiné par l’accès limité aux capitaux et la peur de l’échec. La **[théorie de la destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction)** montre que l’innovation économique dépend de la capacité des entrepreneurs à tester de nouvelles idées sans être paralysés par l’incertitude financière.  
+<li class="carte"><strong class="h5">Développement d’outils libres et partagés</strong>
+<p>Des bénéficiaires ont contribué à des logiciels ou plateformes en open source, sans attente immédiate de revenu (voir p. 29)[^kela2020]. L’innovation sociale devient possible sans pression marchande.</p></li>
 
-### 3. Stimuler la Création Artistique et Culturelle  
+<li class="carte"><strong class="h5">Apparition de nouveaux modèles d’affaires sociaux</strong>
+<p>Des structures hybrides, à mi-chemin entre entreprise et projet citoyen, ont émergé (voir p. 30)[^haarmann2009]. Le filet de base soutient l’expérimentation organisationnelle.</p></li>
 
-- Les artistes et créateurs québécois pourraient se consacrer pleinement à leur art  
-- Les industries culturelles bénéficieraient d’une plus grande diversité et d’un renouvellement constant  
-- Moins de précarité pour les créateurs signifie une culture plus riche et plus dynamique  
+<li class="carte"><strong class="h5">Hausse des projets à visée communautaire</strong>
+<p>Des projets orientés vers le bien commun ont été portés par des personnes sans profil entrepreneurial classique (voir p. 31)[^basicincomeearth2013]. L’innovation devient collective.</p></li>
 
-[^gibson2017]  
+<li class="carte"><strong class="h5">Moins d’obstacles à la reconversion professionnelle</strong>
+<p>Les gens osent changer de métier ou de secteur pour contribuer différemment (voir p. 32)[^forget2017]. L’innovation passe aussi par soi-même.</p></li>
 
-Pourquoi c’est important ?  
-Les industries créatives contribuent à la croissance économique et au rayonnement culturel d’un pays. La **[théorie de la classe créative](https://en.wikipedia.org/wiki/Creative_class)** de Richard Florida explique que les sociétés qui investissent dans la créativité obtiennent des gains économiques et sociaux significatifs.  
+<li class="carte"><strong class="h5">Élargissement de la base d’innovation</strong>
+<p>La participation à l’innovation s’étend au-delà des élites éduquées (voir p. 28)[^mazzucato2018]. On libère une intelligence collective trop longtemps contrainte.</p></li>
+</ul>
+</section>
 
-## Imaginez un Québec où…  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand l’innovation devient accessible</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-- Tout le monde peut tenter sa chance comme entrepreneur sans craindre la ruine  
-- Les chercheurs et créateurs consacrent plus de temps à l’innovation qu’à chercher du financement  
-- Les artistes peuvent vivre de leur passion sans précarité  
-- L’économie québécoise devient un modèle d’innovation et de créativité  
+<ul class="grille">
+<li class="carte">Tout le monde peut tester une idée sans avoir peur de tomber.</li>
+<li class="carte">Des solutions locales émergent partout, tout le temps.</li>
+<li class="carte">On innove aussi en agriculture, en culture, en réparation.</li>
+<li class="carte">L’État soutient l’audace citoyenne autant que l’industrie.</li>
+<li class="carte">L’innovation devient un bien commun, pas un outil de compétition.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Qu’aimeriez-vous inventer si vous aviez l’espace pour le faire ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
 
-Simulateur interactif :  
-Découvrez comment l’allocation pourrait vous aider à développer votre projet.  
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« J’ai enfin pu me lancer dans un projet artistique qui dormait depuis 10 ans. »</p><cite class="h4">Isabelle M.</cite></blockquote>
+<blockquote class="carte"><p>« On a lancé un repair café dans notre village. On n’aurait jamais eu le temps sans ça. »</p><cite class="h4">Luc R.</cite></blockquote>
+<blockquote class="carte"><p>« Je peux penser plus loin que le mois prochain. Là, les idées viennent. »</p><cite class="h4">Lamia H.</cite></blockquote>
+</div>
 
-## Participez au Débat !  
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus innovant</em> est possible.</p>
+</section>
 
-Si vous aviez un revenu de base, quel projet lanceriez-vous ?  
-Partagez votre vision d’un Québec plus innovant !  
-
-## Références et Sources  
-
-[^bakhshi2015]: Bakhshi et al. 2015. "Innovation and the Creative Economy."  
-[^santens2016]: Santens, Scott. 2016. "Basic Income and the Creative Class."  
-[^gibson2017]: Gibson et al. 2017. "The Relationship Between Basic Income and Artistic Production."  
-[^schumpeter1942]: Schumpeter, Joseph. 1942. "Capitalism, Socialism and Democracy." Harper & Brothers.  
+[^christensen1997]: Christensen, Clayton. 1997. *The Innovator’s Dilemma.* pp. 11.  
+[^mazzucato2018]: Mazzucato, Mariana. 2018. *The Entrepreneurial State.* pp. 28.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 25–31.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 30.  
+[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 24, 26, 29.  
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 32.  

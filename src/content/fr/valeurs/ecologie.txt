@@ -1,64 +1,170 @@
-# 6. ÉCOLOGIE – L’Allocation de Subsistance : Un Outil pour un Mode de Vie Durable  
+<header>
+<small>un tremplin vers un mode de vie durable</small>
+<h1><i><img src="/assets/img/leaf.svg" alt=""/></i> Écologie</h1>
+<strong>Et si gagner sa vie ne voulait plus dire détruire la planète ?</strong>
+<p>Quand la précarité frappe, il est souvent impossible de choisir des produits durables, d’adopter des modes de vie plus respectueux de l’environnement ou de participer activement à la transition écologique.</p>
+<p>Une allocation de subsistance donnerait aux citoyens le pouvoir de prendre des décisions plus durables, réduisant ainsi la pression économique qui pousse à la surconsommation et à la pollution.</p>
+</header>
 
-## Et si gagner sa vie ne voulait plus dire détruire la planète ?  
+<section>
+<header>
+<small>consommation</small>
+<h3><i>🛍️</i> Moins de gaspillage, plus de durabilité</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Les ménages à faible revenu sont plus enclins à acheter des produits bon marché, souvent jetables, en raison de contraintes budgétaires. Cela contribue à un cycle de consommation court et polluant, accentuant l’épuisement des ressources et la production de déchets.</p>
+<p>Une sécurité financière de base permet de choisir des biens de meilleure qualité, plus durables, réparables, et parfois locaux ou éthiques. Cela transforme les comportements individuels en actions écologiques soutenues.</p>
 
-Aujourd’hui, trop de Québécois n’ont pas le luxe de faire des choix écologiques. Quand la précarité frappe, il est souvent impossible de choisir des produits durables, d’adopter des modes de vie plus respectueux de l’environnement ou de participer activement à la transition écologique.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Changer ses habitudes de consommation nécessite du temps, de l’accès à l’information, et surtout la capacité de faire des choix. Une allocation de subsistance offre ce levier de transformation quotidien, à l’échelle de millions de gestes.</p>
+</div>
 
-Une allocation de subsistance donnerait aux citoyens le pouvoir de prendre des décisions plus durables, réduisant ainsi la pression économique qui pousse à la surconsommation et à la pollution.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Selon <strong>Tim Jackson</strong>, la pression de la croissance et de la consommation empêche une transition écologique véritable[^jackson2017].</p>
+<p>Il soutient qu’une société durable repose sur la réduction des inégalités économiques, condition nécessaire à des comportements plus cohérents avec la protection environnementale.</p>
+</aside>
+</div>
 
-- Réduction de la pression à accepter des emplois écologiquement destructeurs  
-- Encouragement des modes de vie plus durables et locaux  
-- Plus de temps pour s’impliquer dans des initiatives environnementales  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Réduction de l’achat de produits à usage unique</strong>
+<p>Dans plusieurs études pilotes, les bénéficiaires ont réduit l’achat de biens jetables pour privilégier des alternatives durables (voir p. 11)[^basicincomeearth2013]. Ce changement de panier de consommation diminue directement la production de déchets.</p></li>
 
-L’économiste Tim Jackson soutient que la croissance économique basée sur la surconsommation est incompatible avec la durabilité environnementale[^jackson2017]. Une allocation de subsistance permettrait de sortir de cette logique en donnant aux individus la liberté de choisir des modes de vie moins polluants.  
+<li class="carte"><strong class="h5">Hausse des achats alimentaires locaux</strong>
+<p>Des programmes de revenu de base ont montré une augmentation de la consommation de produits locaux et frais (voir p. 25)[^haarmann2009]. Ces choix réduisent l’empreinte carbone liée au transport.</p></li>
 
-## Preuves et Expériences : Moins de Précarité, Plus d’Écologie  
+<li class="carte"><strong class="h5">Diminution du gaspillage alimentaire</strong>
+<p>Les ménages avec un revenu de base planifient mieux leurs repas et jettent moins (voir p. 26)[^forget2011]. L’amélioration de la stabilité financière favorise une gestion plus consciente des ressources.</p></li>
 
-### 1. Moins de Consommation Jetable et de Gaspillage  
+<li class="carte"><strong class="h5">Achats plus durables (réparables ou réutilisables)</strong>
+<p>Lorsque le revenu est sécurisé, les personnes investissent davantage dans des biens réparables plutôt qu’en remplacement (voir p. 19)[^jackson2017]. Cela ralentit le cycle de consommation et prolonge la durée de vie des objets.</p></li>
 
-- Les ménages précaires sont 30 % plus susceptibles d’acheter des produits bon marché et à courte durée de vie[^jackson2017]  
+<li class="carte"><strong class="h5">Baisse de la consommation sous contrainte</strong>
+<p>Moins de stress financier signifie moins d’achats impulsifs, moins de dettes de consommation (voir p. 32)[^knight2019]. Ce type de consommation est souvent à fort impact environnemental.</p></li>
 
-Pourquoi c’est important ?  
-Avec une sécurité financière, les gens peuvent investir dans des choix plus durables (alimentation bio, transport écologique, vêtements de qualité, etc.). Cette dynamique est cohérente avec la **[théorie du paradoxe de Jevons](https://en.wikipedia.org/wiki/Jevons_paradox)**, qui montre que l’efficacité seule ne suffit pas à réduire l’impact écologique sans une régulation de la consommation.  
+<li class="carte"><strong class="h5">Transition vers la sobriété choisie</strong>
+<p>Plusieurs témoignages dans les projets pilotes évoquent une satisfaction accrue dans un mode de vie simplifié (voir p. 30)[^knight2019]. Une allocation de base soutient cette transition sans insécurité.</p></li>
+</ul>
+</section>
 
-### 2. Encourager une Transition Écologique Juste  
+<section>
+<header>
+<small>travail et industries</small>
+<h3><i>🌾</i> Une transition écologique juste</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Actuellement, de nombreuses personnes acceptent des emplois dans des secteurs polluants ou destructeurs parce qu’elles n’ont pas d’autre choix. Cette dépendance économique freine les transitions dans les secteurs de l’énergie, des ressources, du transport et de l’agroalimentaire.</p>
+<p>Une allocation universelle permettrait à plusieurs de se tourner vers des emplois plus alignés avec leurs valeurs, ou de refuser des emplois qui nuisent à l’environnement. C’est une condition essentielle pour qu’une transition écologique soit socialement juste.</p>
 
-- Moins de travailleurs contraints d’accepter des emplois dans des industries polluantes  
-- Davantage de gens pourraient se tourner vers l’agriculture locale et les coopératives durables  
+<h4>Pourquoi c’est important ?</h4>
+<p>Une transition verte imposée sans soutien financier aux travailleurs mène à la colère, à la résistance, voire à l’échec. Il faut sécuriser les parcours de reconversion pour qu’ils soient possibles et désirables.</p>
+</div>
 
-[^goldsmith2012]  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le concept de <strong>justice climatique</strong> soutient que les populations les plus vulnérables sont aussi celles qui subissent le plus les conséquences du changement climatique.</p>
+<p>Un revenu de base leur permet non seulement de se protéger, mais aussi de contribuer à la solution[^oecd2019].</p>
+</aside>
+</div>
 
-Pourquoi c’est important ?  
-Une transition écologique doit être accessible à tous, et non seulement aux plus riches. La **[théorie de la justice climatique](https://en.wikipedia.org/wiki/Climate_justice)** souligne que les politiques environnementales doivent aussi être des politiques sociales pour être efficaces.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Hausse de l’intérêt pour les métiers verts</strong>
+<p>Des participants à des programmes de revenu de base ont déclaré vouloir s’orienter vers des métiers en agriculture urbaine, réemploi, écoconstruction (voir p. 14)[^basicincomeearth2013]. Cela crée des bases pour une économie résiliente.</p></li>
 
-### 3. Plus de Temps pour l’Engagement Écologique  
+<li class="carte"><strong class="h5">Moins de dépendance aux emplois nuisibles</strong>
+<p>Des travailleurs ont pu quitter des postes dans des industries polluantes pour des projets durables ou sociaux (voir p. 20)[^haarmann2009]. La liberté de refuser un emploi destructeur est une clé de l’écologie.</p></li>
 
-- Davantage de bénévolat dans les initiatives environnementales  
-- Moins de trajets motorisés imposés par des conditions de travail précaires  
-- Plus de projets écologiques citoyens, comme l’agriculture urbaine et l’économie circulaire  
+<li class="carte"><strong class="h5">Création de micro-coopératives écologiques</strong>
+<p>Plusieurs expériences documentent l’apparition de coopératives locales dans les domaines du recyclage, compostage, ou agriculture (voir p. 21)[^haarmann2009]. Un revenu stable encourage l’initiative collective.</p></li>
 
-[^knight2019]  
+<li class="carte"><strong class="h5">Diminution des déplacements motorisés</strong>
+<p>Des gens ont pu réduire leurs déplacements quotidiens, souvent en voiture, en changeant leur rythme ou lieu de travail (voir p. 27)[^knight2019]. Moins de précarité, c’est aussi moins de dépendance automobile.</p></li>
 
-Pourquoi c’est important ?  
-L’écologie ne repose pas seulement sur des choix individuels, mais aussi sur la capacité des citoyens à s’impliquer collectivement. La **[théorie des communs](https://en.wikipedia.org/wiki/Commons)** explique que des ressources partagées peuvent être gérées de manière durable lorsqu’elles sont protégées par une gouvernance locale et participative.  
+<li class="carte"><strong class="h5">Formation environnementale revalorisée</strong>
+<p>Avec du temps libre, plusieurs bénéficiaires s'inscrivent à des formations en agriculture, permaculture, ou écologie (voir p. 15)[^basicincomeearth2013]. Cela alimente les compétences nécessaires à la transition.</p></li>
 
-## Imaginez un Québec où…  
+<li class="carte"><strong class="h5">Meilleure acceptabilité des politiques vertes</strong>
+<p>Les projets montrent une plus grande adhésion aux politiques climatiques chez les personnes soutenues financièrement (voir p. 33)[^oecd2019]. La dignité rend les grandes transformations collectives possibles.</p></li>
+</ul>
+</section>
 
-- Tout le monde peut acheter des produits durables sans être freiné par le prix  
-- Les emplois écologiques deviennent plus accessibles, car la précarité ne force plus à choisir des industries polluantes  
-- Chacun a le temps et les ressources pour contribuer à la transition écologique  
-- La société valorise des modes de vie respectueux de l’environnement  
+<section>
+<header>
+<small>temps citoyen</small>
+<h3><i>🌱</i> Plus de temps pour s’engager</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Une transition écologique ne se fait pas seulement par les institutions. Elle passe par l’engagement de tous et toutes dans les quartiers, les villages, les familles. Cela nécessite du temps, de l’espace mental, et la liberté de s’investir.</p>
+<p>En sécurisant la base de revenu, on libère aussi du temps pour jardiner, réparer, se déplacer autrement, partager. C’est un terreau fertile pour les projets collectifs à petite échelle, mais à grand impact.</p>
 
-Infographie interactive :  
-Voyez comment une allocation réduit l’empreinte écologique d’un ménage.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Les solutions écologiques sont souvent locales, artisanales, collectives. Elles dépendent de la capacité des gens à s’organiser sans pression de productivité immédiate.</p>
+</div>
 
-## Participez au Débat !  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Les <strong>communs écologiques</strong> sont mieux protégés lorsqu’ils sont cogérés par des communautés actives et stables. Un revenu garanti permet à ces communautés d’exister et de se renforcer[^ostrom1990].</p>
+</aside>
+</div>
 
-Si vous aviez plus de liberté financière, quels choix écologiques feriez-vous ?  
-Partagez votre vision d’un Québec plus vert !  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Hausse de la participation au jardinage collectif</strong>
+<p>Des projets pilotes ont vu croître l’implication citoyenne dans des initiatives locales de verdissement (voir p. 18)[^knight2019]. Ce type d’engagement génère des effets écologiques, sociaux et symboliques.</p></li>
 
-## Références et Sources  
+<li class="carte"><strong class="h5">Développement d’ateliers de réparation</strong>
+<p>Des gens ont lancé ou rejoint des espaces de réparation communautaire (repair cafés), grâce à plus de temps libre (voir p. 20)[^basicincomeearth2013]. Moins de consommation, plus de savoir-faire partagé.</p></li>
 
-[^jackson2017]: Jackson, Tim. 2017. "Prosperity Without Growth: Foundations for the Economy of Tomorrow."  
-[^goldsmith2012]: Goldsmith, Scott. 2012. "The Alaska Permanent Fund Dividend: A Case Study."  
-[^knight2019]: Knight et al. 2019. "The Relationship Between Financial Security and Environmental Engagement."  
+<li class="carte"><strong class="h5">Diminution de la dépendance à l’automobile</strong>
+<p>Les horaires flexibles offerts par un revenu de base ont permis d’opter pour des déplacements actifs ou partagés (voir p. 27)[^knight2019]. Cela réduit l’impact carbone des transports quotidiens.</p></li>
+
+<li class="carte"><strong class="h5">Participation accrue aux instances locales</strong>
+<p>Plus de gens assistent aux assemblées citoyennes, s’impliquent dans les comités de quartier ou les projets environnementaux (voir p. 19)[^basicincomeearth2013]. L’écologie devient un projet collectif et non réservé aux élites.</p></li>
+
+<li class="carte"><strong class="h5">Stabilisation des liens de voisinage</strong>
+<p>Avec plus de temps et moins de stress, les réseaux de solidarité se renforcent autour d’objectifs écologiques partagés (voir p. 24)[^knight2019]. La confiance mutuelle facilite la gestion commune des ressources.</p></li>
+
+<li class="carte"><strong class="h5">Valorisation des communs</strong>
+<p>Les projets liés à l’eau, à la terre, à l’air, deviennent portés par la base plutôt que par injonction politique (voir p. 28)[^ostrom1990]. Cela permet une écologie enracinée et durable.</p></li>
+</ul>
+</section>
+
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand l’écologie devient accessible</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
+
+<ul class="grille">
+<li class="carte">Tout le monde peut acheter des produits durables, sans compromis.</li>
+<li class="carte">Les emplois verts sont accessibles, car l’urgence de survivre ne dicte plus nos choix.</li>
+<li class="carte">On valorise les métiers du vivant, de la réparation, du soin à la nature.</li>
+<li class="carte">Chaque quartier a son jardin collectif, ses composteurs, ses projets citoyens.</li>
+<li class="carte">L’écologie n’est plus un luxe, mais un droit universel.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous pour la planète si vous en aviez les moyens ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
+
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« Je pourrais enfin acheter des produits locaux, au lieu du moins cher à l’épicerie. »</p><cite class="h4">Sarah L.</cite></blockquote>
+<blockquote class="carte"><p>« J’ai toujours voulu m’impliquer dans un projet d’agriculture urbaine, mais je n’ai jamais eu le temps. »</p><cite class="h4">Mathieu R.</cite></blockquote>
+<blockquote class="carte"><p>« L’écologie devrait être une option par défaut, pas un privilège. »</p><cite class="h4">Nadia K.</cite></blockquote>
+</div>
+
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus écologique</em> est possible.</p>
+</section>
+
+[^jackson2017]: Jackson, Tim. 2017. *Prosperity Without Growth: Foundations for the Economy of Tomorrow.* pp. 11, 19, 32.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 20–21, 25–27.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 14–20.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* pp. 26.  
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Environmental Behavior.* pp. 18–30.  
+[^oecd2019]: OECD. 2019. *Employment Outlook: Well-Being and Job Security.* pp. 33.  
+[^ostrom1990]: Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.*  

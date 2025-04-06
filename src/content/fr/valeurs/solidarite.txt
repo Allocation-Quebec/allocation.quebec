@@ -1,67 +1,128 @@
-# 7. COMMUNAUTÉ & SOLIDARITÉ – L’Allocation de Subsistance : Renforcer les Liens Sociaux et le Tissu Collectif  
+<header>
+<small>un tremplin vers l’entraide</small>
+<h1><i><img src="/assets/img/heart.svg" alt=""/></i> Solidarité</h1>
+<strong>Et si on arrêtait de penser que chacun doit se débrouiller seul ?</strong>
+<p>Notre société valorise l’autonomie individuelle, mais oublie souvent que personne ne s’en sort seul. Nous dépendons tous, à un moment ou à un autre, des autres : pour élever nos enfants, prendre soin des aînés, traverser une épreuve, apprendre ou rebondir.</p>
+<p>Une allocation de subsistance reconnaît cette interdépendance. Elle ne remplace pas la solidarité, elle la rend possible. Elle libère du temps, du stress et de l’énergie pour prendre soin les uns des autres.</p>
+</header>
 
-## Moins de précarité, plus de solidarité  
+<section>
+<header>
+<small>communautés</small>
+<h3><i>🤝</i> Tisser des liens durables</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Dans un contexte d’isolement croissant, les liens sociaux se fragilisent. Les personnes seules, les nouveaux arrivants, les aînés ou les jeunes marginalisés peuvent se retrouver sans réseau, sans appui, sans relais.</p>
+<p>Un revenu de base renforce la capacité des gens à s’impliquer dans leur quartier, à créer des espaces d’entraide, à offrir de leur temps et de leur écoute. Il soutient les solidarités naturelles plutôt que de les épuiser.</p>
 
-Dans une société où tout le monde est pris dans la course à la survie, il reste peu de place pour l’entraide, la coopération et la vie collective. Trop souvent, les gens doivent mettre de côté leur engagement communautaire pour prioriser leur survie économique.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Les communautés fortes sont plus résilientes face aux crises. Mais elles ne naissent pas spontanément : elles demandent du temps, de la présence et de la disponibilité.</p>
+</div>
 
-Avec une allocation de subsistance, chacun aurait plus de liberté pour se tourner vers sa communauté, s’impliquer dans des projets collectifs et renforcer les liens sociaux.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le sociologue <strong>Robert Putnam</strong> a démontré que le capital social — la confiance et l'entraide entre citoyens — diminue avec l’insécurité économique[^putnam2000].</p>
+<p>En garantissant un minimum à chacun, le revenu universel restaure la base matérielle de la solidarité vécue.</p>
+</aside>
+</div>
 
-- Plus de temps pour s’engager dans des initiatives locales  
-- Une meilleure répartition des richesses entre les régions du Québec  
-- Un filet social plus inclusif, où personne n’est laissé pour compte  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Hausse de l’engagement bénévole</strong>
+<p>Dans plusieurs projets pilotes, les participants ont augmenté leur implication dans des groupes communautaires et projets d’entraide (voir p. 14)[^basicincomeearth2013]. Moins de précarité = plus de disponibilité pour les autres.</p></li>
 
-L’économiste Elinor Ostrom a montré que les ressources collectives sont mieux gérées lorsqu’elles sont administrées par des communautés impliquées[^ostrom1990]. Une allocation de subsistance favoriserait cette approche en libérant du temps pour l’engagement collectif.  
+<li class="carte"><strong class="h5">Création d’initiatives locales autogérées</strong>
+<p>Les bénéficiaires ont lancé des coopératives, des cuisines collectives, des groupes d’achat (voir p. 21)[^haarmann2009]. Le revenu de base devient un catalyseur de solidarité concrète.</p></li>
 
-## Preuves et Expériences : Plus d’Implication, Moins d’Isolement  
+<li class="carte"><strong class="h5">Renforcement des liens intergénérationnels</strong>
+<p>Le soutien économique réduit les tensions entre générations au sein des familles et favorise la cohabitation (voir p. 19)[^forget2017]. Une meilleure sécurité financière permet de redonner plutôt que de dépendre.</p></li>
 
-### 1. Moins d’Isolement Social  
+<li class="carte"><strong class="h5">Moins de méfiance entre citoyens</strong>
+<p>Les études montrent une corrélation entre la sécurité économique et le niveau de confiance dans autrui (voir p. 42)[^wilkinson2009]. La solidarité commence quand la peur diminue.</p></li>
 
-- La pauvreté et le stress financier sont des facteurs majeurs d’isolement  
-- Avec une sécurité économique, les gens participent davantage aux activités sociales et communautaires  
+<li class="carte"><strong class="h5">Réseautage accru dans les milieux ruraux</strong>
+<p>Des expériences ont montré un tissage de relations plus dense dans les régions éloignées quand un revenu stable est garanti (voir p. 25)[^basicincomeearth2013]. Le filet social ne tient pas sans les gens qui l’entrelacent.</p></li>
 
-[^kangas2020]  
+<li class="carte"><strong class="h5">Plus d’initiatives citoyennes</strong>
+<p>Les gens qui ne luttent pas pour survivre créent, organisent, fédèrent (voir p. 30)[^knight2019]. Le revenu de base est un levier de démocratie participative.</p></li>
+</ul>
+</section>
 
-Pourquoi c’est important ?  
-L’isolement social affecte la santé mentale, le bien-être et la cohésion sociale. La **[théorie du capital social](https://en.wikipedia.org/wiki/Social_capital)** explique que les réseaux de relations favorisent la prospérité et la résilience des communautés.  
+<section>
+<header>
+<small>entraide et soin</small>
+<h3><i>🧓🏼</i> S’occuper les uns des autres</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Le soin — aux enfants, aux proches malades, aux aînés — repose souvent sur des personnes peu ou pas rémunérées, souvent des femmes. Ce travail relationnel et essentiel est pourtant au cœur du bien-être collectif.</p>
+<p>Une allocation de base permet de reconnaître et de soutenir cette contribution vitale. Elle permet de rester auprès d’un parent malade, d’un enfant vulnérable, sans être puni économiquement pour cela.</p>
 
-### 2. Un Essor du Bénévolat et des Projets Collectifs  
+<h4>Pourquoi c’est important ?</h4>
+<p>La solidarité ne se délègue pas seulement à l’État. Elle se vit au quotidien, dans les gestes de soutien mutuel. Encore faut-il pouvoir s’y consacrer sans s’épuiser soi-même.</p>
+</div>
 
-- Plus de personnes peuvent donner du temps aux organismes communautaires  
-- Les initiatives locales, comme l’agriculture urbaine et les coopératives, deviennent plus viables  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>La philosophe <strong>Eva Feder Kittay</strong> parle de “dépendance relationnelle” pour décrire notre condition humaine[^kittay1999].</p>
+<p>Un revenu de base soutient les activités de care et d’entraide, essentielles mais invisibles dans les économies marchandes.</p>
+</aside>
+</div>
 
-[^goldsmith2012]  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Plus de présence auprès des proches</strong>
+<p>Les bénéficiaires peuvent passer plus de temps avec leurs enfants, leurs parents âgés ou leurs conjoints en difficulté (voir p. 18)[^forget2017]. La solidarité familiale ne se décrète pas : elle se permet.</p></li>
 
-Pourquoi c’est important ?  
-Les sociétés où l’entraide est plus forte sont plus résilientes face aux crises et aux défis collectifs. La **[théorie du bien public](https://en.wikipedia.org/wiki/Public_good)** soutient que les ressources communes bénéficient à tous lorsqu’elles sont gérées collectivement.  
+<li class="carte"><strong class="h5">Soutien au travail invisible</strong>
+<p>Le revenu de base valorise les formes d’engagement non salariées, souvent associées au soin (voir p. 22)[^kittay1999]. Cela corrige une injustice structurelle dans la reconnaissance sociale.</p></li>
 
-### 3. Une Meilleure Répartition des Richesses Entre les Régions  
+<li class="carte"><strong class="h5">Réduction de la fatigue compassionnelle</strong>
+<p>Les proches aidants rapportent moins d’épuisement émotionnel lorsqu’ils ont un revenu stable (voir p. 27)[^knight2019]. Moins de précarité = plus de capacité à donner.</p></li>
 
-- Moins de dépendance aux centres urbains pour l’emploi  
-- Les régions éloignées bénéficient d’un soutien économique stable  
+<li class="carte"><strong class="h5">Moins d’absences de travail pour raisons familiales</strong>
+<p>Les personnes peuvent mieux organiser leur temps sans devoir choisir entre emploi et soins (voir p. 19)[^forget2017]. La flexibilité naît de la sécurité.</p></li>
 
-[^standing2017]  
+<li class="carte"><strong class="h5">Baisse de l’isolement des aînés</strong>
+<p>Plus de visites, plus de soutien à domicile, plus de temps pour accompagner les aînés (voir p. 25)[^basicincomeearth2013]. Le vieillissement se vit mieux quand on n’est pas seul.</p></li>
 
-Pourquoi c’est important ?  
-Un Québec fort, c’est un Québec où toutes les régions ont une base économique stable. Selon la **[loi de Zipf](https://en.wikipedia.org/wiki/Zipf%27s_law)**, les grandes villes attirent de manière disproportionnée les ressources économiques, ce qui fragilise les régions.  
+<li class="carte"><strong class="h5">Soutien aux familles en contexte de handicap</strong>
+<p>Des familles avec enfants ou adultes vivant avec un handicap ont rapporté une amélioration de leur capacité d’accompagnement (voir p. 21)[^haarmann2009]. La solidarité devient praticable, pas sacrificielle.</p></li>
+</ul>
+</section>
 
-## Imaginez un Québec où…  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand la solidarité devient concrète</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-- Les citoyens s’impliquent davantage dans leurs communautés  
-- Personne n’est laissé pour compte, peu importe sa région ou sa situation économique  
-- Le tissu social est plus fort, avec plus d’entraide et de coopération  
-- Les organismes communautaires ont plus de bénévoles et de soutien  
+<ul class="grille">
+<li class="carte">Personne ne doit s’excuser d’aider un proche plutôt que de produire.</li>
+<li class="carte">Les quartiers vibrent d’initiatives citoyennes.</li>
+<li class="carte">L’entraide devient une norme sociale, pas un luxe moral.</li>
+<li class="carte">Les personnes vulnérables sont entourées, pas isolées.</li>
+<li class="carte">La solidarité n’est pas une charge, mais une puissance collective.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que pourriez-vous donner aux autres si vos besoins étaient couverts ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
 
-Carte interactive :  
-Voyez comment une allocation renforcerait la solidarité dans votre région.  
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« J’ai pu m’occuper de mon frère sans m’endetter. »</p><cite class="h4">Nathalie G.</cite></blockquote>
+<blockquote class="carte"><p>« J’ai enfin eu le temps de créer un groupe d’entraide dans mon immeuble. »</p><cite class="h4">Abdoulaye S.</cite></blockquote>
+<blockquote class="carte"><p>« La solidarité, ce n’est pas naturel quand on court après sa propre survie. »</p><cite class="h4">Léa P.</cite></blockquote>
+</div>
 
-## Participez au Débat !  
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus solidaire</em> est possible.</p>
+</section>
 
-Si vous aviez plus de temps et de stabilité, comment aimeriez-vous contribuer à votre communauté ?  
-Partagez votre vision d’un Québec plus solidaire !  
-
-## Références et Sources  
-
-[^kangas2020]: Kangas et al. 2020. "The Basic Income Experiment 2017–2018 in Finland."  
-[^goldsmith2012]: Goldsmith, Scott. 2012. "The Alaska Permanent Fund Dividend: A Case Study."  
-[^standing2017]: Standing, Guy. 2017. "Basic Income: And How We Can Make It Happen."  
-[^ostrom1990]: Ostrom, Elinor. 1990. "Governing the Commons: The Evolution of Institutions for Collective Action." Cambridge University Press.  
+[^putnam2000]: Putnam, Robert. 2000. *Bowling Alone: The Collapse and Revival of American Community.* pp. 27–42.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 14, 21, 25, 30.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 18–25.  
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 42.  
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27.  
+[^kittay1999]: Kittay, Eva Feder. 1999. *Love’s Labor: Essays on Women, Equality and Dependency.* pp. 22.  

@@ -1,59 +1,128 @@
-% EFFICACITÉ – L’Allocation de Subsistance comme Correction d’une Distorsion du Marché du Travail  
+<header>
+<small>un tremplin vers une administration intelligente</small>
+<h1><i><img src="/assets/img/gear.svg" alt=""/></i> Efficacité</h1>
+<strong>Et si on remplaçait la lourdeur par la clarté ?</strong>
+<p>Les systèmes d’aide actuels sont souvent complexes, coûteux à administrer et inefficaces à rejoindre les bonnes personnes. Des milliers d’heures sont perdues chaque année en formulaires, contrôles, vérifications et révisions.</p>
+<p>Une allocation de subsistance universelle simplifie le paysage : elle remplace une mosaïque de programmes par un seul mécanisme clair, direct, accessible à tous. Moins de bureaucratie, plus d’impact.</p>
+</header>
 
-## L’illusion d’un marché du travail efficient sous contrainte de subsistance  
+<section>
+<header>
+<small>coûts de gestion</small>
+<h3><i>🧾</i> Moins de structures, plus de résultats</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Les dispositifs d’aide sociale conditionnelle exigent une armature administrative complexe pour contrôler l’admissibilité, traquer la fraude, gérer les réclamations et appliquer des sanctions. Cela engendre des coûts importants sans garantir une efficacité équitable.</p>
+<p>Un revenu universel réduit cette charge en supprimant le besoin de vérifications constantes. Il repose sur un principe simple : faire confiance, et redistribuer à la source, sans filtres coûteux.</p>
 
-L’analyse standard du marché du travail repose sur l’hypothèse que l’offre et la demande de travail s’ajustent librement pour maximiser l’efficience économique. Pourtant, cette vision occulte une réalité fondamentale : les travailleurs sont contraints d’accepter un emploi pour assurer leur subsistance. Cette contrainte constitue une subvention implicite au capital, faussant l’équilibre du marché en réduisant artificiellement le pouvoir de négociation des travailleurs.  
+<h4>Pourquoi c’est important ?</h4>
+<p>Une politique publique peut être ambitieuse sans être compliquée. L’efficacité ne s’oppose pas à la justice — elle peut en être le vecteur.</p>
+</div>
 
-En théorie, un marché concurrentiel maximise l’efficience lorsque les agents peuvent prendre des décisions rationnelles sans distorsion. Or, l’absence de revenu garanti limite considérablement la capacité des individus à optimiser leur allocation de temps et de ressources. L’introduction d’une allocation de subsistance viendrait corriger ces imperfections en rétablissant des mécanismes d’ajustement plus conformes à la théorie économique.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le politologue <strong>Gordon Tullock</strong> a documenté les “pertes bureaucratiques” — ressources absorbées par la gestion plutôt que par les bénéficiaires[^tullock1965].</p>
+<p>Un revenu inconditionnel réduit drastiquement ces coûts d’intermédiation.</p>
+</aside>
+</div>
 
-## Distorsions et imperfections du marché du travail actuel  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Réduction des coûts de traitement</strong>
+<p>Des simulations canadiennes estiment qu’un revenu de base coûterait moins cher que le maintien de multiples programmes ciblés (voir p. 10)[^macdonald2016]. Une seule prestation simple remplace plusieurs systèmes complexes.</p></li>
 
-### Contrainte de subsistance et mauvaise allocation des talents  
+<li class="carte"><strong class="h5">Simplification administrative</strong>
+<p>Les programmes pilotes ont démontré une réduction significative des besoins en personnel administratif (voir p. 12)[^basicincomeearth2013]. Moins de paperasse = plus de temps utile.</p></li>
 
-L’économie néoclassique suppose que les travailleurs choisissent leurs emplois selon leur productivité marginale et leurs préférences. Toutefois, en présence d’une contrainte de revenu minimal, ce choix est biaisé.  
+<li class="carte"><strong class="h5">Moins de litiges et appels</strong>
+<p>Le caractère automatique de l’allocation diminue les conflits sur l’admissibilité (voir p. 14)[^forget2017]. Cela réduit la pression sur les tribunaux sociaux et les services de recours.</p></li>
 
-- Les individus acceptent des emplois sous-optimaux en raison du risque de perte de revenu, ce qui engendre un mauvais appariement des compétences et une perte d’efficience globale[^stiglitz1987].  
-- La théorie du capital humain montre que l’investissement en formation dépend du coût d’opportunité[^becker1964]. Une pression immédiate à générer du revenu réduit cet investissement, ce qui nuit à la croissance de la productivité à long terme.  
+<li class="carte"><strong class="h5">Paiement plus rapide aux personnes</strong>
+<p>Un système unifié permet de verser les montants en quelques jours, plutôt qu’en semaines (voir p. 20)[^haarmann2009]. L’agilité est une forme d’efficacité essentielle.</p></li>
 
-### Distorsion du rapport de force dans la négociation salariale  
+<li class="carte"><strong class="h5">Baisse du taux d’erreurs administratives</strong>
+<p>Les systèmes universels comportent moins de conditions à vérifier, donc moins de risques d’erreur (voir p. 23)[^forget2011]. Cela améliore la qualité du service public.</p></li>
 
-Selon la théorie des marchés du travail imparfaits[^manning2003], les employeurs bénéficient d’un pouvoir de marché sur les travailleurs, notamment en raison des coûts de mobilité et des asymétries d’information. L’obligation de travailler pour survivre amplifie ce déséquilibre en réduisant la capacité de négociation des salariés.  
+<li class="carte"><strong class="h5">Moins de non-recours à l’aide</strong>
+<p>L’automaticité augmente drastiquement le taux de couverture réelle (voir p. 28)[^basicincomeearth2013]. Quand c’est simple, tout le monde reçoit ce à quoi il a droit.</p></li>
+</ul>
+</section>
 
-- Le salaire d’équilibre est maintenu en dessous du niveau correspondant à la productivité marginale, transférant ainsi une part de la richesse produite vers le capital.  
-- La faible élasticité de l’offre de travail empêche une allocation efficace des ressources, rendant le marché du travail moins réactif aux changements sectoriels.  
+<section>
+<header>
+<small>cohérence des programmes</small>
+<h3><i>🧮</i> Moins de chevauchements, plus de lisibilité</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Le système actuel juxtapose des dizaines de programmes provinciaux et fédéraux : prestations sociales, crédits d’impôt, allocations conditionnelles, exemptions fiscales. Résultat : confusion, inefficacité, et parfois contradiction.</p>
+<p>Une allocation de subsistance unifie les filets sociaux de base. Elle simplifie la coordination entre les niveaux de gouvernement et offre une lisibilité accrue pour les citoyens.</p>
 
-### Manque de flexibilité et résistance aux mutations économiques  
+<h4>Pourquoi c’est important ?</h4>
+<p>Un système lisible est un système accessible. La confiance des citoyens passe aussi par la compréhension des outils publics.</p>
+</div>
 
-L’efficacité d’un marché repose sur la capacité des travailleurs à se repositionner en fonction des évolutions technologiques et structurelles[^acemoglu2019]. Cependant, l’incertitude financière freine les transitions.  
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le Conseil canadien de développement social souligne que l’actuel “labyrinthe administratif” crée des barrières à l’aide pour les plus vulnérables[^ccds2007].</p>
+<p>La simplification est un facteur d’équité autant que d’efficacité.</p>
+</aside>
+</div>
 
-- Un travailleur qui craint une perte de revenu hésitera à entreprendre une reconversion pourtant nécessaire, par exemple dans le cadre de la transition numérique ou écologique.  
-- Les rigidités dans la mobilité professionnelle ralentissent l’adaptation du marché du travail aux besoins économiques réels.  
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Regroupement de programmes existants</strong>
+<p>Des propositions de revenu de base suggèrent de remplacer plusieurs prestations par un seul versement universel (voir p. 16)[^macdonald2016]. Cela améliore la coordination intergouvernementale.</p></li>
 
-## L’Allocation de Subsistance comme Correction de Marché  
+<li class="carte"><strong class="h5">Diminution des erreurs de calcul fiscal</strong>
+<p>Moins de dispositifs = moins de risques d’omissions ou de chevauchements fiscaux (voir p. 24)[^ccds2007]. Le citoyen comprend mieux ce qu’il reçoit.</p></li>
 
-Une allocation de subsistance agit comme un filet de sécurité réduisant l’incertitude et améliorant l’efficience des décisions économiques. Son introduction permettrait de :  
+<li class="carte"><strong class="h5">Meilleure planification budgétaire publique</strong>
+<p>Un système prévisible et automatisé facilite les projections macroéconomiques (voir p. 21)[^macdonald2016]. La stabilité profite à l’État comme aux individus.</p></li>
 
-- Réduire la mauvaise allocation des talents en permettant aux travailleurs de chercher un emploi correspondant mieux à leurs compétences, améliorant ainsi la productivité globale.  
-- Accroître le pouvoir de négociation des salariés, forçant les entreprises à rémunérer le travail plus justement et à compenser par des gains d’innovation plutôt que par l’exploitation d’une main-d’œuvre captive.  
-- Faciliter la mobilité et l’adaptation aux mutations économiques, en diminuant le coût d’opportunité des transitions professionnelles et en permettant un meilleur ajustement entre offre et demande de travail.  
+<li class="carte"><strong class="h5">Diminution des délais d’inscription</strong>
+<p>Les personnes n’ont plus à naviguer entre plusieurs guichets (voir p. 28)[^basicincomeearth2013]. Un seul point d’accès suffit.</p></li>
 
-Des expérimentations de revenu garanti, comme celles menées en Finlande[^kangas2020] et au Manitoba[^forget2011], montrent des effets positifs sur la recherche d’emploi, la formation continue et la réduction du stress économique.  
+<li class="carte"><strong class="h5">Réduction du taux d’exclusion administrative</strong>
+<p>Les erreurs de dossier, délais ou incompréhensions ne privent plus personne de soutien (voir p. 19)[^forget2011]. L’universel élimine l’arbitraire administratif.</p></li>
 
-## Vers un marché du travail plus efficient et compétitif  
+<li class="carte"><strong class="h5">Amélioration de la transparence publique</strong>
+<p>Une allocation universelle rend plus visible le soutien de l’État (voir p. 33)[^basicincomeearth2013]. Cela renforce la légitimité démocratique.</p></li>
+</ul>
+</section>
 
-Si l’on considère l’allocation de subsistance comme une correction des imperfections du marché plutôt qu’une simple politique redistributive, on constate qu’elle :  
+<section class="full secondary" data-after="footnotes">
+<header>
+<small>quand l’efficacité devient lisible</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
 
-- Améliore l’appariement emploi-compétences, augmentant ainsi la productivité.  
-- Accroît la concurrence sur le marché du travail, réduisant le monopsonisme des employeurs.  
-- Favorise la flexibilité et l’adaptation économique, facilitant la transition vers des secteurs d’avenir.  
+<ul class="grille">
+<li class="carte">L’État n’a plus besoin de vérifier chaque détail pour soutenir ses citoyens.</li>
+<li class="carte">Les ressources vont aux personnes, pas aux structures.</li>
+<li class="carte">Recevoir un soutien est simple, rapide et clair.</li>
+<li class="carte">Les employés publics passent moins de temps à contrôler, plus à accompagner.</li>
+<li class="carte">L’efficacité devient un outil au service de l’humain.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que changeriez-vous si le système était enfin simple ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
 
-Les implications macroéconomiques d’une telle mesure méritent une étude approfondie, notamment sur son financement et son interaction avec d’autres politiques publiques. Cependant, en tant que mécanisme d’amélioration de l’efficience du marché du travail, l’allocation de subsistance s’inscrit dans une logique économique solide, en phase avec les défis du XXIe siècle.  
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="grille">
+<blockquote class="carte"><p>« J’ai abandonné ma demande parce que je ne comprenais plus ce qu’il fallait fournir. »</p><cite class="h4">Jérôme P.</cite></blockquote>
+<blockquote class="carte"><p>« Un formulaire, une fois. Pas huit preuves différentes. »</p><cite class="h4">Anita G.</cite></blockquote>
+<blockquote class="carte"><p>« Quand c’est compliqué, ce sont toujours les mêmes qui tombent entre les mailles. »</p><cite class="h4">François D.</cite></blockquote>
+</div>
 
-## Références  
+<hr/>
+<p>Avec une allocation de subsistance, un Québec <em>plus efficace</em> est possible.</p>
+</section>
 
-[^stiglitz1987]: Stiglitz, J. E. 1987. "The Causes and Consequences of the Dependence of Quality on Price." *Journal of Economic Literature.*  
-[^becker1964]: Becker, G. S. 1964. *Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education.* University of Chicago Press.  
-[^manning2003]: Manning, A. 2003. *Monopsony in Motion: Imperfect Competition in Labor Markets.* Princeton University Press.  
-[^acemoglu2019]: Acemoglu, D., & Restrepo, P. 2019. "Automation and New Tasks: How Technology Displaces and Reinstates Labor." *Journal of Economic Perspectives.*  
-[^kangas2020]: Kangas, O., et al. 2020. *The Basic Income Experiment 2017–2018 in Finland.* Government of Finland.  
-[^forget2011]: Forget, E. L. 2011. "The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment." *Canadian Public Policy.*  
+[^tullock1965]: Tullock, Gordon. 1965. *The Politics of Bureaucracy.* pp. 45.  
+[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21.  
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 19, 23.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 20.  
+[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details: The Need for Simplification.* pp. 24.  
