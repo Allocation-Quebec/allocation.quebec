@@ -1,3 +1,7 @@
+@view-transition {
+  navigation: auto;
+}
+
 :root {
 	--Grotesk: aktiv-grotesk, "Aktiv Grotesk VF Trial";
 	--Condensed: aktiv-grotesk-condensed;
@@ -9,7 +13,6 @@ html {
 	
 	text-wrap: pretty;
 	font-family: "Aleo";
-	background-color: oklch(98% 6% 88deg);
 	scroll-padding-top: 40px;
 }
 
@@ -19,9 +22,13 @@ hr {
 
 body {
 	display: grid;
-	grid-template-columns: [full-start] 1fr [main-start header-start] minmax(0, min-content) [header-end nav-start] minmax(0, 120ch) [nav-end main-end] 1fr [full-end];
-	column-gap: var(--SpacingRow);
+	grid-template-columns: [full-start] minmax(var(--SpacingRow), 1fr) [main-start header-start] minmax(0, min-content) [header-end nav-start] minmax(0, 120ch) [nav-end main-end] minmax(var(--SpacingRow), 1fr) [full-end];
 	align-items: baseline;
+	background-color: oklch(45% 39% 274deg);
+
+	&>main {
+		background-color: oklch(98% 6% 88deg);
+	}
 
 	&>*, main>header {
 		grid-column: full;
@@ -32,7 +39,24 @@ body {
 	&>*>*, &>main>*>* {
 		grid-column: main;
 	}
+
+	&>nav {
+		grid-column: full;
+	}
+
+	@media (orientation: landscape) {
+		&>header {
+			grid-column: header;
+			margin-right: var(--SpacingRow);
+		}
+
+		&>nav {
+			grid-column: nav;
+		}
+
+	}
 }
+
 
 
 .signature {
@@ -55,31 +79,6 @@ body {
 }
 
 
-body>div {
-
-	/* align-items: center; */
-	/* gap: 40px; */
-	&>header {
-		grid-column: header;
-	}
-
-	&>nav {
-		grid-column: nav;
-	}
-
-	@media (orientation: portrait) {
-		display: contents;
-
-		&>:is(main, nav) {
-			grid-column: full;
-		}
-	}
-
-	background-color: oklch(45% 39% 274deg);
-
-}
-
-
 [id=entete-principal] {
 	--Color: oklch(98% 6% 88deg);
 	font-family: var(--Grotesk);
@@ -90,7 +89,6 @@ body>div {
 
 	@media (orientation: portrait) {
 		padding: var(--SpacingThinner) var(--SpacingRow);
-		background-color: oklch(45% 39% 274deg);
 		grid-column: full;
 	}
 }
@@ -199,6 +197,7 @@ h3>i {
 		display: flex;
 		align-items: baseline;
 		flex-wrap: nowrap;
+		gap: 0;
 
 		&>* {
 			flex-shrink: 0;
@@ -208,6 +207,10 @@ h3>i {
 
 		&>:is(div, a) {
 			padding: var(--SpacingThin);
+		}
+
+		&:has(>div:hover)>div:not(:hover) {
+			background-color: oklch(40% 36% 274deg);
 		}
 	}
 	& :is(a, h4) {
@@ -233,11 +236,8 @@ h3>i {
 		/* font-weight: 600; */
 	}
 
-	&:has(>div:hover)>div:not(:hover) {
-		background-color: oklch(40% 36% 274deg);
-	}
 
-	&>a:last-child {
+	&>div>a:last-child {
 		font-weight: 700;
 		margin-left: auto;
 	}
@@ -447,6 +447,10 @@ h4+p {
 
 	&>* {
 		margin: 0;
+	}
+
+	ul&, &:has(>blockquote) {
+		grid-template-columns: repeat(auto-fill, minmax(var(--SpacingLargest), 1fr));
 	}
 }
 
@@ -726,6 +730,10 @@ section>p:only-of-type {
 
 	}
 
+	&>p {
+		--ScaleLevel: var(--Short);
+	}
+
 	&>* {
 		flex-grow: 0;
 	}
@@ -755,7 +763,7 @@ section>p:only-of-type {
 	& a {
 		display: block;
 		text-decoration: none;
-		pointer-events: none;
+		/* pointer-events: none; */
 		background-color: oklch(45% 39% 274deg);
 
 		&:visited {
