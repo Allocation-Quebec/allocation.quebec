@@ -18,13 +18,10 @@
 	<xsl:template match="/">
 		<html lang="{$lang}">
 			<head>
-				<link rel="preconnect" href="https://fonts.googleapis.com"/>
+				<link rel="preload" href="/assets/fonts/Aleo-Regular.woff2" as="font" type="font/woff2"/>
+				<link rel="preload" href="/assets/fonts/Aleo-Italic.woff2" as="font" type="font/woff2"/>
 				<link rel="preconnect" href="https://use.typekit.net/"/>
-				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
-				<link href="https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&amp;family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&amp;display=swap" rel="stylesheet"/>
-				<!-- <script src="https://unpkg.com/htmx.org@1.9.11/dist/htmx.min.js" defer=""></script> -->
 				<link rel="stylesheet" href="https://use.typekit.net/dqe2ppu.css"/>
-
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<xsl:choose>
 					<xsl:when test="$lang='en'">
