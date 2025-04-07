@@ -1,7 +1,7 @@
 @layer theming {
 	/* Content rhythm ----------------------- */
-	/* stylelint-disable-next-line -- exception for visually-hidden */
-	:not(:where(html, body, nav, div, label, ul, ol, li, p, a, span))>:not(:where(link, script, .as-visually-hidden))~* {
+	/* stylelint-disable-next-line -- exception for is-invisible */
+	:not(:where(html, body, nav, div, label, ul, ol, li, p, a, span))>:not(:where(link, script, .is-invisible))~* {
 		margin-top: var(--SpacingRow);
 	}
 
@@ -63,7 +63,7 @@
 		margin-top: var(--SpacingLarge);
 	}
 
-	[hidden]:first-child+* {
+	where(:is([hidden]):first-child)+* {
 		margin-top: initial;
 	}
 }

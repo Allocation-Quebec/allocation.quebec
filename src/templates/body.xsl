@@ -26,7 +26,7 @@
 				<h1 class="signature">Allocation <em>Québec</em></h1>
 			</header>
 			<nav id="navigation-principale">
-				<h2 hidden="">Navigation principale</h2>
+				<h2 class="is-invisible">Navigation principale</h2>
 				<div>
 					<div class="menu-deroulant">
 						<h3 class="h5">Pourquoi ?</h3>
@@ -91,12 +91,12 @@
 			</main>
 			<footer id="pied-site" class="full secondary dark">
 				<article>
-					<h2 hidden="">Mission</h2>
+					<h2 class="is-invisible">Mission</h2>
 					<strong class="signature grande">Allocation <em>Québec</em></strong>
 					<p>invite les québécois.es à réfléchir collectivement à la création d’une allocation de subsistance, un projet de société porteur pour le XXI<sup>e</sup> siècle et dont les retombées positives bénéficieraient à tous et toutes.</p>
 				</article>
 				<section id="plan-site">
-					<h2 hidden="">Plan du site</h2>
+					<h2 class="is-invisible">Plan du site</h2>
 					<div>
 						<section>
 							<h3 class="h4">Pourquoi ?</h3>
