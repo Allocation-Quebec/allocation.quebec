@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>compétences et formation</small>
-<h3><i>📚</i> Mieux apprendre, mieux contribuer</h3>
+<h2 class="h3"><i>📚</i> Mieux apprendre, mieux contribuer</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Le développement des compétences est un moteur essentiel de productivité. Pourtant, de nombreuses personnes abandonnent la formation continue faute de temps, de moyens ou de sécurité financière.</p>
 <p>Un revenu de base offre l’opportunité de reprendre des études, d'explorer de nouvelles vocations, ou simplement de se mettre à jour. Il réduit la pression à accepter n’importe quel emploi au détriment d’un développement durable.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Apprendre est un investissement. Une société productive est une société où chacun a les moyens de progresser à son rythme et selon ses talents.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse des inscriptions à la formation</strong>
 <p>Plusieurs projets ont documenté une augmentation des formations professionnelles et de retour aux études chez les bénéficiaires (voir p. 21)[^forget2017]. La sécurité permet de penser à long terme.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>innovation et entrepreneuriat</small>
-<h3><i>🚀</i> Libérer l’initiative</h3>
+<h2 class="h3"><i>🚀</i> Libérer l’initiative</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Innover demande du temps, de l’énergie mentale, de l’espace pour tester. Mais pour beaucoup, la précarité bloque toute tentative de prendre un risque. Le revenu de base agit comme un capital de départ invisible.</p>
 <p>Il donne la marge de manœuvre nécessaire pour créer, expérimenter, et même échouer sans que tout s’écroule. En soutenant la prise d’initiative, il devient un vecteur de productivité collective.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>L’innovation ne vient pas seulement des startups technos : elle émerge aussi des cuisines, des fermes, des coopératives, des ateliers. Encore faut-il pouvoir oser.</p>
 </div>
 
@@ -69,7 +69,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Lancement de microentreprises</strong>
 <p>Plusieurs bénéficiaires ont démarré des petits projets économiques locaux grâce à un filet de sécurité (voir p. 21)[^haarmann2009]. La créativité s’exprime quand le risque n’est plus une chute.</p></li>

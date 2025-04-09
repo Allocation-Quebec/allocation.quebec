@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>coûts de gestion</small>
-<h3><i>🧾</i> Moins de structures, plus de résultats</h3>
+<h2 class="h3"><i>🧾</i> Moins de structures, plus de résultats</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Les dispositifs d’aide sociale conditionnelle exigent une armature administrative complexe pour contrôler l’admissibilité, traquer la fraude, gérer les réclamations et appliquer des sanctions. Cela engendre des coûts importants sans garantir une efficacité équitable.</p>
 <p>Un revenu universel réduit cette charge en supprimant le besoin de vérifications constantes. Il repose sur un principe simple : faire confiance, et redistribuer à la source, sans filtres coûteux.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une politique publique peut être ambitieuse sans être compliquée. L’efficacité ne s’oppose pas à la justice — elle peut en être le vecteur.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des coûts de traitement</strong>
 <p>Des simulations canadiennes estiment qu’un revenu de base coûterait moins cher que le maintien de multiples programmes ciblés (voir p. 10)[^macdonald2016]. Une seule prestation simple remplace plusieurs systèmes complexes.</p></li>
@@ -47,14 +47,14 @@
 <section>
 <header>
 <small>économie générale</small>
-<h3><i>📈</i> Soutenir la demande, lisser les cycles</h3>
+<h2 class="h3"><i>📈</i> Soutenir la demande, lisser les cycles</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Un revenu de base agit comme un stabilisateur automatique : il injecte des liquidités directement aux ménages, particulièrement en bas de l’échelle, là où chaque dollar est réinjecté dans l’économie réelle. Contrairement à des politiques fiscales complexes ou des aides ciblées à délai variable, cette mesure soutient la consommation de base de façon immédiate, constante et prévisible.</p>
 <p>En période de crise ou de ralentissement, ce filet universel amortit les chocs, sans nécessiter d’intervention lourde ou exceptionnelle. En période d’expansion, il renforce l’inclusion économique de groupes souvent exclus de la croissance.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La pauvreté n’est pas qu’un problème moral : c’est un frein direct à l’économie. En libérant la consommation et l’initiative, le revenu universel active les circuits économiques réels.</p>
 </div>
 
@@ -64,7 +64,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Stimulation directe de la consommation</strong>
 <p>Les ménages à faible revenu dépensent une plus grande part de leur revenu, ce qui stimule la demande locale et les PME (voir p. 26)[^forget2017].</p></li>
@@ -78,14 +78,14 @@
 <section>
 <header>
 <small>choix et comportements</small>
-<h3><i>🎯</i> Libérer les bonnes décisions</h3>
+<h2 class="h3"><i>🎯</i> Libérer les bonnes décisions</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Quand la survie est en jeu, on prend des décisions dictées par l’urgence, souvent destructrices. Le revenu de base donne une marge mentale qui permet de faire de meilleurs choix : attendre un emploi convenable, quitter un environnement toxique, se former, refuser un contrat abusif.</p>
 <p>Cette liberté accrue produit des gains microéconomiques à grande échelle : les gens évitent les pièges financiers, consomment plus durablement et investissent mieux leur temps.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une société efficace, c’est aussi une société où les gens peuvent se projeter, planifier, dire non quand il le faut.</p>
 </div>
 
@@ -95,7 +95,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Meilleur appariement emploi-travailleur</strong>
 <p>Les personnes ayant un revenu de base attendent un emploi qui leur correspond mieux au lieu d’accepter le premier venu (voir p. 19)[^kela2020].</p></li>
@@ -109,7 +109,7 @@
 <section>
 <header>
 <small>marchés et comportements</small>
-<h3><i>🧭</i> Une économie qui fonctionne mieux pour tout le monde</h3>
+<h2 class="h3"><i>🧭</i> Une économie qui fonctionne mieux pour tout le monde</h2>
 </header>
 
 <div class="grille">
@@ -117,7 +117,7 @@
 <p>Un revenu de base n’améliore pas seulement l’efficacité de l’État ou la stabilité macroéconomique. Il agit aussi au niveau des marchés eux-mêmes, en réduisant les distorsions, les frictions et les inefficacités liées à la pauvreté et à l’insécurité.</p>
 <p>Du logement au crédit, du commerce local à l’assurance, les choix des individus deviennent plus rationnels, plus durables et moins dictés par l’urgence. Les marchés sont stabilisés, les comportements extrêmes sont évités, et la consommation devient plus saine.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une économie saine repose sur des consommateurs éclairés, des travailleurs stables et des circuits courts solides. La sécurité individuelle produit des effets de système bénéfiques et durables.</p>
 </div>
 
@@ -128,7 +128,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Soutien aux commerces de proximité</strong>
 <p>Les bénéficiaires du revenu de base consomment davantage localement, stimulant les petites entreprises (voir p. 26)[^forget2017].</p></li>

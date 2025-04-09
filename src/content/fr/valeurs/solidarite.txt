@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>communautés</small>
-<h3><i>🤝</i> Tisser des liens durables</h3>
+<h2 class="h3"><i>🤝</i> Tisser des liens durables</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Dans un contexte d’isolement croissant, les liens sociaux se fragilisent. Les personnes seules, les nouveaux arrivants, les aînés ou les jeunes marginalisés peuvent se retrouver sans réseau, sans appui, sans relais.</p>
 <p>Un revenu de base renforce la capacité des gens à s’impliquer dans leur quartier, à créer des espaces d’entraide, à offrir de leur temps et de leur écoute. Il soutient les solidarités naturelles plutôt que de les épuiser.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Les communautés fortes sont plus résilientes face aux crises. Mais elles ne naissent pas spontanément : elles demandent du temps, de la présence et de la disponibilité.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de l’engagement bénévole</strong>
 <p>Dans plusieurs projets pilotes, les participants ont augmenté leur implication dans des groupes communautaires et projets d’entraide (voir p. 14)[^basicincomeearth2013]. Moins de précarité = plus de disponibilité pour les autres.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>entraide et soin</small>
-<h3><i>🧓🏼</i> S’occuper les uns des autres</h3>
+<h2 class="h3"><i>🧓🏼</i> S’occuper les uns des autres</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Le soin — aux enfants, aux proches malades, aux aînés — repose souvent sur des personnes peu ou pas rémunérées, souvent des femmes. Ce travail relationnel et essentiel est pourtant au cœur du bien-être collectif.</p>
 <p>Une allocation de base permet de reconnaître et de soutenir cette contribution vitale. Elle permet de rester auprès d’un parent malade, d’un enfant vulnérable, sans être puni économiquement pour cela.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La solidarité ne se délègue pas seulement à l’État. Elle se vit au quotidien, dans les gestes de soutien mutuel. Encore faut-il pouvoir s’y consacrer sans s’épuiser soi-même.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Plus de présence auprès des proches</strong>
 <p>Les bénéficiaires peuvent passer plus de temps avec leurs enfants, leurs parents âgés ou leurs conjoints en difficulté (voir p. 18)[^forget2017]. La solidarité familiale ne se décrète pas : elle se permet.</p></li>

@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>revenus et inégalités</small>
-<h3><i>📉</i> Réduire l’écart, pas l’effort</h3>
+<h2 class="h3"><i>📉</i> Réduire l’écart, pas l’effort</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Les écarts de revenus extrêmes nuisent à tous, y compris aux plus riches. Ils affectent la santé, la réussite scolaire, la confiance sociale et la mobilité économique. Or, les transferts ciblés ou temporaires ne parviennent souvent pas à corriger durablement ces déséquilibres.</p>
 <p>Un revenu de base garantit que personne ne tombe sous un seuil inacceptable, tout en maintenant la liberté d’entreprendre, d’innover ou de travailler davantage. Il agit comme une égalisation du point de départ, pas de l’arrivée.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Il ne s’agit pas de tout niveler, mais de donner à chacun les moyens de contribuer. Moins d’inégalités, c’est aussi moins de divisions sociales et plus de confiance collective.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des écarts de revenu</strong>
 <p>Des simulations au Canada montrent que l’instauration d’un revenu de base réduit significativement l’indice de Gini (voir p. 22)[^macdonald2016]. Cela signifie une société plus égalitaire dès la structure.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>groupes marginalisés</small>
-<h3><i>🧕🏽</i> Rejoindre celles et ceux qu’on oublie</h3>
+<h2 class="h3"><i>🧕🏽</i> Rejoindre celles et ceux qu’on oublie</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Certains groupes sont systématiquement désavantagés : personnes racisées, autochtones, ex-détenus, migrants précaires, personnes sans domicile. Ils peinent à accéder à l’aide existante ou sont découragés par la complexité administrative.</p>
 <p>Un revenu universel contourne ces barrières. Il atteint tout le monde sans exception ni condition, rétablissant une forme d’égalité de traitement et de dignité, peu importe l’histoire ou le statut.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une politique qui profite à tous doit d’abord profiter à ceux qui ont le plus été laissés pour compte. L’universalité devient un outil de justice réparatrice.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de l’accès aux soins</strong>
 <p>Les bénéficiaires marginalisés rapportent plus de consultations préventives lorsque leur revenu est garanti (voir p. 38)[^basicincomeearth2013]. La peur du coût ne freine plus l’accès à la santé.</p></li>

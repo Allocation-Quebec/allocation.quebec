@@ -13,7 +13,7 @@
 
 <header>
 <small>expérience de revenu de base</small>
-<h3><i>🇫🇮</i> Finlande : Moins de stress, plus d’initiatives</h3>
+<h2 class="h3"><i>🇫🇮</i> Finlande : Moins de stress, plus d’initiatives</h2>
 </header>
 
 <div class="grille">
@@ -23,7 +23,7 @@ L’expérience finlandaise du revenu de base, menée entre janvier 2017 et déc
 
 Les résultats ont montré peu d’impact sur le taux d’emploi global, mais une amélioration notable du bien-être psychologique, de la confiance en soi et de la perception de la sécurité économique des participants. L’expérience a été saluée pour sa rigueur méthodologique, bien que ses résultats aient été jugés limités par la taille restreinte de l’échantillon et son ciblage exclusif sur les chômeurs.
 
-#### Pourquoi c’est important ?
+<h3 class="h4">Pourquoi c’est important ?</h3>
 
 Un individu qui ne vit plus dans la peur du lendemain ose prendre des risques, que ce soit pour changer de métier, déménager ou se lancer en affaires. Cette dynamique est en accord avec la **[théorie du choix rationnel](https://en.wikipedia.org/wiki/Rational_choice_theory)**, qui stipule que les individus prennent de meilleures décisions lorsque les contraintes économiques sont réduites.
 
@@ -35,7 +35,7 @@ Un individu qui ne vit plus dans la peur du lendemain ose prendre des risques, q
 </aside>
 </div>
 
-#### Résultats concrets
+<h3 class="h4">Résultats concrets</h3>
 
 <ul class="grille">
 <li class="carte">
@@ -78,7 +78,7 @@ Un individu qui ne vit plus dans la peur du lendemain ose prendre des risques, q
 
 <header>
 <small>L’expérience Mincome au Manitoba</small>
-<h3><i>🇨🇦</i> Canada : libérer de la pauvreté</h3>
+<h2 class="h3"><i>🇨🇦</i> Canada : libérer de la pauvreté</h2>
 </header>
 
 <div class="prose">
@@ -87,12 +87,12 @@ L’expérience Mincome, menée de 1974 à 1979 à Dauphin, au Manitoba, fut le 
 
 Bien que l’expérience ait été interrompue avant l’analyse complète des données, des recherches ultérieures ont révélé des résultats significatifs : baisse des hospitalisations, amélioration de la santé mentale, hausse de la fréquentation scolaire et peu d’impact négatif sur l’emploi — à l’exception d’une réduction modeste du travail chez les jeunes et les mères, principalement pour poursuivre des études ou s’occuper des enfants. Mincome a temporairement éliminé la pauvreté à Dauphin, offrant un exemple précoce et concret des effets d’un revenu de base sur une petite communauté canadienne.
 
-#### Pourquoi c’est important ?
+<h3 class="h4">Pourquoi c’est important ?</h3>
 
 L’accès à un revenu stable réduit les **[externalités négatives](https://en.wikipedia.org/wiki/Externality#Negative_externalities)**, notamment les coûts sociaux liés à la santé et au décrochage scolaire.
 </div>
 
-#### Résultats concrets
+<h3 class="h4">Résultats concrets</h3>
 
 <ul class="grille">
 <li class="carte">
@@ -133,7 +133,7 @@ L’accès à un revenu stable réduit les **[externalités négatives](https://
 <section>
 <header>
 <small>Entrepreneurs et Créateurs</small>
-<h3><i>🇺🇸</i> États-Unis : un nouveau souffle pour l’innovation</h3>
+<h2 class="h3"><i>🇺🇸</i> États-Unis : un nouveau souffle pour l’innovation</h2>
 </header>
 
 <div class="prose">
@@ -142,13 +142,13 @@ Plusieurs études et expériences, notamment aux États-Unis, indiquent qu’un 
 
 C’est particulièrement vrai dans les industries culturelles et de l’innovation, où l’instabilité financière constitue un frein majeur. Des données empiriques confirment une augmentation du temps alloué à la création, une diversification des projets, et une plus grande persévérance dans les activités indépendantes[^1][^2].
 
-#### Pourquoi c’est important ?
+<h3 class="h4">Pourquoi c’est important ?</h3>
 
 L’innovation est favorisée par un environnement où l’incertitude économique est moindre, comme l’explique la **[destruction créatrice](https://en.wikipedia.org/wiki/Creative_destruction)** de Joseph Schumpeter[^9]. Une allocation de subsistance pourrait ainsi stimuler la dynamique entrepreneuriale.
 
 </div>
 
-#### Résultats concrets
+<h3 class="h4">Résultats concrets</h3>
 
 <ul class="grille">
 <li class="carte">

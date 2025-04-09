@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>consommation</small>
-<h3><i>🛍️</i> Moins de gaspillage, plus de durabilité</h3>
+<h2 class="h3"><i>🛍️</i> Moins de gaspillage, plus de durabilité</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Les ménages à faible revenu sont plus enclins à acheter des produits bon marché, souvent jetables, en raison de contraintes budgétaires. Cela contribue à un cycle de consommation court et polluant, accentuant l’épuisement des ressources et la production de déchets.</p>
 <p>Une sécurité financière de base permet de choisir des biens de meilleure qualité, plus durables, réparables, et parfois locaux ou éthiques. Cela transforme les comportements individuels en actions écologiques soutenues.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Changer ses habitudes de consommation nécessite du temps, de l’accès à l’information, et surtout la capacité de faire des choix. Une allocation de subsistance offre ce levier de transformation quotidien, à l’échelle de millions de gestes.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction de l’achat de produits à usage unique</strong>
 <p>Dans plusieurs études pilotes, les bénéficiaires ont réduit l’achat de biens jetables pour privilégier des alternatives durables[^basicincomeearth2013]. Ce changement de panier de consommation diminue directement la production de déchets.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>travail et industries</small>
-<h3><i>🌾</i> Une transition écologique juste</h3>
+<h2 class="h3"><i>🌾</i> Une transition écologique juste</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Actuellement, de nombreuses personnes acceptent des emplois dans des secteurs polluants ou destructeurs parce qu’elles n’ont pas d’autre choix. Cette dépendance économique freine les transitions dans les secteurs de l’énergie, des ressources, du transport et de l’agroalimentaire.</p>
 <p>Une allocation universelle permettrait à plusieurs de se tourner vers des emplois plus alignés avec leurs valeurs, ou de refuser des emplois qui nuisent à l’environnement. C’est une condition essentielle pour qu’une transition écologique soit socialement juste.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une transition verte imposée sans soutien financier aux travailleurs mène à la colère, à la résistance, voire à l’échec. Il faut sécuriser les parcours de reconversion pour qu’ils soient possibles et désirables.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de l’intérêt pour les métiers verts</strong>
 <p>Des participants à des programmes de revenu de base ont déclaré vouloir s’orienter vers des métiers en agriculture urbaine, réemploi, écoconstruction[^basicincomeearth2013]. Cela crée des bases pour une économie résiliente.</p></li>
@@ -95,14 +95,14 @@
 <section>
 <header>
 <small>temps citoyen</small>
-<h3><i>🌱</i> Plus de temps pour s’engager</h3>
+<h2 class="h3"><i>🌱</i> Plus de temps pour s’engager</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Une transition écologique ne se fait pas seulement par les institutions. Elle passe par l’engagement de tous et toutes dans les quartiers, les villages, les familles. Cela nécessite du temps, de l’espace mental, et la liberté de s’investir.</p>
 <p>En sécurisant la base de revenu, on libère aussi du temps pour jardiner, réparer, se déplacer autrement, partager. C’est un terreau fertile pour les projets collectifs à petite échelle, mais à grand impact.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Les solutions écologiques sont souvent locales, artisanales, collectives. Elles dépendent de la capacité des gens à s’organiser sans pression de productivité immédiate.</p>
 </div>
 
@@ -112,7 +112,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de la participation au jardinage collectif</strong>
 <p>Des projets pilotes ont vu croître l’implication citoyenne dans des initiatives locales de verdissement[^knight2019]. Ce type d’engagement génère des effets écologiques, sociaux et symboliques.</p></li>

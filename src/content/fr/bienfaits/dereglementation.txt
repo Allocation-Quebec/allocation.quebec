@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>travail et réglementation</small>
-<h3><i>👷</i> Libérer sans précariser</h3>
+<h2 class="h3"><i>👷</i> Libérer sans précariser</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Beaucoup de réglementations sur le travail existent pour pallier l’absence de sécurité de revenu : salaire minimum, durée du travail, indemnités. Mais elles sont parfois rigides, mal adaptées à certains contextes ou contournées dans l’économie informelle.</p>
 <p>Un revenu universel redéfinit le cadre : il garantit une base à tous, ce qui permet d’assouplir certaines normes sans sacrifier la sécurité. Il rend possible des formes de travail plus flexibles, adaptées, choisies.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Plutôt que d’opposer liberté et protection, le revenu de base réconcilie les deux. Il permet une flexibilité encadrée par une dignité garantie.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction du travail au noir</strong>
 <p>Des projets pilotes ont montré que les gens sont plus enclins à déclarer leurs revenus quand un revenu de base existe (voir p. 20)[^haarmann2009]. Moins de peur, plus de transparence.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>entrepreneuriat et contraintes</small>
-<h3><i>🏗️</i> Libérer l’action</h3>
+<h2 class="h3"><i>🏗️</i> Libérer l’action</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Créer une entreprise ou lancer une initiative citoyenne implique souvent de naviguer dans un maquis réglementaire. Les obligations, permis, seuils fiscaux et règles de financement peuvent dissuader les plus motivés.</p>
 <p>Un revenu de base universel n’élimine pas ces règles, mais il donne du temps, de l’espace mental, et un coussin financier pour les affronter. Il transforme le rapport à la réglementation en offrant un socle qui sécurise les démarches.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La vraie liberté d’entreprendre n’existe pas quand on risque de tout perdre au premier faux pas. Il faut un socle pour oser.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse des créations d’entreprises individuelles</strong>
 <p>Les expériences de revenu universel ont stimulé l’envie de se lancer dans de petits projets d’affaires (voir p. 21)[^kela2020]. Moins de peur du vide = plus d’audace.</p></li>

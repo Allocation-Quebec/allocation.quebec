@@ -9,7 +9,7 @@
 <section>
 <header>
 <small>expérience canadienne</small>
-<h3><i>🇨🇦</i> Mincome : vivre mieux, sans se justifier</h3>
+<h2 class="h3"><i>🇨🇦</i> Mincome : vivre mieux, sans se justifier</h2>
 </header>
 <div class="grille">
 <div class="prose">
@@ -17,7 +17,7 @@
 <p>Résultats : une baisse des hospitalisations de 8,5 %, surtout pour des troubles liés au stress, à la santé mentale et aux accidents domestiques. Le taux de décrochage scolaire a diminué, particulièrement chez les garçons. Aucun retrait massif du marché du travail n’a été observé. Le tissu social s’est resserré.</p>
 <p>En somme : la sécurité produit de la stabilité, et la stabilité permet de faire des choix — pour soi, sa famille, sa santé, sa communauté.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La pauvreté n’est pas seulement une privation de revenu, mais une violence sociale et symbolique. Retirer la conditionnalité, c’est retirer l’humiliation. C’est reconnaître chaque personne comme digne, par défaut.</p>
 </div>
 
@@ -28,7 +28,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Baisse de 8,5 % des hospitalisations</strong>
 <p>Une diminution notable des admissions à l’hôpital a été observée, en particulier pour des troubles liés au stress et à la santé mentale[^forget2011]. Cela démontre que la sécurité financière améliore directement la santé globale de la population.</p></li>
@@ -53,14 +53,14 @@
 <section>
 <header>
 <small>expérience internationale</small>
-<h3><i>🌍</i> Namibie : un village relevé par le respect</h3>
+<h2 class="h3"><i>🌍</i> Namibie : un village relevé par le respect</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Entre 2008 et 2009, le village d’Otjivero en Namibie a reçu un revenu de base inconditionnel pendant 24 mois. Chaque habitant recevait 100 dollars namibiens (environ 13 $ CAD) par mois, sans condition.</p>
 <p>Les résultats furent immédiats : la pauvreté extrême fut réduite de moitié, la malnutrition infantile chuta de 42 %, la fréquentation scolaire augmenta de 90 % à 96 %, et la criminalité baissa de 36 %[^haarmann2009]. Mais au-delà des chiffres, les témoignages évoquaient un changement de posture : les habitants marchaient la tête haute, prenaient des initiatives, créaient des micro-entreprises et participaient aux affaires locales.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Le sentiment de dignité restauré ne vient pas seulement du revenu, mais du fait que ce revenu est universel, sans jugement. On ne vous observe pas, on ne vous soupçonne pas : on vous fait confiance.</p>
 </div>
 
@@ -71,7 +71,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Pauvreté extrême réduite de 76 % à 37 %</strong>
 <p>En deux ans, la pauvreté sévère a chuté de moitié dans le village (voir p. 2, 17)[^haarmann2009]. Cette amélioration rapide montre qu’une base économique stable restaure immédiatement la capacité à vivre dignement.</p></li>
@@ -96,14 +96,14 @@
 <section>
 <header>
 <small>travail invisible et dignité ignorée</small>
-<h3><i>🧡</i> Reconnaître sans condition</h3>
+<h2 class="h3"><i>🧡</i> Reconnaître sans condition</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Des millions de Québécois contribuent à la société sans recevoir de rémunération : soins aux enfants, aux aîné·es, à des personnes en situation de handicap, soutien communautaire, bénévolat. Ces formes de travail sont invisibles dans les statistiques économiques, mais essentielles au bon fonctionnement du Québec.</p>
 <p>Une allocation de subsistance offre une reconnaissance symbolique et matérielle à celles et ceux qui accomplissent ce "travail du care". Elle rend possible l’autonomie de ces personnes, sans qu’elles doivent sacrifier leur sécurité économique.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Actuellement, le filet social récompense principalement l’activité salariée. Ce biais renforce les inégalités de genre, marginalise les aidants naturels et invisibilise les contributions non marchandes.</p>
 </div>
 
@@ -114,7 +114,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Reconnaissance du travail non-rémunéré</strong>
 <p>Les tâches de soin, d’accompagnement ou de parentalité retrouvent une valeur économique implicite. Cela repositionne les aidants comme contributeurs légitimes à la société.</p></li>

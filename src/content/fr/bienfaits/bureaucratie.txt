@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>complexité administrative</small>
-<h3><i>📑</i> Sortir du labyrinthe</h3>
+<h2 class="h3"><i>📑</i> Sortir du labyrinthe</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Des dizaines de programmes différents, chacun avec ses critères, ses formulaires, ses guichets, ses délais. Cette complexité administrative décourage même les plus déterminés, et pèse lourd sur les institutions publiques.</p>
 <p>Un revenu de base universel supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Il réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Quand le système est trop compliqué, ce sont souvent les plus vulnérables qui renoncent ou échouent à obtenir ce qu’ils méritent. Simplifier, c’est aussi réparer une injustice structurelle.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction du non-recours à l’aide</strong>
 <p>L’universalité élimine les erreurs d’inadmissibilité et le découragement face aux démarches (voir p. 28)[^basicincomeearth2013]. Un droit accessible est un droit exercé.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>coût de la complexité</small>
-<h3><i>🧮</i> Plus de clarté, moins de gaspillage</h3>
+<h2 class="h3"><i>🧮</i> Plus de clarté, moins de gaspillage</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Chaque vérification, chaque formulaire, chaque comité d’évaluation a un coût. Des milliards de dollars sont dépensés chaque année pour faire fonctionner des systèmes complexes… plutôt que pour soutenir directement les personnes.</p>
 <p>Une allocation de base libère des ressources. Moins de couches administratives, moins de frais de contrôle, moins de redondance. C’est une politique plus simple, plus propre, plus efficace.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Un bon système social n’a pas à être compliqué. Il doit être juste, lisible et humain.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des coûts de gestion</strong>
 <p>Les modèles de revenu de base montrent une baisse importante des dépenses administratives (voir p. 10)[^macdonald2016]. L’argent va directement aux gens, pas aux structures.</p></li>

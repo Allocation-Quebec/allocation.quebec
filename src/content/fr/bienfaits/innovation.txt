@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>créativité et prise de risque</small>
-<h3><i>🧠</i> Lancer sans tomber</h3>
+<h2 class="h3"><i>🧠</i> Lancer sans tomber</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Le risque est au cœur de toute innovation. Mais quand l’échec signifie l’exclusion ou la pauvreté, seule une minorité peut se permettre d’innover. Une allocation universelle réduit le coût personnel de l’expérimentation.</p>
 <p>Elle rend possible des projets atypiques, collectifs, sociaux, artisanaux ou culturels — qui souvent échappent aux logiques de financement classiques. L’innovation devient un droit partagé, pas un privilège rare.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Les idées neuves viennent de partout. Il faut donc que chacun ait les moyens de les faire émerger, et pas seulement ceux qui ont déjà un coussin financier.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de la créativité autodirigée</strong>
 <p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux (voir p. 19)[^kela2020]. Le filet de base devient un levier de création.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>économie de la transition</small>
-<h3><i>🛠️</i> Innover pour transformer</h3>
+<h2 class="h3"><i>🛠️</i> Innover pour transformer</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>La société fait face à des défis systémiques : climatiques, sociaux, technologiques. Pour y répondre, il faut des innovations systémiques : coopératives, circuits courts, solutions ouvertes, culture numérique inclusive.</p>
 <p>Une allocation de subsistance permet à des milliers de personnes de participer activement à cette transformation, pas seulement comme main-d’œuvre, mais comme actrices de changement.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Nous avons besoin d’innovation pour affronter les crises du siècle. Mais pas seulement celle des entreprises. Celle des citoyens aussi.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Création de projets liés à la transition écologique</strong>
 <p>Des initiatives en agriculture urbaine, réparation, recyclage ont fleuri dans les communautés soutenues (voir p. 25)[^basicincomeearth2013]. Le revenu de base libère l’innovation verte.</p></li>

@@ -9,14 +9,14 @@
 <section>
 <header>
 <small>logement et stabilité</small>
-<h3><i>🏠</i> Moins d’angoisse, plus de continuité</h3>
+<h2 class="h3"><i>🏠</i> Moins d’angoisse, plus de continuité</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Des milliers de personnes au Québec vivent avec la crainte constante de perdre leur logement. Une perte d’emploi, une maladie, une séparation peut tout faire basculer. Cette précarité résidentielle empêche de se projeter dans l’avenir.</p>
 <p>Un revenu de base permet d’éviter les situations de rupture brutale. Il offre une base sur laquelle bâtir des projets, maintenir un foyer, rester enraciné dans sa communauté.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La sécurité matérielle ne devrait pas être un luxe. C’est le socle invisible de toute participation sociale et de toute santé mentale.</p>
 </div>
 
@@ -27,7 +27,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Baisse des expulsions de logement</strong>
 <p>Dans des projets pilotes, les bénéficiaires ont pu éviter l’expulsion grâce à un revenu stable (voir p. 22)[^haarmann2009]. Cette sécurité de base protège l’accès à un domicile fixe.</p></li>
@@ -52,14 +52,14 @@
 <section>
 <header>
 <small>santé mentale et stress</small>
-<h3><i>🧠</i> Se reposer, se soigner, souffler</h3>
+<h2 class="h3"><i>🧠</i> Se reposer, se soigner, souffler</h2>
 </header>
 <div class="grille">
 <div class="prose">
 <p>Le stress économique est un facteur aggravant majeur de nombreux troubles psychiques. Il provoque de l’insomnie, de l’irritabilité, une baisse de l’estime de soi, et parfois même un isolement social.</p>
 <p>Un revenu garanti réduit l’incertitude permanente. Il permet de demander de l’aide, de prendre soin de soi, ou simplement de respirer – sans avoir à choisir entre se soigner ou se loger.</p>
 
-<h4>Pourquoi c’est important ?</h4>
+<h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La santé mentale n’est pas un luxe. Elle est la base de toute capacité à fonctionner dans la société.</p>
 </div>
 
@@ -70,7 +70,7 @@
 </aside>
 </div>
 
-<h4>Résultats concrets</h4>
+<h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Diminution des consultations pour détresse psychologique</strong>
 <p>Mincome a entraîné une baisse significative des visites médicales liées au stress (voir p. 19)[^forget2011]. Moins d’angoisse = moins de symptômes.</p></li>
