@@ -119,10 +119,16 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus sécurisant</em> est possible.</p>
 </section>
 
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21–24.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 19.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 9, 14–25.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 23–28.  
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 15.  
-[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 29.  
-[^inspq2019]: INSPQ. 2019. *Les inégalités sociales de santé liées au logement au Québec.*  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21–24. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 19. [https://utppublishing.com/doi/abs/10.3138/cpp.37.3.283](https://utppublishing.com/doi/abs/10.3138/cpp.37.3.283)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 9, 14–25. [https://www.amazon.com/Basic-Income-Canadians-healthier-happier/dp/1459413504](https://www.amazon.com/Basic-Income-Canadians-healthier-happier/dp/1459413504)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 23–28. [https://basicincome.org/](https://basicincome.org/)
+
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 15. [https://pubmed.ncbi.nlm.nih.gov/34534779/](https://pubmed.ncbi.nlm.nih.gov/34534779/)
+
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 29. [https://www.amazon.com/Spirit-Level-Equality-Societies-Stronger/dp/1608193411](https://www.amazon.com/Spirit-Level-Equality-Societies-Stronger/dp/1608193411)
+
+[^inspq2019]: INSPQ. 2019. *Les inégalités sociales de santé liées au logement au Québec.* [https://www.inspq.qc.ca/publications/3152-logement-inegalites-sociales-strategies-covid-19](https://www.inspq.qc.ca/publications/3152-logement-inegalites-sociales-strategies-covid-19)

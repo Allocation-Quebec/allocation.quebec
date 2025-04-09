@@ -119,10 +119,16 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus innovant</em> est possible.</p>
 </section>
 
-[^christensen1997]: Christensen, Clayton. 1997. *The Innovator’s Dilemma.* pp. 11.  
-[^mazzucato2018]: Mazzucato, Mariana. 2018. *The Entrepreneurial State.* pp. 28.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 25–31.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 30.  
-[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 24, 26, 29.  
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 32.  
+[^christensen1997]: Christensen, Clayton. 1997. *The Innovator’s Dilemma.* pp. 11. [https://archive.org/details/innovatorsdilemm0000chri](https://archive.org/details/innovatorsdilemm0000chri)
+
+[^mazzucato2018]: Mazzucato, Mariana. 2018. *The Entrepreneurial State.* pp. 28. [https://marianamazzucato.com/books/the-entrepreneurial-state/](https://marianamazzucato.com/books/the-entrepreneurial-state/)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 25–31. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 30. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 24, 26, 29. [https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment](https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment)
+
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27. [https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 32. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)

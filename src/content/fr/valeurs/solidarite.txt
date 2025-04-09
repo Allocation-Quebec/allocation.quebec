@@ -119,10 +119,16 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus solidaire</em> est possible.</p>
 </section>
 
-[^putnam2000]: Putnam, Robert. 2000. *Bowling Alone: The Collapse and Revival of American Community.* pp. 27–42.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 14, 21, 25, 30.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 18–25.  
-[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 42.  
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27.  
-[^kittay1999]: Kittay, Eva Feder. 1999. *Love’s Labor: Essays on Women, Equality and Dependency.* pp. 22.  
+[^putnam2000]: Putnam, Robert. 2000. *Bowling Alone: The Collapse and Revival of American Community.* pp. 27–42. [https://archive.org/details/bowlingalone00robe](https://archive.org/details/bowlingalone00robe)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 14, 21, 25, 30. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 18–25. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 42. [https://archive.org/details/spiritlevelwhygr0000wilk_c2w6](https://archive.org/details/spiritlevelwhygr0000wilk_c2w6)
+
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27. [https://pubmed.ncbi.nlm.nih.gov/34534779/](https://pubmed.ncbi.nlm.nih.gov/34534779/)
+
+[^kittay1999]: Kittay, Eva Feder. 1999. *Love’s Labor: Essays on Women, Equality and Dependency.* pp. 22. [https://www.taylorfrancis.com/books/mono/10.4324/9781315108926/love-labor-eva-feder-kittay](https://www.taylorfrancis.com/books/mono/10.4324/9781315108926/love-labor-eva-feder-kittay)

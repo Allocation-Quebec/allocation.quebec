@@ -172,15 +172,26 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus efficace</em> est possible.</p>
 </section>
 
-[^tullock1965]: Tullock, Gordon. 1965. *The Politics of Bureaucracy.* pp. 45.  
-[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21.  
-[^macdonald2020]: Macdonald, David. 2020. *Basic Income in the COVID Recovery.* pp. 18.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 26.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 23.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21.  
-[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 21.  
-[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 19.  
-[^stiglitz2012]: Stiglitz, Joseph. 2012. *The Price of Inequality.* pp. 204.  
-[^mullainathan2013]: Mullainathan, Sendhil & Eldar Shafir. 2013. *Scarcity: Why Having Too Little Means So Much.* pp. 28.  
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 24.  
+[^tullock1965]: Tullock, Gordon. 1965. *The Politics of Bureaucracy.* pp. 45. [https://archive.org/details/politicsofbureau0000tull](https://archive.org/details/politicsofbureau0000tull)
+
+[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21. [https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf](https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf)
+
+[^macdonald2020]: Macdonald, David. 2020. *Basic Income in the COVID Recovery.* pp. 18. [https://centreforfuturework.ca/wp-content/uploads/2022/02/Income-Security-and-Workers-Power-Jan2022.pdf](https://centreforfuturework.ca/wp-content/uploads/2022/02/Income-Security-and-Workers-Power-Jan2022.pdf)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 26. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 23. [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 21. [https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment](https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment)
+
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 19. [https://archive.org/details/spiritlevelwhygr0000wilk_c2w6](https://archive.org/details/spiritlevelwhygr0000wilk_c2w6)
+
+[^stiglitz2012]: Stiglitz, Joseph. 2012. *The Price of Inequality.* pp. 204. [https://archive.org/details/priceofinequalit00stig](https://archive.org/details/priceofinequalit00stig)
+
+[^mullainathan2013]: Mullainathan, Sendhil & Eldar Shafir. 2013. *Scarcity: Why Having Too Little Means So Much.* pp. 28. [https://archive.org/details/scarcitywhyhavin0000mull](https://archive.org/details/scarcitywhyhavin0000mull)
+
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 24. [https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320)

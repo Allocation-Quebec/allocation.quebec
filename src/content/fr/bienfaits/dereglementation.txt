@@ -119,11 +119,18 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus libre et plus juste</em> est possible.</p>
 </section>
 
-[^vanparijs1995]: Van Parijs, Philippe. 1995. *Real Freedom for All.* pp. 24.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 24–29.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 26.  
-[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 18, 21, 24, 29.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 19, 27.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 19.  
-[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 28.  
-[^oecd2019]: OECD. 2019. *Employment Outlook: The Future of Work.* pp. 33.  
+[^vanparijs1995]: Van Parijs, Philippe. 1995. *Real Freedom for All.* pp. 24. [https://archive.org/details/realfreedomforal0000vanp](https://archive.org/details/realfreedomforal0000vanp)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 24–29. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 26. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 18, 21, 24, 29. [https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment](https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 19, 27. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 19. [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
+
+[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 28. [https://publications.gc.ca/collections/Collection/HS4-31-2007E.pdf](https://publications.gc.ca/collections/Collection/HS4-31-2007E.pdf)
+
+[^oecd2019]: OECD. 2019. *Employment Outlook: The Future of Work.* pp. 33. [https://www.oecd.org/employment-outlook/2019/](https://www.oecd.org/employment-outlook/2019/)

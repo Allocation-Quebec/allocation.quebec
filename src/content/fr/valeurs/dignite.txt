@@ -163,9 +163,14 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus digne</em> est possible.</p>
 </section>
 
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.*  
-[^fraser2000]: Fraser, Nancy. 2000. *Recognition without Ethics?*  
-[^standing2017]: Standing, Guy. 2017. *Basic Income: And How We Can Make It Happen.*  
-[^pinto2021]: Pinto, A. D. et al. 2021. *Basic Income: A Conceptual Review and Research Agenda.*  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.*  
-[^paugam1996]: Paugam, Serge. 1996. *La disqualification sociale.*  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
+
+[^fraser2000]: Fraser, Nancy. 2000. *Recognition without Ethics?* [https://journals.sagepub.com/doi/10.1177/02632760122051760](https://journals.sagepub.com/doi/10.1177/02632760122051760)
+
+[^standing2017]: Standing, Guy. 2017. *Basic Income: And How We Can Make It Happen.* [https://www.rentabasicauniversal.es/wp-content/uploads/2018/09/Basic-Income_-And-How-We-Can-Ma-Guy-Standing.pdf](https://www.rentabasicauniversal.es/wp-content/uploads/2018/09/Basic-Income_-And-How-We-Can-Ma-Guy-Standing.pdf)
+
+[^pinto2021]: Pinto, A. D. et al. 2021. *Basic Income: A Conceptual Review and Research Agenda.* [https://basicincome.stanford.edu/research/papers/healthy-communities-and-universal-basic-income-a-conceptual-framework-and-evidence-review/](https://basicincome.stanford.edu/research/papers/healthy-communities-and-universal-basic-income-a-conceptual-framework-and-evidence-review/)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^paugam1996]: Paugam, Serge. 1996. *La disqualification sociale.* [https://shs.cairn.info/article/PUF_PAUG_2009_01_0001/pdf?lang=fr](https://shs.cairn.info/article/PUF_PAUG_2009_01_0001/pdf?lang=fr)

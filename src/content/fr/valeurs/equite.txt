@@ -119,10 +119,16 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus équitable</em> est possible.</p>
 </section>
 
-[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level: Why Equality is Better for Everyone.* pp. 19, 31, 42, 54.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 5, 14, 19, 31.  
-[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* CCPA. pp. 22.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 23–24.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 7, 38.  
-[^sen1999]: Sen, Amartya. 1999. *Development as Freedom.* pp. 24.  
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level: Why Equality is Better for Everyone.* pp. 19, 31, 42, 54. [https://archive.org/details/spiritlevelwhyeq0000unse](https://archive.org/details/spiritlevelwhyeq0000unse)
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17. [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 5, 14, 19, 31. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+
+[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* CCPA. pp. 22. [https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf](https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 23–24. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 7, 38. [https://basicincome.org/bien/pdf/Flash63.pdf](https://basicincome.org/bien/pdf/Flash63.pdf)
+
+[^sen1999]: Sen, Amartya. 1999. *Development as Freedom.* pp. 24. [https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000](https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000)

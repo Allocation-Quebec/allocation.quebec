@@ -119,10 +119,16 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus simple et plus juste</em> est possible.</p>
 </section>
 
-[^esping1990]: Esping-Andersen, Gøsta. 1990. *The Three Worlds of Welfare Capitalism.* pp. 112.  
-[^simon1976]: Simon, Herbert A. 1976. *Administrative Behavior.* pp. 89.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33.  
-[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 19.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 23.  
-[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 24, 28.  
+[^esping1990]: Esping-Andersen, Gøsta. 1990. *The Three Worlds of Welfare Capitalism.* pp. 112. [https://pagotto.wordpress.com/wp-content/uploads/2018/05/the-three-worlds-of-welfare-capitalism-1990.pdf](https://pagotto.wordpress.com/wp-content/uploads/2018/05/the-three-worlds-of-welfare-capitalism-1990.pdf)
+
+[^simon1976]: Simon, Herbert A. 1976. *Administrative Behavior.* pp. 89. [https://jespersimonsen.dk/Downloads/Simon-introduction.pdf](https://jespersimonsen.dk/Downloads/Simon-introduction.pdf)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+
+[^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21. [https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf](https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf)
+
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 19. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 23. [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
+
+[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 24, 28. [https://publications.gc.ca/collections/Collection/HS4-31-2007E.pdf](https://publications.gc.ca/collections/Collection/HS4-31-2007E.pdf)

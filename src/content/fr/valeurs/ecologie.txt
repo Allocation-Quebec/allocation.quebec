@@ -161,10 +161,16 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus écologique</em> est possible.</p>
 </section>
 
-[^jackson2017]: Jackson, Tim. 2017. *Prosperity Without Growth: Foundations for the Economy of Tomorrow.* Routledge. Utilisé p. 11, 19, 32.
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* Basic Income Grant Coalition. Utilisé p. 20–21, 25–27.
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* Utilisé p. 11, 14–20.
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* *Canadian Public Policy*, 37(3). Utilisé p. 26.
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Environmental Behavior.* Open Research Exchange. Utilisé p. 18–30.
-[^oecd2019]: OECD. 2019. *Employment Outlook: Well-Being and Job Security.* Utilisé p. 33.
-[^ostrom1990]: Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.* Cambridge University Press. Utilisé p. 28.
+[^jackson2017]: Jackson, Tim. 2017. *Prosperity Without Growth: Foundations for the Economy of Tomorrow.* Routledge. p. 11, 19, 32. [https://www.routledge.com/Prosperity-without-Growth-Foundations-for-the-Economy-of-Tomorrow-2nd/Jackson/p/book/9781138935419](https://www.routledge.com/Prosperity-without-Growth-Foundations-for-the-Economy-of-Tomorrow-2nd/Jackson/p/book/9781138935419)
+
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* Basic Income Grant Coalition. p. 20–21, 25–27. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* p. 11, 14–20. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* *Canadian Public Policy*, 37(3). p. 26. [https://utpjournals.press/doi/abs/10.3138/cpp.37.3.283](https://utpjournals.press/doi/abs/10.3138/cpp.37.3.283)
+
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Environmental Behavior.* Open Research Exchange. p. 18–30. [https://www.researchgate.net/publication/333795345_Universal_Basic_Income_and_Environmental_Behavior](https://www.researchgate.net/publication/333795345_Universal_Basic_Income_and_Environmental_Behavior)
+
+[^oecd2019]: OECD. 2019. *Employment Outlook: Well-Being and Job Security.* p. 33. [https://www.oecd.org/employment/Employment-Outlook-2019-Highlights-ENG.pdf](https://www.oecd.org/employment/Employment-Outlook-2019-Highlights-ENG.pdf)
+
+[^ostrom1990]: Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.* Cambridge University Press. p. 28. [https://www.cambridge.org/core/books/governing-the-commons/7AB7AE11BADA84409C34815CC288CD79](https://www.cambridge.org/core/books/governing-the-commons/7AB7AE11BADA84409C34815CC288CD79)
