@@ -31,19 +31,14 @@
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des coûts de traitement</strong>
 <p>Des simulations canadiennes estiment qu’un revenu de base coûterait moins cher que le maintien de multiples programmes ciblés (voir p. 10)[^macdonald2016]. Une seule prestation simple remplace plusieurs systèmes complexes.</p></li>
-
 <li class="carte"><strong class="h5">Simplification administrative</strong>
 <p>Les programmes pilotes ont démontré une réduction significative des besoins en personnel administratif (voir p. 12)[^basicincomeearth2013]. Moins de paperasse = plus de temps utile.</p></li>
-
 <li class="carte"><strong class="h5">Moins de litiges et appels</strong>
 <p>Le caractère automatique de l’allocation diminue les conflits sur l’admissibilité (voir p. 14)[^forget2017]. Cela réduit la pression sur les tribunaux sociaux et les services de recours.</p></li>
-
 <li class="carte"><strong class="h5">Paiement plus rapide aux personnes</strong>
 <p>Un système unifié permet de verser les montants en quelques jours, plutôt qu’en semaines (voir p. 20)[^haarmann2009]. L’agilité est une forme d’efficacité essentielle.</p></li>
-
 <li class="carte"><strong class="h5">Baisse du taux d’erreurs administratives</strong>
 <p>Les systèmes universels comportent moins de conditions à vérifier, donc moins de risques d’erreur (voir p. 23)[^forget2011]. Cela améliore la qualité du service public.</p></li>
-
 <li class="carte"><strong class="h5">Moins de non-recours à l’aide</strong>
 <p>L’automaticité augmente drastiquement le taux de couverture réelle (voir p. 28)[^basicincomeearth2013]. Quand c’est simple, tout le monde reçoit ce à quoi il a droit.</p></li>
 </ul>
@@ -51,44 +46,102 @@
 
 <section>
 <header>
-<small>cohérence des programmes</small>
-<h3><i>🧮</i> Moins de chevauchements, plus de lisibilité</h3>
+<small>économie générale</small>
+<h3><i>📈</i> Soutenir la demande, lisser les cycles</h3>
 </header>
 <div class="grille">
 <div class="prose">
-<p>Le système actuel juxtapose des dizaines de programmes provinciaux et fédéraux : prestations sociales, crédits d’impôt, allocations conditionnelles, exemptions fiscales. Résultat : confusion, inefficacité, et parfois contradiction.</p>
-<p>Une allocation de subsistance unifie les filets sociaux de base. Elle simplifie la coordination entre les niveaux de gouvernement et offre une lisibilité accrue pour les citoyens.</p>
+<p>Un revenu de base agit comme un stabilisateur automatique : il injecte des liquidités directement aux ménages, particulièrement en bas de l’échelle, là où chaque dollar est réinjecté dans l’économie réelle. Contrairement à des politiques fiscales complexes ou des aides ciblées à délai variable, cette mesure soutient la consommation de base de façon immédiate, constante et prévisible.</p>
+<p>En période de crise ou de ralentissement, ce filet universel amortit les chocs, sans nécessiter d’intervention lourde ou exceptionnelle. En période d’expansion, il renforce l’inclusion économique de groupes souvent exclus de la croissance.</p>
 
 <h4>Pourquoi c’est important ?</h4>
-<p>Un système lisible est un système accessible. La confiance des citoyens passe aussi par la compréhension des outils publics.</p>
+<p>La pauvreté n’est pas qu’un problème moral : c’est un frein direct à l’économie. En libérant la consommation et l’initiative, le revenu universel active les circuits économiques réels.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>Le Conseil canadien de développement social souligne que l’actuel “labyrinthe administratif” crée des barrières à l’aide pour les plus vulnérables[^ccds2007].</p>
-<p>La simplification est un facteur d’équité autant que d’efficacité.</p>
+<p>L’économiste <strong>Joseph Stiglitz</strong> rappelle que la pauvreté est “l’ennemi caché de l’efficacité”. Elle empêche des millions de personnes de contribuer pleinement à l’économie[^stiglitz2012].</p>
 </aside>
 </div>
 
 <h4>Résultats concrets</h4>
 <ul class="grille">
-<li class="carte"><strong class="h5">Regroupement de programmes existants</strong>
-<p>Des propositions de revenu de base suggèrent de remplacer plusieurs prestations par un seul versement universel (voir p. 16)[^macdonald2016]. Cela améliore la coordination intergouvernementale.</p></li>
+<li class="carte"><strong class="h5">Stimulation directe de la consommation</strong>
+<p>Les ménages à faible revenu dépensent une plus grande part de leur revenu, ce qui stimule la demande locale et les PME (voir p. 26)[^forget2017].</p></li>
+<li class="carte"><strong class="h5">Stabilisation en période de crise</strong>
+<p>Le revenu de base aurait permis de réduire la volatilité des revenus de 30 % en contexte post-COVID (voir p. 18)[^macdonald2020].</p></li>
+<li class="carte"><strong class="h5">Réduction de l’endettement des ménages</strong>
+<p>Les expériences ont montré une diminution significative des emprunts à court terme, liés à l’alimentation ou au logement (voir p. 21)[^haarmann2009].</p></li>
+</ul>
+</section>
 
-<li class="carte"><strong class="h5">Diminution des erreurs de calcul fiscal</strong>
-<p>Moins de dispositifs = moins de risques d’omissions ou de chevauchements fiscaux (voir p. 24)[^ccds2007]. Le citoyen comprend mieux ce qu’il reçoit.</p></li>
+<section>
+<header>
+<small>choix et comportements</small>
+<h3><i>🎯</i> Libérer les bonnes décisions</h3>
+</header>
+<div class="grille">
+<div class="prose">
+<p>Quand la survie est en jeu, on prend des décisions dictées par l’urgence, souvent destructrices. Le revenu de base donne une marge mentale qui permet de faire de meilleurs choix : attendre un emploi convenable, quitter un environnement toxique, se former, refuser un contrat abusif.</p>
+<p>Cette liberté accrue produit des gains microéconomiques à grande échelle : les gens évitent les pièges financiers, consomment plus durablement et investissent mieux leur temps.</p>
 
-<li class="carte"><strong class="h5">Meilleure planification budgétaire publique</strong>
-<p>Un système prévisible et automatisé facilite les projections macroéconomiques (voir p. 21)[^macdonald2016]. La stabilité profite à l’État comme aux individus.</p></li>
+<h4>Pourquoi c’est important ?</h4>
+<p>Une société efficace, c’est aussi une société où les gens peuvent se projeter, planifier, dire non quand il le faut.</p>
+</div>
 
-<li class="carte"><strong class="h5">Diminution des délais d’inscription</strong>
-<p>Les personnes n’ont plus à naviguer entre plusieurs guichets (voir p. 28)[^basicincomeearth2013]. Un seul point d’accès suffit.</p></li>
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>Le psychologue <strong>Sendhil Mullainathan</strong> a montré que la pauvreté réduit la capacité de planification, de concentration et de choix rationnels — jusqu’à 13 points de QI fonctionnel perdus[^mullainathan2013].</p>
+</aside>
+</div>
 
-<li class="carte"><strong class="h5">Réduction du taux d’exclusion administrative</strong>
-<p>Les erreurs de dossier, délais ou incompréhensions ne privent plus personne de soutien (voir p. 19)[^forget2011]. L’universel élimine l’arbitraire administratif.</p></li>
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Meilleur appariement emploi-travailleur</strong>
+<p>Les personnes ayant un revenu de base attendent un emploi qui leur correspond mieux au lieu d’accepter le premier venu (voir p. 19)[^kela2020].</p></li>
+<li class="carte"><strong class="h5">Moins de décisions destructrices</strong>
+<p>Baisse des achats impulsifs, du jeu compulsif, des crédits à la consommation risqués (voir p. 24)[^knight2019].</p></li>
+<li class="carte"><strong class="h5">Hausse du bien-être décisionnel</strong>
+<p>Les bénéficiaires rapportent se sentir plus en contrôle de leur vie, avec une meilleure capacité à planifier et prioriser (voir p. 28)[^basicincomeearth2013].</p></li>
+</ul>
+</section>
 
-<li class="carte"><strong class="h5">Amélioration de la transparence publique</strong>
-<p>Une allocation universelle rend plus visible le soutien de l’État (voir p. 33)[^basicincomeearth2013]. Cela renforce la légitimité démocratique.</p></li>
+<section>
+<header>
+<small>marchés et comportements</small>
+<h3><i>🧭</i> Une économie qui fonctionne mieux pour tout le monde</h3>
+</header>
+
+<div class="grille">
+<div class="prose">
+<p>Un revenu de base n’améliore pas seulement l’efficacité de l’État ou la stabilité macroéconomique. Il agit aussi au niveau des marchés eux-mêmes, en réduisant les distorsions, les frictions et les inefficacités liées à la pauvreté et à l’insécurité.</p>
+<p>Du logement au crédit, du commerce local à l’assurance, les choix des individus deviennent plus rationnels, plus durables et moins dictés par l’urgence. Les marchés sont stabilisés, les comportements extrêmes sont évités, et la consommation devient plus saine.</p>
+
+<h4>Pourquoi c’est important ?</h4>
+<p>Une économie saine repose sur des consommateurs éclairés, des travailleurs stables et des circuits courts solides. La sécurité individuelle produit des effets de système bénéfiques et durables.</p>
+</div>
+
+<aside class="encart">
+<span class="h4">Encart savoir</span>
+<p>L’économiste <strong>Joseph Stiglitz</strong> rappelle que la pauvreté est “l’ennemi caché de l’efficacité”[^stiglitz2012].</p>
+<p>Le revenu universel, en luttant contre cette inefficacité structurelle, améliore le fonctionnement des marchés eux-mêmes.</p>
+</aside>
+</div>
+
+<h4>Résultats concrets</h4>
+<ul class="grille">
+<li class="carte"><strong class="h5">Soutien aux commerces de proximité</strong>
+<p>Les bénéficiaires du revenu de base consomment davantage localement, stimulant les petites entreprises (voir p. 26)[^forget2017].</p></li>
+<li class="carte"><strong class="h5">Réduction de la dépendance au crédit</strong>
+<p>Moins de recours aux emprunts à court terme et au crédit prédateur (voir p. 21)[^haarmann2009].</p></li>
+<li class="carte"><strong class="h5">Amélioration du marché locatif</strong>
+<p>Moins de déménagements d’urgence, plus de stabilité pour les locataires (voir p. 17)[^forget2011].</p></li>
+<li class="carte"><strong class="h5">Stimulation des micro-activités régularisées</strong>
+<p>Les bénéficiaires sont plus enclins à déclarer leurs revenus d’appoint ou microentreprises (voir p. 21)[^kela2020].</p></li>
+<li class="carte"><strong class="h5">Consommation plus durable</strong>
+<p>Moins d’achats impulsifs, plus de réparation, d’achat local, d’investissement raisonné (voir p. 28)[^basicincomeearth2013].</p></li>
+<li class="carte"><strong class="h5">Moins de pression sur les assurances</strong>
+<p>Réduction des risques médicaux, sociaux et résidentiels entraîne une baisse des réclamations (voir p. 19)[^wilkinson2009].</p></li>
 </ul>
 </section>
 
@@ -121,8 +174,13 @@
 
 [^tullock1965]: Tullock, Gordon. 1965. *The Politics of Bureaucracy.* pp. 45.  
 [^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21.  
+[^macdonald2020]: Macdonald, David. 2020. *Basic Income in the COVID Recovery.* pp. 18.  
 [^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33.  
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 19, 23.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 20.  
-[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details: The Need for Simplification.* pp. 24.  
+[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 26.  
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 23.  
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21.  
+[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 21.  
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 19.  
+[^stiglitz2012]: Stiglitz, Joseph. 2012. *The Price of Inequality.* pp. 204.  
+[^mullainathan2013]: Mullainathan, Sendhil & Eldar Shafir. 2013. *Scarcity: Why Having Too Little Means So Much.* pp. 28.  
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 24.  
