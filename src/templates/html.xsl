@@ -21,7 +21,7 @@
 				<link rel="preload" href="/assets/fonts/Aleo.woff2" as="font" type="font/woff2"/>
 				<link rel="preload" href="/assets/fonts/Aleo-Italic.woff2" as="font" type="font/woff2"/>
 				<link rel="preload" href="/assets/fonts/PPNeueMontreal-Variable.woff2" as="font" type="font/woff2"/>
-				<link rel="preload" href="/assets/fonts/PPRightGrotesk-NarrowDark.woff2" as="font" type="font/woff2"/>
+				<link rel="preload" href="/assets/fonts/PPRightGrotesk-CompactDark.woff2" as="font" type="font/woff2"/>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<xsl:choose>
 					<xsl:when test="$lang='en'">
