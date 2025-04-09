@@ -3,13 +3,14 @@
 }
 
 :root {
-	--Grotesk: aktiv-grotesk, "Aktiv Grotesk VF Trial";
-	--Condensed: aktiv-grotesk-condensed;
+	--Grotesk: "PP Neue Montreal", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+	--Condensed: "PP Right Grotesk Compact";
 }
 
 html {
 	--Color: oklch(51% 4% 88deg);
 	--TargetFontSize: round(3vw, 2px);
+	--FontWeight: 400;
 	
 	text-wrap: pretty;
 	font-family: "Aleo";
@@ -22,7 +23,7 @@ hr {
 
 body {
 	display: grid;
-	grid-template-columns: [full-start] minmax(var(--SpacingRow), 1fr) [main-start header-start] minmax(0, min-content) [header-end nav-start] minmax(0, 120ch) [nav-end main-end] minmax(var(--SpacingRow), 1fr) [full-end];
+	grid-template-columns: [full-start] minmax(var(--SpacingRow), 1fr) [main-start header-start] minmax(0, min-content) [header-end nav-start] minmax(0, 104ch) [nav-end main-end] minmax(var(--SpacingRow), 1fr) [full-end];
 	align-items: baseline;
 	background-color: oklch(45% 39% 274deg);
 
@@ -108,10 +109,10 @@ h1>i {
 	}
 }
 
-h3:has(i) {
+h2:has(i) {
 	position: relative;
 }
-h3>i {
+h2>i {
 	font-size: 1.25em;
 	vertical-align: middle;
 	margin-right: 0.25ch;
@@ -167,7 +168,7 @@ h3>i {
 		margin-top: 0.75ch;
 	}
 
-	h3>i {
+	h2>i {
 		margin-top: 0;
 		top: 50%;
 		translate: 0% -50%;
@@ -232,7 +233,7 @@ h3>i {
 	}
 
 	& :is(h3, h4) {
-		color: oklch(75% 39% 274deg);
+		color: oklch(84% 39% 274deg);
 		/* font-weight: 600; */
 	}
 
@@ -290,11 +291,12 @@ header {
 }
 
 header {
-	--FontWeight: 500;
+	--FontWeight: 540;
 
 	small {
 		--ScaleLevel: var(--Shorter);
 		--FontWeight: 800;
+		--LineHeightFactor: 0.75;
 
 		font-family: var(--Grotesk);
 		text-transform: uppercase;
@@ -321,18 +323,18 @@ main>header {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-	--FontWeight: 700;
+	--FontWeight: 740;
 
 	font-family: var(--Grotesk);
 }
 
 .h1, h1, .h2, h2 {
-	--FontWeight: 400;
+	--FontWeight: 440;
 
 }
 
 small+:is(h1, h2, h3) {
-	margin-top: var(--SpacingThinner);
+	margin-top: var(--SpacingThinnest);
 }
 
 sup {
@@ -351,6 +353,7 @@ a>sup {
 	display: inline-block;
 	text-box: trim-both cap alphabetic;
 	margin-top: -0.25em;
+	color: black;
 }
 
 .footnote-ref {
@@ -366,7 +369,7 @@ p + h4 {
 	margin-top: var(--SpacingBroad);
 }
 
-main section>:is(h3, h4) {
+main section>:is(h2, h3) {
 	display: flex;
 	align-items: center;
 	gap: var(--SpacingRow);
@@ -457,6 +460,7 @@ h4+p {
 
 .carte {
 	--ScaleLevel: var(--Short);
+	--FontWeight: 480;
 	font-family: var(--Grotesk);
 	display: block;
 	margin: 0;
@@ -498,6 +502,7 @@ h4+p {
 
 section>p:only-of-type {
 	--ScaleLevel: var(--Hugest);
+	--FontWeight: 800;
 	@media (max-width: 110ch) {
 		--LineHeightFactor: 0.75;
 	}
@@ -513,7 +518,7 @@ section>p:only-of-type {
 	}
 
 	& em {
-		color: oklch(90% 36% 143deg);
+		color: oklch(96% 46% 143deg);
 	}
 
 	&:last-child {
@@ -557,7 +562,7 @@ section>p:only-of-type {
 		margin-top: 0;
 	}
 
-	&>:is(h3, h4)::before {
+	&>:is(h2, h3)::before {
 		content: none;
 	}
 
@@ -585,10 +590,10 @@ section>p:only-of-type {
 		font-family: "Aleo";
 
 		--ScaleLevel: var(--Tall);
-		--FontWeight: 600;
+		--FontWeight: 500;
 
 		&.carte em {
-			color: oklch(90% 36% 143deg);
+			color: oklch(96% 46% 143deg);
 		}
 
 		&::before {
@@ -616,7 +621,7 @@ section>p:only-of-type {
 }
 
 .editable {
-	color:oklch(90% 39% 274deg);
+	color:oklch(100% 39% 274deg);
 	position: relative;
 	>* {
 		display: block;
@@ -695,17 +700,24 @@ section>p:only-of-type {
 	}
 
 	& a[href^="#fnref"] {
-		color: #333;
-		background-color: oklch(80% 38% 19deg);
-		padding: 3px 2px;
+		--FontWeight: 800;
+		--Color: #333;
+		background-color: oklch(88% 38% 19deg);
 		margin-left: 0.1625em;
 		font-size: 0.875em;
 		border-radius: 2px;
-		font-weight: 700;
 		font-family: var(--Grotesk);
 		text-decoration: none;
 		display: inline-block;
 		text-box: trim-both cap alphabetic;
+
+		padding: 0;
+		display: inline-flex;
+		box-sizing: border-box;
+		min-width: 24px;
+		min-height: 24px;
+		justify-content: center;
+		align-items: center;
 
 		&:visited {
 			background-color: oklch(80% 6% 88deg);
@@ -772,7 +784,7 @@ section>p:only-of-type {
 	}
 
 	& h4 {
-		--Color: oklch(75% 39% 274deg);
+		--Color: oklch(84% 39% 274deg);
 	}
 
 	& div {
@@ -784,7 +796,7 @@ section>p:only-of-type {
 		margin-top: var(--SpacingThinnest);
 	}
 
-	& h3+* {
+	& h2+* {
 		margin-top: var(--SpacingThin);
 	}
 }
