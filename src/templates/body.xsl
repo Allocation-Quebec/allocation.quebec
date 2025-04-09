@@ -16,7 +16,7 @@
 	</xsl:template>
 
 	<xsl:template match="root" mode="body" name="body">
-		<body>
+		<body ontouchstart="">
 			<xsl:if test="$script">
 				<noscript>
 					<xsl:apply-templates select="." mode="noscript"/>
@@ -59,7 +59,6 @@
 							<a href="/fr/roles/entrepreneurs">Entrepreneur•es</a>
 							<a href="/fr/roles/parents">Parents</a>
 							<a href="/fr/roles/etudiants">Étudiant•es</a>
-							<a href="/fr"></a>
 						</div>
 					</div>
 					<div class="menu-deroulant">
