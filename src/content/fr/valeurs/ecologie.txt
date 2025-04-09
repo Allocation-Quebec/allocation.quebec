@@ -30,22 +30,22 @@
 <h4>Résultats concrets</h4>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction de l’achat de produits à usage unique</strong>
-<p>Dans plusieurs études pilotes, les bénéficiaires ont réduit l’achat de biens jetables pour privilégier des alternatives durables (voir p. 11)[^basicincomeearth2013]. Ce changement de panier de consommation diminue directement la production de déchets.</p></li>
+<p>Dans plusieurs études pilotes, les bénéficiaires ont réduit l’achat de biens jetables pour privilégier des alternatives durables[^basicincomeearth2013]. Ce changement de panier de consommation diminue directement la production de déchets.</p></li>
 
 <li class="carte"><strong class="h5">Hausse des achats alimentaires locaux</strong>
-<p>Des programmes de revenu de base ont montré une augmentation de la consommation de produits locaux et frais (voir p. 25)[^haarmann2009]. Ces choix réduisent l’empreinte carbone liée au transport.</p></li>
+<p>Des programmes de revenu de base ont montré une augmentation de la consommation de produits locaux et frais[^haarmann2009]. Ces choix réduisent l’empreinte carbone liée au transport.</p></li>
 
 <li class="carte"><strong class="h5">Diminution du gaspillage alimentaire</strong>
-<p>Les ménages avec un revenu de base planifient mieux leurs repas et jettent moins (voir p. 26)[^forget2011]. L’amélioration de la stabilité financière favorise une gestion plus consciente des ressources.</p></li>
+<p>Les ménages avec un revenu de base planifient mieux leurs repas et jettent moins[^forget2011]. L’amélioration de la stabilité financière favorise une gestion plus consciente des ressources.</p></li>
 
 <li class="carte"><strong class="h5">Achats plus durables (réparables ou réutilisables)</strong>
-<p>Lorsque le revenu est sécurisé, les personnes investissent davantage dans des biens réparables plutôt qu’en remplacement (voir p. 19)[^jackson2017]. Cela ralentit le cycle de consommation et prolonge la durée de vie des objets.</p></li>
+<p>Lorsque le revenu est sécurisé, les personnes investissent davantage dans des biens réparables plutôt qu’en remplacement[^jackson2017]. Cela ralentit le cycle de consommation et prolonge la durée de vie des objets.</p></li>
 
 <li class="carte"><strong class="h5">Baisse de la consommation sous contrainte</strong>
-<p>Moins de stress financier signifie moins d’achats impulsifs, moins de dettes de consommation (voir p. 32)[^knight2019]. Ce type de consommation est souvent à fort impact environnemental.</p></li>
+<p>Moins de stress financier signifie moins d’achats impulsifs, moins de dettes de consommation[^knight2019]. Ce type de consommation est souvent à fort impact environnemental.</p></li>
 
 <li class="carte"><strong class="h5">Transition vers la sobriété choisie</strong>
-<p>Plusieurs témoignages dans les projets pilotes évoquent une satisfaction accrue dans un mode de vie simplifié (voir p. 30)[^knight2019]. Une allocation de base soutient cette transition sans insécurité.</p></li>
+<p>Plusieurs témoignages dans les projets pilotes évoquent une satisfaction accrue dans un mode de vie simplifié[^knight2019]. Une allocation de base soutient cette transition sans insécurité.</p></li>
 </ul>
 </section>
 
@@ -73,22 +73,22 @@
 <h4>Résultats concrets</h4>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de l’intérêt pour les métiers verts</strong>
-<p>Des participants à des programmes de revenu de base ont déclaré vouloir s’orienter vers des métiers en agriculture urbaine, réemploi, écoconstruction (voir p. 14)[^basicincomeearth2013]. Cela crée des bases pour une économie résiliente.</p></li>
+<p>Des participants à des programmes de revenu de base ont déclaré vouloir s’orienter vers des métiers en agriculture urbaine, réemploi, écoconstruction[^basicincomeearth2013]. Cela crée des bases pour une économie résiliente.</p></li>
 
 <li class="carte"><strong class="h5">Moins de dépendance aux emplois nuisibles</strong>
-<p>Des travailleurs ont pu quitter des postes dans des industries polluantes pour des projets durables ou sociaux (voir p. 20)[^haarmann2009]. La liberté de refuser un emploi destructeur est une clé de l’écologie.</p></li>
+<p>Des travailleurs ont pu quitter des postes dans des industries polluantes pour des projets durables ou sociaux[^haarmann2009]. La liberté de refuser un emploi destructeur est une clé de l’écologie.</p></li>
 
 <li class="carte"><strong class="h5">Création de micro-coopératives écologiques</strong>
-<p>Plusieurs expériences documentent l’apparition de coopératives locales dans les domaines du recyclage, compostage, ou agriculture (voir p. 21)[^haarmann2009]. Un revenu stable encourage l’initiative collective.</p></li>
+<p>Plusieurs expériences documentent l’apparition de coopératives locales dans les domaines du recyclage, compostage, ou agriculture[^haarmann2009]. Un revenu stable encourage l’initiative collective.</p></li>
 
 <li class="carte"><strong class="h5">Diminution des déplacements motorisés</strong>
-<p>Des gens ont pu réduire leurs déplacements quotidiens, souvent en voiture, en changeant leur rythme ou lieu de travail (voir p. 27)[^knight2019]. Moins de précarité, c’est aussi moins de dépendance automobile.</p></li>
+<p>Des gens ont pu réduire leurs déplacements quotidiens, souvent en voiture, en changeant leur rythme ou lieu de travail[^knight2019]. Moins de précarité, c’est aussi moins de dépendance automobile.</p></li>
 
 <li class="carte"><strong class="h5">Formation environnementale revalorisée</strong>
-<p>Avec du temps libre, plusieurs bénéficiaires s'inscrivent à des formations en agriculture, permaculture, ou écologie (voir p. 15)[^basicincomeearth2013]. Cela alimente les compétences nécessaires à la transition.</p></li>
+<p>Avec du temps libre, plusieurs bénéficiaires s'inscrivent à des formations en agriculture, permaculture, ou écologie[^basicincomeearth2013]. Cela alimente les compétences nécessaires à la transition.</p></li>
 
 <li class="carte"><strong class="h5">Meilleure acceptabilité des politiques vertes</strong>
-<p>Les projets montrent une plus grande adhésion aux politiques climatiques chez les personnes soutenues financièrement (voir p. 33)[^oecd2019]. La dignité rend les grandes transformations collectives possibles.</p></li>
+<p>Les projets montrent une plus grande adhésion aux politiques climatiques chez les personnes soutenues financièrement[^oecd2019]. La dignité rend les grandes transformations collectives possibles.</p></li>
 </ul>
 </section>
 
@@ -115,22 +115,22 @@
 <h4>Résultats concrets</h4>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de la participation au jardinage collectif</strong>
-<p>Des projets pilotes ont vu croître l’implication citoyenne dans des initiatives locales de verdissement (voir p. 18)[^knight2019]. Ce type d’engagement génère des effets écologiques, sociaux et symboliques.</p></li>
+<p>Des projets pilotes ont vu croître l’implication citoyenne dans des initiatives locales de verdissement[^knight2019]. Ce type d’engagement génère des effets écologiques, sociaux et symboliques.</p></li>
 
 <li class="carte"><strong class="h5">Développement d’ateliers de réparation</strong>
-<p>Des gens ont lancé ou rejoint des espaces de réparation communautaire (repair cafés), grâce à plus de temps libre (voir p. 20)[^basicincomeearth2013]. Moins de consommation, plus de savoir-faire partagé.</p></li>
+<p>Des gens ont lancé ou rejoint des espaces de réparation communautaire (repair cafés), grâce à plus de temps libre[^basicincomeearth2013]. Moins de consommation, plus de savoir-faire partagé.</p></li>
 
 <li class="carte"><strong class="h5">Diminution de la dépendance à l’automobile</strong>
-<p>Les horaires flexibles offerts par un revenu de base ont permis d’opter pour des déplacements actifs ou partagés (voir p. 27)[^knight2019]. Cela réduit l’impact carbone des transports quotidiens.</p></li>
+<p>Les horaires flexibles offerts par un revenu de base ont permis d’opter pour des déplacements actifs ou partagés[^knight2019]. Cela réduit l’impact carbone des transports quotidiens.</p></li>
 
 <li class="carte"><strong class="h5">Participation accrue aux instances locales</strong>
-<p>Plus de gens assistent aux assemblées citoyennes, s’impliquent dans les comités de quartier ou les projets environnementaux (voir p. 19)[^basicincomeearth2013]. L’écologie devient un projet collectif et non réservé aux élites.</p></li>
+<p>Plus de gens assistent aux assemblées citoyennes, s’impliquent dans les comités de quartier ou les projets environnementaux[^basicincomeearth2013]. L’écologie devient un projet collectif et non réservé aux élites.</p></li>
 
 <li class="carte"><strong class="h5">Stabilisation des liens de voisinage</strong>
-<p>Avec plus de temps et moins de stress, les réseaux de solidarité se renforcent autour d’objectifs écologiques partagés (voir p. 24)[^knight2019]. La confiance mutuelle facilite la gestion commune des ressources.</p></li>
+<p>Avec plus de temps et moins de stress, les réseaux de solidarité se renforcent autour d’objectifs écologiques partagés[^knight2019]. La confiance mutuelle facilite la gestion commune des ressources.</p></li>
 
 <li class="carte"><strong class="h5">Valorisation des communs</strong>
-<p>Les projets liés à l’eau, à la terre, à l’air, deviennent portés par la base plutôt que par injonction politique (voir p. 28)[^ostrom1990]. Cela permet une écologie enracinée et durable.</p></li>
+<p>Les projets liés à l’eau, à la terre, à l’air, deviennent portés par la base plutôt que par injonction politique[^ostrom1990]. Cela permet une écologie enracinée et durable.</p></li>
 </ul>
 </section>
 
@@ -157,14 +157,14 @@
 <blockquote class="carte"><p>« L’écologie devrait être une option par défaut, pas un privilège. »</p><cite class="h4">Nadia K.</cite></blockquote>
 </div>
 
-<hr/>
+<hr />
 <p>Avec une allocation de subsistance, un Québec <em>plus écologique</em> est possible.</p>
 </section>
 
-[^jackson2017]: Jackson, Tim. 2017. *Prosperity Without Growth: Foundations for the Economy of Tomorrow.* pp. 11, 19, 32.  
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 20–21, 25–27.  
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 14–20.  
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* pp. 26.  
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Environmental Behavior.* pp. 18–30.  
-[^oecd2019]: OECD. 2019. *Employment Outlook: Well-Being and Job Security.* pp. 33.  
-[^ostrom1990]: Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.*  
+[^jackson2017]: Jackson, Tim. 2017. *Prosperity Without Growth: Foundations for the Economy of Tomorrow.* Routledge. Utilisé p. 11, 19, 32.
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* Basic Income Grant Coalition. Utilisé p. 20–21, 25–27.
+[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* Utilisé p. 11, 14–20.
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* *Canadian Public Policy*, 37(3). Utilisé p. 26.
+[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Environmental Behavior.* Open Research Exchange. Utilisé p. 18–30.
+[^oecd2019]: OECD. 2019. *Employment Outlook: Well-Being and Job Security.* Utilisé p. 33.
+[^ostrom1990]: Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.* Cambridge University Press. Utilisé p. 28.
