@@ -8,6 +8,14 @@
 	</xsl:template>
 
 
+	<xsl:template match="/root/header">
+		<xsl:copy>
+			<div>
+				<xsl:apply-templates select="@* | node()"/>
+			</div>
+		</xsl:copy>
+	</xsl:template>
+
 	<xsl:template match="root[@lang='fr']" mode="noscript">
 		<p lang="fr">Le javascript est désactivé. Veuillez vous rendre <a href="full.html">ici</a> pour accéder au contenu complet.</p>
 	</xsl:template>
