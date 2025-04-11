@@ -18,10 +18,10 @@
 	<xsl:template match="/">
 		<html lang="{$lang}">
 			<head>
-				<link rel="preload" href="/assets/fonts/Aleo.woff2" as="font" type="font/woff2"/>
-				<link rel="preload" href="/assets/fonts/Aleo-Italic.woff2" as="font" type="font/woff2"/>
-				<link rel="preload" href="/assets/fonts/PPNeueMontreal-Variable.woff2" as="font" type="font/woff2"/>
-				<link rel="preload" href="/assets/fonts/PPRightGrotesk-CompactDark.woff2" as="font" type="font/woff2"/>
+				<link rel="preload" href="/assets/fonts/Aleo.woff2" as="font" type="font/woff2" crossorigin=""/>
+				<link rel="preload" href="/assets/fonts/Aleo-Italic.woff2" as="font" type="font/woff2" crossorigin=""/>
+				<link rel="preload" href="/assets/fonts/PPNeueMontreal-Variable-subset.woff2" as="font" type="font/woff2" crossorigin=""/>
+				<link rel="preload" href="/assets/fonts/PPRightGrotesk-CompactDark-subset.woff2" as="font" type="font/woff2" crossorigin=""/>
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<xsl:choose>
 					<xsl:when test="$lang='en'">
