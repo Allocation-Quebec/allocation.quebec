@@ -4,16 +4,60 @@
 
 :root {
 	--Grotesk: "PP Neue Montreal", "Helvetica Neue", "Helvetica", Arial, sans-serif;
-	--Condensed: "PP Right Grotesk Compact";
+	--Condensed: "PP Right Grotesk Compact", sans-serif;
+	--Serif: Aleo, Georgia, Times, serif;
+
+	--BrownHue: 88deg;
+	--BlueHue: 274deg;
+	--CyanHue: 219deg;
+	--RedHue: 19deg;
+	--LimeHue: 143deg;
+
+	--ThemeHue: var(--BlueHue);
+}
+
+
+body.green {
+	--ThemeHue: var(--LimeHue);
+}
+
+main>header {
+
+	&>div {
+		view-transition-name: entete;
+	}
+	&+* {
+		view-transition-name: over-entete;
+	}
+}
+
+::view-transition-old(entete) {
+	animation: fademove 0.2s var(--ease-out-quart) reverse forwards;
+}
+
+::view-transition-new(entete) {
+	animation: fademove 0.6s var(--ease-out-quart) both 0.2s;
+}
+
+@keyframes fademove {
+	from {
+		opacity: 0;
+		translate: 0 40px;
+	}
+
+	to {
+		opacity: 1;
+		translate: 0 0;
+	}
 }
 
 html {
-	--Color: oklch(51% 4% 88deg);
+	--Color: oklch(51% 4% var(--BrownHue));
 	--TargetFontSize: round(3vw, 2px);
 	--FontWeight: 400;
-	
+
 	text-wrap: pretty;
-	font-family: "Aleo";
+	font-family: var(--Serif);
 	scroll-padding-top: 40px;
 }
 
@@ -25,10 +69,10 @@ body {
 	display: grid;
 	grid-template-columns: [full-start] minmax(var(--SpacingRow), 1fr) [main-start header-start] minmax(0, min-content) [header-end nav-start] minmax(0, 104ch) [nav-end main-end] minmax(var(--SpacingRow), 1fr) [full-end];
 	align-items: baseline;
-	background-color: oklch(45% 39% 274deg);
+	background-color: oklch(45% 39% var(--ThemeHue));
 
 	&>main {
-		background-color: oklch(98% 6% 88deg);
+		background-color: oklch(98% 6% var(--BrownHue));
 	}
 
 	&>*, main>header {
@@ -61,7 +105,7 @@ body {
 
 
 .signature {
-	--Color: oklch(98% 38% 19deg);
+	--Color: oklch(98% 38% var(--RedHue));
 
 	text-transform: uppercase;
 	font-weight: 800;
@@ -75,13 +119,13 @@ body {
 
 	em {
 		font-style: normal;
-		color: oklch(90% 17% 219deg);
+		color: oklch(90% 17% var(--CyanHue));
 	}
 }
 
 
 [id=entete-principal] {
-	--Color: oklch(98% 6% 88deg);
+	--Color: oklch(98% 6% var(--BrownHue));
 	font-family: var(--Grotesk);
 
 	& h1 {
@@ -126,10 +170,7 @@ h2>i {
 	}
 
 	body>main>header {
-		&>h1 {
-			display: flex;
-			align-items: baseline;
-
+		h1 {
 			&::before {
 				content: "";
 				top: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4);
@@ -137,7 +178,7 @@ h2>i {
 				margin-left: -60px;
 				bottom: 0;
 				position: absolute;
-				border-left: 2px solid oklch(92% 6% 88deg);
+				border-left: 2px solid oklch(92% 6% var(--BrownHue));
 			}
 		}
 
@@ -152,10 +193,11 @@ h2>i {
 		position: absolute;
 		padding: 0.75ch;
 		height: 2ch;
+		width: 2ch;
 		aspect-ratio: 1;
 		border-radius: 50%;
 		border: 2px solid transparent;
-		background-color: oklch(98% 6% 88deg);
+		background-color: oklch(98% 6% var(--BrownHue));
 		margin-top: 0.25ch;
 	}
 
@@ -163,8 +205,8 @@ h2>i {
 		margin-left: calc(-60px - 1.75ch - 2px);
 		aspect-ratio: 1;
 		border-radius: 50%;
-		border: 2px solid oklch(88% 6% 88deg);
-		background-color:  oklch(55% 39% 274deg);
+		border: 2px solid oklch(88% 6% var(--BrownHue));
+		background-color:  oklch(55% 39% var(--ThemeHue));
 		margin-top: 0.75ch;
 	}
 
@@ -177,25 +219,72 @@ h2>i {
 
 
 [id=navigation-principale] {
+
+	--Color: oklch(90% 17% var(--CyanHue));
+	view-transition-name: navigation;
 	z-index: 1;
 	font-family: var(--Grotesk);
 
 	@media (orientation: portrait) {
 		order: 1;
 		position: sticky;
+		display: block;
 		bottom: 0;
 		grid-column: full;
-		background-color: oklch(45% 39% 274deg);
-		border-top: 2px solid oklch(55% 39% 274deg);
+		background-color: oklch(45% 39% var(--ThemeHue));
+		border-top: 2px solid oklch(55% 39% var(--ThemeHue));
 
 		&>div {
 			overflow-x: auto;
+
+			&::before {
+
+				position: sticky;
+				right: -1px;
+				display: flex;
+				flex-shrink: 0;
+				align-items: center;
+				justify-content: end;
+				order: 1;
+
+				width: var(--SpacingRow);
+				padding: var(--SpacingMicro);
+				background-image: linear-gradient(to left, oklch(45% 39% var(--ThemeHue)) 60%, oklch(45% 39% var(--ThemeHue) / 0) 100%);
+				content: "...";
+				color: var(--Color);
+				
+			}
+
+			&::after {
+
+				position: relative;
+				z-index: 1;
+				display: flex;
+				flex-shrink: 0;
+
+				box-sizing: border-box;
+				width: var(--SpacingRow);
+				margin-right: calc(var(--SpacingBroader) * -0.7);
+				padding-right: var(--SpacingThinnest);
+				background-color: oklch(45% 39% var(--ThemeHue));
+				content: "";
+				place-items: center;
+				align-self: stretch;
+			}
+
+
+			&>:last-child {
+				margin-right: calc(var(--SpacingThinner) * -1);
+			}
 		}
+	}
+
+	& div {
+		display: flex;
 	}
 
 	&>div {
 		scrollbar-width: none;
-		display: flex;
 		align-items: baseline;
 		flex-wrap: nowrap;
 		gap: 0;
@@ -207,11 +296,11 @@ h2>i {
 		}
 
 		&>:is(div, a) {
-			padding: var(--SpacingThin);
+			padding: var(--SpacingThinner);
 		}
 
 		&:has(>div:hover)>div:not(:hover) {
-			background-color: oklch(40% 36% 274deg);
+			background-color: oklch(40% 36% var(--ThemeHue));
 		}
 	}
 	& :is(a, h4) {
@@ -225,15 +314,14 @@ h2>i {
 
 		display: block;
 		line-height: 1;
-		color: oklch(90% 17% 219deg);
 
 		&:hover {
-			color: oklch(98% 38% 19deg);
+			color: oklch(98% 38% var(--RedHue));
 		}
 	}
 
 	& :is(h3, h4) {
-		color: oklch(84% 39% 274deg);
+		color: oklch(84% 39% var(--ThemeHue));
 		/* font-weight: 600; */
 	}
 
@@ -253,7 +341,7 @@ h2>i {
 		flex-direction: column;
 		left: 0;
 		padding: 20px 10px;
-		background-color: oklch(45% 39% 274deg);
+		background-color: oklch(45% 39% var(--ThemeHue));
 
 		&:has(section) {
 			flex-direction: row;
@@ -267,7 +355,7 @@ h2>i {
 			left: 0;
 			right: 0;
 			position: fixed;
-			box-shadow: 0px -12px 15px oklch(40% 36% 274deg / 0.5);
+			box-shadow: 0px -12px 15px oklch(40% 36% var(--ThemeHue) / 0.5);
 		}
 
 		@media (orientation: landscape) {
@@ -275,7 +363,7 @@ h2>i {
 			position: absolute;
 			top: 100%;
 			border-radius: 0 0 4px 4px;
-			box-shadow: 0px 12px 15px oklch(40% 36% 274deg / 0.5);
+			box-shadow: 0px 12px 15px oklch(40% 36% var(--ThemeHue) / 0.5);
 		}
 
 	}
@@ -304,10 +392,10 @@ header {
 }
 
 main>header {
-	--Color: oklch(98% 6% 88deg);
+	--Color: oklch(98% 6% var(--BrownHue));
 
 	padding-block: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4);
-	background-color: oklch(55% 39% 274deg);
+	background-color: oklch(55% 39% var(--ThemeHue));
 }
 
 :is(h1, .h1)+strong {
@@ -344,7 +432,7 @@ sup {
 
 a>sup {
 	font-family: var(--Grotesk);
-	background-color: oklch(98% 38% 19deg);
+	background-color: oklch(98% 38% var(--RedHue));
 	padding: 3px 2px;
 	margin-left: 0.1625em;
 	font-size: 0.6125em;
@@ -376,13 +464,13 @@ main section>:is(h2, h3) {
 
 	&::after {
 		content: "";
-		border-top: 2px solid oklch(92% 6% 88deg);
+		border-top: 2px solid oklch(92% 6% var(--BrownHue));
 		flex-grow: 1;
 	}
 
 	&::before {
 		content: "";
-		border-top: 2px solid oklch(92% 6% 88deg);
+		border-top: 2px solid oklch(92% 6% var(--BrownHue));
 		width: 40px;
 		margin-left: -60px;
 	}
@@ -483,7 +571,7 @@ h3+p {
 
 	blockquote& {
 		p {
-			font-family: "Aleo";
+			font-family: var(--Serif);
 			font-style: italic;
 		}
 	}
@@ -518,7 +606,7 @@ section>p:only-of-type {
 	}
 
 	& em {
-		color: oklch(96% 46% 143deg);
+		color: oklch(96% 46% var(--LimeHue));
 	}
 
 	&:last-child {
@@ -546,15 +634,15 @@ section>p:only-of-type {
 	}
 
 	&.dark {
-		background-color: oklch(92% 6% 88deg);
+		background-color: oklch(92% 6% var(--BrownHue));
 	}
 
 	&.secondary {
-		--Color: oklch(98% 6% 88deg);
-		background-color: oklch(55% 39% 274deg);
+		--Color: oklch(98% 6% var(--BrownHue));
+		background-color: oklch(55% 39% var(--ThemeHue));
 
 		&.dark {
-			background-color: oklch(45% 39% 274deg);
+			background-color: oklch(45% 39% var(--ThemeHue));
 		}
 	}
 
@@ -566,7 +654,7 @@ section>p:only-of-type {
 		content: none;
 	}
 
-	&>*+* {
+	&>header+* {
 		margin-top: var(--SpacingBroader);
 	}
 
@@ -587,17 +675,17 @@ section>p:only-of-type {
 	}
 
 	li {
-		font-family: "Aleo";
+		font-family: var(--Serif);
 
 		--ScaleLevel: var(--Tall);
 		--FontWeight: 500;
 
 		&.carte em {
-			color: oklch(96% 46% 143deg);
+			color: oklch(96% 46% var(--LimeHue));
 		}
 
 		&::before {
-			color: oklch(85% 39% 274deg);
+			color: oklch(85% 39% var(--ThemeHue));
 		}
 	}
 
@@ -621,7 +709,7 @@ section>p:only-of-type {
 }
 
 .editable {
-	color:oklch(100% 39% 274deg);
+	color:oklch(100% 39% var(--ThemeHue));
 	position: relative;
 	>* {
 		display: block;
@@ -702,7 +790,7 @@ section>p:only-of-type {
 	& a[href^="#fnref"] {
 		--FontWeight: 800;
 		--Color: #333;
-		background-color: oklch(88% 38% 19deg);
+		background-color: oklch(88% 38% var(--RedHue));
 		margin-left: 0.1625em;
 		font-size: 0.875em;
 		border-radius: 2px;
@@ -720,7 +808,7 @@ section>p:only-of-type {
 		align-items: center;
 
 		&:visited {
-			background-color: oklch(80% 6% 88deg);
+			background-color: oklch(80% 6% var(--BrownHue));
 		}
 	}
 }
@@ -760,6 +848,12 @@ section>p:only-of-type {
 		--LineHeightFactor: 1;
 	}
 
+	& div {
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0;
+	}
+
 	&>div {
 		&>section {
 			flex-basis: auto;
@@ -776,15 +870,15 @@ section>p:only-of-type {
 		display: block;
 		text-decoration: none;
 		/* pointer-events: none; */
-		background-color: oklch(45% 39% 274deg);
+		/* background-color: oklch(45% 39% var(--ThemeHue)); */
 
 		&:visited {
-			color: oklch(98% 38% 19deg);
+			color: oklch(98% 38% var(--RedHue));
 		}
 	}
 
 	& h4 {
-		--Color: oklch(84% 39% 274deg);
+		--Color: oklch(84% 39% var(--ThemeHue));
 	}
 
 	& div {
@@ -792,7 +886,7 @@ section>p:only-of-type {
 		align-items: baseline;
 	}
 
-	& *+a {
+	& *+* {
 		margin-top: var(--SpacingThinnest);
 	}
 
