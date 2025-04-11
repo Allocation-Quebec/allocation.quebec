@@ -58,36 +58,36 @@
 
 /* Scaffolding: properties and default values --------- */
 /* 1. Display & space occupation ---- */
-		div {
-			/* Flex context with
-			row break for fluidity */
-			display: var(--DivDisplay, flex);
-			flex-wrap: wrap;
-			gap: var(--DivItemGutter, 0px);
-			align-items: inherit;
-			/* Allow inheritance of alignment rules.
-			Facilitates extension by parents */
-			justify-content: inherit;
-		}
+		/* div { */
+		/* 	/1* Flex context with */
+		/* 	row break for fluidity *1/ */
+		/* 	display: var(--DivDisplay, flex); */
+		/* 	flex-wrap: wrap; */
+		/* 	gap: var(--DivItemGutter, 0px); */
+		/* 	align-items: inherit; */
+		/* 	/1* Allow inheritance of alignment rules. */
+		/* 	Facilitates extension by parents *1/ */
+		/* 	justify-content: inherit; */
+		/* } */
 
-		div>* {
-			/* Initial dimensions
-			(can be adjusted!) */
-			flex-basis: var(--DivItemBasis, auto);
-			/* Distribute vacant space
-			equally among children */
-			flex-grow: var(--DivItemGrow, 0);
-			flex-shrink: var(--DivItemShrink, 1);
-			max-width: var(--DivItemMaxWidth, initial);
-		}
+		/* div>* { */
+		/* 	/1* Initial dimensions */
+		/* 	(can be adjusted!) *1/ */
+		/* 	flex-basis: var(--DivItemBasis, auto); */
+		/* 	/1* Distribute vacant space */
+		/* 	equally among children *1/ */
+		/* 	flex-grow: var(--DivItemGrow, 0); */
+		/* 	flex-shrink: var(--DivItemShrink, 1); */
+		/* 	max-width: var(--DivItemMaxWidth, initial); */
+		/* } */
 
-		/* Break the inheritance chain
-		to allow successive inclusion */
-		div *:not(div)>* {
-			--DivItemBasis: initial;
-			--DivItemGrow: initial;
-			--DivItemShrink: initial;
-			--DivItemGutter: initial;
-			--DivItemMaxWidth: initial;
-		}
+		/* /1* Break the inheritance chain */
+		/* to allow successive inclusion *1/ */
+		/* div *:not(div)>* { */
+		/* 	--DivItemBasis: initial; */
+		/* 	--DivItemGrow: initial; */
+		/* 	--DivItemShrink: initial; */
+		/* 	--DivItemGutter: initial; */
+		/* 	--DivItemMaxWidth: initial; */
+		/* } */
 }
