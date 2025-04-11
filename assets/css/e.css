@@ -57,4 +57,4 @@
 /* Third-party or extrageneous rulesets -------------- */
 	@import url("x.dev/x-quarantine.css");
 	/* @import url("x-special.css"); */
-	@import url("../fonts/Aleo.css");
+	@import url("../fonts/fonts.css");
