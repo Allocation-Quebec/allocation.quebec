@@ -2,21 +2,6 @@
   navigation: auto;
 }
 
-:root {
-	--Grotesk: "PP Neue Montreal", "Helvetica Neue", "Helvetica", Arial, sans-serif;
-	--Condensed: "PP Right Grotesk Compact", sans-serif;
-	--Serif: Aleo, Georgia, Times, serif;
-
-	--BrownHue: 88deg;
-	--BlueHue: 274deg;
-	--CyanHue: 219deg;
-	--RedHue: 19deg;
-	--LimeHue: 143deg;
-
-	--ThemeHue: var(--BlueHue);
-}
-
-
 body.green {
 	--ThemeHue: var(--LimeHue);
 }
@@ -296,7 +281,7 @@ h2>i {
 		}
 
 		&>:is(div, a) {
-			padding: var(--SpacingThinner);
+			padding: var(--SpacingThin) var(--SpacingThinner);
 		}
 
 		&:has(>div:hover)>div:not(:hover) {

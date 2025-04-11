@@ -6,22 +6,18 @@
 	 * Refer to the bottom of this file for the full list. */
 	html {
 		/* Palette colors */
-		--rgbPink: 255, 214, 231;
-		--rgbYellow: 246, 229, 197;
-		--rgbBlue: 10, 12, 91;
-		--Pink: rgb(var(--rgbPink));
-		--Yellow: rgb(var(--rgbYellow));
-		--Blue: rgb(var(--rgbBlue));
+		--BrownHue: 88deg;
+		--BlueHue: 274deg;
+		--CyanHue: 219deg;
+		--RedHue: 19deg;
+		--LimeHue: 143deg;
 
-		/* Logical colors */
-		--Color: black;
-		--ColorSupport: var(--Pink);
-		--ColorAccent:;
-		--ColorBg: var(--Yellow);
-		--rgbColor: var(--rgbBlue);
-		--rgbColorSupport: var(--rgbPink);
-		--rgbColorAccent:;
-		--rgbColorBg: var(--rgbYellow);
+		--ThemeHue: var(--BlueHue);
+
+		/* Fonts */
+		--Grotesk: "PP Neue Montreal", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+		--Condensed: "PP Right Grotesk Compact", sans-serif;
+		--Serif: Aleo, Georgia, Times, serif;
 
 
 		/* Fluid Typography */
