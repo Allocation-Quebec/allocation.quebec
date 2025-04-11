@@ -7,6 +7,7 @@
 		<xsl:apply-templates/>
 	</xsl:template>
 
+	<xsl:template match="meta"/>
 
 	<xsl:template match="/root/header">
 		<xsl:copy>
@@ -16,6 +17,10 @@
 		</xsl:copy>
 	</xsl:template>
 
+	<xsl:variable name="theme">
+		<xsl:value-of select="//meta/@theme"/>
+	</xsl:variable>
+
 	<xsl:template match="root[@lang='fr']" mode="noscript">
 		<p lang="fr">Le javascript est désactivé. Veuillez vous rendre <a href="full.html">ici</a> pour accéder au contenu complet.</p>
 	</xsl:template>
@@ -24,7 +29,7 @@
 	</xsl:template>
 
 	<xsl:template match="root" mode="body" name="body">
-		<body ontouchstart="">
+		<body ontouchstart="" class="{$theme}">
 			<xsl:if test="$script">
 				<noscript>
 					<xsl:apply-templates select="." mode="noscript"/>
