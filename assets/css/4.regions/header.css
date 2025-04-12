@@ -1,0 +1,15 @@
+@layer regions {
+	[id=header] {
+		--Color: oklch(98% 6% var(--BrownHue));
+		font-family: var(--Grotesk);
+
+		& h1 {
+			--ScaleLevel: var(--Short);
+		}
+
+		@media (orientation: portrait) {
+			padding: var(--SpacingThinner) var(--SpacingRow);
+			grid-column: full;
+		}
+	}
+}

@@ -30,15 +30,18 @@
 
 	<xsl:template match="root" mode="body" name="body">
 		<body ontouchstart="" class="{$theme}">
+			<link rel="stylesheet" href="/assets/css/4.regions/body.css"/>
 			<xsl:if test="$script">
 				<noscript>
 					<xsl:apply-templates select="." mode="noscript"/>
 				</noscript>
 			</xsl:if>
-			<header id="entete-principal">
+			<link rel="stylesheet" href="/assets/css/4.regions/header.css"/>
+			<header id="header">
 				<h1 class="signature">Allocation <em>Québec</em></h1>
 			</header>
-			<nav id="navigation-principale">
+			<link rel="stylesheet" href="/assets/css/4.regions/nav.css"/>
+			<nav id="nav">
 				<h2 class="is-invisible">Navigation principale</h2>
 				<div>
 					<div class="menu-deroulant">
@@ -104,7 +107,7 @@
 			<footer id="pied-site" class="full secondary dark">
 				<article>
 					<h2 class="is-invisible">Mission</h2>
-					<strong class="signature grande">Allocation <em>Québec</em></strong>
+					<strong class="signature as-big">Allocation <em>Québec</em></strong>
 					<p>invite les québécois.es à réfléchir collectivement à la création d’une allocation de subsistance, un projet de société porteur pour le XXI<sup>e</sup> siècle et dont les retombées positives bénéficieraient à tous et toutes.</p>
 				</article>
 				<section id="plan-site">

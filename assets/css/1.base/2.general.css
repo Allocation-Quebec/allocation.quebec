@@ -18,7 +18,7 @@
 	/* Ensure that they are not displayed
 	 * when integrated into content. */
 	link, script { 
-		display: none; 
+		display: none !important; /* stylelint-disable-line */
 	}
 
 	/* Anchor decoration is unwanted in nav. */

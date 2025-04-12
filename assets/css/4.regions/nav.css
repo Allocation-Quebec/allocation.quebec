@@ -1,0 +1,133 @@
+@layer regions {
+	[id=nav] {
+
+		--Color: oklch(90% 17% var(--CyanHue));
+		view-transition-name: navigation; /* stylelint-disable-line */
+		position: relative;
+		z-index: 1;
+		font-family: var(--Grotesk);
+
+
+		& div {
+			display: flex;
+		}
+
+		&>div {
+			scrollbar-width: none;
+			display: flex;
+			align-items: baseline;
+			flex-wrap: nowrap;
+			gap: 0;
+
+			&>* {
+				flex-shrink: 0;
+				flex-grow: 0;
+				flex-basis: auto;
+			}
+
+			&>:is(div, a) {
+				padding: var(--SpacingThin) var(--SpacingThinner);
+			}
+
+			&:where(:has(>div:hover))>div:not(:hover) {
+				background-color: oklch(40% 36% var(--ThemeHue));
+			}
+		}
+		& h4 {
+			margin: var(--SpacingThinnest); /* stylelint-disable-line */
+		}
+		& a {
+			padding: var(--SpacingThinnest);
+			margin: 0;
+
+			@media (orientation: landscape) {
+				--ScaleLevel: var(--Short);
+			}
+
+			--FontWeight: 600;
+
+
+			display: block;
+			line-height: 1;
+
+			&:hover {
+				color: oklch(98% 38% var(--RedHue));
+			}
+		}
+
+		& :is(h3, h4) {
+			color: oklch(84% 39% var(--ThemeHue));
+		}
+
+
+		&>div>a:last-child {
+			font-weight: 700;
+			margin-left: auto;
+		}
+
+		@media (orientation: portrait) {
+			& * {
+
+				--ScaleLevel: var(--Base);
+			}
+		}
+	}
+
+
+	@media (orientation: portrait) {
+		nav {
+
+			order: 1;
+			position: sticky;
+			display: block;
+			bottom: 0;
+			grid-column: full;
+			background-color: oklch(45% 39% var(--ThemeHue));
+			border-top: 2px solid oklch(55% 39% var(--ThemeHue));
+
+			&>div {
+				overflow-x: auto;
+
+				&::before {
+
+					position: sticky;
+					right: -1px;
+					display: flex;
+					flex-shrink: 0;
+					align-items: center;
+					justify-content: end;
+					order: 1;
+
+					width: var(--SpacingRow);
+					padding: var(--SpacingMicro);
+					background-image: linear-gradient(to left, oklch(45% 39% var(--ThemeHue)) 60%, oklch(45% 39% var(--ThemeHue) / 0) 100%);
+					content: "...";
+					color: var(--Color);
+
+				}
+
+				&::after {
+
+					position: relative;
+					z-index: 1;
+					display: flex;
+					flex-shrink: 0;
+
+					box-sizing: border-box;
+					width: var(--SpacingRow);
+					margin-right: calc(var(--SpacingBroader) * -0.7);
+					padding-right: var(--SpacingThinnest);
+					background-color: oklch(45% 39% var(--ThemeHue));
+					content: "";
+					place-items: center;
+					align-self: stretch;
+				}
+
+
+				&>:last-child {
+					margin-right: calc(var(--SpacingThinner) * -1);
+				}
+			}
+		}
+	}
+}

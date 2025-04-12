@@ -1,0 +1,21 @@
+@layer components {
+	.signature {
+		--Color: oklch(98% 38% var(--RedHue));
+
+		text-transform: uppercase;
+		font-weight: 800;
+		flex-basis: max-content; /* stylelint-disable-line */
+		flex-shrink: 0; /* stylelint-disable-line */
+		font-family: var(--Grotesk);
+		white-space: nowrap;
+
+		&.as-big {
+			--ScaleLevel: var(--Tall);
+		}
+
+		& em {
+			font-style: normal;
+			color: oklch(90% 17% var(--CyanHue));
+		}
+	}
+}

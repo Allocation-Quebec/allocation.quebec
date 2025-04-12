@@ -24,4 +24,14 @@
 		--FontWeight: 600;
 	}
 
+
+	html {
+		--Color: oklch(51% 4% var(--BrownHue));
+		--TargetFontSize: round(3dvw, 2px);
+		--FontWeight: 400;
+
+		text-wrap: pretty;
+		font-family: var(--Serif);
+		scroll-padding-top: 40px;
+	}
 }

@@ -1,0 +1,41 @@
+@layer regions {
+	body {
+		display: grid;
+		grid-template-columns: [full-start] minmax(var(--SpacingRow), 1fr) [main-start header-start] minmax(0, min-content) [header-end nav-start] minmax(0, 104ch) [nav-end main-end] minmax(var(--SpacingRow), 1fr) [full-end];
+		align-items: baseline;
+
+		&>*, &>main>header {
+			grid-column: full;
+			display: grid;
+			grid-template-columns: subgrid;
+		}
+
+		&>*>*, &>main>*>* {
+			grid-column: main;
+		}
+
+		&>nav {
+			grid-column: full;
+		}
+
+		@media (orientation: landscape) {
+			&>header {
+				grid-column: header;
+				margin-right: var(--SpacingRow);
+			}
+
+			&>nav {
+				grid-column: nav;
+			}
+
+		}
+	}
+
+	body {
+		background-color: oklch(45% 39% var(--ThemeHue));
+
+		&>main {
+			background-color: oklch(98% 6% var(--BrownHue));
+		}
+	}
+}
