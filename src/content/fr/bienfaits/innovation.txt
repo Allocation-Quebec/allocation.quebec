@@ -30,22 +30,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de la créativité autodirigée</strong>
-<p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux (voir p. 19)[^kela2020]. Le filet de base devient un levier de création.</p></li>
+<p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux[^kela2020]. Le filet de base devient un levier de création.</p></li>
 
 <li class="carte"><strong class="h5">Émergence d’initiatives collectives</strong>
-<p>Des coopératives, incubateurs citoyens et « fab labs » sont apparus dans les zones pilotes (voir p. 26)[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
+<p>Des coopératives, incubateurs citoyens et « fab labs » sont apparus dans les zones pilotes[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
 
 <li class="carte"><strong class="h5">Diversité accrue des projets lancés</strong>
-<p>On observe une augmentation des projets atypiques, non-techniques, souvent portés par des personnes éloignées du marché classique (voir p. 21)[^haarmann2009]. L’innovation sort des sentiers battus.</p></li>
+<p>On observe une augmentation des projets atypiques, non-techniques, souvent portés par des personnes éloignées du marché classique[^haarmann2009]. L’innovation sort des sentiers battus.</p></li>
 
 <li class="carte"><strong class="h5">Plus grande tolérance à l’échec</strong>
-<p>Les gens se permettent d’expérimenter sans craindre les conséquences irréversibles (voir p. 24)[^kela2020]. Le droit à l’essai est une base de l’innovation réelle.</p></li>
+<p>Les gens se permettent d’expérimenter sans craindre les conséquences irréversibles[^kela2020]. Le droit à l’essai est une base de l’innovation réelle.</p></li>
 
 <li class="carte"><strong class="h5">Réduction des freins psychologiques à la création</strong>
-<p>Les participants témoignent d’un apaisement mental qui favorise la pensée divergente (voir p. 27)[^knight2019]. L’innovation commence là où l’anxiété recule.</p></li>
+<p>Les participants témoignent d’un apaisement mental qui favorise la pensée divergente[^knight2019]. L’innovation commence là où l’anxiété recule.</p></li>
 
 <li class="carte"><strong class="h5">Réinvestissement des savoirs oubliés</strong>
-<p>Des savoir-faire artisanaux ou traditionnels ont été remis en circulation par des personnes libérées de la précarité (voir p. 28)[^basicincomeearth2013]. L’innovation peut aussi puiser dans les racines.</p></li>
+<p>Des savoir-faire artisanaux ou traditionnels ont été remis en circulation par des personnes libérées de la précarité[^basicincomeearth2013]. L’innovation peut aussi puiser dans les racines.</p></li>
 </ul>
 </section>
 
@@ -73,22 +73,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Création de projets liés à la transition écologique</strong>
-<p>Des initiatives en agriculture urbaine, réparation, recyclage ont fleuri dans les communautés soutenues (voir p. 25)[^basicincomeearth2013]. Le revenu de base libère l’innovation verte.</p></li>
+<p>Des initiatives en agriculture urbaine, réparation, recyclage ont fleuri dans les communautés soutenues[^basicincomeearth2013]. Le revenu de base libère l’innovation verte.</p></li>
 
 <li class="carte"><strong class="h5">Développement d’outils libres et partagés</strong>
-<p>Des bénéficiaires ont contribué à des logiciels ou plateformes en open source, sans attente immédiate de revenu (voir p. 29)[^kela2020]. L’innovation sociale devient possible sans pression marchande.</p></li>
+<p>Des bénéficiaires ont contribué à des logiciels ou plateformes en open source, sans attente immédiate de revenu[^kela2020]. L’innovation sociale devient possible sans pression marchande.</p></li>
 
 <li class="carte"><strong class="h5">Apparition de nouveaux modèles d’affaires sociaux</strong>
-<p>Des structures hybrides, à mi-chemin entre entreprise et projet citoyen, ont émergé (voir p. 30)[^haarmann2009]. Le filet de base soutient l’expérimentation organisationnelle.</p></li>
+<p>Des structures hybrides, à mi-chemin entre entreprise et projet citoyen, ont émergé[^haarmann2009]. Le filet de base soutient l’expérimentation organisationnelle.</p></li>
 
 <li class="carte"><strong class="h5">Hausse des projets à visée communautaire</strong>
-<p>Des projets orientés vers le bien commun ont été portés par des personnes sans profil entrepreneurial classique (voir p. 31)[^basicincomeearth2013]. L’innovation devient collective.</p></li>
+<p>Des projets orientés vers le bien commun ont été portés par des personnes sans profil entrepreneurial classique[^basicincomeearth2013]. L’innovation devient collective.</p></li>
 
 <li class="carte"><strong class="h5">Moins d’obstacles à la reconversion professionnelle</strong>
-<p>Les gens osent changer de métier ou de secteur pour contribuer différemment (voir p. 32)[^forget2017]. L’innovation passe aussi par soi-même.</p></li>
+<p>Les gens osent changer de métier ou de secteur pour contribuer différemment[^forget2017]. L’innovation passe aussi par soi-même.</p></li>
 
 <li class="carte"><strong class="h5">Élargissement de la base d’innovation</strong>
-<p>La participation à l’innovation s’étend au-delà des élites éduquées (voir p. 28)[^mazzucato2018]. On libère une intelligence collective trop longtemps contrainte.</p></li>
+<p>La participation à l’innovation s’étend au-delà des élites éduquées[^mazzucato2018]. On libère une intelligence collective trop longtemps contrainte.</p></li>
 </ul>
 </section>
 

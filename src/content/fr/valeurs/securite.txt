@@ -30,7 +30,7 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Baisse des expulsions de logement</strong>
-<p>Dans des projets pilotes, les bénéficiaires ont pu éviter l’expulsion grâce à un revenu stable (voir p. 22)[^haarmann2009]. Cette sécurité de base protège l’accès à un domicile fixe.</p></li>
+<p>Dans des projets pilotes, les bénéficiaires ont pu éviter l’expulsion grâce à un revenu stable[^haarmann2009]. Cette sécurité de base protège l’accès à un domicile fixe.</p></li>
 
 <li class="carte"><strong class="h5">Hausse de la stabilité résidentielle</strong>
 <p>Moins de déménagements liés à des difficultés financières ont été observés[^forget2011]. La stabilité du logement est une forme directe de sécurité au quotidien.</p></li>

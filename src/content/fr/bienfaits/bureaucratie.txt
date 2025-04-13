@@ -30,22 +30,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction du non-recours à l’aide</strong>
-<p>L’universalité élimine les erreurs d’inadmissibilité et le découragement face aux démarches (voir p. 28)[^basicincomeearth2013]. Un droit accessible est un droit exercé.</p></li>
+<p>L’universalité élimine les erreurs d’inadmissibilité et le découragement face aux démarches[^basicincomeearth2013]. Un droit accessible est un droit exercé.</p></li>
 
 <li class="carte"><strong class="h5">Moins de dossiers incomplets ou rejetés</strong>
-<p>Les systèmes conditionnels souffrent de taux élevés de refus administratifs — problème inexistant avec une prestation automatique (voir p. 24)[^ccds2007]. La simplicité administrative devient un filet de sécurité.</p></li>
+<p>Les systèmes conditionnels souffrent de taux élevés de refus administratifs — problème inexistant avec une prestation automatique[^ccds2007]. La simplicité administrative devient un filet de sécurité.</p></li>
 
 <li class="carte"><strong class="h5">Diminution des files d’attente</strong>
-<p>Les services sociaux peuvent se concentrer sur l’accompagnement plutôt que sur la paperasse (voir p. 21)[^macdonald2016]. Le temps libéré devient du temps utile.</p></li>
+<p>Les services sociaux peuvent se concentrer sur l’accompagnement plutôt que sur la paperasse[^macdonald2016]. Le temps libéré devient du temps utile.</p></li>
 
 <li class="carte"><strong class="h5">Baisse du nombre de révisions et litiges</strong>
-<p>Moins de décisions contestées, moins de recours devant les tribunaux administratifs (voir p. 14)[^forget2017]. Un système clair diminue les tensions.</p></li>
+<p>Moins de décisions contestées, moins de recours devant les tribunaux administratifs[^forget2017]. Un système clair diminue les tensions.</p></li>
 
 <li class="carte"><strong class="h5">Réduction du stress administratif pour les citoyens</strong>
-<p>Les bénéficiaires rapportent un soulagement significatif lié à la fin des justifications récurrentes (voir p. 19)[^forget2017]. Moins d’humiliation, plus de confiance.</p></li>
+<p>Les bénéficiaires rapportent un soulagement significatif lié à la fin des justifications récurrentes[^forget2017]. Moins d’humiliation, plus de confiance.</p></li>
 
 <li class="carte"><strong class="h5">Simplification du travail des fonctionnaires</strong>
-<p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain (voir p. 16)[^basicincomeearth2013]. La bureaucratie administrative devient un outil, pas un obstacle.</p></li>
+<p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain[^basicincomeearth2013]. La bureaucratie administrative devient un outil, pas un obstacle.</p></li>
 </ul>
 </section>
 
@@ -73,22 +73,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des coûts de gestion</strong>
-<p>Les modèles de revenu de base montrent une baisse importante des dépenses administratives (voir p. 10)[^macdonald2016]. L’argent va directement aux gens, pas aux structures.</p></li>
+<p>Les modèles de revenu de base montrent une baisse importante des dépenses administratives[^macdonald2016]. L’argent va directement aux gens, pas aux structures.</p></li>
 
 <li class="carte"><strong class="h5">Moins de doublons entre programmes</strong>
-<p>L’universalité permet de regrouper plusieurs prestations redondantes (voir p. 16)[^macdonald2016]. Cela évite les inefficacités systémiques.</p></li>
+<p>L’universalité permet de regrouper plusieurs prestations redondantes[^macdonald2016]. Cela évite les inefficacités systémiques.</p></li>
 
 <li class="carte"><strong class="h5">Transparence accrue pour les citoyens</strong>
-<p>Les gens comprennent enfin d’où vient l’argent et pourquoi ils y ont droit (voir p. 33)[^basicincomeearth2013]. La lisibilité renforce la confiance démocratique.</p></li>
+<p>Les gens comprennent enfin d’où vient l’argent et pourquoi ils y ont droit[^basicincomeearth2013]. La lisibilité renforce la confiance démocratique.</p></li>
 
 <li class="carte"><strong class="h5">Réduction des erreurs administratives</strong>
-<p>Moins de critères = moins de risques d’erreur ou d’omission (voir p. 23)[^forget2011]. La clarté protège tout le monde, des citoyens aux institutions.</p></li>
+<p>Moins de critères = moins de risques d’erreur ou d’omission[^forget2011]. La clarté protège tout le monde, des citoyens aux institutions.</p></li>
 
 <li class="carte"><strong class="h5">Moins de personnel affecté au contrôle</strong>
-<p>Des ressources peuvent être redirigées vers des missions d’accompagnement ou de prévention (voir p. 12)[^basicincomeearth2013]. La bureaucratie devient facilitatrice plutôt que gardienne.</p></li>
+<p>Des ressources peuvent être redirigées vers des missions d’accompagnement ou de prévention[^basicincomeearth2013]. La bureaucratie devient facilitatrice plutôt que gardienne.</p></li>
 
 <li class="carte"><strong class="h5">Modernisation de l’administration publique</strong>
-<p>Un système universel est plus facile à intégrer aux outils numériques de l’État (voir p. 28)[^ccds2007]. L’innovation publique passe par la simplification.</p></li>
+<p>Un système universel est plus facile à intégrer aux outils numériques de l’État[^ccds2007]. L’innovation publique passe par la simplification.</p></li>
 </ul>
 </section>
 

@@ -30,17 +30,17 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des coûts de traitement</strong>
-<p>Des simulations canadiennes estiment qu’un revenu de base coûterait moins cher que le maintien de multiples programmes ciblés (voir p. 10)[^macdonald2016]. Une seule prestation simple remplace plusieurs systèmes complexes.</p></li>
+<p>Des simulations canadiennes estiment qu’un revenu de base coûterait moins cher que le maintien de multiples programmes ciblés[^macdonald2016]. Une seule prestation simple remplace plusieurs systèmes complexes.</p></li>
 <li class="carte"><strong class="h5">Simplification administrative</strong>
-<p>Les programmes pilotes ont démontré une réduction significative des besoins en personnel administratif (voir p. 12)[^basicincomeearth2013]. Moins de paperasse = plus de temps utile.</p></li>
+<p>Les programmes pilotes ont démontré une réduction significative des besoins en personnel administratif[^basicincomeearth2013]. Moins de paperasse = plus de temps utile.</p></li>
 <li class="carte"><strong class="h5">Moins de litiges et appels</strong>
-<p>Le caractère automatique de l’allocation diminue les conflits sur l’admissibilité (voir p. 14)[^forget2017]. Cela réduit la pression sur les tribunaux sociaux et les services de recours.</p></li>
+<p>Le caractère automatique de l’allocation diminue les conflits sur l’admissibilité[^forget2017]. Cela réduit la pression sur les tribunaux sociaux et les services de recours.</p></li>
 <li class="carte"><strong class="h5">Paiement plus rapide aux personnes</strong>
-<p>Un système unifié permet de verser les montants en quelques jours, plutôt qu’en semaines (voir p. 20)[^haarmann2009]. L’agilité est une forme d’efficacité essentielle.</p></li>
+<p>Un système unifié permet de verser les montants en quelques jours, plutôt qu’en semaines[^haarmann2009]. L’agilité est une forme d’efficacité essentielle.</p></li>
 <li class="carte"><strong class="h5">Baisse du taux d’erreurs administratives</strong>
-<p>Les systèmes universels comportent moins de conditions à vérifier, donc moins de risques d’erreur (voir p. 23)[^forget2011]. Cela améliore la qualité du service public.</p></li>
+<p>Les systèmes universels comportent moins de conditions à vérifier, donc moins de risques d’erreur[^forget2011]. Cela améliore la qualité du service public.</p></li>
 <li class="carte"><strong class="h5">Moins de non-recours à l’aide</strong>
-<p>L’automaticité augmente drastiquement le taux de couverture réelle (voir p. 28)[^basicincomeearth2013]. Quand c’est simple, tout le monde reçoit ce à quoi il a droit.</p></li>
+<p>L’automaticité augmente drastiquement le taux de couverture réelle[^basicincomeearth2013]. Quand c’est simple, tout le monde reçoit ce à quoi il a droit.</p></li>
 </ul>
 </section>
 
@@ -67,11 +67,11 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Stimulation directe de la consommation</strong>
-<p>Les ménages à faible revenu dépensent une plus grande part de leur revenu, ce qui stimule la demande locale et les PME (voir p. 26)[^forget2017].</p></li>
+<p>Les ménages à faible revenu dépensent une plus grande part de leur revenu, ce qui stimule la demande locale et les PME[^forget2017].</p></li>
 <li class="carte"><strong class="h5">Stabilisation en période de crise</strong>
-<p>Le revenu de base aurait permis de réduire la volatilité des revenus de 30 % en contexte post-COVID (voir p. 18)[^macdonald2020].</p></li>
+<p>Le revenu de base aurait permis de réduire la volatilité des revenus de 30 % en contexte post-COVID[^macdonald2020].</p></li>
 <li class="carte"><strong class="h5">Réduction de l’endettement des ménages</strong>
-<p>Les expériences ont montré une diminution significative des emprunts à court terme, liés à l’alimentation ou au logement (voir p. 21)[^haarmann2009].</p></li>
+<p>Les expériences ont montré une diminution significative des emprunts à court terme, liés à l’alimentation ou au logement[^haarmann2009].</p></li>
 </ul>
 </section>
 
@@ -98,11 +98,11 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Meilleur appariement emploi-travailleur</strong>
-<p>Les personnes ayant un revenu de base attendent un emploi qui leur correspond mieux au lieu d’accepter le premier venu (voir p. 19)[^kela2020].</p></li>
+<p>Les personnes ayant un revenu de base attendent un emploi qui leur correspond mieux au lieu d’accepter le premier venu[^kela2020].</p></li>
 <li class="carte"><strong class="h5">Moins de décisions destructrices</strong>
-<p>Baisse des achats impulsifs, du jeu compulsif, des crédits à la consommation risqués (voir p. 24)[^knight2019].</p></li>
+<p>Baisse des achats impulsifs, du jeu compulsif, des crédits à la consommation risqués[^knight2019].</p></li>
 <li class="carte"><strong class="h5">Hausse du bien-être décisionnel</strong>
-<p>Les bénéficiaires rapportent se sentir plus en contrôle de leur vie, avec une meilleure capacité à planifier et prioriser (voir p. 28)[^basicincomeearth2013].</p></li>
+<p>Les bénéficiaires rapportent se sentir plus en contrôle de leur vie, avec une meilleure capacité à planifier et prioriser[^basicincomeearth2013].</p></li>
 </ul>
 </section>
 
@@ -125,17 +125,17 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Soutien aux commerces de proximité</strong>
-<p>Les bénéficiaires du revenu de base consomment davantage localement, stimulant les petites entreprises (voir p. 26)[^forget2017].</p></li>
+<p>Les bénéficiaires du revenu de base consomment davantage localement, stimulant les petites entreprises[^forget2017].</p></li>
 <li class="carte"><strong class="h5">Réduction de la dépendance au crédit</strong>
-<p>Moins de recours aux emprunts à court terme et au crédit prédateur (voir p. 21)[^haarmann2009].</p></li>
+<p>Moins de recours aux emprunts à court terme et au crédit prédateur[^haarmann2009].</p></li>
 <li class="carte"><strong class="h5">Amélioration du marché locatif</strong>
-<p>Moins de déménagements d’urgence, plus de stabilité pour les locataires (voir p. 17)[^forget2011].</p></li>
+<p>Moins de déménagements d’urgence, plus de stabilité pour les locataires[^forget2011].</p></li>
 <li class="carte"><strong class="h5">Stimulation des micro-activités régularisées</strong>
-<p>Les bénéficiaires sont plus enclins à déclarer leurs revenus d’appoint ou microentreprises (voir p. 21)[^kela2020].</p></li>
+<p>Les bénéficiaires sont plus enclins à déclarer leurs revenus d’appoint ou microentreprises[^kela2020].</p></li>
 <li class="carte"><strong class="h5">Consommation plus durable</strong>
-<p>Moins d’achats impulsifs, plus de réparation, d’achat local, d’investissement raisonné (voir p. 28)[^basicincomeearth2013].</p></li>
+<p>Moins d’achats impulsifs, plus de réparation, d’achat local, d’investissement raisonné[^basicincomeearth2013].</p></li>
 <li class="carte"><strong class="h5">Moins de pression sur les assurances</strong>
-<p>Réduction des risques médicaux, sociaux et résidentiels entraîne une baisse des réclamations (voir p. 19)[^wilkinson2009].</p></li>
+<p>Réduction des risques médicaux, sociaux et résidentiels entraîne une baisse des réclamations[^wilkinson2009].</p></li>
 </ul>
 </section>
 

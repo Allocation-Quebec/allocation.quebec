@@ -30,22 +30,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction du travail au noir</strong>
-<p>Des projets pilotes ont montré que les gens sont plus enclins à déclarer leurs revenus quand un revenu de base existe (voir p. 20)[^haarmann2009]. Moins de peur, plus de transparence.</p></li>
+<p>Des projets pilotes ont montré que les gens sont plus enclins à déclarer leurs revenus quand un revenu de base existe[^haarmann2009]. Moins de peur, plus de transparence.</p></li>
 
 <li class="carte"><strong class="h5">Assouplissement des normes sans effets négatifs</strong>
-<p>Des réglementations peuvent être assouplies sans affecter la stabilité des individus quand un revenu de base est en place (voir p. 24)[^vanparijs1995]. La liberté devient compatible avec la sécurité.</p></li>
+<p>Des réglementations peuvent être assouplies sans affecter la stabilité des individus quand un revenu de base est en place[^vanparijs1995]. La liberté devient compatible avec la sécurité.</p></li>
 
 <li class="carte"><strong class="h5">Diminution du contentieux du travail</strong>
-<p>Moins de conflits liés aux conditions d’emploi ont été signalés (voir p. 27)[^basicincomeearth2013]. Le revenu universel désamorce plusieurs tensions structurelles.</p></li>
+<p>Moins de conflits liés aux conditions d’emploi ont été signalés[^basicincomeearth2013]. Le revenu universel désamorce plusieurs tensions structurelles.</p></li>
 
 <li class="carte"><strong class="h5">Hausse des activités économiques informelles déclarées</strong>
-<p>Les gens régularisent plus facilement leur microactivité ou leur petite entreprise (voir p. 21)[^kela2020]. La simplicité fiscale encourage la contribution citoyenne.</p></li>
+<p>Les gens régularisent plus facilement leur microactivité ou leur petite entreprise[^kela2020]. La simplicité fiscale encourage la contribution citoyenne.</p></li>
 
 <li class="carte"><strong class="h5">Flexibilisation du temps de travail</strong>
-<p>Les bénéficiaires choisissent plus souvent des horaires atypiques ou à temps partiel sans perdre en sécurité (voir p. 18)[^forget2017]. Le revenu universel devient un outil d’adaptation moderne.</p></li>
+<p>Les bénéficiaires choisissent plus souvent des horaires atypiques ou à temps partiel sans perdre en sécurité[^forget2017]. Le revenu universel devient un outil d’adaptation moderne.</p></li>
 
 <li class="carte"><strong class="h5">Moins de recours aux dispositifs d’urgence</strong>
-<p>Avec une base garantie, les individus n'ont plus besoin d’avoir recours à des mesures correctives complexes (voir p. 19)[^forget2011]. Moins de règles = moins de rafistolage.</p></li>
+<p>Avec une base garantie, les individus n'ont plus besoin d’avoir recours à des mesures correctives complexes[^forget2011]. Moins de règles = moins de rafistolage.</p></li>
 </ul>
 </section>
 
@@ -73,22 +73,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse des créations d’entreprises individuelles</strong>
-<p>Les expériences de revenu universel ont stimulé l’envie de se lancer dans de petits projets d’affaires (voir p. 21)[^kela2020]. Moins de peur du vide = plus d’audace.</p></li>
+<p>Les expériences de revenu universel ont stimulé l’envie de se lancer dans de petits projets d’affaires[^kela2020]. Moins de peur du vide = plus d’audace.</p></li>
 
 <li class="carte"><strong class="h5">Simplification du rapport aux obligations fiscales</strong>
-<p>Les bénéficiaires s’y retrouvent plus facilement dans leurs démarches fiscales (voir p. 28)[^ccds2007]. Moins de complexité = plus de conformité.</p></li>
+<p>Les bénéficiaires s’y retrouvent plus facilement dans leurs démarches fiscales[^ccds2007]. Moins de complexité = plus de conformité.</p></li>
 
 <li class="carte"><strong class="h5">Réduction du stress réglementaire</strong>
-<p>Les participants rapportent un sentiment de contrôle accru face aux démarches (voir p. 27)[^forget2017]. Le filet universel donne du souffle administratif.</p></li>
+<p>Les participants rapportent un sentiment de contrôle accru face aux démarches[^forget2017]. Le filet universel donne du souffle administratif.</p></li>
 
 <li class="carte"><strong class="h5">Meilleure adaptation aux nouvelles formes de travail</strong>
-<p>Freelance, travail en plateforme, projet hybride : le revenu de base permet une plus grande fluidité (voir p. 24)[^basicincomeearth2013]. L’économie change — il faut des règles qui suivent.</p></li>
+<p>Freelance, travail en plateforme, projet hybride : le revenu de base permet une plus grande fluidité[^basicincomeearth2013]. L’économie change — il faut des règles qui suivent.</p></li>
 
 <li class="carte"><strong class="h5">Allégement de la dépendance aux subventions</strong>
-<p>Des créateurs et travailleurs autonomes ont pu s’affranchir de certaines aides conditionnelles (voir p. 26)[^haarmann2009]. Moins de bureaucratie, plus de souplesse.</p></li>
+<p>Des créateurs et travailleurs autonomes ont pu s’affranchir de certaines aides conditionnelles[^haarmann2009]. Moins de bureaucratie, plus de souplesse.</p></li>
 
 <li class="carte"><strong class="h5">Décloisonnement entre secteurs</strong>
-<p>Des projets mêlant art, social, environnement et affaires ont émergé plus librement (voir p. 29)[^basicincomeearth2013]. L’innovation naît là où les règlements s’assouplissent.</p></li>
+<p>Des projets mêlant art, social, environnement et affaires ont émergé plus librement[^basicincomeearth2013]. L’innovation naît là où les règlements s’assouplissent.</p></li>
 </ul>
 </section>
 

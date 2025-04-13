@@ -23,7 +23,7 @@
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>La philosophe et sociologue <strong>Nancy Fraser</strong> affirme que la lutte pour la justice sociale passe autant par la redistribution des ressources que par la reconnaissance des identités et des statuts sociaux (voir p. 113-115)[^fraser2000].</p>
+<p>La philosophe et sociologue <strong>Nancy Fraser</strong> affirme que la lutte pour la justice sociale passe autant par la redistribution des ressources que par la reconnaissance des identités et des statuts sociaux[^fraser2000].</p>
 <p>Les programmes conditionnels d'aide, souvent intrusifs et contrôlants, aggravent l'exclusion symbolique. L'allocation de subsistance en étant inconditionnelle, répond à ces deux dimensions de la justice sociale.</p>
 </aside>
 </div>
@@ -31,22 +31,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Baisse de 8,5 % des hospitalisations</strong>
-<p>Une diminution notable des admissions à l’hôpital a été observée, en particulier pour des troubles liés au stress et à la santé mentale (voir p. 295–297)[^forget2011]. Cela démontre que la sécurité financière améliore directement la santé globale de la population.</p></li>
+<p>Une diminution notable des admissions à l’hôpital a été observée, en particulier pour des troubles liés au stress et à la santé mentale[^forget2011]. Cela démontre que la sécurité financière améliore directement la santé globale de la population.</p></li>
 
 <li class="carte"><strong class="h5">Hausse de la scolarisation</strong>
-<p>Les jeunes, surtout les garçons, ont retardé leur entrée sur le marché du travail pour poursuivre leurs études. Cela montre que le revenu garanti soutient des choix éducatifs à long terme plutôt que des sacrifices immédiats (voir p. 297)[^forget2011].</p></li>
+<p>Les jeunes, surtout les garçons, ont retardé leur entrée sur le marché du travail pour poursuivre leurs études. Cela montre que le revenu garanti soutient des choix éducatifs à long terme plutôt que des sacrifices immédiats[^forget2011].</p></li>
 
 <li class="carte"><strong class="h5">Aucune baisse massive du travail</strong>
-<p>La majorité des bénéficiaires ont continué à travailler, sauf quelques ajustements temporaires chez les mères et les étudiants. Cela contredit le mythe selon lequel une sécurité économique minimale mènerait à l’oisiveté (voir p. 296)[^forget2011].</p></li>
+<p>La majorité des bénéficiaires ont continué à travailler, sauf quelques ajustements temporaires chez les mères et les étudiants. Cela contredit le mythe selon lequel une sécurité économique minimale mènerait à l’oisiveté[^forget2011].</p></li>
 
 <li class="carte"><strong class="h5">Réduction du stress familial</strong>
-<p>Des familles rapportaient moins de conflits liés à l’argent et une ambiance plus stable à la maison. Cette paix domestique contribue directement au sentiment de dignité et de sécurité psychologique (voir p. 297)[^forget2011].</p></li>
+<p>Des familles rapportaient moins de conflits liés à l’argent et une ambiance plus stable à la maison. Cette paix domestique contribue directement au sentiment de dignité et de sécurité psychologique[^forget2011].</p></li>
 
 <li class="carte"><strong class="h5">Soutien au bénévolat</strong>
 <p>Des citoyens ont commencé à s’impliquer davantage dans des projets communautaires et sociaux. Libérés de la contrainte économique, ils retrouvaient le désir d’agir pour le collectif[^pinto2021].</p></li>
 
 <li class="carte"><strong class="h5">Moins de stigmatisation</strong>
-<p>Recevoir un revenu n’était plus associé à un statut inférieur ou à un échec personnel. Cela permettait à chacun de se sentir reconnu, et non jugé (voir p. 297–298)[^forget2011].</p></li>
+<p>Recevoir un revenu n’était plus associé à un statut inférieur ou à un échec personnel. Cela permettait à chacun de se sentir reconnu, et non jugé[^forget2011].</p></li>
 </ul>
 </section>
 
@@ -58,7 +58,7 @@
 <div class="grille">
 <div class="prose">
 <p>Entre 2008 et 2009, le village d’Otjivero en Namibie a reçu un revenu de base inconditionnel pendant 24 mois. Chaque habitant recevait 100 dollars namibiens (environ 13 $ CAD) par mois, sans condition.</p>
-<p>Les résultats furent immédiats : la pauvreté extrême fut réduite de moitié, la malnutrition infantile chuta de 42 %, la fréquentation scolaire augmenta de 90 % à 96 %, et la criminalité baissa de 36 % (voir p. 2, 17–21)[^haarmann2009]. Mais au-delà des chiffres, les témoignages évoquaient un changement de posture : les habitants marchaient la tête haute, prenaient des initiatives, créaient des micro-entreprises et participaient aux affaires locales.</p>
+<p>Les résultats furent immédiats : la pauvreté extrême fut réduite de moitié, la malnutrition infantile chuta de 42 %, la fréquentation scolaire augmenta de 90 % à 96 %, et la criminalité baissa de 36 %[^haarmann2009]. Mais au-delà des chiffres, les témoignages évoquaient un changement de posture : les habitants marchaient la tête haute, prenaient des initiatives, créaient des micro-entreprises et participaient aux affaires locales.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Le sentiment de dignité restauré ne vient pas seulement du revenu, mais du fait que cette allocation est universelle, sans jugement. On ne vous observe pas, on ne vous soupçonne pas : on vous fait confiance.</p>
@@ -74,22 +74,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Pauvreté extrême réduite de 76 % à 37 %</strong>
-<p>En deux ans, la pauvreté sévère a chuté de moitié dans le village (voir p. 2, 17)[^haarmann2009]. Cette amélioration rapide montre qu’une base économique stable restaure immédiatement la capacité à vivre dignement.</p></li>
+<p>En deux ans, la pauvreté sévère a chuté de moitié dans le village[^haarmann2009]. Cette amélioration rapide montre qu’une base économique stable restaure immédiatement la capacité à vivre dignement.</p></li>
 
 <li class="carte"><strong class="h5">Malnutrition infantile en baisse de 42 %</strong>
-<p>Les enfants recevaient davantage de repas quotidiens et de meilleure qualité (voir p. 18)[^haarmann2009]. Garantir la sécurité alimentaire des plus jeunes, c’est garantir leur dignité dès les premières années.</p></li>
+<p>Les enfants recevaient davantage de repas quotidiens et de meilleure qualité[^haarmann2009]. Garantir la sécurité alimentaire des plus jeunes, c’est garantir leur dignité dès les premières années.</p></li>
 
 <li class="carte"><strong class="h5">Hausse de la scolarisation</strong>
-<p>Le taux de scolarisation est passé de 90 % à 96 % pendant l’expérience (voir p. 18)[^haarmann2009]. Les familles pouvaient laisser leurs enfants à l’école sans compromettre leur survie immédiate.</p></li>
+<p>Le taux de scolarisation est passé de 90 % à 96 % pendant l’expérience[^haarmann2009]. Les familles pouvaient laisser leurs enfants à l’école sans compromettre leur survie immédiate.</p></li>
 
 <li class="carte"><strong class="h5">Baisse de la criminalité de 36 %</strong>
-<p>Le comité local a constaté une réduction significative des vols et délits mineurs (voir p. 19)[^haarmann2009]. Moins de désespoir, c’est aussi moins de comportements de survie illégaux.</p></li>
+<p>Le comité local a constaté une réduction significative des vols et délits mineurs[^haarmann2009]. Moins de désespoir, c’est aussi moins de comportements de survie illégaux.</p></li>
 
 <li class="carte"><strong class="h5">Création de 45 micro-entreprises</strong>
-<p>Des coiffeuses, couturiers et vendeurs de nourriture ont pu lancer leur activité grâce à ce revenu (voir p. 20)[^haarmann2009]. Un petit filet régulier permet de passer à l’action avec dignité.</p></li>
+<p>Des coiffeuses, couturiers et vendeurs de nourriture ont pu lancer leur activité grâce à ce revenu[^haarmann2009]. Un petit filet régulier permet de passer à l’action avec dignité.</p></li>
 
 <li class="carte"><strong class="h5">Diminution des conflits domestiques</strong>
-<p>La violence au sein des ménages a reculé, notamment grâce à la baisse du stress économique (voir p. 21)[^haarmann2009]. Quand l’argent ne manque pas, la paix revient plus facilement dans les foyers.</p></li>
+<p>La violence au sein des ménages a reculé, notamment grâce à la baisse du stress économique[^haarmann2009]. Quand l’argent ne manque pas, la paix revient plus facilement dans les foyers.</p></li>
 </ul>
 </section>
 
@@ -104,12 +104,12 @@
 <p>Une allocation de subsistance offre une reconnaissance symbolique et matérielle à celles et ceux qui accomplissent ce travail de soin. Elle rend possible l’autonomie de ces personnes, sans qu’elles doivent sacrifier leur sécurité économique.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Actuellement, le filet social récompense principalement l’activité salariée. Ce biais renforce les inégalités de genre, marginalise les aidants naturels et accroît l'invisibilité des contributions non marchandes (voir p. 113-116)[^fraser2000].</p>
+<p>Actuellement, le filet social récompense principalement l’activité salariée. Ce biais renforce les inégalités de genre, marginalise les aidants naturels et accroît l'invisibilité des contributions non marchandes[^fraser2000].</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>Le sociologue <strong>Serge Paugam</strong> a montré que l’exclusion sociale naît souvent de la perte de reconnaissance statutaire autant que matérielle (voir p. 33-36)[^paugam1996].</p>
+<p>Le sociologue <strong>Serge Paugam</strong> a montré que l’exclusion sociale naît souvent de la perte de reconnaissance statutaire autant que matérielle[^paugam1996].</p>
 <p>L'allocation de subsistance peut être comprise comme une institution réparatrice qui assure à chaque individu une appartenance minimale mais réelle au corps social.</p>
 </aside>
 </div>
@@ -117,10 +117,10 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Reconnaissance du travail non-rémunéré</strong>
-<p>Les tâches de soin, d’accompagnement ou de parentalité retrouvent une valeur économique implicite. Cela repositionne les aidants comme contributeurs légitimes à la société (voir p. 114)[^fraser2000].</p></li>
+<p>Les tâches de soin, d’accompagnement ou de parentalité retrouvent une valeur économique implicite. Cela repositionne les aidants comme contributeurs légitimes à la société[^fraser2000].</p></li>
 
 <li class="carte"><strong class="h5">Réduction de la dépendance conjugale</strong>
-<p>Les femmes vivant dans des relations inégalitaires peuvent accéder à une allocation indépendante. Cela crée un filet d’autonomie là où régnait parfois la domination (voir p. 215–216)[^standing2017].</p></li>
+<p>Les femmes vivant dans des relations inégalitaires peuvent accéder à une allocation indépendante. Cela crée un filet d’autonomie là où régnait parfois la domination[^standing2017].</p></li>
 
 <li class="carte"><strong class="h5">Autonomie pour les aidants naturels</strong>
 <p>Ceux qui accompagnent un proche n’ont plus à choisir entre aider et gagner leur vie. Cette liberté d’engagement fait partie intégrante du respect de leur rôle social.</p></li>
@@ -132,7 +132,7 @@
 <p>Bénévolat, entraide locale, engagement citoyen deviennent accessibles à plus de gens. Participer à la société, c’est aussi exister dans le regard des autres.</p></li>
 
 <li class="carte"><strong class="h5">Diminution des sentiments d’exclusion</strong>
-<p>L'allocation de subsistance assure à chacun une place et un droit à l’existence digne. Il efface les frontières entre ceux qui "méritent" et les autres (voir p. 35)[^paugam1996].</p></li>
+<p>L'allocation de subsistance assure à chacun une place et un droit à l’existence digne. Il efface les frontières entre ceux qui "méritent" et les autres[^paugam1996].</p></li>
 </ul>
 </section>
 

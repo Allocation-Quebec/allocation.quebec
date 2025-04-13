@@ -30,22 +30,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse des inscriptions à la formation</strong>
-<p>Plusieurs projets ont documenté une augmentation des formations professionnelles et de retour aux études chez les bénéficiaires (voir p. 21)[^forget2017]. La sécurité permet de penser à long terme.</p></li>
+<p>Plusieurs projets ont documenté une augmentation des formations professionnelles et de retour aux études chez les bénéficiaires[^forget2017]. La sécurité permet de penser à long terme.</p></li>
 
 <li class="carte"><strong class="h5">Développement de compétences transférables</strong>
-<p>Les gens ont profité du revenu garanti pour apprendre des compétences polyvalentes comme l’informatique ou la gestion (voir p. 26)[^basicincomeearth2013]. Cela améliore la mobilité sur le marché du travail.</p></li>
+<p>Les gens ont profité du revenu garanti pour apprendre des compétences polyvalentes comme l’informatique ou la gestion[^basicincomeearth2013]. Cela améliore la mobilité sur le marché du travail.</p></li>
 
 <li class="carte"><strong class="h5">Réduction de l’abandon scolaire</strong>
-<p>Chez les jeunes adultes, un revenu de base diminue la pression économique de quitter l’école pour un emploi précaire (voir p. 18)[^forget2011]. Apprendre devient possible, pas un luxe.</p></li>
+<p>Chez les jeunes adultes, un revenu de base diminue la pression économique de quitter l’école pour un emploi précaire[^forget2011]. Apprendre devient possible, pas un luxe.</p></li>
 
 <li class="carte"><strong class="h5">Temps libéré pour le perfectionnement</strong>
-<p>Des travailleurs ont utilisé le revenu pour se former en parallèle de leur emploi (voir p. 29)[^knight2019]. La productivité individuelle repose sur cette capacité d’adaptation continue.</p></li>
+<p>Des travailleurs ont utilisé le revenu pour se former en parallèle de leur emploi[^knight2019]. La productivité individuelle repose sur cette capacité d’adaptation continue.</p></li>
 
 <li class="carte"><strong class="h5">Revalorisation des métiers techniques</strong>
-<p>Certains ont pu retourner en formation pour des métiers manuels ou spécialisés souvent boudés (voir p. 23)[^macdonald2016]. Le revenu universel soutient les filières essentielles.</p></li>
+<p>Certains ont pu retourner en formation pour des métiers manuels ou spécialisés souvent boudés[^macdonald2016]. Le revenu universel soutient les filières essentielles.</p></li>
 
 <li class="carte"><strong class="h5">Amélioration de la confiance professionnelle</strong>
-<p>Les participants rapportent un regain d’estime et d’assurance dans leurs capacités à contribuer (voir p. 15)[^forget2017]. La productivité commence dans l’esprit.</p></li>
+<p>Les participants rapportent un regain d’estime et d’assurance dans leurs capacités à contribuer[^forget2017]. La productivité commence dans l’esprit.</p></li>
 </ul>
 </section>
 
@@ -72,22 +72,22 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Lancement de microentreprises</strong>
-<p>Plusieurs bénéficiaires ont démarré des petits projets économiques locaux grâce à un filet de sécurité (voir p. 21)[^haarmann2009]. La créativité s’exprime quand le risque n’implique plus l'indigence.</p></li>
+<p>Plusieurs bénéficiaires ont démarré des petits projets économiques locaux grâce à un filet de sécurité[^haarmann2009]. La créativité s’exprime quand le risque n’implique plus l'indigence.</p></li>
 
 <li class="carte"><strong class="h5">Hausse de l’initiative personnelle</strong>
-<p>Les gens se sentent plus en contrôle de leur trajectoire et enclins à proposer des projets (voir p. 24)[^kela2020]. La motivation est un facteur essentiel de performance globale.</p></li>
+<p>Les gens se sentent plus en contrôle de leur trajectoire et enclins à proposer des projets[^kela2020]. La motivation est un facteur essentiel de performance globale.</p></li>
 
 <li class="carte"><strong class="h5">Diversité des formes de travail</strong>
-<p>Le revenu de base permet à des activités hybrides (autoproduction, économie circulaire, arts) de s’épanouir (voir p. 26)[^basicincomeearth2013]. Cela enrichit l’écosystème économique.</p></li>
+<p>Le revenu de base permet à des activités hybrides (autoproduction, économie circulaire, arts) de s’épanouir[^basicincomeearth2013]. Cela enrichit l’écosystème économique.</p></li>
 
 <li class="carte"><strong class="h5">Réduction de la peur de l’échec</strong>
-<p>Les personnes osent plus facilement tester une idée ou changer de voie professionnelle (voir p. 19)[^knight2019]. Le droit à l’erreur est une condition de l’innovation.</p></li>
+<p>Les personnes osent plus facilement tester une idée ou changer de voie professionnelle[^knight2019]. Le droit à l’erreur est une condition de l’innovation.</p></li>
 
 <li class="carte"><strong class="h5">Renforcement du tissu économique local</strong>
-<p>Les initiatives soutenues par le revenu de base ont eu tendance à rester dans leur communauté (voir p. 27)[^haarmann2009]. Une économie productive est aussi une économie enracinée.</p></li>
+<p>Les initiatives soutenues par le revenu de base ont eu tendance à rester dans leur communauté[^haarmann2009]. Une économie productive est aussi une économie enracinée.</p></li>
 
 <li class="carte"><strong class="h5">Stimulation de la motivation intrinsèque</strong>
-<p>Les gens disent agir par goût, par sens, et non seulement par contrainte financière (voir p. 28)[^kela2020]. C’est là que la productivité devient durable.</p></li>
+<p>Les gens disent agir par goût, par sens, et non seulement par contrainte financière[^kela2020]. C’est là que la productivité devient durable.</p></li>
 </ul>
 </section>
 
