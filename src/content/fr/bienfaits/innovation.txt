@@ -1,5 +1,5 @@
 <header>
-<small>un tremplin vers l’audace collective</small>
+<small>vers une audace collective</small>
 <h1><i><img src="/assets/img/lightbulb.svg" alt=""/></i> Innovation</h1>
 <strong>Et si on rendait le changement possible pour tout le monde ?</strong>
 <p>L’innovation ne vient pas seulement des laboratoires ou des entreprises technologiques. Elle émerge aussi dans les quartiers, les communautés, les ateliers, les familles — partout où des gens osent imaginer autrement.</p>
@@ -13,17 +13,17 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>Le risque est au cœur de toute innovation. Mais quand l’échec signifie l’exclusion ou la pauvreté, seule une minorité peut se permettre d’innover. Une allocation universelle réduit le coût personnel de l’expérimentation.</p>
+<p>Le risque est au cœur de toute innovation. Mais quand l’échec signifie l’exclusion ou la pauvreté, seule une minorité peut se permettre d’innover. Une allocation de subsistance réduit le coût personnel de l’expérimentation.</p>
 <p>Elle rend possible des projets atypiques, collectifs, sociaux, artisanaux ou culturels — qui souvent échappent aux logiques de financement classiques. L’innovation devient un droit partagé, pas un privilège rare.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Les idées neuves viennent de partout. Il faut donc que chacun ait les moyens de les faire émerger, et pas seulement ceux qui ont déjà un coussin financier.</p>
+<p>Les idées neuves viennent de partout. Pour qu'une société puisse en profiter au maximum, il faut donc que chacun ait les moyens de les faire émerger, et pas seulement ceux qui ont déjà un coussin financier.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>Le sociologue <strong>Clayton Christensen</strong> a théorisé l’innovation disruptive comme un processus souvent porté par des outsiders[^christensen1997].</p>
-<p>Un revenu de base soutient ces parcours marginaux où se forment souvent les idées de rupture.</p>
+<p>Le sociologue <strong>Clayton Christensen</strong> a théorisé l’innovation disruptive comme un processus souvent porté par des « outsiders »[^christensen1997].</p>
+<p>Une allocation de subsistance soutient ces parcours marginaux où se forment souvent les idées de rupture.</p>
 </aside>
 </div>
 
@@ -33,7 +33,7 @@
 <p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux (voir p. 19)[^kela2020]. Le filet de base devient un levier de création.</p></li>
 
 <li class="carte"><strong class="h5">Émergence d’initiatives collectives</strong>
-<p>Des coopératives, incubateurs citoyens et fab labs sont apparus dans les zones pilotes (voir p. 26)[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
+<p>Des coopératives, incubateurs citoyens et « fab labs » sont apparus dans les zones pilotes (voir p. 26)[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
 
 <li class="carte"><strong class="h5">Diversité accrue des projets lancés</strong>
 <p>On observe une augmentation des projets atypiques, non-techniques, souvent portés par des personnes éloignées du marché classique (voir p. 21)[^haarmann2009]. L’innovation sort des sentiers battus.</p></li>
@@ -56,7 +56,7 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>La société fait face à des défis systémiques : climatiques, sociaux, technologiques. Pour y répondre, il faut des innovations systémiques : coopératives, circuits courts, solutions ouvertes, culture numérique inclusive.</p>
+<p>La société fait face à des défis systémiques : climatiques, sociaux, technologiques. Pour y répondre, il faut des innovations systémiques : coopératives, circuits courts, solutions ouvertes, culture numérique inclusive.</p>
 <p>Une allocation de subsistance permet à des milliers de personnes de participer activement à cette transformation, pas seulement comme main-d’œuvre, mais comme actrices de changement.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
@@ -66,7 +66,7 @@
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>La chercheuse <strong>Mariana Mazzucato</strong> plaide pour un État qui soutient l’innovation à impact social et écologique[^mazzucato2018].</p>
-<p>Le revenu universel est un outil simple mais puissant pour mobiliser largement cette capacité d’innovation.</p>
+<p>L'allocation de subsistance est un outil simple mais puissant pour mobiliser largement cette capacité d’innovation.</p>
 </aside>
 </div>
 
@@ -100,7 +100,7 @@
 </header>
 
 <ul class="grille">
-<li class="carte">Tout le monde peut tester une idée sans avoir peur de tomber.</li>
+<li class="carte">Tout le monde peut tester une idée sans avoir peur de l'indigence.</li>
 <li class="carte">Des solutions locales émergent partout, tout le temps.</li>
 <li class="carte">On innove aussi en agriculture, en culture, en réparation.</li>
 <li class="carte">L’État soutient l’audace citoyenne autant que l’industrie.</li>

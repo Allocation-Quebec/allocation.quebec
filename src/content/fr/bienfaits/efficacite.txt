@@ -1,9 +1,9 @@
 <header>
-<small>un tremplin vers une administration intelligente</small>
+<small>vers une administration intelligente</small>
 <h1><i><img src="/assets/img/gear.svg" alt=""/></i> Efficacité</h1>
 <strong>Et si on remplaçait la lourdeur par la clarté ?</strong>
 <p>Les systèmes d’aide actuels sont souvent complexes, coûteux à administrer et inefficaces à rejoindre les bonnes personnes. Des milliers d’heures sont perdues chaque année en formulaires, contrôles, vérifications et révisions.</p>
-<p>Une allocation de subsistance universelle simplifie le paysage : elle remplace une mosaïque de programmes par un seul mécanisme clair, direct, accessible à tous. Moins de bureaucratie, plus d’impact.</p>
+<p>Une allocation de subsistance simplifie le paysage : elle remplace une mosaïque de programmes par un seul mécanisme clair, direct, accessible à tous. Moins de bureaucratie, plus d’impact.</p>
 </header>
 
 <section>
@@ -14,7 +14,7 @@
 <div class="grille">
 <div class="prose">
 <p>Les dispositifs d’aide sociale conditionnelle exigent une armature administrative complexe pour contrôler l’admissibilité, traquer la fraude, gérer les réclamations et appliquer des sanctions. Cela engendre des coûts importants sans garantir une efficacité équitable.</p>
-<p>Un revenu universel réduit cette charge en supprimant le besoin de vérifications constantes. Il repose sur un principe simple : faire confiance, et redistribuer à la source, sans filtres coûteux.</p>
+<p>Une allocation de subsistance réduit cette charge en supprimant le besoin de vérifications constantes. Elle repose sur un principe simple : faire confiance, et redistribuer à la source, sans filtres coûteux.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une politique publique peut être ambitieuse sans être compliquée. L’efficacité ne s’oppose pas à la justice — elle peut en être le vecteur.</p>
@@ -23,7 +23,7 @@
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>Le politologue <strong>Gordon Tullock</strong> a documenté les “pertes bureaucratiques” — ressources absorbées par la gestion plutôt que par les bénéficiaires[^tullock1965].</p>
-<p>Un revenu inconditionnel réduit drastiquement ces coûts d’intermédiation.</p>
+<p>Une allocation de subsistance inconditionnelle réduit drastiquement ces coûts d’intermédiation.</p>
 </aside>
 </div>
 
@@ -51,16 +51,16 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>Un revenu de base agit comme un stabilisateur automatique : il injecte des liquidités directement aux ménages, particulièrement en bas de l’échelle, là où chaque dollar est réinjecté dans l’économie réelle. Contrairement à des politiques fiscales complexes ou des aides ciblées à délai variable, cette mesure soutient la consommation de base de façon immédiate, constante et prévisible.</p>
+<p>Une allocation de subsistance agit comme un stabilisateur automatique : elle injecte des liquidités directement aux ménages, particulièrement en bas de l’échelle, là où chaque dollar est réinjecté dans l’économie réelle. Contrairement à des politiques fiscales complexes ou des aides ciblées à délai variable, cette mesure soutient la consommation de base de façon immédiate, constante et prévisible.</p>
 <p>En période de crise ou de ralentissement, ce filet universel amortit les chocs, sans nécessiter d’intervention lourde ou exceptionnelle. En période d’expansion, il renforce l’inclusion économique de groupes souvent exclus de la croissance.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>La pauvreté n’est pas qu’un problème moral : c’est un frein direct à l’économie. En libérant la consommation et l’initiative, le revenu universel active les circuits économiques réels.</p>
+<p>La pauvreté n’est pas qu’un problème moral : c’est un frein direct à l’économie. En libérant la consommation et l’initiative, l'allocation de subsistance renforce les liens économiques réels.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>L’économiste <strong>Joseph Stiglitz</strong> rappelle que la pauvreté est “l’ennemi caché de l’efficacité”. Elle empêche des millions de personnes de contribuer pleinement à l’économie[^stiglitz2012].</p>
+<p>L’économiste <strong>Joseph Stiglitz</strong> rappelle que la pauvreté est « l’ennemi caché de l’efficacité ». Elle empêche des millions de personnes de contribuer pleinement à l’économie[^stiglitz2012].</p>
 </aside>
 </div>
 
@@ -82,7 +82,7 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>Quand la survie est en jeu, on prend des décisions dictées par l’urgence, souvent destructrices. Le revenu de base donne une marge mentale qui permet de faire de meilleurs choix : attendre un emploi convenable, quitter un environnement toxique, se former, refuser un contrat abusif.</p>
+<p>Quand la survie est en jeu, on prend des décisions dictées par l’urgence, souvent destructrices. L'allocation de subsistance donne une marge mentale qui permet de faire de meilleurs choix : attendre un emploi convenable, quitter un environnement toxique, se former, refuser un contrat abusif.</p>
 <p>Cette liberté accrue produit des gains microéconomiques à grande échelle : les gens évitent les pièges financiers, consomment plus durablement et investissent mieux leur temps.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
@@ -114,18 +114,12 @@
 
 <div class="grille">
 <div class="prose">
-<p>Un revenu de base n’améliore pas seulement l’efficacité de l’État ou la stabilité macroéconomique. Il agit aussi au niveau des marchés eux-mêmes, en réduisant les distorsions, les frictions et les inefficacités liées à la pauvreté et à l’insécurité.</p>
+<p>Une allocation de subisttance n’améliore pas seulement l’efficacité de l’État ou la stabilité macroéconomique. Elle agit aussi au niveau des marchés eux-mêmes, en réduisant les distorsions, les frictions et les inefficacités liées à la pauvreté et à l’insécurité.</p>
 <p>Du logement au crédit, du commerce local à l’assurance, les choix des individus deviennent plus rationnels, plus durables et moins dictés par l’urgence. Les marchés sont stabilisés, les comportements extrêmes sont évités, et la consommation devient plus saine.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Une économie saine repose sur des consommateurs éclairés, des travailleurs stables et des circuits courts solides. La sécurité individuelle produit des effets de système bénéfiques et durables.</p>
+<p>Une économie saine repose sur des consommateurs éclairés, des travailleurs stables et des circuits d'échange solides. La sécurité individuelle produit des effets de système bénéfiques et durables.</p>
 </div>
-
-<aside class="encart">
-<span class="h4">Encart savoir</span>
-<p>L’économiste <strong>Joseph Stiglitz</strong> rappelle que la pauvreté est “l’ennemi caché de l’efficacité”[^stiglitz2012].</p>
-<p>Le revenu universel, en luttant contre cette inefficacité structurelle, améliore le fonctionnement des marchés eux-mêmes.</p>
-</aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
@@ -154,8 +148,8 @@
 
 <ul class="grille">
 <li class="carte">L’État n’a plus besoin de vérifier chaque détail pour soutenir ses citoyens.</li>
-<li class="carte">Les ressources vont aux personnes, pas aux structures.</li>
-<li class="carte">Recevoir un soutien est simple, rapide et clair.</li>
+<li class="carte">Les ressources vont aux personnes, directement.</li>
+<li class="carte">Recevoir un soutien est simple, mais surtout automatique.</li>
 <li class="carte">Les employés publics passent moins de temps à contrôler, plus à accompagner.</li>
 <li class="carte">L’efficacité devient un outil au service de l’humain.</li>
 <li class="carte editable"><span><em>Et vous ?</em> Que changeriez-vous si le système était enfin simple ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>

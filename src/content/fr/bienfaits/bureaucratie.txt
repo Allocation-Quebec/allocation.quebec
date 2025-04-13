@@ -1,5 +1,5 @@
 <header>
-<small>un tremplin contre les lourdeurs inutiles</small>
+<small>vers la transparence administrative</small>
 <h1><i><img src="/assets/img/files.svg" alt=""/></i> Bureaucratie</h1>
 <strong>Et si on cessait de compliquer ce qui devrait être simple ?</strong>
 <p>Le système de soutien social actuel est souvent lent, complexe et intrusif. Les formulaires s'accumulent, les vérifications s’éternisent, les erreurs administratives se multiplient. Trop de personnes passent entre les mailles ou renoncent à l’aide à laquelle elles ont droit.</p>
@@ -14,7 +14,7 @@
 <div class="grille">
 <div class="prose">
 <p>Des dizaines de programmes différents, chacun avec ses critères, ses formulaires, ses guichets, ses délais. Cette complexité administrative décourage même les plus déterminés, et pèse lourd sur les institutions publiques.</p>
-<p>Un revenu de base universel supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Il réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
+<p>Une allocation de subsistance supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Elle réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Quand le système est trop compliqué, ce sont souvent les plus vulnérables qui renoncent ou échouent à obtenir ce qu’ils méritent. Simplifier, c’est aussi réparer une injustice structurelle.</p>
@@ -23,7 +23,7 @@
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>Le politiste <strong>Gøsta Esping-Andersen</strong> a montré que les systèmes de protection les plus efficaces sont ceux où les droits sociaux sont automatiques et universels[^esping1990].</p>
-<p>Une bureaucratie légère renforce l’inclusion et la dignité.</p>
+<p>Une bureaucratie légère (ou absente !) renforce l’inclusion et la dignité.</p>
 </aside>
 </div>
 
@@ -45,7 +45,7 @@
 <p>Les bénéficiaires rapportent un soulagement significatif lié à la fin des justifications récurrentes (voir p. 19)[^forget2017]. Moins d’humiliation, plus de confiance.</p></li>
 
 <li class="carte"><strong class="h5">Simplification du travail des fonctionnaires</strong>
-<p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain (voir p. 16)[^basicincomeearth2013]. La bureaucratie devient un outil, pas un obstacle.</p></li>
+<p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain (voir p. 16)[^basicincomeearth2013]. La bureaucratie administrative devient un outil, pas un obstacle.</p></li>
 </ul>
 </section>
 
@@ -57,7 +57,7 @@
 <div class="grille">
 <div class="prose">
 <p>Chaque vérification, chaque formulaire, chaque comité d’évaluation a un coût. Des milliards de dollars sont dépensés chaque année pour faire fonctionner des systèmes complexes… plutôt que pour soutenir directement les personnes.</p>
-<p>Une allocation de base libère des ressources. Moins de couches administratives, moins de frais de contrôle, moins de redondance. C’est une politique plus simple, plus propre, plus efficace.</p>
+<p>Une allocation de subsistance libère des ressources. Moins de couches administratives, moins de frais de contrôle, moins de redondance. C’est une politique plus simple, plus propre, plus efficace.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Un bon système social n’a pas à être compliqué. Il doit être juste, lisible et humain.</p>
@@ -94,7 +94,7 @@
 
 <section class="full secondary" data-after="footnotes">
 <header>
-<small>quand la bureaucratie devient un soutien, pas une épreuve</small>
+<small>quand la bureaucratie soutient</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
@@ -105,7 +105,7 @@
 <li class="carte">Les fonctionnaires ont le temps d’écouter, pas juste de vérifier.</li>
 <li class="carte">Les erreurs administratives ne brisent plus des vies.</li>
 <li class="carte">La simplicité devient une valeur démocratique.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si l’État était enfin simple à comprendre ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si l’aide sociale était enfin simple à comprendre ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>

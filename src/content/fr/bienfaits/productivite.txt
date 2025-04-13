@@ -1,9 +1,9 @@
 <header>
-<small>un tremplin vers une économie vivante</small>
+<small>vers une économie vivante</small>
 <h1><i><img src="/assets/img/rocket.svg" alt=""/></i> Productivité</h1>
 <strong>Et si on investissait dans le potentiel humain ?</strong>
 <p>La productivité n’est pas qu’une affaire de machines ou de capital. Elle dépend aussi de la santé, de la motivation, de l’éducation et du sentiment de sécurité des personnes. Une société où chacun peut contribuer à son plein potentiel est une société plus dynamique.</p>
-<p>Une allocation de subsistance libère du temps, de l’énergie mentale, et de la marge pour entreprendre, apprendre, s’adapter. Elle permet de créer des conditions propices à une productivité humaine, durable, ancrée.</p>
+<p>Une allocation de subsistance libère du temps, de l’énergie mentale, et de la marge pour entreprendre, apprendre, s’adapter. Elle permet de créer des conditions propices à une productivité humaine, durable, croissante.</p>
 </header>
 
 <section>
@@ -14,7 +14,7 @@
 <div class="grille">
 <div class="prose">
 <p>Le développement des compétences est un moteur essentiel de productivité. Pourtant, de nombreuses personnes abandonnent la formation continue faute de temps, de moyens ou de sécurité financière.</p>
-<p>Un revenu de base offre l’opportunité de reprendre des études, d'explorer de nouvelles vocations, ou simplement de se mettre à jour. Il réduit la pression à accepter n’importe quel emploi au détriment d’un développement durable.</p>
+<p>Une allocation de subsistance offre l’opportunité de reprendre des études, d'explorer de nouvelles vocations, ou simplement de se mettre à jour. Elle réduit la pression à accepter n’importe quel emploi au détriment d’un développement durable.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Apprendre est un investissement. Une société productive est une société où chacun a les moyens de progresser à son rythme et selon ses talents.</p>
@@ -22,8 +22,8 @@
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>L’économiste <strong>Gary Becker</strong> a popularisé la notion de “capital humain” : l’investissement dans l’éducation et la santé améliore directement la productivité globale[^becker1993].</p>
-<p>Le revenu de base crée l’espace pour ces investissements personnels.</p>
+<p>L’économiste <strong>Gary Becker</strong> a popularisé la notion de « capital humain » : l’investissement dans l’éducation et la santé améliore directement la productivité globale[^becker1993].</p>
+<p>L'allocation de subsistance crée l’espace pour ces investissements personnels.</p>
 </aside>
 </div>
 
@@ -56,11 +56,11 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>Innover demande du temps, de l’énergie mentale, de l’espace pour tester. Mais pour beaucoup, la précarité bloque toute tentative de prendre un risque. Le revenu de base agit comme un capital de départ invisible.</p>
-<p>Il donne la marge de manœuvre nécessaire pour créer, expérimenter, et même échouer sans que tout s’écroule. En soutenant la prise d’initiative, il devient un vecteur de productivité collective.</p>
+<p>Innover demande du temps, de l’énergie mentale, de l’espace pour tester. Mais pour beaucoup, la précarité bloque toute tentative de prendre un risque. L'allocation de subsistance agit comme un capital de départ invisible.</p>
+<p>Elle donne la marge de manœuvre nécessaire pour créer, expérimenter, et même échouer sans que tout s’écroule. En soutenant la prise d’initiative, elle devient un vecteur de productivité collective.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>L’innovation ne vient pas seulement des startups technos : elle émerge aussi des cuisines, des fermes, des coopératives, des ateliers. Encore faut-il pouvoir oser.</p>
+<p>L’innovation ne vient pas seulement des startups : elle émerge aussi des cuisines, des fermes, des coopératives, des ateliers. Encore faut-il pouvoir oser.</p>
 </div>
 
 <aside class="encart">
@@ -72,7 +72,7 @@
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Lancement de microentreprises</strong>
-<p>Plusieurs bénéficiaires ont démarré des petits projets économiques locaux grâce à un filet de sécurité (voir p. 21)[^haarmann2009]. La créativité s’exprime quand le risque n’est plus une chute.</p></li>
+<p>Plusieurs bénéficiaires ont démarré des petits projets économiques locaux grâce à un filet de sécurité (voir p. 21)[^haarmann2009]. La créativité s’exprime quand le risque n’implique plus l'indigence.</p></li>
 
 <li class="carte"><strong class="h5">Hausse de l’initiative personnelle</strong>
 <p>Les gens se sentent plus en contrôle de leur trajectoire et enclins à proposer des projets (voir p. 24)[^kela2020]. La motivation est un facteur essentiel de performance globale.</p></li>

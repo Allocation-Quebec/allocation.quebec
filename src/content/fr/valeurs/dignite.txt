@@ -1,9 +1,9 @@
 <header>
-<small>un tremplin vers la reconnaissance</small>
+<small>vers la reconnaissance</small>
 <h1><i><img src="/assets/img/honor.svg" alt=""/></i> Dignité</h1>
-<strong>Personne ne devrait avoir à quémander pour survivre</strong>
+<strong>Personne ne devrait avoir à quémander pour subsister</strong>
 <p>Le système d'aide sociale actuel impose aux personnes dans le besoin de prouver leur misère pour obtenir de l’aide minimale. Ces processus stigmatisants, intrusifs, et souvent humiliants, brisent la confiance en soi, alimentent la honte et affaiblissent les liens sociaux.</p>
-<p>Une allocation de subsistance change radicalement cette logique : elle repose sur la confiance, la reconnaissance de la valeur humaine intrinsèque et l’idée que chacun mérite de vivre avec dignité — sans condition, sans justification, sans humiliation.</p>
+<p>Une allocation de subsistance change radicalement cette logique : elle repose sur la confiance, la reconnaissance de la valeur humaine intrinsèque et l’idée que chacun mérite de subsister avec dignité — sans condition, sans justification, sans humiliation.</p>
 </header>
 
 <section>
@@ -14,8 +14,8 @@
 <div class="grille">
 <div class="prose">
 <p>L’expérience Mincome, menée à Dauphin (Manitoba) entre 1974 et 1979, a permis à tous les ménages sous un certain revenu de recevoir un revenu garanti. Cette expérience grandeur nature visait à observer les effets sociaux d’un revenu inconditionnel.</p>
-<p>Résultats : une baisse des hospitalisations de 8,5 %, surtout pour des troubles liés au stress, à la santé mentale et aux accidents domestiques. Le taux de décrochage scolaire a diminué, particulièrement chez les garçons. Aucun retrait massif du marché du travail n’a été observé. Le tissu social s’est resserré.</p>
-<p>En somme : la sécurité produit de la stabilité, et la stabilité permet de faire des choix — pour soi, sa famille, sa santé, sa communauté.</p>
+<p>Résultats : une baisse des hospitalisations de 8,5 %, surtout pour des troubles liés au stress, à la santé mentale et aux accidents domestiques. Le taux de décrochage scolaire a diminué, particulièrement chez les garçons. Aucun retrait massif du marché du travail n’a été observé. Le tissu social s’est resserré.</p>
+<p>En somme : la sécurité produit de la stabilité, et la stabilité permet de faire des choix — pour soi, sa famille, sa santé, sa communauté.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La pauvreté n’est pas seulement une privation de revenu, mais une violence sociale et symbolique. Retirer la conditionnalité, c’est retirer l’humiliation. C’est reconnaître chaque personne comme digne, par défaut.</p>
@@ -24,7 +24,7 @@
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>La philosophe et sociologue <strong>Nancy Fraser</strong> affirme que la lutte pour la justice sociale passe autant par la redistribution des ressources que par la reconnaissance des identités et des statuts sociaux.</p>
-<p>Les programmes conditionnels d'aide, souvent intrusifs et contrôlants, aggravent l'exclusion symbolique. Le revenu de base, en étant inconditionnel, répond à ces deux dimensions de la justice sociale.</p>
+<p>Les programmes conditionnels d'aide, souvent intrusifs et contrôlants, aggravent l'exclusion symbolique. L'allocation de subsistance en étant inconditionnelle, répond à ces deux dimensions de la justice sociale.</p>
 </aside>
 </div>
 
@@ -37,7 +37,7 @@
 <p>Les jeunes, surtout les garçons, ont retardé leur entrée sur le marché du travail pour poursuivre leurs études. Cela montre que le revenu garanti soutient des choix éducatifs à long terme plutôt que des sacrifices immédiats.</p></li>
 
 <li class="carte"><strong class="h5">Aucune baisse massive du travail</strong>
-<p>La majorité des bénéficiaires ont continué à travailler, sauf quelques ajustements temporaires chez les mères et les étudiants. Cela contredit le mythe selon lequel la sécurité économique mènerait à l’oisiveté.</p></li>
+<p>La majorité des bénéficiaires ont continué à travailler, sauf quelques ajustements temporaires chez les mères et les étudiants. Cela contredit le mythe selon lequel une sécurité économique minimale mènerait à l’oisiveté.</p></li>
 
 <li class="carte"><strong class="h5">Réduction du stress familial</strong>
 <p>Des familles rapportaient moins de conflits liés à l’argent et une ambiance plus stable à la maison. Cette paix domestique contribue directement au sentiment de dignité et de sécurité psychologique.</p></li>
@@ -58,10 +58,10 @@
 <div class="grille">
 <div class="prose">
 <p>Entre 2008 et 2009, le village d’Otjivero en Namibie a reçu un revenu de base inconditionnel pendant 24 mois. Chaque habitant recevait 100 dollars namibiens (environ 13 $ CAD) par mois, sans condition.</p>
-<p>Les résultats furent immédiats : la pauvreté extrême fut réduite de moitié, la malnutrition infantile chuta de 42 %, la fréquentation scolaire augmenta de 90 % à 96 %, et la criminalité baissa de 36 %[^haarmann2009]. Mais au-delà des chiffres, les témoignages évoquaient un changement de posture : les habitants marchaient la tête haute, prenaient des initiatives, créaient des micro-entreprises et participaient aux affaires locales.</p>
+<p>Les résultats furent immédiats : la pauvreté extrême fut réduite de moitié, la malnutrition infantile chuta de 42 %, la fréquentation scolaire augmenta de 90 % à 96 %, et la criminalité baissa de 36 %[^haarmann2009]. Mais au-delà des chiffres, les témoignages évoquaient un changement de posture : les habitants marchaient la tête haute, prenaient des initiatives, créaient des micro-entreprises et participaient aux affaires locales.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Le sentiment de dignité restauré ne vient pas seulement du revenu, mais du fait que ce revenu est universel, sans jugement. On ne vous observe pas, on ne vous soupçonne pas : on vous fait confiance.</p>
+<p>Le sentiment de dignité restauré ne vient pas seulement du revenu, mais du fait que cette allocation est universelle, sans jugement. On ne vous observe pas, on ne vous soupçonne pas : on vous fait confiance.</p>
 </div>
 
 <aside class="encart">
@@ -100,17 +100,17 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>Des millions de Québécois contribuent à la société sans recevoir de rémunération : soins aux enfants, aux aîné·es, à des personnes en situation de handicap, soutien communautaire, bénévolat. Ces formes de travail sont invisibles dans les statistiques économiques, mais essentielles au bon fonctionnement du Québec.</p>
-<p>Une allocation de subsistance offre une reconnaissance symbolique et matérielle à celles et ceux qui accomplissent ce "travail du care". Elle rend possible l’autonomie de ces personnes, sans qu’elles doivent sacrifier leur sécurité économique.</p>
+<p>Des millions de Québécois contribuent à la société sans recevoir de rémunération : soins aux enfants, aux aîné·es, à des personnes en situation de handicap, soutien communautaire, bénévolat. Ces formes de travail sont invisibles dans les statistiques économiques, mais essentielles au bon fonctionnement du Québec.</p>
+<p>Une allocation de subsistance offre une reconnaissance symbolique et matérielle à celles et ceux qui accomplissent ce travail de soin. Elle rend possible l’autonomie de ces personnes, sans qu’elles doivent sacrifier leur sécurité économique.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Actuellement, le filet social récompense principalement l’activité salariée. Ce biais renforce les inégalités de genre, marginalise les aidants naturels et invisibilise les contributions non marchandes.</p>
+<p>Actuellement, le filet social récompense principalement l’activité salariée. Ce biais renforce les inégalités de genre, marginalise les aidants naturels et accroît l'invisibilité des contributions non marchandes.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>Le sociologue <strong>Serge Paugam</strong> a montré que l’exclusion sociale naît souvent de la perte de reconnaissance statutaire autant que matérielle.</p>
-<p>Le revenu de base peut être compris comme une institution réparatrice qui assure à chaque individu une appartenance minimale mais réelle au corps social.</p>
+<p>L'allocation de subsistance peut être comprise comme une institution réparatrice qui assure à chaque individu une appartenance minimale mais réelle au corps social.</p>
 </aside>
 </div>
 
@@ -120,19 +120,19 @@
 <p>Les tâches de soin, d’accompagnement ou de parentalité retrouvent une valeur économique implicite. Cela repositionne les aidants comme contributeurs légitimes à la société.</p></li>
 
 <li class="carte"><strong class="h5">Réduction de la dépendance conjugale</strong>
-<p>Les femmes vivant dans des relations inégalitaires peuvent accéder à un revenu de base indépendant. Cela crée un filet d’autonomie là où régnait parfois la domination.</p></li>
+<p>Les femmes vivant dans des relations inégalitaires peuvent accéder à une allocation indépendante. Cela crée un filet d’autonomie là où régnait parfois la domination.</p></li>
 
 <li class="carte"><strong class="h5">Autonomie pour les aidants naturels</strong>
 <p>Ceux qui accompagnent un proche n’ont plus à choisir entre aider et gagner leur vie. Cette liberté d’engagement fait partie intégrante du respect de leur rôle social.</p></li>
 
 <li class="carte"><strong class="h5">Équilibre vie-travail choisi</strong>
-<p>Le revenu de base permet une réduction volontaire du temps de travail salarié. Cela ouvre l’espace à d’autres formes de contribution souvent invisibles mais essentielles.</p></li>
+<p>L'allocation de subsistance permet une réduction volontaire du temps de travail salarié. Cela ouvre l’espace à d’autres formes de contribution souvent invisibles mais essentielles.</p></li>
 
 <li class="carte"><strong class="h5">Temps libéré pour la participation sociale</strong>
 <p>Bénévolat, entraide locale, engagement citoyen deviennent accessibles à plus de gens. Participer à la société, c’est aussi exister dans le regard des autres.</p></li>
 
 <li class="carte"><strong class="h5">Diminution des sentiments d’exclusion</strong>
-<p>Le revenu universel assure à chacun une place et un droit à l’existence digne. Il efface les frontières entre ceux qui "méritent" et les autres.</p></li>
+<p>L'allocation de subsistance assure à chacun une place et un droit à l’existence digne. Il efface les frontières entre ceux qui "méritent" et les autres.</p></li>
 </ul>
 </section>
 
@@ -145,11 +145,11 @@
 
 <ul class="grille">
 <li class="carte">Personne ne doit mendier, prouver ou quémander pour vivre.</li>
-<li class="carte">L’État fait confiance à chacun, sans condition.</li>
+<li class="carte">La société fait confiance à chacun, sans condition.</li>
 <li class="carte">Le soin, l’écoute, le soutien sont reconnus à égalité avec l’emploi salarié.</li>
 <li class="carte">La honte n’a plus sa place dans le système social.</li>
 <li class="carte">On peut prendre soin d’un proche sans risquer l’exclusion économique.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si vous n’aviez plus peur de tomber ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si vous n’aviez plus peur de tomber entre les mailles ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>

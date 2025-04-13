@@ -1,9 +1,9 @@
 <header>
-<small>un tremplin vers l’égalité réelle</small>
+<small>vers une égalité réelle</small>
 <h1><i><img src="/assets/img/balance.svg" alt=""/></i> Équité</h1>
-<strong>Et si on commençait par donner à chacun les mêmes bases ?</strong>
-<p>Les inégalités économiques minent la cohésion sociale, détériorent la santé publique et réduisent les opportunités pour tous. Pourtant, nos systèmes de soutien accentuent parfois ces écarts en étant inaccessibles, conditionnels ou stigmatisants.</p>
-<p>Une allocation de subsistance universelle offre à chaque individu un même plancher de sécurité, peu importe sa situation ou son statut. C’est une manière concrète de construire une société où chacun peut participer pleinement, sans être ralenti par des obstacles injustes ou arbitraires.</p>
+<strong>Et si on commençait par assurer à chacun les mêmes bases ?</strong>
+<p>Les inégalités économiques minent la cohésion sociale, détériorent la santé publique et réduisent les opportunités pour tous et toutes. Pourtant, nos systèmes de soutien actuels aggravent trop souvent ces écarts de par leur caractère inaccessible, conditionnel ou stigmatisant.</p>
+<p>Une allocation de subsistance offrirait à chacun et chacune un même plancher de sécurité, peu importe sa situation ou son statut. C’est une manière concrète de construire une société où tout le monde peut participer pleinement, sans être ralenti par des obstacles injustes ou arbitraires.</p>
 </header>
 
 <section>
@@ -14,38 +14,38 @@
 <div class="grille">
 <div class="prose">
 <p>Les écarts de revenus extrêmes nuisent à tous, y compris aux plus riches. Ils affectent la santé, la réussite scolaire, la confiance sociale et la mobilité économique. Or, les transferts ciblés ou temporaires ne parviennent souvent pas à corriger durablement ces déséquilibres.</p>
-<p>Un revenu de base garantit que personne ne tombe sous un seuil inacceptable, tout en maintenant la liberté d’entreprendre, d’innover ou de travailler davantage. Il agit comme une égalisation du point de départ, pas de l’arrivée.</p>
+<p>Une allocation de subsistance garantit que personne ne tombe sous le seuil de la pauvreté, tout en maintenant la liberté d’entreprendre, d’innover ou de travailler davantage. <strong>Elle agit comme une égalisation du point de départ, pas de l’arrivée.</strong></p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Il ne s’agit pas de tout niveler, mais de donner à chacun les moyens de contribuer. Moins d’inégalités, c’est aussi moins de divisions sociales et plus de confiance collective.</p>
+<p>Il ne s’agit pas de tout niveler, mais de donner à chacun les moyens de contribuer. Moins d’inégalités, c’est aussi moins de divisions sociales et plus de confiance collective. Il est possible de produire une société équitable sans ralentir ni le progrès, ni le succès.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>Selon Wilkinson & Pickett, les sociétés plus égalitaires présentent moins de problèmes sociaux : moins de violence, d’obésité, de décrochage scolaire, de maladies mentales[^wilkinson2009].</p>
-<p>Un revenu garanti agit sur les inégalités dès la racine, sans stigmatisation ni bureaucratie.</p>
+<p>Selon Wilkinson & Pickett, les sociétés plus égalitaires présentent moins de problèmes sociaux : moins de violence, d’obésité, de décrochage scolaire, de maladies mentales[^wilkinson2009].</p>
+<p>Une allocation de subsistance réduit les inégalités à leur racine et ce, sans stigmatisation ni bureaucratie.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Réduction des écarts de revenu</strong>
-<p>Des simulations au Canada montrent que l’instauration d’un revenu de base réduit significativement l’indice de Gini (voir p. 22)[^macdonald2016]. Cela signifie une société plus égalitaire dès la structure.</p></li>
+<p>Des simulations au Canada montrent que l’instauration d’un revenu de base réduit significativement l’indice de Gini[^macdonald2016]. Cela signifie une société structurellement et naturellement plus égalitaire.</p></li>
 
 <li class="carte"><strong class="h5">Moins de pauvreté infantile</strong>
-<p>Un revenu garanti abaisserait de moitié le taux de pauvreté chez les enfants au Canada (voir p. 19)[^forget2017]. Les premières années de vie sont décisives : égaliser les conditions dès l’enfance, c’est créer un avenir plus juste.</p></li>
+<p>Une allocation de subsistance abaisserait de moitié le taux de pauvreté chez les enfants au Canada[^forget2017]. Les premières années de vie sont décisives : égaliser les conditions dès l’enfance, c’est créer un avenir plus juste.</p></li>
 
 <li class="carte"><strong class="h5">Amélioration de la santé publique</strong>
-<p>Les écarts de santé diminuent dans les sociétés plus égalitaires (voir p. 42)[^wilkinson2009]. Moins de stress économique = moins de maladies chroniques.</p></li>
+<p>Les écarts de santé diminuent dans les sociétés plus égalitaires[^wilkinson2009]. Moins de stress économique = moins de maladies chroniques.</p></li>
 
 <li class="carte"><strong class="h5">Meilleure réussite scolaire</strong>
-<p>Une sécurité de revenu familiale réduit l’absentéisme, améliore les résultats et soutient les choix postsecondaires (voir p. 31)[^forget2017]. Chaque jeune mérite les mêmes chances.</p></li>
+<p>Une sécurité de revenu familiale réduit l’absentéisme, améliore les résultats et soutient les choix postsecondaires[^forget2017]. Chaque jeune mérite minimalement les mêmes chances.</p></li>
 
 <li class="carte"><strong class="h5">Baisse de la criminalité</strong>
-<p>Plusieurs études relient inégalités fortes et taux de criminalité élevés (voir p. 54)[^wilkinson2009]. Un revenu plancher agit comme prévention sociale de fond.</p></li>
+<p>Plusieurs études relient inégalités fortes et taux de criminalité élevés[^wilkinson2009]. Une allocation de subsistance agit ainsi comme un mécanisme de prévention sociale automatique.</p></li>
 
 <li class="carte"><strong class="h5">Renforcement du sentiment d’équité</strong>
-<p>Les bénéficiaires se disent traités “à égalité” lorsqu’aucune condition ne leur est imposée (voir p. 7)[^basicincomeearth2013]. Ce ressenti améliore la confiance en l’État et entre citoyens.</p></li>
+<p>Les bénéficiaires se disent traités « à égalité » lorsqu’aucune condition ne leur est imposée[^basicincomeearth2013]. Ce ressenti améliore la confiance en l’État et entre citoyen•nes.</p></li>
 </ul>
 </section>
 
@@ -57,38 +57,38 @@
 <div class="grille">
 <div class="prose">
 <p>Certains groupes sont systématiquement désavantagés : personnes racisées, autochtones, ex-détenus, migrants précaires, personnes sans domicile. Ils peinent à accéder à l’aide existante ou sont découragés par la complexité administrative.</p>
-<p>Un revenu universel contourne ces barrières. Il atteint tout le monde sans exception ni condition, rétablissant une forme d’égalité de traitement et de dignité, peu importe l’histoire ou le statut.</p>
+<p>Une allocation de subsistance contourne ces barrières. Elle atteint tout le monde sans exception ni condition, rétablissant une forme d’égalité de traitement et de dignité, peu importe l’histoire ou le statut.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Une politique qui profite à tous doit d’abord profiter à ceux qui ont le plus été laissés pour compte. L’universalité devient un outil de justice réparatrice.</p>
+<p>Une politique qui profite à tous et toutes doit d’abord profiter à ceux et celles qui ont le plus été laissés pour compte. L’universalité devient un outil de justice réparatrice.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>L’économiste <strong>Amartya Sen</strong> distingue “l’égalité formelle” (traiter tout le monde pareil) et “l’équité réelle” (compenser les désavantages)[^sen1999].</p>
-<p>Le revenu universel agit sur cette seconde dimension en fournissant une base commune concrète à tous, peu importe leur point de départ.</p>
+<p>L’économiste <strong>Amartya Sen</strong> distingue « l’égalité formelle » (traiter tout le monde pareil) et « l’équité réelle » (compenser les désavantages)[^sen1999].</p>
+<p>L'allocation de subsistance agit sur cette seconde dimension en fournissant une base commune concrète à tous et toutes, peu importe leur point de départ.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de l’accès aux soins</strong>
-<p>Les bénéficiaires marginalisés rapportent plus de consultations préventives lorsque leur revenu est garanti (voir p. 38)[^basicincomeearth2013]. La peur du coût ne freine plus l’accès à la santé.</p></li>
+<p>Les bénéficiaires marginalisés rapportent plus de consultations préventives lorsque leur revenu est garanti[^basicincomeearth2013]. La peur du coût ne freine plus l’accès à la santé.</p></li>
 
 <li class="carte"><strong class="h5">Amélioration de l’habitation</strong>
-<p>Plusieurs personnes vivant en logement instable ont pu stabiliser leur situation grâce à un revenu régulier (voir p. 23)[^haarmann2009]. L’accès à un toit est une condition de base de l’équité réelle.</p></li>
+<p>Plusieurs personnes vivant en logement instable ont pu stabiliser leur situation grâce à un revenu régulier[^haarmann2009]. L’accès à un toit est une condition de base de l’équité réelle.</p></li>
 
 <li class="carte"><strong class="h5">Réduction des discriminations systémiques</strong>
-<p>Lorsque le revenu ne dépend plus d’un employeur ou d’un statut légal, les biais structurels pèsent moins (voir p. 24)[^sen1999]. Cela offre un espace d’émancipation face aux inégalités d’accès aux droits.</p></li>
+<p>Lorsque le revenu ne dépend plus d’un employeur ou d’un statut légal, les biais structurels pèsent moins[^sen1999]. Cela offre un espace d’émancipation face aux inégalités d’accès aux droits.</p></li>
 
 <li class="carte"><strong class="h5">Recul de l’itinérance</strong>
-<p>Des projets de transferts directs ont permis à des personnes à la rue de se reloger rapidement (voir p. 5)[^forget2017]. La stabilité commence souvent avec une clé de porte.</p></li>
+<p>Des projets de transferts directs ont permis à des personnes à la rue de se reloger rapidement[^forget2017]. La stabilité commence souvent avec une clé de porte.</p></li>
 
 <li class="carte"><strong class="h5">Moins de recours aux services d’urgence</strong>
-<p>Des hôpitaux ont constaté une baisse des admissions en lien avec des situations de détresse sociale chez les bénéficiaires (voir p. 17)[^forget2011]. L’équité, c’est aussi désengorger les services publics.</p></li>
+<p>Des hôpitaux ont constaté une baisse des admissions en lien avec des situations de détresse sociale chez les bénéficiaires[^forget2011]. L’équité, c’est aussi désengorger les services publics pour permettre un accès élargi.</p></li>
 
 <li class="carte"><strong class="h5">Autonomie pour les jeunes en rupture</strong>
-<p>Des jeunes sans soutien familial ont pu poursuivre des études ou un projet de vie sans basculer dans la survie (voir p. 14)[^forget2017]. Une base minimale ouvre la porte à un avenir digne.</p></li>
+<p>Des jeunes sans soutien familial ont pu poursuivre des études ou un projet de vie sans basculer dans la survie[^forget2017]. Un soutien de base minimal ouvre la porte à un avenir digne.</p></li>
 </ul>
 </section>
 

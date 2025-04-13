@@ -1,5 +1,5 @@
 <header>
-<small>un tremplin vers une économie agile</small>
+<small>vers une économie agile</small>
 <h1><i><img src="/assets/img/unlock.svg" alt=""/></i> Déréglementation</h1>
 <strong>Et si on pouvait libérer sans abandonner ?</strong>
 <p>La déréglementation est souvent perçue comme un retrait de l’État. Mais elle peut aussi signifier une simplification, une réduction des barrières inutiles, une liberté accrue de créer, de travailler, de participer.</p>
@@ -13,16 +13,16 @@
 </header>
 <div class="grille">
 <div class="prose">
-<p>Beaucoup de réglementations sur le travail existent pour pallier l’absence de sécurité de revenu : salaire minimum, durée du travail, indemnités. Mais elles sont parfois rigides, mal adaptées à certains contextes ou contournées dans l’économie informelle.</p>
-<p>Un revenu universel redéfinit le cadre : il garantit une base à tous, ce qui permet d’assouplir certaines normes sans sacrifier la sécurité. Il rend possible des formes de travail plus flexibles, adaptées, choisies.</p>
+<p>Beaucoup de réglementations sur le travail existent pour pallier l’absence de sécurité de revenu : salaire minimum, durée du travail, indemnités. Mais elles sont parfois rigides, mal adaptées à certains contextes ou contournées dans l’économie informelle.</p>
+<p>Une allocation de subsistance redéfinit le cadre : elle garantit une base à tous et toutes, ce qui permet d’assouplir certaines normes sans sacrifier la sécurité. Elle rend possible des formes de travail plus flexibles, adaptées, choisies.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Plutôt que d’opposer liberté et protection, le revenu de base réconcilie les deux. Il permet une flexibilité encadrée par une dignité garantie.</p>
+<p>Plutôt que d’opposer liberté et protection, l'allocation de subsistance réconcilie les deux. Elle permet une flexibilité encadrée par une dignité garantie.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>Le philosophe <strong>Philippe Van Parijs</strong> soutient que le revenu de base “désactive” certaines fonctions de l’État-providence, en rendant inutiles des mécanismes de compensation[^vanparijs1995].</p>
+<p>Le philosophe <strong>Philippe Van Parijs</strong> soutient que le revenu de base « désactive » certaines fonctions de l’État-providence, en rendant inutiles des mécanismes de compensation[^vanparijs1995].</p>
 <p>Moins de régulation coercitive, plus d’autonomie réelle.</p>
 </aside>
 </div>
@@ -57,7 +57,7 @@
 <div class="grille">
 <div class="prose">
 <p>Créer une entreprise ou lancer une initiative citoyenne implique souvent de naviguer dans un maquis réglementaire. Les obligations, permis, seuils fiscaux et règles de financement peuvent dissuader les plus motivés.</p>
-<p>Un revenu de base universel n’élimine pas ces règles, mais il donne du temps, de l’espace mental, et un coussin financier pour les affronter. Il transforme le rapport à la réglementation en offrant un socle qui sécurise les démarches.</p>
+<p>Une allocation de subsistance n’élimine pas ces règles, mais elle donne du temps, de l’espace mental, et un coussin financier pour les affronter. Elle transforme le rapport à la réglementation en offrant un socle qui sécurise les démarches.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>La vraie liberté d’entreprendre n’existe pas quand on risque de tout perdre au premier faux pas. Il faut un socle pour oser.</p>
@@ -66,7 +66,7 @@
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>L’OCDE note que les barrières réglementaires pèsent davantage sur les petits entrepreneurs, surtout ceux issus de groupes sous-représentés[^oecd2019].</p>
-<p>Un revenu universel compense cette inégalité d’accès à l’action économique.</p>
+<p>Une allocation de subsistance compense cette inégalité d’accès à l’action économique.</p>
 </aside>
 </div>
 
@@ -82,7 +82,7 @@
 <p>Les participants rapportent un sentiment de contrôle accru face aux démarches (voir p. 27)[^forget2017]. Le filet universel donne du souffle administratif.</p></li>
 
 <li class="carte"><strong class="h5">Meilleure adaptation aux nouvelles formes de travail</strong>
-<p>Freelance, travail en plateforme, projet hybride : le revenu de base permet une plus grande fluidité (voir p. 24)[^basicincomeearth2013]. L’économie change — il faut des règles qui suivent.</p></li>
+<p>Freelance, travail en plateforme, projet hybride : le revenu de base permet une plus grande fluidité (voir p. 24)[^basicincomeearth2013]. L’économie change — il faut des règles qui suivent.</p></li>
 
 <li class="carte"><strong class="h5">Allégement de la dépendance aux subventions</strong>
 <p>Des créateurs et travailleurs autonomes ont pu s’affranchir de certaines aides conditionnelles (voir p. 26)[^haarmann2009]. Moins de bureaucratie, plus de souplesse.</p></li>
@@ -94,7 +94,7 @@
 
 <section class="full secondary" data-after="footnotes">
 <header>
-<small>quand libérer devient possible pour tous</small>
+<small>quand libérer se fait dans la sécurité</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
@@ -105,7 +105,7 @@
 <li class="carte">La flexibilité du travail est un choix, pas une contrainte.</li>
 <li class="carte">Chacun peut naviguer les démarches sans y perdre des semaines.</li>
 <li class="carte">La déréglementation devient un outil de liberté réelle, pas d’abandon.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Qu’oseriez-vous faire si les règles devenaient enfin soutenantes ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<li class="carte editable"><span><em>Et vous ?</em> Qu’oseriez-vous faire si les règles étaient légères et soutenantes ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>

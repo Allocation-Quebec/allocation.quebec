@@ -1,8 +1,8 @@
 <header>
-<small>un tremplin vers l’entraide</small>
+<small>vers une plus grande entraide</small>
 <h1><i><img src="/assets/img/heart.svg" alt=""/></i> Solidarité</h1>
-<strong>Et si on arrêtait de penser que chacun doit se débrouiller seul ?</strong>
-<p>Notre société valorise l’autonomie individuelle, mais oublie souvent que personne ne s’en sort seul. Nous dépendons tous, à un moment ou à un autre, des autres : pour élever nos enfants, prendre soin des aînés, traverser une épreuve, apprendre ou rebondir.</p>
+<strong>Et si on acceptait de subsister collectivement plutôt qu'individuellement ?</strong>
+<p>Notre société valorise l’autonomie individuelle, mais oublie souvent que personne ne s’en sort seul. Nous dépendons tous et toutes, à un moment ou à un autre, des autres : pour élever nos enfants, prendre soin des aînés, traverser une épreuve, apprendre ou rebondir.</p>
 <p>Une allocation de subsistance reconnaît cette interdépendance. Elle ne remplace pas la solidarité, elle la rend possible. Elle libère du temps, du stress et de l’énergie pour prendre soin les uns des autres.</p>
 </header>
 
@@ -14,38 +14,38 @@
 <div class="grille">
 <div class="prose">
 <p>Dans un contexte d’isolement croissant, les liens sociaux se fragilisent. Les personnes seules, les nouveaux arrivants, les aînés ou les jeunes marginalisés peuvent se retrouver sans réseau, sans appui, sans relais.</p>
-<p>Un revenu de base renforce la capacité des gens à s’impliquer dans leur quartier, à créer des espaces d’entraide, à offrir de leur temps et de leur écoute. Il soutient les solidarités naturelles plutôt que de les épuiser.</p>
+<p>Une allocation de subsistance renforce la capacité des gens à s’impliquer dans leur quartier, à créer des espaces d’entraide, à offrir leur temps et leur écoute. Elle soutient les solidarités naturelles plutôt que de les épuiser.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>Les communautés fortes sont plus résilientes face aux crises. Mais elles ne naissent pas spontanément : elles demandent du temps, de la présence et de la disponibilité.</p>
+<p>Les communautés fortes sont plus résilientes face aux crises. Mais elles ne naissent pas spontanément : elles demandent du temps, de la présence et de la disponibilité. Si la subsistance est un combat quotidien aucun de ces moyens de créer nous est accessible.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
 <p>Le sociologue <strong>Robert Putnam</strong> a démontré que le capital social — la confiance et l'entraide entre citoyens — diminue avec l’insécurité économique[^putnam2000].</p>
-<p>En garantissant un minimum à chacun, le revenu universel restaure la base matérielle de la solidarité vécue.</p>
+<p>En garantissant à chacun un minimum pour subsister, l'allocation de subsistance assure la base matérielle de la solidarité réelle et vécue.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Hausse de l’engagement bénévole</strong>
-<p>Dans plusieurs projets pilotes, les participants ont augmenté leur implication dans des groupes communautaires et projets d’entraide (voir p. 14)[^basicincomeearth2013]. Moins de précarité = plus de disponibilité pour les autres.</p></li>
+<p>Dans plusieurs projets pilotes, les participants ont augmenté leur implication dans des groupes communautaires et projets d’entraide[^basicincomeearth2013]. Moins de précarité = plus de disponibilité pour les autres.</p></li>
 
 <li class="carte"><strong class="h5">Création d’initiatives locales autogérées</strong>
-<p>Les bénéficiaires ont lancé des coopératives, des cuisines collectives, des groupes d’achat (voir p. 21)[^haarmann2009]. Le revenu de base devient un catalyseur de solidarité concrète.</p></li>
+<p>Les bénéficiaires ont lancé des coopératives, des cuisines collectives, des groupes d’achat [^haarmann2009]. Allouer la subsistance est un catalyseur de solidarité concrète.</p></li>
 
 <li class="carte"><strong class="h5">Renforcement des liens intergénérationnels</strong>
-<p>Le soutien économique réduit les tensions entre générations au sein des familles et favorise la cohabitation (voir p. 19)[^forget2017]. Une meilleure sécurité financière permet de redonner plutôt que de dépendre.</p></li>
+<p>Le soutien économique réduit les tensions entre générations au sein des familles et favorise la cohabitation[^forget2017]. Une meilleure sécurité financière permet de redonner plutôt que de dépendre.</p></li>
 
 <li class="carte"><strong class="h5">Moins de méfiance entre citoyens</strong>
-<p>Les études montrent une corrélation entre la sécurité économique et le niveau de confiance dans autrui (voir p. 42)[^wilkinson2009]. La solidarité commence quand la peur diminue.</p></li>
+<p>Les études montrent une corrélation entre la sécurité économique et le niveau de confiance dans autrui[^wilkinson2009]. La solidarité augmente à mesure que la peur diminue.</p></li>
 
 <li class="carte"><strong class="h5">Réseautage accru dans les milieux ruraux</strong>
-<p>Des expériences ont montré un tissage de relations plus dense dans les régions éloignées quand un revenu stable est garanti (voir p. 25)[^basicincomeearth2013]. Le filet social ne tient pas sans les gens qui l’entrelacent.</p></li>
+<p>Des expériences ont montré un tissage de relations plus dense dans les régions éloignées quand un revenu stable est garanti[^basicincomeearth2013]. Le filet social ne tient pas sans les gens qui l’entrelacent.</p></li>
 
 <li class="carte"><strong class="h5">Plus d’initiatives citoyennes</strong>
-<p>Les gens qui ne luttent pas pour survivre créent, organisent, fédèrent (voir p. 30)[^knight2019]. Le revenu de base est un levier de démocratie participative.</p></li>
+<p>Les gens qui ne luttent pas pour survivre créent, organisent, fédèrent[^knight2019]. L'allocation de subsistance devient levier de démocratie participative.</p></li>
 </ul>
 </section>
 
@@ -57,38 +57,38 @@
 <div class="grille">
 <div class="prose">
 <p>Le soin — aux enfants, aux proches malades, aux aînés — repose souvent sur des personnes peu ou pas rémunérées, souvent des femmes. Ce travail relationnel et essentiel est pourtant au cœur du bien-être collectif.</p>
-<p>Une allocation de base permet de reconnaître et de soutenir cette contribution vitale. Elle permet de rester auprès d’un parent malade, d’un enfant vulnérable, sans être puni économiquement pour cela.</p>
+<p>Une allocation de subsistance permet de reconnaître et de soutenir cette contribution vitale. Elle permet de rester auprès d’un parent malade, d’un enfant vulnérable, sans être puni économiquement pour cela.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
-<p>La solidarité ne se délègue pas seulement à l’État. Elle se vit au quotidien, dans les gestes de soutien mutuel. Encore faut-il pouvoir s’y consacrer sans s’épuiser soi-même.</p>
+<p>La solidarité ne se délègue pas seulement à l’État. Elle se vit au quotidien, dans les gestes de soutien mutuel. Encore faut-il pouvoir s’y consacrer sans s’épuiser soi-même en multipliant les efforts pour survivre.</p>
 </div>
 
 <aside class="encart">
 <span class="h4">Encart savoir</span>
-<p>La philosophe <strong>Eva Feder Kittay</strong> parle de “dépendance relationnelle” pour décrire notre condition humaine[^kittay1999].</p>
-<p>Un revenu de base soutient les activités de care et d’entraide, essentielles mais invisibles dans les économies marchandes.</p>
+<p>La philosophe <strong>Eva Feder Kittay</strong> parle de « dépendance relationnelle » pour décrire notre condition humaine[^kittay1999].</p>
+<p>Une allocation de subsistance soutient les activités de soin et d’entraide, essentielles mais invisibles dans les marchés économiques.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="grille">
 <li class="carte"><strong class="h5">Plus de présence auprès des proches</strong>
-<p>Les bénéficiaires peuvent passer plus de temps avec leurs enfants, leurs parents âgés ou leurs conjoints en difficulté (voir p. 18)[^forget2017]. La solidarité familiale ne se décrète pas : elle se permet.</p></li>
+<p>Les bénéficiaires peuvent passer plus de temps avec leurs enfants, leurs parents âgés ou leurs conjoints en difficulté[^forget2017]. La solidarité familiale ne se décrète pas : elle se permet.</p></li>
 
 <li class="carte"><strong class="h5">Soutien au travail invisible</strong>
-<p>Le revenu de base valorise les formes d’engagement non salariées, souvent associées au soin (voir p. 22)[^kittay1999]. Cela corrige une injustice structurelle dans la reconnaissance sociale.</p></li>
+<p>Le revenu de base valorise les formes d’engagement non salariées, souvent associées au soin [^kittay1999]. Cela corrige une injustice structurelle dans la reconnaissance sociale.</p></li>
 
 <li class="carte"><strong class="h5">Réduction de la fatigue compassionnelle</strong>
-<p>Les proches aidants rapportent moins d’épuisement émotionnel lorsqu’ils ont un revenu stable (voir p. 27)[^knight2019]. Moins de précarité = plus de capacité à donner.</p></li>
+<p>Les proches aidants rapportent moins d’épuisement émotionnel lorsqu’ils ont un revenu stable [^knight2019]. Moins de précarité = plus de capacité à donner.</p></li>
 
 <li class="carte"><strong class="h5">Moins d’absences de travail pour raisons familiales</strong>
-<p>Les personnes peuvent mieux organiser leur temps sans devoir choisir entre emploi et soins (voir p. 19)[^forget2017]. La flexibilité naît de la sécurité.</p></li>
+<p>Les personnes peuvent mieux organiser leur temps sans devoir choisir entre emploi et soins [^forget2017]. La flexibilité nécessite la sécurité.</p></li>
 
 <li class="carte"><strong class="h5">Baisse de l’isolement des aînés</strong>
-<p>Plus de visites, plus de soutien à domicile, plus de temps pour accompagner les aînés (voir p. 25)[^basicincomeearth2013]. Le vieillissement se vit mieux quand on n’est pas seul.</p></li>
+<p>Plus de visites, plus de soutien à domicile, plus de temps pour accompagner les aînés[^basicincomeearth2013]. Le vieillissement se vit mieux quand on n’est pas seul.</p></li>
 
 <li class="carte"><strong class="h5">Soutien aux familles en contexte de handicap</strong>
-<p>Des familles avec enfants ou adultes vivant avec un handicap ont rapporté une amélioration de leur capacité d’accompagnement (voir p. 21)[^haarmann2009]. La solidarité devient praticable, pas sacrificielle.</p></li>
+<p>Des familles avec enfants ou adultes vivant avec un handicap ont rapporté une amélioration de leur capacité d’accompagnement[^haarmann2009]. La solidarité se pratique mieux sans sacrifices indus.</p></li>
 </ul>
 </section>
 
@@ -102,10 +102,10 @@
 <ul class="grille">
 <li class="carte">Personne ne doit s’excuser d’aider un proche plutôt que de produire.</li>
 <li class="carte">Les quartiers vibrent d’initiatives citoyennes.</li>
-<li class="carte">L’entraide devient une norme sociale, pas un luxe moral.</li>
-<li class="carte">Les personnes vulnérables sont entourées, pas isolées.</li>
-<li class="carte">La solidarité n’est pas une charge, mais une puissance collective.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que pourriez-vous donner aux autres si vos besoins étaient couverts ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<li class="carte">L’entraide se pratique sans sacrifier sa qualité de vie.</li>
+<li class="carte">Les personnes vulnérables sont entourées plutôt qu'isolées.</li>
+<li class="carte">La solidarité est encouragée et facilitée par notre puissance collective.</li>
+<li class="carte editable"><span><em>Et vous ?</em> Que pourriez-vous donner aux autres si votre subsistance était assurée ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
