@@ -15,12 +15,6 @@
 		font-family: inherit; 
 	}
 
-	/* Ensure that they are not displayed
-	 * when integrated into content. */
-	link, script { 
-		display: none !important; /* stylelint-disable-line */
-	}
-
 	/* Anchor decoration is unwanted in nav. */
 	nav a { 
 		text-decoration: none; 
@@ -101,6 +95,19 @@
 		html { 
 			touch-action: manipulation; 
 		}
+	}
+
+}
+
+@layer immuable {
+	/* Ensure that they are not displayed
+	 * when integrated into content. */
+	link, script { 
+		display: none;
+	}
+
+	:is(link, script):first-child+* {
+		margin-top: 0;
 	}
 
 }
