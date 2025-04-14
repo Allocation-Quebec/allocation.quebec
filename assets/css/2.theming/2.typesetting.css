@@ -12,8 +12,8 @@
 	h2, .h2 { --ScaleLevel: var(--Huge); }
 	h3, .h3 { --ScaleLevel: var(--Tall); }
 	h4, .h4 { --ScaleLevel: var(--Short); }
-	h5, .h5 { --ScaleLevel: var(--Short); --LineHeightFactor: .75; }
-	h6, .h6 { --ScaleLevel: var(--Shorter); --LineHeightFactor: .75; }
+	h5, .h5 { --ScaleLevel: var(--Short); }
+	h6, .h6 { --ScaleLevel: var(--Shorter); }
 
 	h1, h2, h3, h4, h5, h6, 
 	.h1, .h2, .h3, .h4, .h5, .h6 {
@@ -30,6 +30,16 @@
 		--FontWeight: 600;
 	}
 
+	:is(h1, .h1)+strong {
+		--ScaleLevel: var(--Taller);
+
+		display: block;
+	}
+
+
+	h3+p {
+		font-style: italic;
+	}
 
 	html {
 		--Color: oklch(51% 4% var(--BrownHue));
@@ -88,11 +98,10 @@
 
 
 		&:has(strong+p) {
-
-			font-family: var(--Grotesk);
 			--ScaleLevel: var(--Short);
 			--FontWeight: 480;
 
+			font-family: var(--Grotesk);
 			font-family: var(--Grotesk);
 		}
 
