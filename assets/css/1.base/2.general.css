@@ -35,6 +35,10 @@
 		padding-left: var(--bullet-padding, 1.1em); 
 	}
 
+	:is(ul, ol):where([class]) {
+		padding-left: 0;
+	}
+
 	/* Better typographic display */
 	html { 
 		text-rendering: geometricPrecision; 
