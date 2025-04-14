@@ -115,7 +115,7 @@
 
 }
 
-@layer immuable {
+@layer immutable {
 	/* Ensure that they are not displayed
 	 * when integrated into content. */
 	link, script { 
