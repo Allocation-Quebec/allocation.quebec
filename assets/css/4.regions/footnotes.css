@@ -1,0 +1,55 @@
+@layer regions {
+	[id=footnotes] {
+		& ol {
+			column-width: 50ch;
+			column-gap: var(--SpacingBroader);
+			padding: 0;
+		}
+		& li {
+			display: inline-block;
+			margin-top: 0;
+			margin-bottom:  var(--SpacingThin);
+			--ScaleLevel: var(--Short);
+			--LineHeightFactor: 0.875;
+
+			&>* {
+				display: inline;
+				vertical-align: middle;
+			}
+
+			&:target {
+				padding: 10px;
+				background-color: rgba(0,0,0,.1);
+			}
+		}
+
+		& em {
+			font-style: italic;
+		}
+
+		& a[href^="#fnref"] {
+			--FontWeight: 800;
+			--Color: #333;
+			background-color: oklch(88% 38% var(--RedHue));
+			margin-left: 0.1625em;
+			font-size: 0.875em;
+			border-radius: 2px;
+			font-family: var(--Grotesk);
+			text-decoration: none;
+			text-box: trim-both cap alphabetic;
+
+			padding: 0;
+			display: inline-flex;
+			box-sizing: border-box;
+			min-width: 24px;
+			min-height: 24px;
+			justify-content: center;
+			align-items: center;
+			word-break: break-all;
+
+			&:visited {
+				background-color: oklch(80% 6% var(--BrownHue));
+			}
+		}
+	}
+}

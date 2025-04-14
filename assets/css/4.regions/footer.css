@@ -1,0 +1,27 @@
+@layer regions {
+	[id=footer] {
+
+		--Color: oklch(98% 6% var(--BrownHue));
+
+		margin: 0;
+		padding-top: var(--SpacingLarge);
+		padding-bottom: var(--SpacingThin);
+
+		&>article {
+
+			padding-bottom: var(--SpacingBroader);
+			border-bottom: 2px solid white;
+			width: max-content;
+			max-width: 100%;
+
+		}
+
+		&>* {
+			flex-grow: 0;
+		}
+
+		&>*+* {
+			margin-top: var(--SpacingBroader);
+		}
+	}
+}

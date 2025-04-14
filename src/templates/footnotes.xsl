@@ -28,24 +28,18 @@
 
 	<xsl:template match="section[@id='footnotes']">
 		<section>
-			<xsl:attribute name="class">
-				<xsl:text>full dark footnotes</xsl:text>
-				<xsl:if test="@class">
-					<xsl:text> </xsl:text>
-					<xsl:value-of select="@class"/>
-				</xsl:if>
-			</xsl:attribute>
+			<xsl:attribute name="class">full dark</xsl:attribute>
+			<xsl:attribute name="id">footnotes</xsl:attribute>
 
-			<!-- Copy all attributes except class -->
-			<xsl:apply-templates select="@*[name() != 'class']"/>
-				<xsl:choose>
-					<xsl:when test="root[@lang='fr']">
-						<h2 class="h3">Références</h2>
-					</xsl:when>
-					<xsl:otherwise>
-						<h2 class="h3">References</h2>
-					</xsl:otherwise>
-				</xsl:choose>
+			<link rel="stylesheet" href="/assets/css/4.regions/footnotes.css"/>
+			<xsl:choose>
+				<xsl:when test="root[@lang='fr']">
+					<h2 class="h3">Références</h2>
+				</xsl:when>
+				<xsl:otherwise>
+					<h2 class="h3">References</h2>
+				</xsl:otherwise>
+			</xsl:choose>
 			<xsl:apply-templates/>
 		</section>
 		<xsl:apply-templates select="//*[@data-after='footnotes']" mode="after-footnotes" />

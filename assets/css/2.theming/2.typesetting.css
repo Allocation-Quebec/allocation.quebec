@@ -107,5 +107,20 @@
 		font-style: italic;
 	}
 
+	body>footer {
+		--FontWeight: 500;
+		font-family: var(--Grotesk);
 
+		& * {
+			--LineHeightFactor: 1;
+		}
+
+		&>article {
+			--FontWeight: 600;
+		}
+
+		&>p {
+			--ScaleLevel: var(--Short);
+		}
+	}
 }
