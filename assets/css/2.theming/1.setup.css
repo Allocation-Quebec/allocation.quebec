@@ -44,9 +44,4 @@
 		font-style: inherit;
 		line-height: inherit;
 	}
-
-/* Allow icons to receive context color */
-	i {
-		fill: currentColor; 
-	}
 }

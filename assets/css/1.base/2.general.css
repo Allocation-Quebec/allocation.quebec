@@ -73,12 +73,24 @@
 		fill: inherit; 
 	}
 
+	sup {
+		line-height: 1;
+		font-style: normal;
+	}
+
 	/* Icons integrated into the text */
-	i>svg {
-		display: inline-block;
-		height: 1.1ch; 
-		margin-right: var(--icon-spacing, 0.5em);
-		margin-left: var(--icon-spacing, 0.5em);
+	i {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		fill: currentColor; 
+		height: 1.1ch;
+		margin-right: var(--icon-spacing, 10px);
+	}
+
+	i :is(img, svg, use) {
+		display: block;
+		height: 100%;
 	}
 
 	/* Emphasis styles */
