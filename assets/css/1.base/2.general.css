@@ -66,6 +66,7 @@
 		line-height: 0;
 		border: none; 
 		border-top: 2px solid currentColor;
+		color: currentColor;
 	}
 
 	/* Prepare svg to be manipulated */
