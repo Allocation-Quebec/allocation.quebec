@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Aleo';
-	src: url('Aleo-Italic.woff2') format('woff2');
+	src: url('/assets/fonts/Aleo-Italic.woff2') format('woff2');
 	font-weight: 100 900;
 	font-style: italic;
 	font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
 	font-family: 'Aleo';
-	src: url('Aleo.woff2') format('woff2');
+	src: url('/assets/fonts/Aleo.woff2') format('woff2');
 	font-weight: 100 900;
 	font-style: normal;
 	font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
 	font-family: 'PP Neue Montreal';
-	src: url('PPNeueMontreal-Variable-subset.woff2') format('woff2');
+	src: url('/assets/fonts/PPNeueMontreal-Variable-subset.woff2') format('woff2');
 	font-weight: 200 800;
 	font-style: normal;
 	font-display: swap;
@@ -24,8 +24,7 @@
 
 @font-face {
 	font-family: 'PP Right Grotesk Compact';
-	src: local('PP Right Grotesk Compact Dark'), local('PPRightGrotesk-CompactDark'),
-	url('PPRightGrotesk-CompactDark-subset.woff2') format('woff2');
+	src: url('/assets/fonts/PPRightGrotesk-CompactDark-subset.woff2') format('woff2');
 	font-weight: 800;
 	font-style: normal;
 	font-display: swap;
