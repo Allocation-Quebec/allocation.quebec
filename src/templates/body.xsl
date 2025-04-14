@@ -11,8 +11,19 @@
 
 	<xsl:template match="/root/header">
 		<xsl:copy>
+			<xsl:choose>
+				<xsl:when test="@class">
+					<xsl:attribute name="class">
+						<xsl:value-of select="concat(@class, ' full secondary')"/>
+					</xsl:attribute>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:attribute name="class">full secondary</xsl:attribute>
+				</xsl:otherwise>
+			</xsl:choose>
+			<xsl:apply-templates select="@*[name() != 'class']"/>
 			<div>
-				<xsl:apply-templates select="@* | node()"/>
+				<xsl:apply-templates select="node()"/>
 			</div>
 		</xsl:copy>
 	</xsl:template>
@@ -46,7 +57,7 @@
 			<xsl:choose>
 				<xsl:when test="@class">
 					<xsl:attribute name="class">
-						<xsl:value-of select="concat(@class, ' tagline')"/>
+						<xsl:value-of select="concat(@class, ' as-tagline')"/>
 					</xsl:attribute>
 				</xsl:when>
 				<xsl:otherwise>
