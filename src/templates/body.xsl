@@ -17,6 +17,47 @@
 		</xsl:copy>
 	</xsl:template>
 
+	<xsl:template match="*[@class='footnote-ref']">
+		<xsl:copy>
+			<xsl:attribute name="class">as-footnote-ref</xsl:attribute>
+			<xsl:apply-templates select="@*[name() != 'class']"/>
+			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="*[@class='encart'][generate-id() = generate-id(//*[@class='encart'][1])]">
+		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
+			<link rel="stylesheet" href="/assets/css/6.components/insert.css"/>
+			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="*[@class='carte'][generate-id() = generate-id(//*[@class='carte'][1])]">
+		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
+			<link rel="stylesheet" href="/assets/css/6.components/tile.css"/>
+			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="section/p[count(preceding-sibling::p)=0 and count(following-sibling::p)=0]">
+		<xsl:copy>
+			<xsl:choose>
+				<xsl:when test="@class">
+					<xsl:attribute name="class">
+						<xsl:value-of select="concat(@class, ' tagline')"/>
+					</xsl:attribute>
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:attribute name="class">as-tagline</xsl:attribute>
+				</xsl:otherwise>
+			</xsl:choose>
+			<xsl:apply-templates select="@*[name() != 'class']"/>
+			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+
 	<xsl:variable name="theme">
 		<xsl:value-of select="//meta/@theme"/>
 	</xsl:variable>
@@ -104,13 +145,15 @@
 			<main>
 				<xsl:apply-templates mode="main-content" />
 			</main>
-			<footer id="pied-site" class="full secondary dark">
+			<footer id="footer">
+				<link rel="stylesheet" href="/assets/css/4.regions/footer.css"/>
 				<article>
 					<h2 class="is-invisible">Mission</h2>
 					<strong class="signature as-big">Allocation <em>Québec</em></strong>
 					<p>invite les québécois.es à réfléchir collectivement à la création d’une allocation de subsistance, un projet de société porteur pour le XXI<sup>e</sup> siècle et dont les retombées positives bénéficieraient à tous et toutes.</p>
 				</article>
-				<section id="plan-site">
+				<section id="sitemap">
+					<link rel="stylesheet" href="/assets/css/4.regions/sitemap.css"/>
 					<h2 class="is-invisible">Plan du site</h2>
 					<div>
 						<section>
