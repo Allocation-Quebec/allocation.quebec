@@ -1,0 +1,33 @@
+@view-transition {
+  navigation: auto;
+}
+
+main>header {
+
+	&>div {
+		view-transition-name: entete;
+	}
+	&+* {
+		view-transition-name: over-entete;
+	}
+}
+
+::view-transition-old(entete) {
+	animation: fademove 0.2s var(--ease-out-quart) reverse forwards;
+}
+
+::view-transition-new(entete) {
+	animation: fademove 0.6s var(--ease-out-quart) both 0.2s;
+}
+
+@keyframes fademove {
+	from {
+		opacity: 0;
+		translate: 0 40px;
+	}
+
+	to {
+		opacity: 1;
+		translate: 0 0;
+	}
+}

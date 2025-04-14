@@ -25,6 +25,7 @@
 				@import url("2.theming/1.setup.css");
 				@import url("2.theming/2.typesetting.css");
 				@import url("2.theming/3.rhythm.css");
+				@import url("2.theming/4.transitions.css");
 
 
 	/* -- Windy ECSS tokens ------------------ */
@@ -35,7 +36,6 @@
 	
 	@import url("2.theming/5.controls/button.css");
 	/* @import url("2.theming/5.controls/input.css"); */
-	/* @import url("2.theming/6.interactive/1.transitions.css"); */
 	/* @import url("2.theming/6.interactive/2.animations.css"); */
 
 /* ECSS special features ----------------------------- */
