@@ -67,7 +67,7 @@
 		margin-top: var(--SpacingThinnest);
 
 		&+* {
-			margin-top: var(--SpacingBroad);
+			margin-top: var(--SpacingRow);
 		}
 	}
 
