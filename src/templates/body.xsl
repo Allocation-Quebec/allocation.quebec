@@ -29,7 +29,7 @@
 	</xsl:template>
 
 	<xsl:template match="root" mode="body" name="body">
-		<body ontouchstart="" class="{$theme}">
+		<body ontouchstart="" class="{$theme} with-line-and-icons">
 			<link rel="stylesheet" href="/assets/css/4.regions/body.css"/>
 			<xsl:if test="$script">
 				<noscript>
@@ -44,7 +44,7 @@
 			<nav id="nav">
 				<h2 class="is-invisible">Navigation principale</h2>
 				<div>
-					<div class="menu-deroulant">
+					<div class="__dropdown">
 						<h3 class="h5">Pourquoi ?</h3>
 						<div>
 							<section>
@@ -66,7 +66,7 @@
 							</section>
 						</div>
 					</div>
-					<div class="menu-deroulant">
+					<div class="__dropdown">
 						<h3 class="h5">Pour qui ?</h3>
 						<div>
 							<a href="/fr/roles/travailleurs">Travailleur•es</a>
@@ -77,7 +77,7 @@
 							<a href="/fr/roles/etudiants">Étudiant•es</a>
 						</div>
 					</div>
-					<div class="menu-deroulant">
+					<div class="__dropdown">
 						<h3 class="h5">Comment ?</h3>
 						<div>
 							<a href="/fr/moyens/abolition">Abolition de programmes</a>
@@ -87,7 +87,7 @@
 							<a href="/fr/moyens/plan">Plan complet</a>
 						</div>
 					</div>
-					<div class="menu-deroulant">
+					<div class="__dropdown">
 						<h3 class="h5">En savoir plus</h3>
 						<div>
 							<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>

@@ -17,7 +17,13 @@
 
 	h1, h2, h3, h4, h5, h6, 
 	.h1, .h2, .h3, .h4, .h5, .h6 {
-		--FontWeight: 400; 
+		--FontWeight: 740;
+
+		font-family: var(--Grotesk);
+	}
+
+	.h1, h1, .h2, h2 {
+		--FontWeight: 440;
 	}
 
 	strong {
@@ -34,4 +40,72 @@
 		font-family: var(--Serif);
 		scroll-padding-top: 40px;
 	}
+
+	header {
+		--FontWeight: 540;
+
+		font-family: var(--Grotesk);
+
+		& small {
+			--ScaleLevel: var(--Shorter);
+			--FontWeight: 800;
+			--LineHeightFactor: 0.75;
+
+			text-transform: uppercase;
+		}
+	}
+
+	section>p:only-of-type {
+		--ScaleLevel: var(--Hugest);
+		--FontWeight: 800;
+
+		@media (max-width: 110ch) {
+			--LineHeightFactor: 0.75;
+		}
+
+		font-family: var(--Condensed);
+		text-transform: uppercase;
+		min-width: initial;
+
+		& em {
+			color: oklch(96% 46% var(--LimeHue));
+		}
+	}
+
+	li {
+		font-family: var(--Serif);
+
+		--ScaleLevel: var(--Tall);
+		--FontWeight: 500;
+
+		@media (max-width: 110ch) {
+			--LineHeightFactor: 0.875;
+		}
+
+		@media (min-width: 110ch) {
+			--LineHeightFactor: 0.75;
+		}
+
+
+		&:has(strong+p) {
+
+			font-family: var(--Grotesk);
+			--ScaleLevel: var(--Short);
+			--FontWeight: 480;
+
+			font-family: var(--Grotesk);
+		}
+
+	}
+
+	blockquote {
+		--ScaleLevel: var(--Short);
+		--FontWeight: 480;
+		--LineHeightFactor: 0.75;
+
+		font-family: var(--Serif);
+		font-style: italic;
+	}
+
+
 }

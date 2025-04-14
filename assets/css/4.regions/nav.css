@@ -8,16 +8,13 @@
 		font-family: var(--Grotesk);
 
 
-		& div {
-			display: flex;
-		}
-
 		&>div {
-			scrollbar-width: none;
 			display: flex;
+			scrollbar-width: none;
 			align-items: baseline;
 			flex-wrap: nowrap;
 			gap: 0;
+
 
 			&>* {
 				flex-shrink: 0;
@@ -33,10 +30,20 @@
 				background-color: oklch(40% 36% var(--ThemeHue));
 			}
 		}
-		& h4 {
-			margin: var(--SpacingThinnest); /* stylelint-disable-line */
+
+		& :is(h3, h4) {
+			color: oklch(84% 39% var(--ThemeHue));
 		}
+
+		& h4 {
+			position: relative;
+			left: var(--SpacingThinnest);
+		}
+
 		& a {
+			--FontWeight: 600;
+			display: block;
+			line-height: 1;
 			padding: var(--SpacingThinnest);
 			margin: 0;
 
@@ -44,19 +51,9 @@
 				--ScaleLevel: var(--Short);
 			}
 
-			--FontWeight: 600;
-
-
-			display: block;
-			line-height: 1;
-
 			&:hover {
 				color: oklch(98% 38% var(--RedHue));
 			}
-		}
-
-		& :is(h3, h4) {
-			color: oklch(84% 39% var(--ThemeHue));
 		}
 
 
@@ -65,18 +62,11 @@
 			margin-left: auto;
 		}
 
-		@media (orientation: portrait) {
-			& * {
-
-				--ScaleLevel: var(--Base);
-			}
-		}
 	}
 
 
 	@media (orientation: portrait) {
-		nav {
-
+		[id=nav] {
 			order: 1;
 			position: sticky;
 			display: block;
@@ -85,11 +75,15 @@
 			background-color: oklch(45% 39% var(--ThemeHue));
 			border-top: 2px solid oklch(55% 39% var(--ThemeHue));
 
+			& * {
+
+				--ScaleLevel: var(--Base);
+			}
+
 			&>div {
 				overflow-x: auto;
 
 				&::before {
-
 					position: sticky;
 					right: -1px;
 					display: flex;
@@ -107,7 +101,6 @@
 				}
 
 				&::after {
-
 					position: relative;
 					z-index: 1;
 					display: flex;
@@ -123,11 +116,54 @@
 					align-self: stretch;
 				}
 
-
 				&>:last-child {
 					margin-right: calc(var(--SpacingThinner) * -1);
 				}
 			}
+		}
+	}
+
+
+	[id=nav] .__dropdown {
+		position: relative;
+		display: flex;
+
+		&>div {
+			margin: 0;
+			display: flex;
+			gap: 0;
+			flex-direction: column;
+			padding: 20px 10px;
+			background-color: oklch(45% 39% var(--ThemeHue));
+
+			&:has(section) {
+				flex-direction: row;
+				flex-wrap: nowrap;
+				gap: 40px;
+			}
+
+			@media (orientation: portrait) {
+				bottom: calc(var(--Short) * 1rem + var(--SpacingThin) * 2 + 2px);
+				top: auto;
+				left: 0;
+				right: 0;
+				position: fixed;
+				box-shadow: 0px -12px 15px oklch(40% 36% var(--ThemeHue) / 0.5);
+			}
+
+			@media (orientation: landscape) {
+				width: max-content;
+				left: 0;
+				position: absolute;
+				top: 100%;
+				border-radius: 0 0 4px 4px;
+				box-shadow: 0px 12px 15px oklch(40% 36% var(--ThemeHue) / 0.5);
+			}
+		}
+
+		&:where(:not(:hover))>div {
+			opacity: 0;
+			pointer-events: none;
 		}
 	}
 }

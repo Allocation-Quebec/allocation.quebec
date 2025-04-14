@@ -55,15 +55,43 @@
 		margin-top: var(--SpacingBroadest);
 	}
 
-	main>:is(section, div)>header+* {
-		/* margin-top: var(--SpacingLarge); */
-	}
-
 	main>*+* {
 		margin-top: var(--SpacingLarge);
 	}
 
 	where(:is([hidden]):first-child)+* {
 		margin-top: initial;
+	}
+
+	:is(h1, .h1)+strong {
+		margin-top: var(--SpacingThinnest);
+
+		&+* {
+			margin-top: var(--SpacingBroad);
+		}
+	}
+
+
+
+	small+:is(h1, h2, h3) {
+		margin-top: var(--SpacingThinnest);
+	}
+
+	h1 + p {
+		margin-top: var(--SpacingBroader);
+	}
+
+	p + h3 {
+		margin-top: var(--SpacingBroad);
+	}
+
+
+	section>section {
+		&>*+* {
+			margin-top: var(--SpacingBroad);
+		}
+		&>*+h4 {
+			margin-top: var(--SpacingBroadest);
+		}
 	}
 }
