@@ -36,6 +36,10 @@
 		font-weight: var(--FontWeight, 600);
 	}
 
+	hr {
+		color: var(--Color, inherit);
+	}
+
 
 	/* Inheritance in place for child “inline” elements */
 	legend *, figcaption *, button *, p *, li *, a *, q *, cite *, span *, small *, th *, td *,
