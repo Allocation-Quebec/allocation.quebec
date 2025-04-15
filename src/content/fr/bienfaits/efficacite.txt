@@ -11,8 +11,8 @@
 <small>coûts de gestion</small>
 <h2 class="h3"><i>🧾</i> Moins de structures, plus de résultats</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Les dispositifs d’aide sociale conditionnelle exigent une armature administrative complexe pour contrôler l’admissibilité, traquer la fraude, gérer les réclamations et appliquer des sanctions. Cela engendre des coûts importants sans garantir une efficacité équitable.</p>
 <p>Une allocation de subsistance réduit cette charge en supprimant le besoin de vérifications constantes. Elle repose sur un principe simple : faire confiance, et redistribuer à la source, sans filtres coûteux.</p>
 
@@ -20,7 +20,7 @@
 <p>Une politique publique peut être ambitieuse sans être compliquée. L’efficacité ne s’oppose pas à la justice — elle peut en être le vecteur.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le politologue <strong>Gordon Tullock</strong> a documenté les “pertes bureaucratiques” — ressources absorbées par la gestion plutôt que par les bénéficiaires[^tullock1965].</p>
 <p>Une allocation de subsistance inconditionnelle réduit drastiquement ces coûts d’intermédiation.</p>
@@ -28,18 +28,18 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Réduction des coûts de traitement</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Réduction des coûts de traitement</strong>
 <p>Des simulations canadiennes estiment qu’un revenu de base coûterait moins cher que le maintien de multiples programmes ciblés[^macdonald2016]. Une seule prestation simple remplace plusieurs systèmes complexes.</p></li>
-<li class="carte"><strong class="h5">Simplification administrative</strong>
+<li class="tile"><strong class="h5">Simplification administrative</strong>
 <p>Les programmes pilotes ont démontré une réduction significative des besoins en personnel administratif[^basicincomeearth2013]. Moins de paperasse = plus de temps utile.</p></li>
-<li class="carte"><strong class="h5">Moins de litiges et appels</strong>
+<li class="tile"><strong class="h5">Moins de litiges et appels</strong>
 <p>Le caractère automatique de l’allocation diminue les conflits sur l’admissibilité[^forget2017]. Cela réduit la pression sur les tribunaux sociaux et les services de recours.</p></li>
-<li class="carte"><strong class="h5">Paiement plus rapide aux personnes</strong>
+<li class="tile"><strong class="h5">Paiement plus rapide aux personnes</strong>
 <p>Un système unifié permet de verser les montants en quelques jours, plutôt qu’en semaines[^haarmann2009]. L’agilité est une forme d’efficacité essentielle.</p></li>
-<li class="carte"><strong class="h5">Baisse du taux d’erreurs administratives</strong>
+<li class="tile"><strong class="h5">Baisse du taux d’erreurs administratives</strong>
 <p>Les systèmes universels comportent moins de conditions à vérifier, donc moins de risques d’erreur[^forget2011]. Cela améliore la qualité du service public.</p></li>
-<li class="carte"><strong class="h5">Moins de non-recours à l’aide</strong>
+<li class="tile"><strong class="h5">Moins de non-recours à l’aide</strong>
 <p>L’automaticité augmente drastiquement le taux de couverture réelle[^basicincomeearth2013]. Quand c’est simple, tout le monde reçoit ce à quoi il a droit.</p></li>
 </ul>
 </section>
@@ -49,8 +49,8 @@
 <small>économie générale</small>
 <h2 class="h3"><i>📈</i> Soutenir la demande, lisser les cycles</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Une allocation de subsistance agit comme un stabilisateur automatique : elle injecte des liquidités directement aux ménages, particulièrement en bas de l’échelle, là où chaque dollar est réinjecté dans l’économie réelle. Contrairement à des politiques fiscales complexes ou des aides ciblées à délai variable, cette mesure soutient la consommation de base de façon immédiate, constante et prévisible.</p>
 <p>En période de crise ou de ralentissement, ce filet universel amortit les chocs, sans nécessiter d’intervention lourde ou exceptionnelle. En période d’expansion, il renforce l’inclusion économique de groupes souvent exclus de la croissance.</p>
 
@@ -58,19 +58,19 @@
 <p>La pauvreté n’est pas qu’un problème moral : c’est un frein direct à l’économie. En libérant la consommation et l’initiative, l'allocation de subsistance renforce les liens économiques réels.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>L’économiste <strong>Joseph Stiglitz</strong> rappelle que la pauvreté est « l’ennemi caché de l’efficacité ». Elle empêche des millions de personnes de contribuer pleinement à l’économie[^stiglitz2012].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Stimulation directe de la consommation</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Stimulation directe de la consommation</strong>
 <p>Les ménages à faible revenu dépensent une plus grande part de leur revenu, ce qui stimule la demande locale et les PME[^forget2017].</p></li>
-<li class="carte"><strong class="h5">Stabilisation en période de crise</strong>
+<li class="tile"><strong class="h5">Stabilisation en période de crise</strong>
 <p>Le revenu de base aurait permis de réduire la volatilité des revenus de 30 % en contexte post-COVID[^macdonald2020].</p></li>
-<li class="carte"><strong class="h5">Réduction de l’endettement des ménages</strong>
+<li class="tile"><strong class="h5">Réduction de l’endettement des ménages</strong>
 <p>Les expériences ont montré une diminution significative des emprunts à court terme, liés à l’alimentation ou au logement[^haarmann2009].</p></li>
 </ul>
 </section>
@@ -80,8 +80,8 @@
 <small>choix et comportements</small>
 <h2 class="h3"><i>🎯</i> Libérer les bonnes décisions</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Quand la survie est en jeu, on prend des décisions dictées par l’urgence, souvent destructrices. L'allocation de subsistance donne une marge mentale qui permet de faire de meilleurs choix : attendre un emploi convenable, quitter un environnement toxique, se former, refuser un contrat abusif.</p>
 <p>Cette liberté accrue produit des gains microéconomiques à grande échelle : les gens évitent les pièges financiers, consomment plus durablement et investissent mieux leur temps.</p>
 
@@ -89,19 +89,19 @@
 <p>Une société efficace, c’est aussi une société où les gens peuvent se projeter, planifier, dire non quand il le faut.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le psychologue <strong>Sendhil Mullainathan</strong> a montré que la pauvreté réduit la capacité de planification, de concentration et de choix rationnels — jusqu’à 13 points de QI fonctionnel perdus[^mullainathan2013].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Meilleur appariement emploi-travailleur</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Meilleur appariement emploi-travailleur</strong>
 <p>Les personnes ayant un revenu de base attendent un emploi qui leur correspond mieux au lieu d’accepter le premier venu[^kela2020].</p></li>
-<li class="carte"><strong class="h5">Moins de décisions destructrices</strong>
+<li class="tile"><strong class="h5">Moins de décisions destructrices</strong>
 <p>Baisse des achats impulsifs, du jeu compulsif, des crédits à la consommation risqués[^knight2019].</p></li>
-<li class="carte"><strong class="h5">Hausse du bien-être décisionnel</strong>
+<li class="tile"><strong class="h5">Hausse du bien-être décisionnel</strong>
 <p>Les bénéficiaires rapportent se sentir plus en contrôle de leur vie, avec une meilleure capacité à planifier et prioriser[^basicincomeearth2013].</p></li>
 </ul>
 </section>
@@ -112,8 +112,8 @@
 <h2 class="h3"><i>🧭</i> Une économie qui fonctionne mieux pour tout le monde</h2>
 </header>
 
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Une allocation de subisttance n’améliore pas seulement l’efficacité de l’État ou la stabilité macroéconomique. Elle agit aussi au niveau des marchés eux-mêmes, en réduisant les distorsions, les frictions et les inefficacités liées à la pauvreté et à l’insécurité.</p>
 <p>Du logement au crédit, du commerce local à l’assurance, les choix des individus deviennent plus rationnels, plus durables et moins dictés par l’urgence. Les marchés sont stabilisés, les comportements extrêmes sont évités, et la consommation devient plus saine.</p>
 
@@ -123,43 +123,43 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Soutien aux commerces de proximité</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Soutien aux commerces de proximité</strong>
 <p>Les bénéficiaires du revenu de base consomment davantage localement, stimulant les petites entreprises[^forget2017].</p></li>
-<li class="carte"><strong class="h5">Réduction de la dépendance au crédit</strong>
+<li class="tile"><strong class="h5">Réduction de la dépendance au crédit</strong>
 <p>Moins de recours aux emprunts à court terme et au crédit prédateur[^haarmann2009].</p></li>
-<li class="carte"><strong class="h5">Amélioration du marché locatif</strong>
+<li class="tile"><strong class="h5">Amélioration du marché locatif</strong>
 <p>Moins de déménagements d’urgence, plus de stabilité pour les locataires[^forget2011].</p></li>
-<li class="carte"><strong class="h5">Stimulation des micro-activités régularisées</strong>
+<li class="tile"><strong class="h5">Stimulation des micro-activités régularisées</strong>
 <p>Les bénéficiaires sont plus enclins à déclarer leurs revenus d’appoint ou microentreprises[^kela2020].</p></li>
-<li class="carte"><strong class="h5">Consommation plus durable</strong>
+<li class="tile"><strong class="h5">Consommation plus durable</strong>
 <p>Moins d’achats impulsifs, plus de réparation, d’achat local, d’investissement raisonné[^basicincomeearth2013].</p></li>
-<li class="carte"><strong class="h5">Moins de pression sur les assurances</strong>
+<li class="tile"><strong class="h5">Moins de pression sur les assurances</strong>
 <p>Réduction des risques médicaux, sociaux et résidentiels entraîne une baisse des réclamations[^wilkinson2009].</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand l’efficacité devient lisible</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">L’État n’a plus besoin de vérifier chaque détail pour soutenir ses citoyens.</li>
-<li class="carte">Les ressources vont aux personnes, directement.</li>
-<li class="carte">Recevoir un soutien est simple, mais surtout automatique.</li>
-<li class="carte">Les employés publics passent moins de temps à contrôler, plus à accompagner.</li>
-<li class="carte">L’efficacité devient un outil au service de l’humain.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que changeriez-vous si le système était enfin simple ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">L’État n’a plus besoin de vérifier chaque détail pour soutenir ses citoyens.</li>
+<li class="tile">Les ressources vont aux personnes, directement.</li>
+<li class="tile">Recevoir un soutien est simple, mais surtout automatique.</li>
+<li class="tile">Les employés publics passent moins de temps à contrôler, plus à accompagner.</li>
+<li class="tile">L’efficacité devient un outil au service de l’humain.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que changeriez-vous si le système était enfin simple ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« J’ai abandonné ma demande parce que je ne comprenais plus ce qu’il fallait fournir. »</p><cite class="h4">Jérôme P.</cite></blockquote>
-<blockquote class="carte"><p>« Un formulaire, une fois. Pas huit preuves différentes. »</p><cite class="h4">Anita G.</cite></blockquote>
-<blockquote class="carte"><p>« Quand c’est compliqué, ce sont toujours les mêmes qui tombent entre les mailles. »</p><cite class="h4">François D.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« J’ai abandonné ma demande parce que je ne comprenais plus ce qu’il fallait fournir. »</p><cite class="h4">Jérôme P.</cite></blockquote>
+<blockquote class="tile"><p>« Un formulaire, une fois. Pas huit preuves différentes. »</p><cite class="h4">Anita G.</cite></blockquote>
+<blockquote class="tile"><p>« Quand c’est compliqué, ce sont toujours les mêmes qui tombent entre les mailles. »</p><cite class="h4">François D.</cite></blockquote>
 </div>
 
 <hr/>

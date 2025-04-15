@@ -1,5 +1,5 @@
 @layer utilities {
-	.as-grid, .grille {
+	.as-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(var(--SpacingLargest), 1fr));
 

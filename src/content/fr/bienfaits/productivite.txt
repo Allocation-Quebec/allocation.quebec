@@ -11,8 +11,8 @@
 <small>compétences et formation</small>
 <h2 class="h3"><i>📚</i> Mieux apprendre, mieux contribuer</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Le développement des compétences est un moteur essentiel de productivité. Pourtant, de nombreuses personnes abandonnent la formation continue faute de temps, de moyens ou de sécurité financière.</p>
 <p>Une allocation de subsistance offre l’opportunité de reprendre des études, d'explorer de nouvelles vocations, ou simplement de se mettre à jour. Elle réduit la pression à accepter n’importe quel emploi au détriment d’un développement durable.</p>
 
@@ -20,7 +20,7 @@
 <p>Apprendre est un investissement. Une société productive est une société où chacun a les moyens de progresser à son rythme et selon ses talents.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>L’économiste <strong>Gary Becker</strong> a popularisé la notion de « capital humain » : l’investissement dans l’éducation et la santé améliore directement la productivité globale[^becker1993].</p>
 <p>L'allocation de subsistance crée l’espace pour ces investissements personnels.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Hausse des inscriptions à la formation</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Hausse des inscriptions à la formation</strong>
 <p>Plusieurs projets ont documenté une augmentation des formations professionnelles et de retour aux études chez les bénéficiaires[^forget2017]. La sécurité permet de penser à long terme.</p></li>
 
-<li class="carte"><strong class="h5">Développement de compétences transférables</strong>
+<li class="tile"><strong class="h5">Développement de compétences transférables</strong>
 <p>Les gens ont profité du revenu garanti pour apprendre des compétences polyvalentes comme l’informatique ou la gestion[^basicincomeearth2013]. Cela améliore la mobilité sur le marché du travail.</p></li>
 
-<li class="carte"><strong class="h5">Réduction de l’abandon scolaire</strong>
+<li class="tile"><strong class="h5">Réduction de l’abandon scolaire</strong>
 <p>Chez les jeunes adultes, un revenu de base diminue la pression économique de quitter l’école pour un emploi précaire[^forget2011]. Apprendre devient possible, pas un luxe.</p></li>
 
-<li class="carte"><strong class="h5">Temps libéré pour le perfectionnement</strong>
+<li class="tile"><strong class="h5">Temps libéré pour le perfectionnement</strong>
 <p>Des travailleurs ont utilisé le revenu pour se former en parallèle de leur emploi[^knight2019]. La productivité individuelle repose sur cette capacité d’adaptation continue.</p></li>
 
-<li class="carte"><strong class="h5">Revalorisation des métiers techniques</strong>
+<li class="tile"><strong class="h5">Revalorisation des métiers techniques</strong>
 <p>Certains ont pu retourner en formation pour des métiers manuels ou spécialisés souvent boudés[^macdonald2016]. Le revenu universel soutient les filières essentielles.</p></li>
 
-<li class="carte"><strong class="h5">Amélioration de la confiance professionnelle</strong>
+<li class="tile"><strong class="h5">Amélioration de la confiance professionnelle</strong>
 <p>Les participants rapportent un regain d’estime et d’assurance dans leurs capacités à contribuer[^forget2017]. La productivité commence dans l’esprit.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>innovation et entrepreneuriat</small>
 <h2 class="h3"><i>🚀</i> Libérer l’initiative</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Innover demande du temps, de l’énergie mentale, de l’espace pour tester. Mais pour beaucoup, la précarité bloque toute tentative de prendre un risque. L'allocation de subsistance agit comme un capital de départ invisible.</p>
 <p>Elle donne la marge de manœuvre nécessaire pour créer, expérimenter, et même échouer sans que tout s’écroule. En soutenant la prise d’initiative, elle devient un vecteur de productivité collective.</p>
 
@@ -63,55 +63,55 @@
 <p>L’innovation ne vient pas seulement des startups : elle émerge aussi des cuisines, des fermes, des coopératives, des ateliers. Encore faut-il pouvoir oser.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Selon des études de la Kela en Finlande, les bénéficiaires d’un revenu de base avaient une perception plus positive de leur avenir professionnel et plus d’initiatives entrepreneuriales[^kela2020].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Lancement de microentreprises</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Lancement de microentreprises</strong>
 <p>Plusieurs bénéficiaires ont démarré des petits projets économiques locaux grâce à un filet de sécurité[^haarmann2009]. La créativité s’exprime quand le risque n’implique plus l'indigence.</p></li>
 
-<li class="carte"><strong class="h5">Hausse de l’initiative personnelle</strong>
+<li class="tile"><strong class="h5">Hausse de l’initiative personnelle</strong>
 <p>Les gens se sentent plus en contrôle de leur trajectoire et enclins à proposer des projets[^kela2020]. La motivation est un facteur essentiel de performance globale.</p></li>
 
-<li class="carte"><strong class="h5">Diversité des formes de travail</strong>
+<li class="tile"><strong class="h5">Diversité des formes de travail</strong>
 <p>Le revenu de base permet à des activités hybrides (autoproduction, économie circulaire, arts) de s’épanouir[^basicincomeearth2013]. Cela enrichit l’écosystème économique.</p></li>
 
-<li class="carte"><strong class="h5">Réduction de la peur de l’échec</strong>
+<li class="tile"><strong class="h5">Réduction de la peur de l’échec</strong>
 <p>Les personnes osent plus facilement tester une idée ou changer de voie professionnelle[^knight2019]. Le droit à l’erreur est une condition de l’innovation.</p></li>
 
-<li class="carte"><strong class="h5">Renforcement du tissu économique local</strong>
+<li class="tile"><strong class="h5">Renforcement du tissu économique local</strong>
 <p>Les initiatives soutenues par le revenu de base ont eu tendance à rester dans leur communauté[^haarmann2009]. Une économie productive est aussi une économie enracinée.</p></li>
 
-<li class="carte"><strong class="h5">Stimulation de la motivation intrinsèque</strong>
+<li class="tile"><strong class="h5">Stimulation de la motivation intrinsèque</strong>
 <p>Les gens disent agir par goût, par sens, et non seulement par contrainte financière[^kela2020]. C’est là que la productivité devient durable.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand la productivité devient humaine</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">Apprendre n’est plus un luxe, mais un droit soutenu.</li>
-<li class="carte">Créer son entreprise devient accessible à tous.</li>
-<li class="carte">Les idées nouvelles ont l’espace de germer sans risquer la ruine.</li>
-<li class="carte">Les métiers essentiels redeviennent attractifs.</li>
-<li class="carte">La contribution n’est pas mesurée seulement en heures, mais en impact.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que créeriez-vous si vous aviez un filet pour oser ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">Apprendre n’est plus un luxe, mais un droit soutenu.</li>
+<li class="tile">Créer son entreprise devient accessible à tous.</li>
+<li class="tile">Les idées nouvelles ont l’espace de germer sans risquer la ruine.</li>
+<li class="tile">Les métiers essentiels redeviennent attractifs.</li>
+<li class="tile">La contribution n’est pas mesurée seulement en heures, mais en impact.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que créeriez-vous si vous aviez un filet pour oser ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« J’ai pu retourner étudier à 38 ans. C’est jamais trop tard. »</p><cite class="h4">Jocelyn V.</cite></blockquote>
-<blockquote class="carte"><p>« J’avais une idée depuis 10 ans. Là, je l’ai enfin lancée. »</p><cite class="h4">Annie P.</cite></blockquote>
-<blockquote class="carte"><p>« J’ai découvert que je pouvais être utile autrement. »</p><cite class="h4">Michel D.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« J’ai pu retourner étudier à 38 ans. C’est jamais trop tard. »</p><cite class="h4">Jocelyn V.</cite></blockquote>
+<blockquote class="tile"><p>« J’avais une idée depuis 10 ans. Là, je l’ai enfin lancée. »</p><cite class="h4">Annie P.</cite></blockquote>
+<blockquote class="tile"><p>« J’ai découvert que je pouvais être utile autrement. »</p><cite class="h4">Michel D.</cite></blockquote>
 </div>
 
 <hr/>

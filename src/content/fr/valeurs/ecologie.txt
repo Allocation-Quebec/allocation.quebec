@@ -11,8 +11,8 @@
 <small>consommation</small>
 <h2 class="h3"><i>🛍️</i> Moins de gaspillage, plus de durabilité</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Les ménages à faible revenu sont plus enclins à acheter des produits bon marché, souvent jetables, en raison de contraintes budgétaires. Cela contribue à un cycle de consommation court et polluant, accentuant l’épuisement des ressources et la production de déchets.</p>
 <p>Une sécurité financière de base permet de choisir des biens de meilleure qualité, plus durables, réparables, et parfois locaux ou éthiques. Cela transforme les comportements individuels en actions écologiques soutenues.</p>
 
@@ -20,7 +20,7 @@
 <p>Changer ses habitudes de consommation nécessite du temps, de l’accès à l’information, et surtout la capacité de faire des choix. Une allocation de subsistance offre ce levier de transformation quotidien, à l’échelle de millions de gestes.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Selon <strong>Tim Jackson</strong>, la pression de la croissance et de la consommation empêche une transition écologique véritable[^jackson2017].</p>
 <p>Il soutient qu’une société durable repose sur la réduction des inégalités économiques, condition nécessaire à des comportements plus cohérents avec la protection environnementale.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Réduction de l’achat de produits à usage unique</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Réduction de l’achat de produits à usage unique</strong>
 <p>Dans plusieurs études pilotes, les bénéficiaires ont réduit l’achat de biens jetables pour privilégier des alternatives durables[^basicincomeearth2013]. Ce changement de panier de consommation diminue directement la production de déchets.</p></li>
 
-<li class="carte"><strong class="h5">Hausse des achats alimentaires locaux</strong>
+<li class="tile"><strong class="h5">Hausse des achats alimentaires locaux</strong>
 <p>Des programmes de revenu de base ont montré une augmentation de la consommation de produits locaux et frais[^haarmann2009]. Ces choix réduisent l’empreinte carbone liée au transport.</p></li>
 
-<li class="carte"><strong class="h5">Diminution du gaspillage alimentaire</strong>
+<li class="tile"><strong class="h5">Diminution du gaspillage alimentaire</strong>
 <p>Les ménages avec un revenu de base planifient mieux leurs repas et jettent moins[^forget2011]. L’amélioration de la stabilité financière favorise une gestion plus consciente des ressources.</p></li>
 
-<li class="carte"><strong class="h5">Achats plus durables (réparables ou réutilisables)</strong>
+<li class="tile"><strong class="h5">Achats plus durables (réparables ou réutilisables)</strong>
 <p>Lorsque le revenu est sécurisé, les personnes investissent davantage dans des biens réparables plutôt qu’en remplacement[^jackson2017]. Cela ralentit le cycle de consommation et prolonge la durée de vie des objets.</p></li>
 
-<li class="carte"><strong class="h5">Baisse de la consommation sous contrainte</strong>
+<li class="tile"><strong class="h5">Baisse de la consommation sous contrainte</strong>
 <p>Moins de stress financier signifie moins d’achats impulsifs, moins de dettes de consommation[^knight2019]. Ce type de consommation est souvent à fort impact environnemental.</p></li>
 
-<li class="carte"><strong class="h5">Transition vers la sobriété choisie</strong>
+<li class="tile"><strong class="h5">Transition vers la sobriété choisie</strong>
 <p>Plusieurs témoignages dans les projets pilotes évoquent une satisfaction accrue dans un mode de vie simplifié[^knight2019]. Une allocation de subsistance soutient cette transition sans insécurité.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>travail et industries</small>
 <h2 class="h3"><i>🌾</i> Une transition écologique juste</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Actuellement, de nombreuses personnes acceptent des emplois dans des secteurs polluants ou destructeurs parce qu’elles n’ont pas d’autre choix. Cette dépendance économique freine les transitions dans les secteurs de l’énergie, des ressources, du transport et de l’agroalimentaire.</p>
 <p>Une allocation de subsistance permettrait à plusieurs de se tourner vers des emplois plus alignés avec leurs valeurs, ou de refuser des emplois qui nuisent à l’environnement. C’est une condition essentielle pour qu’une transition écologique soit socialement juste.</p>
 
@@ -63,7 +63,7 @@
 <p>Une transition verte imposée sans soutien financier aux travailleurs mène à la colère, à la résistance, voire à l’échec. Il faut sécuriser les parcours de reconversion pour qu’ils soient possibles et désirables.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le concept de <strong>justice climatique</strong> soutient que les populations les plus vulnérables sont aussi celles qui subissent le plus les conséquences du changement climatique.</p>
 <p>Un revenu de base leur permet non seulement de se protéger, mais aussi de contribuer à la solution[^oecd2019].</p>
@@ -71,23 +71,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Hausse de l’intérêt pour les métiers verts</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Hausse de l’intérêt pour les métiers verts</strong>
 <p>Des participants à des programmes de revenu de base ont déclaré vouloir s’orienter vers des métiers en agriculture urbaine, réemploi, écoconstruction[^basicincomeearth2013]. Cela crée les fondations d'une économie résiliente.</p></li>
 
-<li class="carte"><strong class="h5">Moins de dépendance aux emplois nuisibles</strong>
+<li class="tile"><strong class="h5">Moins de dépendance aux emplois nuisibles</strong>
 <p>Des travailleurs ont pu quitter des postes dans des industries polluantes pour des projets durables ou sociaux[^haarmann2009]. La liberté de refuser un emploi destructeur est une clé d'une économie plus écologique.</p></li>
 
-<li class="carte"><strong class="h5">Création de micro-coopératives écologiques</strong>
+<li class="tile"><strong class="h5">Création de micro-coopératives écologiques</strong>
 <p>Plusieurs expériences documentent l’apparition de coopératives locales dans les domaines du recyclage, compostage, ou agriculture[^haarmann2009]. Un revenu stable encourage l’initiative collective.</p></li>
 
-<li class="carte"><strong class="h5">Diminution des déplacements motorisés</strong>
+<li class="tile"><strong class="h5">Diminution des déplacements motorisés</strong>
 <p>Des gens ont pu réduire leurs déplacements quotidiens, souvent en voiture, en changeant leur rythme ou lieu de travail[^knight2019]. Moins de précarité, c’est aussi moins de dépendance automobile.</p></li>
 
-<li class="carte"><strong class="h5">Formation environnementale revalorisée</strong>
+<li class="tile"><strong class="h5">Formation environnementale revalorisée</strong>
 <p>Avec du temps libre, plusieurs bénéficiaires s'inscrivent à des formations en agriculture, permaculture, ou écologie[^basicincomeearth2013]. Cela alimente les compétences nécessaires à la transition.</p></li>
 
-<li class="carte"><strong class="h5">Meilleure acceptabilité des politiques vertes</strong>
+<li class="tile"><strong class="h5">Meilleure acceptabilité des politiques vertes</strong>
 <p>Les projets montrent une plus grande adhésion aux politiques climatiques chez les personnes soutenues financièrement[^oecd2019]. L'assurance de subsister rend les grandes transformations collectives possibles.</p></li>
 </ul>
 </section>
@@ -97,8 +97,8 @@
 <small>temps citoyen</small>
 <h2 class="h3"><i>🌱</i> Plus de temps pour s’engager</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Une transition écologique ne se fait pas seulement par les institutions. Elle passe par l’engagement de tous et toutes dans les quartiers, les villages, les familles. Cela nécessite du temps, de l’espace mental, et la liberté de s’investir.</p>
 <p>En assurant la subsistance, on libère aussi du temps pour jardiner, réparer, se déplacer autrement, partager. C’est un terreau fertile pour les projets collectifs à petite échelle, mais à grand impact.</p>
 
@@ -106,55 +106,55 @@
 <p>Les solutions écologiques sont souvent locales, artisanales, collectives. Elles dépendent de la capacité des gens à s’organiser sans pression de productivité immédiate.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Les <strong>biens communs écologiques</strong> sont mieux protégés lorsqu’ils sont cogérés par des communautés actives et stables. Une allocation de subsistance permet à ces communautés d’exister et de se renforcer[^ostrom1990].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Hausse de la participation au jardinage collectif</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Hausse de la participation au jardinage collectif</strong>
 <p>Des projets pilotes ont vu croître l’implication citoyenne dans des initiatives locales de verdissement[^knight2019]. Ce type d’engagement génère des effets écologiques, sociaux et symboliques à ne pas négliger.</p></li>
 
-<li class="carte"><strong class="h5">Développement d’ateliers de réparation</strong>
+<li class="tile"><strong class="h5">Développement d’ateliers de réparation</strong>
 <p>Des gens ont lancé ou rejoint des espaces de réparation communautaire (« repair » cafés), grâce à plus de temps libre[^basicincomeearth2013]. Moins de consommation, plus de savoir-faire partagé.</p></li>
 
-<li class="carte"><strong class="h5">Diminution de la dépendance à l’automobile</strong>
+<li class="tile"><strong class="h5">Diminution de la dépendance à l’automobile</strong>
 <p>Les horaires flexibles offerts par un revenu de base ont permis d’opter pour des déplacements actifs ou partagés[^knight2019]. Cela réduit l’impact carbone des transports quotidiens.</p></li>
 
-<li class="carte"><strong class="h5">Participation accrue aux instances locales</strong>
+<li class="tile"><strong class="h5">Participation accrue aux instances locales</strong>
 <p>Plus de gens assistent aux assemblées citoyennes, s’impliquent dans les comités de quartier ou les projets environnementaux[^basicincomeearth2013]. L’écologie devient alors un projet collectif.</p></li>
 
-<li class="carte"><strong class="h5">Stabilisation des liens de voisinage</strong>
+<li class="tile"><strong class="h5">Stabilisation des liens de voisinage</strong>
 <p>Avec plus de temps et moins de stress, les réseaux de solidarité se renforcent autour d’objectifs écologiques partagés[^knight2019]. La confiance mutuelle facilite la gestion commune des ressources.</p></li>
 
-<li class="carte"><strong class="h5">Valorisation des biens communs</strong>
+<li class="tile"><strong class="h5">Valorisation des biens communs</strong>
 <p>Les projets liés à l’eau, à la terre, à l’air, deviennent portés par la base plutôt que par injonction politique[^ostrom1990]. Cela permet une écologie enracinée et durable.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand l’écologie devient accessible</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">Tout le monde peut acheter des <em>produits durables</em>, sans compromis.</li>
-<li class="carte">Les <em>emplois verts</em> sont accessibles, car l’urgence de survivre ne dicte plus nos choix.</li>
-<li class="carte">On <em>valorise</em> les métiers du vivant, de la réparation, du soin à la nature.</li>
-<li class="carte">Chaque quartier a son jardin collectif, ses composteurs, ses projets citoyens.</li>
-<li class="carte">L’écologie n’est plus un luxe, mais un <em>projet collectif</em>.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous pour la planète si vous en aviez les moyens ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">Tout le monde peut acheter des <em>produits durables</em>, sans compromis.</li>
+<li class="tile">Les <em>emplois verts</em> sont accessibles, car l’urgence de survivre ne dicte plus nos choix.</li>
+<li class="tile">On <em>valorise</em> les métiers du vivant, de la réparation, du soin à la nature.</li>
+<li class="tile">Chaque quartier a son jardin collectif, ses composteurs, ses projets citoyens.</li>
+<li class="tile">L’écologie n’est plus un luxe, mais un <em>projet collectif</em>.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que feriez-vous pour la planète si vous en aviez les moyens ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« Je pourrais enfin acheter des produits locaux, au lieu du moins cher à l’épicerie. »</p><cite class="h4">Sarah L.</cite></blockquote>
-<blockquote class="carte"><p>« J’ai toujours voulu m’impliquer dans un projet d’agriculture urbaine, mais je n’ai jamais eu le temps. »</p><cite class="h4">Mathieu R.</cite></blockquote>
-<blockquote class="carte"><p>« L’écologie devrait être une option par défaut, pas un privilège. »</p><cite class="h4">Nadia K.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« Je pourrais enfin acheter des produits locaux, au lieu du moins cher à l’épicerie. »</p><cite class="h4">Sarah L.</cite></blockquote>
+<blockquote class="tile"><p>« J’ai toujours voulu m’impliquer dans un projet d’agriculture urbaine, mais je n’ai jamais eu le temps. »</p><cite class="h4">Mathieu R.</cite></blockquote>
+<blockquote class="tile"><p>« L’écologie devrait être une option par défaut, pas un privilège. »</p><cite class="h4">Nadia K.</cite></blockquote>
 </div>
 
 <hr />

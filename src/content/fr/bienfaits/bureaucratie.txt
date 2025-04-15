@@ -11,8 +11,8 @@
 <small>complexité administrative</small>
 <h2 class="h3"><i>📑</i> Sortir du labyrinthe</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Des dizaines de programmes différents, chacun avec ses critères, ses formulaires, ses guichets, ses délais. Cette complexité administrative décourage même les plus déterminés, et pèse lourd sur les institutions publiques.</p>
 <p>Une allocation de subsistance supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Elle réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
 
@@ -20,7 +20,7 @@
 <p>Quand le système est trop compliqué, ce sont souvent les plus vulnérables qui renoncent ou échouent à obtenir ce qu’ils méritent. Simplifier, c’est aussi réparer une injustice structurelle.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le politiste <strong>Gøsta Esping-Andersen</strong> a montré que les systèmes de protection les plus efficaces sont ceux où les droits sociaux sont automatiques et universels[^esping1990].</p>
 <p>Une bureaucratie légère (ou absente !) renforce l’inclusion et la dignité.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Réduction du non-recours à l’aide</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Réduction du non-recours à l’aide</strong>
 <p>L’universalité élimine les erreurs d’inadmissibilité et le découragement face aux démarches[^basicincomeearth2013]. Un droit accessible est un droit exercé.</p></li>
 
-<li class="carte"><strong class="h5">Moins de dossiers incomplets ou rejetés</strong>
+<li class="tile"><strong class="h5">Moins de dossiers incomplets ou rejetés</strong>
 <p>Les systèmes conditionnels souffrent de taux élevés de refus administratifs — problème inexistant avec une prestation automatique[^ccds2007]. La simplicité administrative devient un filet de sécurité.</p></li>
 
-<li class="carte"><strong class="h5">Diminution des files d’attente</strong>
+<li class="tile"><strong class="h5">Diminution des files d’attente</strong>
 <p>Les services sociaux peuvent se concentrer sur l’accompagnement plutôt que sur la paperasse[^macdonald2016]. Le temps libéré devient du temps utile.</p></li>
 
-<li class="carte"><strong class="h5">Baisse du nombre de révisions et litiges</strong>
+<li class="tile"><strong class="h5">Baisse du nombre de révisions et litiges</strong>
 <p>Moins de décisions contestées, moins de recours devant les tribunaux administratifs[^forget2017]. Un système clair diminue les tensions.</p></li>
 
-<li class="carte"><strong class="h5">Réduction du stress administratif pour les citoyens</strong>
+<li class="tile"><strong class="h5">Réduction du stress administratif pour les citoyens</strong>
 <p>Les bénéficiaires rapportent un soulagement significatif lié à la fin des justifications récurrentes[^forget2017]. Moins d’humiliation, plus de confiance.</p></li>
 
-<li class="carte"><strong class="h5">Simplification du travail des fonctionnaires</strong>
+<li class="tile"><strong class="h5">Simplification du travail des fonctionnaires</strong>
 <p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain[^basicincomeearth2013]. La bureaucratie administrative devient un outil, pas un obstacle.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>coût de la complexité</small>
 <h2 class="h3"><i>🧮</i> Plus de clarté, moins de gaspillage</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Chaque vérification, chaque formulaire, chaque comité d’évaluation a un coût. Des milliards de dollars sont dépensés chaque année pour faire fonctionner des systèmes complexes… plutôt que pour soutenir directement les personnes.</p>
 <p>Une allocation de subsistance libère des ressources. Moins de couches administratives, moins de frais de contrôle, moins de redondance. C’est une politique plus simple, plus propre, plus efficace.</p>
 
@@ -63,7 +63,7 @@
 <p>Un bon système social n’a pas à être compliqué. Il doit être juste, lisible et humain.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le prix Nobel d’économie <strong>Herbert Simon</strong> a démontré que trop de complexité nuit à la prise de décision efficace dans les grandes organisations[^simon1976].</p>
 <p>La simplification structurelle est un levier de performance publique.</p>
@@ -71,48 +71,48 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Réduction des coûts de gestion</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Réduction des coûts de gestion</strong>
 <p>Les modèles de revenu de base montrent une baisse importante des dépenses administratives[^macdonald2016]. L’argent va directement aux gens, pas aux structures.</p></li>
 
-<li class="carte"><strong class="h5">Moins de doublons entre programmes</strong>
+<li class="tile"><strong class="h5">Moins de doublons entre programmes</strong>
 <p>L’universalité permet de regrouper plusieurs prestations redondantes[^macdonald2016]. Cela évite les inefficacités systémiques.</p></li>
 
-<li class="carte"><strong class="h5">Transparence accrue pour les citoyens</strong>
+<li class="tile"><strong class="h5">Transparence accrue pour les citoyens</strong>
 <p>Les gens comprennent enfin d’où vient l’argent et pourquoi ils y ont droit[^basicincomeearth2013]. La lisibilité renforce la confiance démocratique.</p></li>
 
-<li class="carte"><strong class="h5">Réduction des erreurs administratives</strong>
+<li class="tile"><strong class="h5">Réduction des erreurs administratives</strong>
 <p>Moins de critères = moins de risques d’erreur ou d’omission[^forget2011]. La clarté protège tout le monde, des citoyens aux institutions.</p></li>
 
-<li class="carte"><strong class="h5">Moins de personnel affecté au contrôle</strong>
+<li class="tile"><strong class="h5">Moins de personnel affecté au contrôle</strong>
 <p>Des ressources peuvent être redirigées vers des missions d’accompagnement ou de prévention[^basicincomeearth2013]. La bureaucratie devient facilitatrice plutôt que gardienne.</p></li>
 
-<li class="carte"><strong class="h5">Modernisation de l’administration publique</strong>
+<li class="tile"><strong class="h5">Modernisation de l’administration publique</strong>
 <p>Un système universel est plus facile à intégrer aux outils numériques de l’État[^ccds2007]. L’innovation publique passe par la simplification.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand la bureaucratie soutient</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">L’aide est automatique, pas conditionnelle.</li>
-<li class="carte">Les gens comprennent enfin les services auxquels ils ont droit.</li>
-<li class="carte">Les fonctionnaires ont le temps d’écouter, pas juste de vérifier.</li>
-<li class="carte">Les erreurs administratives ne brisent plus des vies.</li>
-<li class="carte">La simplicité devient une valeur démocratique.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si l’aide sociale était enfin simple à comprendre ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">L’aide est automatique, pas conditionnelle.</li>
+<li class="tile">Les gens comprennent enfin les services auxquels ils ont droit.</li>
+<li class="tile">Les fonctionnaires ont le temps d’écouter, pas juste de vérifier.</li>
+<li class="tile">Les erreurs administratives ne brisent plus des vies.</li>
+<li class="tile">La simplicité devient une valeur démocratique.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que feriez-vous si l’aide sociale était enfin simple à comprendre ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« J’ai abandonné ma demande. Je n’étais pas capable de suivre le processus. »</p><cite class="h4">Élise B.</cite></blockquote>
-<blockquote class="carte"><p>« Trop d’étapes, trop de preuves, trop d’humiliations. »</p><cite class="h4">Karim M.</cite></blockquote>
-<blockquote class="carte"><p>« J’ai reçu l’aide… après la crise. Trop tard. »</p><cite class="h4">Jean-François L.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« J’ai abandonné ma demande. Je n’étais pas capable de suivre le processus. »</p><cite class="h4">Élise B.</cite></blockquote>
+<blockquote class="tile"><p>« Trop d’étapes, trop de preuves, trop d’humiliations. »</p><cite class="h4">Karim M.</cite></blockquote>
+<blockquote class="tile"><p>« J’ai reçu l’aide… après la crise. Trop tard. »</p><cite class="h4">Jean-François L.</cite></blockquote>
 </div>
 
 <hr/>

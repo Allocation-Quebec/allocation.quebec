@@ -11,8 +11,8 @@
 <small>créativité et prise de risque</small>
 <h2 class="h3"><i>🧠</i> Lancer sans tomber</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Le risque est au cœur de toute innovation. Mais quand l’échec signifie l’exclusion ou la pauvreté, seule une minorité peut se permettre d’innover. Une allocation de subsistance réduit le coût personnel de l’expérimentation.</p>
 <p>Elle rend possible des projets atypiques, collectifs, sociaux, artisanaux ou culturels — qui souvent échappent aux logiques de financement classiques. L’innovation devient un droit partagé, pas un privilège rare.</p>
 
@@ -20,7 +20,7 @@
 <p>Les idées neuves viennent de partout. Pour qu'une société puisse en profiter au maximum, il faut donc que chacun ait les moyens de les faire émerger, et pas seulement ceux qui ont déjà un coussin financier.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le sociologue <strong>Clayton Christensen</strong> a théorisé l’innovation disruptive comme un processus souvent porté par des « outsiders »[^christensen1997].</p>
 <p>Une allocation de subsistance soutient ces parcours marginaux où se forment souvent les idées de rupture.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Hausse de la créativité autodirigée</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Hausse de la créativité autodirigée</strong>
 <p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux[^kela2020]. Le filet de base devient un levier de création.</p></li>
 
-<li class="carte"><strong class="h5">Émergence d’initiatives collectives</strong>
+<li class="tile"><strong class="h5">Émergence d’initiatives collectives</strong>
 <p>Des coopératives, incubateurs citoyens et « fab labs » sont apparus dans les zones pilotes[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
 
-<li class="carte"><strong class="h5">Diversité accrue des projets lancés</strong>
+<li class="tile"><strong class="h5">Diversité accrue des projets lancés</strong>
 <p>On observe une augmentation des projets atypiques, non-techniques, souvent portés par des personnes éloignées du marché classique[^haarmann2009]. L’innovation sort des sentiers battus.</p></li>
 
-<li class="carte"><strong class="h5">Plus grande tolérance à l’échec</strong>
+<li class="tile"><strong class="h5">Plus grande tolérance à l’échec</strong>
 <p>Les gens se permettent d’expérimenter sans craindre les conséquences irréversibles[^kela2020]. Le droit à l’essai est une base de l’innovation réelle.</p></li>
 
-<li class="carte"><strong class="h5">Réduction des freins psychologiques à la création</strong>
+<li class="tile"><strong class="h5">Réduction des freins psychologiques à la création</strong>
 <p>Les participants témoignent d’un apaisement mental qui favorise la pensée divergente[^knight2019]. L’innovation commence là où l’anxiété recule.</p></li>
 
-<li class="carte"><strong class="h5">Réinvestissement des savoirs oubliés</strong>
+<li class="tile"><strong class="h5">Réinvestissement des savoirs oubliés</strong>
 <p>Des savoir-faire artisanaux ou traditionnels ont été remis en circulation par des personnes libérées de la précarité[^basicincomeearth2013]. L’innovation peut aussi puiser dans les racines.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>économie de la transition</small>
 <h2 class="h3"><i>🛠️</i> Innover pour transformer</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>La société fait face à des défis systémiques : climatiques, sociaux, technologiques. Pour y répondre, il faut des innovations systémiques : coopératives, circuits courts, solutions ouvertes, culture numérique inclusive.</p>
 <p>Une allocation de subsistance permet à des milliers de personnes de participer activement à cette transformation, pas seulement comme main-d’œuvre, mais comme actrices de changement.</p>
 
@@ -63,7 +63,7 @@
 <p>Nous avons besoin d’innovation pour affronter les crises du siècle. Mais pas seulement celle des entreprises. Celle des citoyens aussi.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>La chercheuse <strong>Mariana Mazzucato</strong> plaide pour un État qui soutient l’innovation à impact social et écologique[^mazzucato2018].</p>
 <p>L'allocation de subsistance est un outil simple mais puissant pour mobiliser largement cette capacité d’innovation.</p>
@@ -71,48 +71,48 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Création de projets liés à la transition écologique</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Création de projets liés à la transition écologique</strong>
 <p>Des initiatives en agriculture urbaine, réparation, recyclage ont fleuri dans les communautés soutenues[^basicincomeearth2013]. Le revenu de base libère l’innovation verte.</p></li>
 
-<li class="carte"><strong class="h5">Développement d’outils libres et partagés</strong>
+<li class="tile"><strong class="h5">Développement d’outils libres et partagés</strong>
 <p>Des bénéficiaires ont contribué à des logiciels ou plateformes en open source, sans attente immédiate de revenu[^kela2020]. L’innovation sociale devient possible sans pression marchande.</p></li>
 
-<li class="carte"><strong class="h5">Apparition de nouveaux modèles d’affaires sociaux</strong>
+<li class="tile"><strong class="h5">Apparition de nouveaux modèles d’affaires sociaux</strong>
 <p>Des structures hybrides, à mi-chemin entre entreprise et projet citoyen, ont émergé[^haarmann2009]. Le filet de base soutient l’expérimentation organisationnelle.</p></li>
 
-<li class="carte"><strong class="h5">Hausse des projets à visée communautaire</strong>
+<li class="tile"><strong class="h5">Hausse des projets à visée communautaire</strong>
 <p>Des projets orientés vers le bien commun ont été portés par des personnes sans profil entrepreneurial classique[^basicincomeearth2013]. L’innovation devient collective.</p></li>
 
-<li class="carte"><strong class="h5">Moins d’obstacles à la reconversion professionnelle</strong>
+<li class="tile"><strong class="h5">Moins d’obstacles à la reconversion professionnelle</strong>
 <p>Les gens osent changer de métier ou de secteur pour contribuer différemment[^forget2017]. L’innovation passe aussi par soi-même.</p></li>
 
-<li class="carte"><strong class="h5">Élargissement de la base d’innovation</strong>
+<li class="tile"><strong class="h5">Élargissement de la base d’innovation</strong>
 <p>La participation à l’innovation s’étend au-delà des élites éduquées[^mazzucato2018]. On libère une intelligence collective trop longtemps contrainte.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand l’innovation devient accessible</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">Tout le monde peut tester une idée sans avoir peur de l'indigence.</li>
-<li class="carte">Des solutions locales émergent partout, tout le temps.</li>
-<li class="carte">On innove aussi en agriculture, en culture, en réparation.</li>
-<li class="carte">L’État soutient l’audace citoyenne autant que l’industrie.</li>
-<li class="carte">L’innovation devient un bien commun, pas un outil de compétition.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Qu’aimeriez-vous inventer si vous aviez l’espace pour le faire ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">Tout le monde peut tester une idée sans avoir peur de l'indigence.</li>
+<li class="tile">Des solutions locales émergent partout, tout le temps.</li>
+<li class="tile">On innove aussi en agriculture, en culture, en réparation.</li>
+<li class="tile">L’État soutient l’audace citoyenne autant que l’industrie.</li>
+<li class="tile">L’innovation devient un bien commun, pas un outil de compétition.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Qu’aimeriez-vous inventer si vous aviez l’espace pour le faire ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« J’ai enfin pu me lancer dans un projet artistique qui dormait depuis 10 ans. »</p><cite class="h4">Isabelle M.</cite></blockquote>
-<blockquote class="carte"><p>« On a lancé un repair café dans notre village. On n’aurait jamais eu le temps sans ça. »</p><cite class="h4">Luc R.</cite></blockquote>
-<blockquote class="carte"><p>« Je peux penser plus loin que le mois prochain. Là, les idées viennent. »</p><cite class="h4">Lamia H.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« J’ai enfin pu me lancer dans un projet artistique qui dormait depuis 10 ans. »</p><cite class="h4">Isabelle M.</cite></blockquote>
+<blockquote class="tile"><p>« On a lancé un repair café dans notre village. On n’aurait jamais eu le temps sans ça. »</p><cite class="h4">Luc R.</cite></blockquote>
+<blockquote class="tile"><p>« Je peux penser plus loin que le mois prochain. Là, les idées viennent. »</p><cite class="h4">Lamia H.</cite></blockquote>
 </div>
 
 <hr/>

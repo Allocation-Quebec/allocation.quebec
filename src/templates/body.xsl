@@ -14,11 +14,11 @@
 			<xsl:choose>
 				<xsl:when test="@class">
 					<xsl:attribute name="class">
-						<xsl:value-of select="concat(@class, ' full secondary')"/>
+						<xsl:value-of select="concat(@class, ' as-fullbleed secondary')"/>
 					</xsl:attribute>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:attribute name="class">full secondary</xsl:attribute>
+					<xsl:attribute name="class">as-fullbleed secondary</xsl:attribute>
 				</xsl:otherwise>
 			</xsl:choose>
 			<xsl:apply-templates select="@*[name() != 'class']"/>
@@ -36,7 +36,7 @@
 		</xsl:copy>
 	</xsl:template>
 
-	<xsl:template match="*[@class='encart'][generate-id() = generate-id(//*[@class='encart'][1])]">
+	<xsl:template match="*[@class='insert'][generate-id() = generate-id(//*[@class='insert'][1])]">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<link rel="stylesheet" href="/assets/css/6.components/insert.css"/>
@@ -44,7 +44,7 @@
 		</xsl:copy>
 	</xsl:template>
 
-	<xsl:template match="*[@class='carte'][generate-id() = generate-id(//*[@class='carte'][1])]">
+	<xsl:template match="*[@class='tile'][generate-id() = generate-id(//*[@class='tile'][1])]">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
 			<link rel="stylesheet" href="/assets/css/6.components/tile.css"/>
@@ -94,7 +94,7 @@
 			</header>
 			<link rel="stylesheet" href="/assets/css/4.regions/nav.css"/>
 			<nav id="nav">
-				<h2 class="is-invisible">Navigation principale</h2>
+				<h2 class="as-invisible">Navigation principale</h2>
 				<div>
 					<div class="__dropdown">
 						<h3 class="h5">Pourquoi ?</h3>
@@ -159,13 +159,13 @@
 			<footer id="footer">
 				<link rel="stylesheet" href="/assets/css/4.regions/footer.css"/>
 				<article>
-					<h2 class="is-invisible">Mission</h2>
+					<h2 class="as-invisible">Mission</h2>
 					<strong class="signature as-big">Allocation <em>Québec</em></strong>
 					<p>invite les québécois.es à réfléchir collectivement à la création d’une allocation de subsistance, un projet de société porteur pour le XXI<sup>e</sup> siècle et dont les retombées positives bénéficieraient à tous et toutes.</p>
 				</article>
 				<section id="sitemap">
 					<link rel="stylesheet" href="/assets/css/4.regions/sitemap.css"/>
-					<h2 class="is-invisible">Plan du site</h2>
+					<h2 class="as-invisible">Plan du site</h2>
 					<div>
 						<section>
 							<h3 class="h4">Pourquoi ?</h3>

@@ -11,8 +11,8 @@
 <small>communautés</small>
 <h2 class="h3"><i>🤝</i> Tisser des liens durables</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Dans un contexte d’isolement croissant, les liens sociaux se fragilisent. Les personnes seules, les nouveaux arrivants, les aînés ou les jeunes marginalisés peuvent se retrouver sans réseau, sans appui, sans relais.</p>
 <p>Une allocation de subsistance renforce la capacité des gens à s’impliquer dans leur quartier, à créer des espaces d’entraide, à offrir leur temps et leur écoute. Elle soutient les solidarités naturelles plutôt que de les épuiser.</p>
 
@@ -20,7 +20,7 @@
 <p>Les communautés fortes sont plus résilientes face aux crises. Mais elles ne naissent pas spontanément : elles demandent du temps, de la présence et de la disponibilité. Si la subsistance est un combat quotidien aucun de ces moyens de créer nous est accessible.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le sociologue <strong>Robert Putnam</strong> a démontré que le capital social — la confiance et l'entraide entre citoyens — diminue avec l’insécurité économique[^putnam2000].</p>
 <p>En garantissant à chacun un minimum pour subsister, l'allocation de subsistance assure la base matérielle de la solidarité réelle et vécue.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Hausse de l’engagement bénévole</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Hausse de l’engagement bénévole</strong>
 <p>Dans plusieurs projets pilotes, les participants ont augmenté leur implication dans des groupes communautaires et projets d’entraide[^basicincomeearth2013]. Moins de précarité = plus de disponibilité pour les autres.</p></li>
 
-<li class="carte"><strong class="h5">Création d’initiatives locales autogérées</strong>
+<li class="tile"><strong class="h5">Création d’initiatives locales autogérées</strong>
 <p>Les bénéficiaires ont lancé des coopératives, des cuisines collectives, des groupes d’achat [^haarmann2009]. Allouer la subsistance est un catalyseur de solidarité concrète.</p></li>
 
-<li class="carte"><strong class="h5">Renforcement des liens intergénérationnels</strong>
+<li class="tile"><strong class="h5">Renforcement des liens intergénérationnels</strong>
 <p>Le soutien économique réduit les tensions entre générations au sein des familles et favorise la cohabitation[^forget2017]. Une meilleure sécurité financière permet de redonner plutôt que de dépendre.</p></li>
 
-<li class="carte"><strong class="h5">Moins de méfiance entre citoyens</strong>
+<li class="tile"><strong class="h5">Moins de méfiance entre citoyens</strong>
 <p>Les études montrent une corrélation entre la sécurité économique et le niveau de confiance dans autrui[^wilkinson2009]. La solidarité augmente à mesure que la peur diminue.</p></li>
 
-<li class="carte"><strong class="h5">Réseautage accru dans les milieux ruraux</strong>
+<li class="tile"><strong class="h5">Réseautage accru dans les milieux ruraux</strong>
 <p>Des expériences ont montré un tissage de relations plus dense dans les régions éloignées quand un revenu stable est garanti[^basicincomeearth2013]. Le filet social ne tient pas sans les gens qui l’entrelacent.</p></li>
 
-<li class="carte"><strong class="h5">Plus d’initiatives citoyennes</strong>
+<li class="tile"><strong class="h5">Plus d’initiatives citoyennes</strong>
 <p>Les gens qui ne luttent pas pour survivre créent, organisent, fédèrent[^knight2019]. L'allocation de subsistance devient levier de démocratie participative.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>entraide et soin</small>
 <h2 class="h3"><i>🧓🏼</i> S’occuper les uns des autres</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Le soin — aux enfants, aux proches malades, aux aînés — repose souvent sur des personnes peu ou pas rémunérées, souvent des femmes. Ce travail relationnel et essentiel est pourtant au cœur du bien-être collectif.</p>
 <p>Une allocation de subsistance permet de reconnaître et de soutenir cette contribution vitale. Elle permet de rester auprès d’un parent malade, d’un enfant vulnérable, sans être puni économiquement pour cela.</p>
 
@@ -63,7 +63,7 @@
 <p>La solidarité ne se délègue pas seulement à l’État. Elle se vit au quotidien, dans les gestes de soutien mutuel. Encore faut-il pouvoir s’y consacrer sans s’épuiser soi-même en multipliant les efforts pour survivre.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>La philosophe <strong>Eva Feder Kittay</strong> parle de « dépendance relationnelle » pour décrire notre condition humaine[^kittay1999].</p>
 <p>Une allocation de subsistance soutient les activités de soin et d’entraide, essentielles mais invisibles dans les marchés économiques.</p>
@@ -71,48 +71,48 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Plus de présence auprès des proches</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Plus de présence auprès des proches</strong>
 <p>Les bénéficiaires peuvent passer plus de temps avec leurs enfants, leurs parents âgés ou leurs conjoints en difficulté[^forget2017]. La solidarité familiale ne se décrète pas : elle se permet.</p></li>
 
-<li class="carte"><strong class="h5">Soutien au travail invisible</strong>
+<li class="tile"><strong class="h5">Soutien au travail invisible</strong>
 <p>Le revenu de base valorise les formes d’engagement non salariées, souvent associées au soin [^kittay1999]. Cela corrige une injustice structurelle dans la reconnaissance sociale.</p></li>
 
-<li class="carte"><strong class="h5">Réduction de la fatigue compassionnelle</strong>
+<li class="tile"><strong class="h5">Réduction de la fatigue compassionnelle</strong>
 <p>Les proches aidants rapportent moins d’épuisement émotionnel lorsqu’ils ont un revenu stable [^knight2019]. Moins de précarité = plus de capacité à donner.</p></li>
 
-<li class="carte"><strong class="h5">Moins d’absences de travail pour raisons familiales</strong>
+<li class="tile"><strong class="h5">Moins d’absences de travail pour raisons familiales</strong>
 <p>Les personnes peuvent mieux organiser leur temps sans devoir choisir entre emploi et soins [^forget2017]. La flexibilité nécessite la sécurité.</p></li>
 
-<li class="carte"><strong class="h5">Baisse de l’isolement des aînés</strong>
+<li class="tile"><strong class="h5">Baisse de l’isolement des aînés</strong>
 <p>Plus de visites, plus de soutien à domicile, plus de temps pour accompagner les aînés[^basicincomeearth2013]. Le vieillissement se vit mieux quand on n’est pas seul.</p></li>
 
-<li class="carte"><strong class="h5">Soutien aux familles en contexte de handicap</strong>
+<li class="tile"><strong class="h5">Soutien aux familles en contexte de handicap</strong>
 <p>Des familles avec enfants ou adultes vivant avec un handicap ont rapporté une amélioration de leur capacité d’accompagnement[^haarmann2009]. La solidarité se pratique mieux sans sacrifices indus.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand la solidarité devient concrète</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">Personne ne doit s’excuser d’aider un proche plutôt que de produire.</li>
-<li class="carte">Les quartiers vibrent d’initiatives citoyennes.</li>
-<li class="carte">L’entraide se pratique sans sacrifier sa qualité de vie.</li>
-<li class="carte">Les personnes vulnérables sont entourées plutôt qu'isolées.</li>
-<li class="carte">La solidarité est encouragée et facilitée par notre puissance collective.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que pourriez-vous donner aux autres si votre subsistance était assurée ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">Personne ne doit s’excuser d’aider un proche plutôt que de produire.</li>
+<li class="tile">Les quartiers vibrent d’initiatives citoyennes.</li>
+<li class="tile">L’entraide se pratique sans sacrifier sa qualité de vie.</li>
+<li class="tile">Les personnes vulnérables sont entourées plutôt qu'isolées.</li>
+<li class="tile">La solidarité est encouragée et facilitée par notre puissance collective.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que pourriez-vous donner aux autres si votre subsistance était assurée ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« J’ai pu m’occuper de mon frère sans m’endetter. »</p><cite class="h4">Nathalie G.</cite></blockquote>
-<blockquote class="carte"><p>« J’ai enfin eu le temps de créer un groupe d’entraide dans mon immeuble. »</p><cite class="h4">Abdoulaye S.</cite></blockquote>
-<blockquote class="carte"><p>« La solidarité, ce n’est pas naturel quand on court après sa propre survie. »</p><cite class="h4">Léa P.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« J’ai pu m’occuper de mon frère sans m’endetter. »</p><cite class="h4">Nathalie G.</cite></blockquote>
+<blockquote class="tile"><p>« J’ai enfin eu le temps de créer un groupe d’entraide dans mon immeuble. »</p><cite class="h4">Abdoulaye S.</cite></blockquote>
+<blockquote class="tile"><p>« La solidarité, ce n’est pas naturel quand on court après sa propre survie. »</p><cite class="h4">Léa P.</cite></blockquote>
 </div>
 
 <hr/>

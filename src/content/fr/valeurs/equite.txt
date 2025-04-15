@@ -11,8 +11,8 @@
 <small>revenus et inégalités</small>
 <h2 class="h3"><i>📉</i> Réduire l’écart, pas l’effort</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Les écarts de revenus extrêmes nuisent à tous, y compris aux plus riches. Ils affectent la santé, la réussite scolaire, la confiance sociale et la mobilité économique. Or, les transferts ciblés ou temporaires ne parviennent souvent pas à corriger durablement ces déséquilibres.</p>
 <p>Une allocation de subsistance garantit que personne ne tombe sous le seuil de la pauvreté, tout en maintenant la liberté d’entreprendre, d’innover ou de travailler davantage. <strong>Elle agit comme une égalisation du point de départ, pas de l’arrivée.</strong></p>
 
@@ -20,7 +20,7 @@
 <p>Il ne s’agit pas de tout niveler, mais de donner à chacun les moyens de contribuer. Moins d’inégalités, c’est aussi moins de divisions sociales et plus de confiance collective. Il est possible de produire une société équitable sans ralentir ni le progrès, ni le succès.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Selon Wilkinson & Pickett, les sociétés plus égalitaires présentent moins de problèmes sociaux : moins de violence, d’obésité, de décrochage scolaire, de maladies mentales[^wilkinson2009].</p>
 <p>Une allocation de subsistance réduit les inégalités à leur racine et ce, sans stigmatisation ni bureaucratie.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Réduction des écarts de revenu</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Réduction des écarts de revenu</strong>
 <p>Des simulations au Canada montrent que l’instauration d’un revenu de base réduit significativement l’indice de Gini[^macdonald2016]. Cela signifie une société structurellement et naturellement plus égalitaire.</p></li>
 
-<li class="carte"><strong class="h5">Moins de pauvreté infantile</strong>
+<li class="tile"><strong class="h5">Moins de pauvreté infantile</strong>
 <p>Une allocation de subsistance abaisserait de moitié le taux de pauvreté chez les enfants au Canada[^forget2017]. Les premières années de vie sont décisives : égaliser les conditions dès l’enfance, c’est créer un avenir plus juste.</p></li>
 
-<li class="carte"><strong class="h5">Amélioration de la santé publique</strong>
+<li class="tile"><strong class="h5">Amélioration de la santé publique</strong>
 <p>Les écarts de santé diminuent dans les sociétés plus égalitaires[^wilkinson2009]. Moins de stress économique = moins de maladies chroniques.</p></li>
 
-<li class="carte"><strong class="h5">Meilleure réussite scolaire</strong>
+<li class="tile"><strong class="h5">Meilleure réussite scolaire</strong>
 <p>Une sécurité de revenu familiale réduit l’absentéisme, améliore les résultats et soutient les choix postsecondaires[^forget2017]. Chaque jeune mérite minimalement les mêmes chances.</p></li>
 
-<li class="carte"><strong class="h5">Baisse de la criminalité</strong>
+<li class="tile"><strong class="h5">Baisse de la criminalité</strong>
 <p>Plusieurs études relient inégalités fortes et taux de criminalité élevés[^wilkinson2009]. Une allocation de subsistance agit ainsi comme un mécanisme de prévention sociale automatique.</p></li>
 
-<li class="carte"><strong class="h5">Renforcement du sentiment d’équité</strong>
+<li class="tile"><strong class="h5">Renforcement du sentiment d’équité</strong>
 <p>Les bénéficiaires se disent traités « à égalité » lorsqu’aucune condition ne leur est imposée[^basicincomeearth2013]. Ce ressenti améliore la confiance en l’État et entre citoyen•nes.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>groupes marginalisés</small>
 <h2 class="h3"><i>🧕🏽</i> Rejoindre celles et ceux qu’on oublie</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Certains groupes sont systématiquement désavantagés : personnes racisées, autochtones, ex-détenus, migrants précaires, personnes sans domicile. Ils peinent à accéder à l’aide existante ou sont découragés par la complexité administrative.</p>
 <p>Une allocation de subsistance contourne ces barrières. Elle atteint tout le monde sans exception ni condition, rétablissant une forme d’égalité de traitement et de dignité, peu importe l’histoire ou le statut.</p>
 
@@ -63,7 +63,7 @@
 <p>Une politique qui profite à tous et toutes doit d’abord profiter à ceux et celles qui ont le plus été laissés pour compte. L’universalité devient un outil de justice réparatrice.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>L’économiste <strong>Amartya Sen</strong> distingue « l’égalité formelle » (traiter tout le monde pareil) et « l’équité réelle » (compenser les désavantages)[^sen1999].</p>
 <p>L'allocation de subsistance agit sur cette seconde dimension en fournissant une base commune concrète à tous et toutes, peu importe leur point de départ.</p>
@@ -71,48 +71,48 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Hausse de l’accès aux soins</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Hausse de l’accès aux soins</strong>
 <p>Les bénéficiaires marginalisés rapportent plus de consultations préventives lorsque leur revenu est garanti[^basicincomeearth2013]. La peur du coût ne freine plus l’accès à la santé.</p></li>
 
-<li class="carte"><strong class="h5">Amélioration de l’habitation</strong>
+<li class="tile"><strong class="h5">Amélioration de l’habitation</strong>
 <p>Plusieurs personnes vivant en logement instable ont pu stabiliser leur situation grâce à un revenu régulier[^haarmann2009]. L’accès à un toit est une condition de base de l’équité réelle.</p></li>
 
-<li class="carte"><strong class="h5">Réduction des discriminations systémiques</strong>
+<li class="tile"><strong class="h5">Réduction des discriminations systémiques</strong>
 <p>Lorsque le revenu ne dépend plus d’un employeur ou d’un statut légal, les biais structurels pèsent moins[^sen1999]. Cela offre un espace d’émancipation face aux inégalités d’accès aux droits.</p></li>
 
-<li class="carte"><strong class="h5">Recul de l’itinérance</strong>
+<li class="tile"><strong class="h5">Recul de l’itinérance</strong>
 <p>Des projets de transferts directs ont permis à des personnes à la rue de se reloger rapidement[^forget2017]. La stabilité commence souvent avec une clé de porte.</p></li>
 
-<li class="carte"><strong class="h5">Moins de recours aux services d’urgence</strong>
+<li class="tile"><strong class="h5">Moins de recours aux services d’urgence</strong>
 <p>Des hôpitaux ont constaté une baisse des admissions en lien avec des situations de détresse sociale chez les bénéficiaires[^forget2011]. L’équité, c’est aussi désengorger les services publics pour permettre un accès élargi.</p></li>
 
-<li class="carte"><strong class="h5">Autonomie pour les jeunes en rupture</strong>
+<li class="tile"><strong class="h5">Autonomie pour les jeunes en rupture</strong>
 <p>Des jeunes sans soutien familial ont pu poursuivre des études ou un projet de vie sans basculer dans la survie[^forget2017]. Un soutien de base minimal ouvre la porte à un avenir digne.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand l’équité devient réelle</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">Les écarts entre les riches et les pauvres cessent de se creuser.</li>
-<li class="carte">Un enfant naît avec les mêmes chances, peu importe son code postal.</li>
-<li class="carte">Personne n’est empêché de participer à la société par manque de ressources.</li>
-<li class="carte">On n’a plus besoin de prouver sa misère pour être aidé.</li>
-<li class="carte">L’équité devient le socle commun de la liberté.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que pourriez-vous faire si vous partiez du même point que tout le monde ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">Les écarts entre les riches et les pauvres cessent de se creuser.</li>
+<li class="tile">Un enfant naît avec les mêmes chances, peu importe son code postal.</li>
+<li class="tile">Personne n’est empêché de participer à la société par manque de ressources.</li>
+<li class="tile">On n’a plus besoin de prouver sa misère pour être aidé.</li>
+<li class="tile">L’équité devient le socle commun de la liberté.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que pourriez-vous faire si vous partiez du même point que tout le monde ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« Mes enfants ont droit à un avenir, même si je suis seule. »</p><cite class="h4">Marie-Claude P.</cite></blockquote>
-<blockquote class="carte"><p>« Pour une fois, je ne suis pas obligé de choisir entre manger et payer mes livres. »</p><cite class="h4">Zakaria B.</cite></blockquote>
-<blockquote class="carte"><p>« L’équité, ce n’est pas donner pareil à tout le monde. C’est permettre à chacun d’avancer. »</p><cite class="h4">Louise D.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« Mes enfants ont droit à un avenir, même si je suis seule. »</p><cite class="h4">Marie-Claude P.</cite></blockquote>
+<blockquote class="tile"><p>« Pour une fois, je ne suis pas obligé de choisir entre manger et payer mes livres. »</p><cite class="h4">Zakaria B.</cite></blockquote>
+<blockquote class="tile"><p>« L’équité, ce n’est pas donner pareil à tout le monde. C’est permettre à chacun d’avancer. »</p><cite class="h4">Louise D.</cite></blockquote>
 </div>
 
 <hr/>

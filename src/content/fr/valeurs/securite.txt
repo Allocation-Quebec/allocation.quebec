@@ -11,8 +11,8 @@
 <small>logement et stabilité</small>
 <h2 class="h3"><i>🏠</i> Moins d’angoisse, plus de continuité</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Des milliers de personnes au Québec vivent avec la crainte constante de perdre leur logement. Une perte d’emploi, une maladie, une séparation peut tout faire basculer. Cette précarité résidentielle empêche de se projeter dans l’avenir.</p>
 <p>Une allocation de subsistance permet d’éviter les situations de rupture brutale. Elle offre une base sur laquelle bâtir des projets, maintenir un foyer, rester enraciné dans sa communauté.</p>
 
@@ -20,7 +20,7 @@
 <p>La sécurité matérielle ne devrait pas être un luxe. C’est le socle invisible de toute participation sociale et de toute santé mentale.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Selon l’Institut national de santé publique du Québec, l’insécurité résidentielle augmente les risques de dépression, d’isolement et de détresse psychosociale[^inspq2019].</p>
 <p>Une allocation de subsistance agit comme stabilisateur des conditions de vie les plus fondamentales.</p>
@@ -28,23 +28,23 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Baisse des expulsions de logement</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Baisse des expulsions de logement</strong>
 <p>Dans des projets pilotes, les bénéficiaires ont pu éviter l’expulsion grâce à un revenu stable[^haarmann2009]. Cette sécurité de base protège l’accès à un domicile fixe.</p></li>
 
-<li class="carte"><strong class="h5">Hausse de la stabilité résidentielle</strong>
+<li class="tile"><strong class="h5">Hausse de la stabilité résidentielle</strong>
 <p>Moins de déménagements liés à des difficultés financières ont été observés[^forget2011]. La stabilité du logement est une forme directe de sécurité au quotidien.</p></li>
 
-<li class="carte"><strong class="h5">Diminution des recours aux refuges</strong>
+<li class="tile"><strong class="h5">Diminution des recours aux refuges</strong>
 <p>Des transferts monétaires ont permis de réduire le nombre de personnes recourant à l’hébergement d’urgence[^forget2017]. Quand on peut payer un loyer, on évite de tomber dans la rue.</p></li>
 
-<li class="carte"><strong class="h5">Prévention des expulsions locatives</strong>
+<li class="tile"><strong class="h5">Prévention des expulsions locatives</strong>
 <p>Un filet de sécurité permet d’éviter les retards de paiement et les conflits avec les propriétaires[^basicincomeearth2013]. La prévention coûte moins cher que l’urgence.</p></li>
 
-<li class="carte"><strong class="h5">Amélioration de l’entretien des logements</strong>
+<li class="tile"><strong class="h5">Amélioration de l’entretien des logements</strong>
 <p>Les ménages à faible revenu utilisent une partie du revenu garanti pour réparer ou entretenir leur logement[^haarmann2009]. Mieux habiter, c’est aussi se sentir à sa place.</p></li>
 
-<li class="carte"><strong class="h5">Moins d’anxiété liée au logement</strong>
+<li class="tile"><strong class="h5">Moins d’anxiété liée au logement</strong>
 <p>Les bénéficiaires expriment une réduction significative du stress lié à la peur de perdre leur domicile[^forget2017]. Ce soulagement favorise la santé mentale et la stabilité familiale.</p></li>
 </ul>
 </section>
@@ -54,8 +54,8 @@
 <small>santé mentale et stress</small>
 <h2 class="h3"><i>🧠</i> Se reposer, se soigner, souffler</h2>
 </header>
-<div class="grille">
-<div class="prose">
+<div class="as-grid">
+<div class="as-prose">
 <p>Le stress économique est un facteur aggravant majeur de nombreux troubles psychiques. Il provoque de l’insomnie, de l’irritabilité, une baisse de l’estime de soi, et parfois même un isolement social.</p>
 <p>Une allocation de subsistance réduit l’incertitude permanente. Elle permet de demander de l’aide, de prendre soin de soi, ou simplement de respirer – sans avoir à choisir entre se soigner ou se loger.</p>
 
@@ -63,7 +63,7 @@
 <p>La santé mentale n’est pas un luxe. Elle est la base de toute capacité à fonctionner dans la société.</p>
 </div>
 
-<aside class="encart">
+<aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le psychiatre <strong>Richard Wilkinson</strong> a montré que l’insécurité économique chronique aggrave l’anxiété, la dépression et le repli social[^wilkinson2009].</p>
 <p>Une allocation de subsistance agit comme une protection psychologique collective.</p>
@@ -71,48 +71,48 @@
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
-<ul class="grille">
-<li class="carte"><strong class="h5">Diminution des consultations pour détresse psychologique</strong>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Diminution des consultations pour détresse psychologique</strong>
 <p>Mincome a entraîné une baisse significative des visites médicales liées au stress[^forget2011]. Moins d’angoisse = moins de symptômes.</p></li>
 
-<li class="carte"><strong class="h5">Réduction du sentiment d’insécurité</strong>
+<li class="tile"><strong class="h5">Réduction du sentiment d’insécurité</strong>
 <p>Les bénéficiaires rapportent une plus grande paix intérieure et une meilleure capacité à faire face à l’imprévu[^forget2017]. La sécurité permet de se recentrer sur l’essentiel.</p></li>
 
-<li class="carte"><strong class="h5">Moins de médication liée à l’anxiété</strong>
+<li class="tile"><strong class="h5">Moins de médication liée à l’anxiété</strong>
 <p>Certains projets ont observé une baisse de la consommation de médicaments psychotrope[^knight2019]. Cela indique un apaisement structurel du stress de survie.</p></li>
 
-<li class="carte"><strong class="h5">Stabilisation des troubles existants</strong>
+<li class="tile"><strong class="h5">Stabilisation des troubles existants</strong>
 <p>Les personnes vivant avec un trouble mental ont vu leur état se stabiliser ou s’améliorer légèrement[^haarmann2009]. Moins de stress chronique = meilleure gestion du quotidien.</p></li>
 
-<li class="carte"><strong class="h5">Réduction de l’isolement social</strong>
+<li class="tile"><strong class="h5">Réduction de l’isolement social</strong>
 <p>La sécurité économique facilite la reprise de contact avec les proches ou les services d’aide [^basicincomeearth2013]. Être en sécurité, c’est aussi pouvoir s’ouvrir aux autres.</p></li>
 
-<li class="carte"><strong class="h5">Diminution de la honte et de l’auto-dévalorisation</strong>
+<li class="tile"><strong class="h5">Diminution de la honte et de l’auto-dévalorisation</strong>
 <p>Des bénéficiaires ont témoigné d’un regain d’estime personnelle lié au fait de recevoir un revenu sans conditions[^forget2017]. La dignité est un facteur de protection mentale.</p></li>
 </ul>
 </section>
 
-<section class="full secondary" data-after="footnotes">
+<section class="as-fullbleed secondary" data-after="footnotes">
 <header>
 <small>quand la sécurité devient universelle</small>
 <h2 class="h1">Projetons-nous</h2>
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="grille">
-<li class="carte">Plus personne ne perd son logement du jour au lendemain.</li>
-<li class="carte">On peut affronter un coup dur sans tomber dans le vide.</li>
-<li class="carte">Le stress de survivre ne gouverne plus nos choix.</li>
-<li class="carte">Les enfants grandissent dans des foyers stables.</li>
-<li class="carte">La santé mentale est soutenue par un sol économique commun.</li>
-<li class="carte editable"><span><em>Et vous ?</em> Que feriez-vous si vous saviez que vous ne pouviez pas tomber ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+<ul class="as-grid">
+<li class="tile">Plus personne ne perd son logement du jour au lendemain.</li>
+<li class="tile">On peut affronter un coup dur sans tomber dans le vide.</li>
+<li class="tile">Le stress de survivre ne gouverne plus nos choix.</li>
+<li class="tile">Les enfants grandissent dans des foyers stables.</li>
+<li class="tile">La santé mentale est soutenue par un sol économique commun.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Que feriez-vous si vous saviez que vous ne pouviez pas tomber ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ul>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="grille">
-<blockquote class="carte"><p>« Ce n’est pas le manque d’argent, c’est la peur constante qui use. »</p><cite class="h4">Jean C.</cite></blockquote>
-<blockquote class="carte"><p>« Juste savoir que j’ai de quoi manger et me loger, ça change tout. »</p><cite class="h4">Amina K.</cite></blockquote>
-<blockquote class="carte"><p>« Je peux enfin penser à demain, pas juste à ce soir. »</p><cite class="h4">Marc-Antoine D.</cite></blockquote>
+<div class="as-grid">
+<blockquote class="tile"><p>« Ce n’est pas le manque d’argent, c’est la peur constante qui use. »</p><cite class="h4">Jean C.</cite></blockquote>
+<blockquote class="tile"><p>« Juste savoir que j’ai de quoi manger et me loger, ça change tout. »</p><cite class="h4">Amina K.</cite></blockquote>
+<blockquote class="tile"><p>« Je peux enfin penser à demain, pas juste à ce soir. »</p><cite class="h4">Marc-Antoine D.</cite></blockquote>
 </div>
 
 <hr/>

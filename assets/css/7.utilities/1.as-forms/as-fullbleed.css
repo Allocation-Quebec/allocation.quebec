@@ -1,5 +1,5 @@
 @layer utilities {
-	.full, .as-fullbleed {
+	.as-fullbleed {
 		grid-column: full;
 		display: grid;
 		grid-template-columns: subgrid;
@@ -35,7 +35,7 @@
 			--Color: oklch(98% 6% var(--BrownHue));
 			background-color: oklch(55% 39% var(--ThemeHue));
 
-			&.dark {
+			&._dark {
 				background-color: oklch(45% 39% var(--ThemeHue));
 			}
 		}
