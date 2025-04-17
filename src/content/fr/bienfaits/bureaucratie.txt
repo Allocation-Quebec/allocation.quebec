@@ -92,7 +92,7 @@
 </ul>
 </section>
 
-<section class="as-fullbleed secondary" data-after="footnotes">
+<section class="as-fullbleed with-scheme-secondary" data-after="footnotes">
 <header>
 <small>quand la bureaucratie soutient</small>
 <h2 class="h1">Projetons-nous</h2>

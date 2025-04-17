@@ -14,11 +14,11 @@
 			<xsl:choose>
 				<xsl:when test="@class">
 					<xsl:attribute name="class">
-						<xsl:value-of select="concat(@class, ' as-fullbleed secondary')"/>
+						<xsl:value-of select="concat(@class, ' as-fullbleed with-scheme-secondary')"/>
 					</xsl:attribute>
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:attribute name="class">as-fullbleed secondary</xsl:attribute>
+					<xsl:attribute name="class">as-fullbleed with-scheme-secondary</xsl:attribute>
 				</xsl:otherwise>
 			</xsl:choose>
 			<xsl:apply-templates select="@*[name() != 'class']"/>
@@ -33,6 +33,15 @@
 			<xsl:attribute name="class">as-footnote-ref</xsl:attribute>
 			<xsl:apply-templates select="@*[name() != 'class']"/>
 			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+
+	<xsl:template match="*[@class='tile'][text()[normalize-space() != '']]">
+		<xsl:copy>
+			<xsl:apply-templates select="@*" />
+			<span>
+				<xsl:apply-templates select="node()"/>
+			</span>
 		</xsl:copy>
 	</xsl:template>
 
@@ -163,7 +172,7 @@
 					<strong class="signature as-big">Allocation <em>Québec</em></strong>
 					<p>invite les québécois.es à réfléchir collectivement à la création d’une allocation de subsistance, un projet de société porteur pour le XXI<sup>e</sup> siècle et dont les retombées positives bénéficieraient à tous et toutes.</p>
 				</article>
-				<section id="sitemap">
+				<nav id="sitemap">
 					<link rel="stylesheet" href="/assets/css/4.regions/sitemap.css"/>
 					<h2 class="as-invisible">Plan du site</h2>
 					<div>
@@ -216,7 +225,7 @@
 							<a href="/fr/plus/faq">Foire aux questions</a>
 						</section>
 					</div>
-				</section>
+				</nav>
 				<p>2025 <span style="transform: scaleX(-1); display: inline-block;">© </span> Gauche d'auteur</p>
 			</footer>
 		</body>

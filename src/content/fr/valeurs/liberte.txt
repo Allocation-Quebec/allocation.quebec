@@ -175,7 +175,7 @@ L’innovation est favorisée par un environnement où l’incertitude économiq
 </section>
 
 
-<section class="as-fullbleed secondary" data-after="footnotes">
+<section class="as-fullbleed with-scheme-secondary" data-after="footnotes">
 <header>
 
 <small>Quand la liberté devient réelle</small>

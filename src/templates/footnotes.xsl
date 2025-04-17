@@ -28,7 +28,7 @@
 
 	<xsl:template match="section[@id='footnotes']">
 		<section>
-			<xsl:attribute name="class">as-fullbleed dark</xsl:attribute>
+			<xsl:attribute name="class">as-fullbleed with-scheme-dark</xsl:attribute>
 			<xsl:attribute name="id">footnotes</xsl:attribute>
 
 			<link rel="stylesheet" href="/assets/css/4.regions/footnotes.css"/>
