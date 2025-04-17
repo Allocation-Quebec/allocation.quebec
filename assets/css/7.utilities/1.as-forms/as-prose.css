@@ -1,13 +1,11 @@
 @layer utilities {
 	.as-prose {
-		--DivMaxWidth: initial;
 		--DivColumnWidth: 43ch;
 		--DivItemMaxWidthOnly: 45ch;
 		--DivColumnGap: var(--SpacingBroad);
 	}
 
 	.as-prose {
-		max-width: var(--DivMaxWidth);
 		column-gap: var(--DivColumnGap);
 		column-width: var(--DivColumnWidth);
 	}

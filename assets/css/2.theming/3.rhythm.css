@@ -1,7 +1,7 @@
 @layer theming {
 	/* Content rhythm ----------------------- */
 	/* stylelint-disable-next-line -- exception for is-invisible */
-	:not(:where(html, body, nav, div, label, ul, ol, li, p, a, span))>:not(:where(link, script, .is-invisible))~* {
+	:not(:where(html, body, nav, div, label, ul, ol, li, p, a, span))>:not(:where(link, script, .as-invisible))~* {
 		margin-top: var(--SpacingRow);
 	}
 
@@ -31,6 +31,10 @@
 
 	i+* {
 		margin-left: var(--SpacingThinnest);
+	}
+
+	*+hr {
+		margin-top: var(--SpacingBroad);
 	}
 
 

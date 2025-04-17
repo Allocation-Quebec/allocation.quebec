@@ -17,27 +17,22 @@
 	& main>section {
 		&>h3 {
 			display: flex;
-			align-items: center;
+			align-items: baseline;
 			gap: var(--SpacingRow);
+			margin-block: var(--SpacingBroad);
 
 			&::after {
 				content: "";
 				border-top: 2px solid oklch(92% 6% var(--BrownHue));
 				flex-grow: 1;
 			}
-
-			&+*, *+& {
-				margin-top: var(--SpacingBroad);
-			}
 		}
 
-		&:where(:not([class]))>h3 {
-			&::before {
-				content: "";
-				border-top: 2px solid oklch(92% 6% var(--BrownHue));
-				width: 35px;
-				margin-left: -60px;
-			}
+		&:where(:not([class]))>h3::before {
+			content: "";
+			border-top: 2px solid oklch(92% 6% var(--BrownHue));
+			width: 35px;
+			margin-left: -60px;
 		}
 	}
 }
@@ -52,7 +47,7 @@
 		&>main>header {
 			& h1::before {
 				content: "";
-				top: clamp(var(--Row), round(4vmax, var(--Row)), var(--Row) * 4);
+				top: var(--SpacingLarge);
 				margin-top: 4rem;
 				margin-left: -60px;
 				bottom: 0;
@@ -69,31 +64,24 @@
 		& :is(h1, h2, h3) {
 			&>i {
 				margin-left: calc(-60px - 2ch + 1px);
-				position: absolute;
-				padding: 0.75ch;
-				height: 2ch;
+				position: relative;
+				padding-inline: 0.75ch;
+				margin-right: 22px;
 				width: 2ch;
 				aspect-ratio: 1;
 				border-radius: 50%;
 				border: 2px solid transparent;
 				background-color: oklch(98% 6% var(--BrownHue));
-				margin-top: 0.25ch;
 			}
 
 			&:is(h1)>i {
-				margin-left: calc(-60px - 1.75ch - 2px);
-				aspect-ratio: 1;
-				border-radius: 50%;
-				border: 2px solid oklch(88% 6% var(--BrownHue));
-				background-color:  oklch(55% 39% var(--ThemeHue));
-				margin-top: 0.75ch;
+				height: 2ch;
+				padding: 0.75ch;
+				border-color: oklch(88% 6% var(--BrownHue));
+				background-color: oklch(55% 39% var(--ThemeHue));
 			}
 
-			&:is(h2)>i {
-				margin-top: 0;
-				top: 50%;
-				translate: 0% -50%;
-			}
 		}
+
 	}
 }

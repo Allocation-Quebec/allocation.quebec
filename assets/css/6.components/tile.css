@@ -10,7 +10,6 @@
 			margin-top: var(--SpacingThinnest);
 		}
 
-
 		& em {
 			color: oklch(96% 46% var(--LimeHue));
 		}
@@ -18,6 +17,7 @@
 		&::before {
 			color: oklch(85% 39% var(--ThemeHue));
 		}
+
 		& cite {
 			font-style: normal;
 			display: block;

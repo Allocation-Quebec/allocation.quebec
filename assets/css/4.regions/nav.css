@@ -2,7 +2,7 @@
 	[id=nav] {
 
 		--Color: oklch(90% 17% var(--CyanHue));
-		view-transition-name: navigation; /* stylelint-disable-line */
+		view-transition-name: navigation;
 		position: relative;
 		z-index: 1;
 		font-family: var(--Grotesk);

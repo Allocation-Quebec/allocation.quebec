@@ -2,6 +2,13 @@
   navigation: auto;
 }
 
+body {
+	transition: opacity 400ms;
+	@starting-style {
+		opacity: 0;
+	}
+}
+
 main>header {
 
 	&>div {

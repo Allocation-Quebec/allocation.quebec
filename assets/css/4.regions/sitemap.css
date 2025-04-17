@@ -1,31 +1,7 @@
 @layer regions {
 	[id=sitemap] {
-		* {
-		}
-
-		& div {
-			display: flex;
-			flex-wrap: wrap;
-			margin: 0;
-		}
-
-		&>div {
-			&>section {
-				flex-basis: auto;
-				flex-shrink: 1;
-				flex-grow: 0;
-
-				&>div {
-					flex-wrap: nowrap;
-				}
-			}
-		}
-
 		& a {
 			display: block;
-			text-decoration: none;
-			/* pointer-events: none; */
-			/* background-color: oklch(45% 39% var(--ThemeHue)); */
 
 			&:visited {
 				color: oklch(98% 38% var(--RedHue));
@@ -37,16 +13,15 @@
 		}
 
 		& div {
+			margin: 0;
+			display: flex;
+			flex-wrap: wrap;
 			gap: 80px;
 			align-items: baseline;
 		}
 
 		& *+* {
 			margin-top: var(--SpacingThinnest);
-		}
-
-		& h2+* {
-			margin-top: var(--SpacingThin);
 		}
 	}
 }
