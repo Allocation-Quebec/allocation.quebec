@@ -2,9 +2,6 @@ body.green {
 	--ThemeHue: var(--LimeHue);
 }
 
-
-
-
 .editable {
 	color:oklch(100% 39% var(--ThemeHue));
 	position: relative;
@@ -12,42 +9,35 @@ body.green {
 		display: block;
 	}
 
-	&::before {
-		float: left;
-		margin-right: 0.4ch;
-	}
-
 	&:has(:focus, textarea:not(:placeholder-shown)) {
 		span, &::before {
 			opacity: 0;
-			padding-bottom: calc(var(--Row) + var(--SpacingThinnest) * 2);
 			pointer-events: none;
 
 		}
 
 		textarea {
-			position: absolute;
-			inset: 0;
-			width: 100%;
-			height: 100%;
 			padding: 0;
 
 		}
 	}
 	& textarea {
+		position: absolute;
+		inset: 0;
+		width: 100%;
+		height: 100%;
+		box-sizing: border-box;
 		background: none;
 		border: none;
 		/* border-bottom: 2px solid currentColor; */
-		width: 100%;
 		font-size: 16px;
 		line-height: var(--Row);
-		height: var(--Row);
 		padding-block: var(--SpacingThinnest);
 		color: inherit;
 		resize: none;
 		outline: none;
 		margin: 0;
-		display: block;
+		display: none;
 
 		&::placeholder {
 			color: inherit;
