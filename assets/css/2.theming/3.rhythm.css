@@ -37,18 +37,9 @@
 		margin-top: var(--SpacingBroad);
 	}
 
-
-	:is(h3, h4)+* {
-		margin-top: var(--SpacingBroad);
-	}
-
 	:is(h3, h4)+p {
 		margin-top: var(--SpacingThinner);
 	}
-
-	/* *+:is(a, button) */
-
-	/* *+is(input, select, textarea) */
 
 	/* Basic container rhythm */
 	main>*+* {
