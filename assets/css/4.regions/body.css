@@ -18,6 +18,18 @@
 			grid-column: full;
 		}
 
+		@media (max-width: 60em) {
+			&>main>section :is(aside, :has(~aside)) {
+				grid-column: 1 / -1;
+			}
+		}
+
+		@media (min-width: 60em) {
+			&>main>section :has(~aside) {
+				grid-column: 1 / -2;
+			}
+		}
+
 		@media (orientation: landscape) {
 			&>header {
 				grid-column: header;

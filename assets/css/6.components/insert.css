@@ -2,17 +2,6 @@
 	--FontWeight: 600;
 	--ScaleLevel: var(--Short);
 
-	@media (max-width: 60em) {
-		&, *:has(~&) {
-			grid-column: 1 / -1;
-		}
-	}
-
-	@media (min-width: 60em) {
-		*:has(~&) {
-			grid-column: 1 / -2;
-		}
-	}
 
 	&>span {
 		display: block;
