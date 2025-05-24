@@ -19,7 +19,7 @@
 	select, input, textarea, button, legend, figcaption,
 	p, li, a, q, cite, span, strong, small, th, td,
 	h1, h2, h3, h4, h5, h6 {
-		--FontSize: calc(var(--ScaleLevel, 1) * 1em); 
+		--FontSize: calc(var(--ScaleLevel, 1) * 1rem); 
 	}
 
 	select, input, textarea, button, legend, figcaption,

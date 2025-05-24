@@ -15,8 +15,13 @@
 	h5, .h5 { --ScaleLevel: var(--Short); }
 	h6, .h6 { --ScaleLevel: var(--Shorter); }
 
-	h1, h2, h3, h4, h5, h6, 
-	.h1, .h2, .h3, .h4, .h5, .h6 {
+	html {
+		--LineHeightFactor: 1.4;
+	}
+
+
+	:where(h1, h2, h3, h4, h5, h6, 
+	.h1, .h2, .h3, .h4, .h5, .h6) {
 		--FontWeight: 740;
 
 		font-family: var(--Grotesk);
@@ -24,6 +29,7 @@
 
 	.h1, h1, .h2, h2 {
 		--FontWeight: 440;
+		--LineHeightFactor: 1.1;
 	}
 
 	strong {
@@ -56,10 +62,10 @@
 
 		font-family: var(--Grotesk);
 
-		& small {
+		& small:has(+:where(h1,h2,h3,h4,h5,h6)) {
+			--LineHeightFactor: 1.1;
 			--ScaleLevel: var(--Shorter);
 			--FontWeight: 800;
-			--LineHeightFactor: 0.75;
 
 			text-transform: uppercase;
 		}
@@ -68,10 +74,7 @@
 	section>p:only-of-type {
 		--ScaleLevel: var(--Hugest);
 		--FontWeight: 800;
-
-		@media (max-width: 110ch) {
-			--LineHeightFactor: 0.75;
-		}
+		--LineHeightFactor: 1.1;
 
 		font-family: var(--Condensed);
 		text-transform: uppercase;
@@ -85,17 +88,9 @@
 	li {
 		font-family: var(--Serif);
 
+		--LineHeightFactor: 1.2;
 		--ScaleLevel: var(--Tall);
 		--FontWeight: 500;
-
-		@media (max-width: 110ch) {
-			--LineHeightFactor: 0.875;
-		}
-
-		@media (min-width: 110ch) {
-			--LineHeightFactor: 0.75;
-		}
-
 
 		&:has(strong+p) {
 			--ScaleLevel: var(--Short);
@@ -109,7 +104,7 @@
 	blockquote {
 		--ScaleLevel: var(--Short);
 		--FontWeight: 480;
-		--LineHeightFactor: 0.75;
+		--LineHeightFactor: 1.2;
 
 		font-family: var(--Serif);
 		font-style: italic;
@@ -120,7 +115,7 @@
 		font-family: var(--Grotesk);
 
 		& * {
-			--LineHeightFactor: 1;
+			--LineHeightFactor: 1.4;
 		}
 
 		&>article {
