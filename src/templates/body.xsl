@@ -141,11 +141,9 @@
 					<div class="__dropdown">
 						<h3 class="h5">Comment ?</h3>
 						<div>
-							<a href="/fr/moyens/abolition">Abolition de programmes</a>
-							<a href="/fr/moyens/etat">Rôle de l'État</a>
-							<a href="/fr/moyens/financement">Financement</a>
-							<a href="/fr/moyens/deploiement">Déploiement progressif</a>
-							<a href="/fr/moyens/plan">Plan complet</a>
+							<a href="/fr/comment/programme">Programme économique</a>
+							<a href="/fr/comment/plan">Plan de déploiement</a>
+							<a href="/fr/comment/etat">Rôle de l'État</a>
 						</div>
 					</div>
 					<div class="__dropdown">
@@ -209,11 +207,9 @@
 						</section>
 						<section>
 							<h3 class="h4">Comment ?</h3>
-							<a href="/fr/moyens/abolition">Abolition de programmes</a>
-							<a href="/fr/moyens/etat">Rôle de l'État</a>
-							<a href="/fr/moyens/financement">Financement</a>
-							<a href="/fr/moyens/deploiement">Déploiement progressif</a>
-							<a href="/fr/moyens/plan">Plan complet</a>
+							<a href="/fr/comment/programme">Programme économique</a>
+							<a href="/fr/comment/plan">Plan de déploiement</a>
+							<a href="/fr/comment/etat">Rôle de l'État</a>
 						</section>
 						<section>
 							<h3 class="h4">En savoir plus</h3>
