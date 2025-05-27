@@ -105,7 +105,7 @@
 
 			<!-- Append backlinks inside their own <span> -->
 				<span>
-					<xsl:text>↩︎ </xsl:text>
+					<i><xsl:text>↩︎ </xsl:text></i>
 					<xsl:for-each select="$all-li//a[starts-with(@href, '#fnref')]">
 						<xsl:variable name="href" select="@href"/>
 						<xsl:variable name="num" select="substring-after($href, '#fnref')"/>
