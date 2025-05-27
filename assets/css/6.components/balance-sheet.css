@@ -1,0 +1,139 @@
+.balance-sheet {
+	gap: var(--Row);
+	align-items: last baseline;
+	margin-bottom: var(--SpacingLarge);
+
+	/* &>*, */
+	/* & .__item { */
+	/* 	display: grid; */
+	/* 	grid-template-columns: subgrid; */
+	/* } */
+
+	/* &>*, */
+	/* &>*>* { */
+	/* 	grid-column: 1 / -1; */
+	/* } */
+
+	&>section {
+		&>:is(header, div)+* {
+			margin-top: var(--SpacingBroad);
+		}
+
+		& article {
+			&+article {
+				margin-top: var(--SpacingThinner);
+			}
+			&:has(details)+article {
+				margin-top: var(--Row);
+			}
+		}
+
+		&>*>span {
+
+			--ScaleLevel: var(--Hugest);
+		}
+
+		&+& {
+			margin-top: var(--SpacingBroadest);
+		}
+	}
+
+	& :is(article, footer) {
+		display: grid;
+		gap: var(--SpacingThinnest) var(--SpacingThinner);
+		grid-template-columns: 1fr auto;
+		grid-template-areas: "title amount"
+		"desc  amount";
+		align-items: last baseline;
+
+		&>* {
+			margin: 0;
+			line-height: 1;
+		}
+
+		&>h3, &>h5 {
+			grid-area: title;
+		}
+
+		&>small {
+			grid-area: desc;
+
+		}
+
+		&>span {
+			--FontWeight: 600;
+			text-align: right;
+			font-family: "PP Neue Montreal Mono";
+			grid-area: amount;
+
+			& small {
+				display: none;
+				opacity: 0.4;
+				font-size: 0.4125em;
+				font-weight: 700;
+				margin-left: 0.5em;
+			}
+		}
+
+	}
+
+	& article:not(:has(+footer)) {
+		&>small {
+			display: flex;
+			align-items: last baseline;
+
+			&:not(:has(~details))::after {
+				content: "";
+				border-top: 1px dashed;
+				flex-grow: 1;
+				margin-left: var(--Row);
+			}
+
+		}
+	}
+
+	& article:has(+footer) {
+
+		details:not([open]) summary::after {
+			border-color: transparent;
+		}
+	}
+
+	& footer {
+		padding-top: var(--SpacingThinner);
+		border-top: 5px solid;
+	}
+
+	& details {
+		/* margin-top: var(--SpacingThinner); */
+		grid-column: 1 / -1;
+		&>div {
+			margin-left: var(--Row);
+		}
+		& summary {
+			display: flex;
+			align-items: baseline;
+
+			&::after {
+				content: "";
+				flex-grow: 1;
+				border-top: 2px solid;
+				margin-left: var(--SpacingThinner);
+			}
+
+			&::before {
+				content: "▼";
+				font-size: 0.5em;
+				margin-right: 1em;
+			}
+		}
+
+		&[open] {
+			& summary::before {
+				content: "▲";
+			}
+		}
+
+	}
+
+}
