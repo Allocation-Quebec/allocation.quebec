@@ -2,7 +2,7 @@
 <small>désirable, possible et viable</small>
 <h1>Programme économique</h1>
 <p>La proposition faite par Allocation Québec est simple : **18 000 \$ versés chaque année à chaque adulte et 6 000 \$ à chaque enfant**. Ce mécanisme garantit un filet de sécurité solide – il fait pratiquement disparaître la pauvreté – tout en préservant l’incitation au travail.</p>
-<p>Avec un coût net de 41 G \$ entièrement couvert par environ 41 G \$ d’économies et de recettes stables et ce, avec une charge totale supplémentaire sur la paie de moins de 2%, notre programme économique est soutenable, viable et efficace. Et nos calculs le prouvent.</p>
+<p>Avec un coût net de 41 G \$ entièrement couvert par environ 41 G \$ d’économies et de recettes stables et ce, __avec une réduction de la pression fiscale sur les salaires de plus de 3%__, notre programme économique est soutenable, viable et efficace. Et nos calculs le prouvent.</p>
 </header>
 
 <article class="balance-sheet">
@@ -19,7 +19,7 @@
 <article>
 <h3>Coût brut</h3>
 <small>7,0 M adultes × 18 000 \$ + 1,7 M enfants × 6 000 \$</small>
-<span class="h1">137<small>Md\$</small></span>
+<span class="h1">137,0<small>Md\$</small></span>
 </article>
 <article>
 <h3>Récupération par l'impôt</h3>
@@ -72,7 +72,7 @@
 <article>
 <h3>Crédits & subventions éliminés</h3>
 <small>Leurs incitations ciblées n’apportent plus de gain significatif dans un marché déjà mature</small>
-<span class="h1">4,65<small>Md\$</small></span>
+<span class="h1">4,3<small>Md\$</small></span>
 <details>
 <summary><h4>Détails</h4></summary>
 <div>
@@ -109,12 +109,7 @@
 <article>
 <h5 class="h4">Rabot 10 % sur les crédits RS&DE QC et C3i</h5>
 <small>réduction uniforme des deux incitatifs R-D les plus coûteux</small>
-<span class="h2">0,80</span>
-</article>
-<article>
-<h5 class="h4">Crédit frais de garde — barème 60 %</h5>
-<small>réduction uniforme du taux maximal (75 % → 60 %)</small>
-<span class="h2">0,35</span>
+<span class="h2">0,8</span>
 </article>
 </div>
 </details>
@@ -167,7 +162,7 @@
 <article>
 <h3>Bouquet fiscal ciblé</h3>
 <small>Un ensemble mesuré de recettes qui fait davantage contribuer la consommation et les hauts revenus, tout en restant compétitif.</small>
-<span class="h1">19,2<small>Md\$</small></span>
+<span class="h1">19,6<small>Md\$</small></span>
 <details>
 <summary><h4>Détails</h4></summary>
 <div>
@@ -197,9 +192,9 @@
 <span class="h2">1,60</span>
 </article>
 <article>
-<h5 class="h4">Fermeture de 12 niches TVQ</h5>
+<h5 class="h4">Fermeture de 14 niches TVQ</h5>
 <small>suppression d’exemptions coûteuses et peu justifiées</small>
-<span class="h2">2,30</span>
+<span class="h2">2,60</span>
 </article>
 <article>
 <h5 class="h4">Surtaxes « luxe »</h5>
@@ -262,27 +257,27 @@
 </header>
 <div class="as-prose">
 <p>En parallèle du financement supplémentaire, nous limitons l’effet aussi sur la paie : la cotisation d’Assurance-emploi est ramenée à un taux minimal symbolique et la portion bonifiée de la RRQ devient volontaire. Ces deux gestes limitent automatiquement l'impact sur le portefeuille du salarié et le coût d’embauche pour les PME.</p>
-<p>Cette réduction fiscale est faite tout en maintenant une assurance-chômage de base et en offrant aux travailleurs la liberté de choisir leur niveau d’épargne-retraite. Le résultat net est une pression sur les salaires qui reste modérée, alors même que le budget provincial demeure en équilibre.</p>
+<p>Cette réduction fiscale est faite tout en maintenant une assurance-chômage de base et en offrant aux travailleurs la liberté de choisir leur niveau d’épargne-retraite. Le résultat net est une pression sur les salaires substantiellement réduite, alors même que le budget provincial demeure en équilibre.</p>
 </div>
 <article>
 <h3>Pression brute sur la paie</h3>
 <small>Issue de la totalité des mesures du bouquet fiscal de financement ci-haut.</small>
-<span class="h1">4,1%</span>
+<span class="h1">1,4</span>
 </article>
 <article>
 <h3>Assurance-emploi</h3>
 <small>Taux universel de 0,30&nbsp;% au lieu de 1,31&nbsp;% pour le salarié et 1,83&nbsp;% pour l’employeur</small>
-<span class="h1">-1,1%</span>
+<span class="h1">-2,5</span>
 </article>
 <article>
 <h3>Portion additionnelle du RRQ</h3>
 <small>La portion bonifiée de 2&nbsp;% devient une épargne volontaire, retirée par défaut</small>
-<span class="h1">-0,6%</span>
+<span class="h1">-2,0</span>
 </article>
 <footer>
 <h3>Pression nette sur la paie</h3>
 <small>En pourcentage de la masse salariale totale (≈450 milliards)</small>
-<span class="h1">2,4%</span>
+<span class="h1">-3,1</span>
 </footer>
 </section>
 </article>
