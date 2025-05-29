@@ -29,3 +29,27 @@
 	font-style: normal;
 	font-display: swap;
 }
+
+@font-face {
+	font-family: 'PP Neue Montreal Mono';
+	src: url('/assets/fonts/PPNeueMontrealMono-Regular.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'PP Neue Montreal Mono';
+	src: url('/assets/fonts/PPNeueMontrealMono-Medium.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'PP Neue Montreal Mono';
+	src: url('/assets/fonts/PPNeueMontrealMono-Bold.woff2') format('woff2');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
