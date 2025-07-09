@@ -82,8 +82,8 @@
 	/* Icons integrated into the text */
 	i {
 		display: inline-flex;
-		align-items: center;
-		justify-content: center;
+		/* align-items: center; */
+		/* justify-content: center; */
 		fill: currentColor; 
 		height: 1.1ch;
 		margin-right: var(--icon-spacing, 10px);

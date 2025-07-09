@@ -1,7 +1,7 @@
 .with-line-and-icons {
 	& :is(h1, h2, h3)>i {
 		font-size: 0.4em;
-		height: 0.5lh;
+		height: auto;
 	}
 
 	& h2:has(i) {
@@ -37,6 +37,24 @@
 	}
 }
 
+@media (max-width: 1480px) {
+	.with-line-and-icons {
+		& :has(>:is(h1, h2, h3)>i) {
+			display: flex;
+			flex-direction: column;
+
+		}
+
+		& :is(h1, h2, h3){
+			&:has(>i) {
+				display: contents;
+			}
+			&>i {
+				order: -1;
+			}
+		}
+	}
+}
 
 @media (min-width: 1480px) {
 	.with-line-and-icons {
@@ -66,7 +84,7 @@
 				margin-left: calc(-60px - 2ch + 1px);
 				position: relative;
 				padding-inline: 0.75ch;
-				margin-right: 22px;
+				margin-right: calc(60px - 2ch - 4px);
 				width: 2ch;
 				aspect-ratio: 1;
 				border-radius: 50%;
