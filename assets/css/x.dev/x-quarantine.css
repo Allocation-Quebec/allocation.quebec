@@ -50,22 +50,3 @@ i {
 	font-style: normal;
 }
 
-blockquote, div, ul, ol, i {
-	/* display: none; */
-}
-
-[id=footnotes] {
-
-		/* display: none; */
-	& span:last-child a {
-		/* display: none; */
-	}
-}
-
-* {
-	/* font-family: serif; */
-	/* font-size: 1em; */
-	/* line-height: 1; */
-	/* font-style: normal; */
-	/* color: black; */
-}
