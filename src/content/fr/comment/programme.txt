@@ -32,18 +32,21 @@
 </footer>
 </section>
 <section>
+<header>
 <small>Comment on paie ?</small>
 <h2>Mesures de financement</h2>
+</header>
 <div class="as-prose">
 <p>Pour équilibrer le financement, nous misons d’abord sur la simplification : en supprimant les anciennes prestations conditionnelles et la machinerie administrative qui les gérait, puis en réduisant plusieurs crédits et subventions sectoriels devenus peu utiles, nous récupérons la moitié des fonds nécessaires.</p>
 <p>Le complément provient d’un bouquet fiscal ciblé de sorte que l’effort est réparti vers les assiettes les plus larges et les capacités de paiement les plus élevées, sans alourdir les impôts de la majorité.</p>
 </div>
 <article>
-<h3>Programmes redondants</h3>
-<small>Leurs objectifs sont généralement atteints voire dépassés par l'allocation de subsistance.</small>
 <span class="h1">14,1<small>Md\$</small></span>
 <details>
-<summary><h4>Détails</h4></summary>
+<summary>
+<h3>Programmes redondants</h3>
+<small>Leurs objectifs sont généralement atteints voire dépassés par l'allocation de subsistance.</small>
+</summary>
 <div>
 <article>
 <h5 class="h4">Prestations conditionnelles</h5>
@@ -69,11 +72,12 @@
 </details>
 </article>
 <article>
-<h3>Crédits & subventions éliminés</h3>
-<small>Leurs incitations ciblées n’apportent plus de gain significatif dans un marché déjà mature</small>
 <span class="h1">4,3<small>Md\$</small></span>
 <details>
-<summary><h4>Détails</h4></summary>
+<summary>
+<h3>Crédits & subventions éliminés</h3>
+<small>Leurs incitations ciblées n’apportent plus de gain significatif dans un marché déjà mature</small>
+</summary>
 <div>
 <article>
 <h5 class="h4">Crédit multimédia / jeu vidéo (CTMM)</h5>
@@ -114,11 +118,12 @@
 </details>
 </article>
 <article>
-<h3>Bureaucratie supprimée</h3>
-<small>Les structures de gestion et de contrôle deviennent superflues une fois les prestations conditionnelles abolies</small>
 <span class="h1">0,9<small>Md\$</small></span>
 <details>
-<summary><h4>Détails</h4></summary>
+<summary>
+<h3>Bureaucratie supprimée</h3>
+<small>Les structures de gestion et de contrôle deviennent superflues une fois les prestations conditionnelles abolies</small>
+</summary>
 <div>
 <article>
 <h5 class="h4">Centres locaux d’emploi & directions Sécurité du revenu</h5>
@@ -159,11 +164,12 @@
 </details>
 </article>
 <article>
-<h3>Bouquet fiscal ciblé</h3>
-<small>Un ensemble mesuré de recettes qui fait davantage contribuer la consommation et les hauts revenus, tout en restant compétitif.</small>
 <span class="h1">20,3<small>Md\$</small></span>
 <details>
-<summary><h4>Détails</h4></summary>
+<summary>
+<h3>Bouquet fiscal ciblé</h3>
+<small>Un ensemble mesuré de recettes qui fait davantage contribuer la consommation et les hauts revenus, tout en restant compétitif.</small>
+</summary>
 <div>
 <article>
 <h5 class="h4">Hausse de 2,3 points de TVQ</h5>
@@ -209,11 +215,12 @@
 </details>
 </article>
 <article>
-<h3>Libéralisation du marché du travail</h3>
-<small>Assouplissements qui réduisent le coût d’embauche, stimulent l’emploi et accroissent les recettes fiscales.</small>
 <span class="h1">1,8<small>Md\$</small></span>
 <details>
-<summary><h4>Détails</h4></summary>
+<summary>
+<h3>Libéralisation du marché du travail</h3>
+<small>Assouplissements qui réduisent le coût d’embauche, stimulent l’emploi et accroissent les recettes fiscales.</small>
+</summary>
 <div>
 <article>
 <h5 class="h4">Suppression du salaire minimum</h5>
