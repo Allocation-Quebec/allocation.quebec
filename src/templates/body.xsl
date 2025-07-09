@@ -61,7 +61,7 @@
 		</xsl:copy>
 	</xsl:template>
 
-	<xsl:template match="section/p[count(preceding-sibling::p)=0 and count(following-sibling::p)=0]">
+	<xsl:template match="/root/section/p[count(preceding-sibling::p)=0 and count(following-sibling::p)=0]">
 		<xsl:copy>
 			<xsl:choose>
 				<xsl:when test="@class">
