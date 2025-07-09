@@ -1,5 +1,7 @@
 @layer features {
-	* {
+	select, input, textarea, button, legend, figcaption,
+	p, li, dd, dt, a, q, cite, span, strong, small, th, td,
+	h1, h2, h3, h4, h5, h6 {
 		--BaselineInterval: calc(var(--Row) / 2);
 		--LineHeightBase: calc(var(--FontSize) * var(--LineHeightFactor));
 		--BaselineMinimum: calc(var(--Row) * .75);
