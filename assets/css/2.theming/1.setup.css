@@ -17,13 +17,13 @@
 	/* Basic typographic sizes, colors & spacing */
 	*::before, *::after,
 	select, input, textarea, button, legend, figcaption,
-	p, li, a, q, cite, span, strong, small, th, td,
+	p, li, dd, dt, a, q, cite, span, strong, small, th, td,
 	h1, h2, h3, h4, h5, h6 {
 		--FontSize: calc(var(--ScaleLevel, 1) * 1rem); 
 	}
 
 	select, input, textarea, button, legend, figcaption,
-	p, li, a, q, cite, span, strong, small, th, td,
+	p, li, dd, dt, a, q, cite, span, strong, small, th, td,
 	h1, h2, h3, h4, h5, h6 {
 		color: var(--Color, inherit);
 		font-weight: var(--FontWeight, inherit);
@@ -42,7 +42,7 @@
 
 
 	/* Inheritance in place for child “inline” elements */
-	legend *, figcaption *, button *, p *, li *, a *, q *, cite *, span *, small *, th *, td *,
+	legend *, figcaption *, button *, p *, li *, dd *, dt *, a *, q *, cite *, span *, small *, th *, td *,
 	h1 *, h2 *, h3 *, h4 *, h5 *, h6 * {
 		font-size: inherit;
 		font-style: inherit;
