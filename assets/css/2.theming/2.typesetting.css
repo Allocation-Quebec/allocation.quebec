@@ -32,6 +32,10 @@
 		--LineHeightFactor: 1.1;
 	}
 
+	.h3, h3 {
+		--FontWeight: 540;
+	}
+
 	strong {
 		--FontWeight: 600;
 	}
@@ -71,7 +75,7 @@
 		}
 	}
 
-	section>p:only-of-type {
+	main>section>p:only-of-type {
 		--ScaleLevel: var(--Hugest);
 		--FontWeight: 800;
 		--LineHeightFactor: 1.1;
@@ -92,13 +96,14 @@
 		--ScaleLevel: var(--Tall);
 		--FontWeight: 500;
 
-		&:has(strong+p) {
-			--ScaleLevel: var(--Short);
-			--FontWeight: 480;
 
-			font-family: var(--Grotesk);
-		}
+	}
 
+	li:has(>strong+:is(p, ul)) {
+		--ScaleLevel: var(--Short);
+		--FontWeight: 480;
+
+		font-family: var(--Grotesk);
 	}
 
 	blockquote {
