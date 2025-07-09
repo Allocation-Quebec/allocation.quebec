@@ -34,13 +34,16 @@ find "$SRC_DIR" -type f -name "*.txt" | while read -r txt_file; do
 
     mkdir -p "$output_subdir"
 
-    # Transformer avec Pandoc
-    pandoc "$txt_file" -o "$output_file" --wrap=none
-
-    if [ $? -eq 0 ]; then
-        echo "✅ TXT → HTML : $txt_file → $output_file"
+    # MODIFIÉ : ne reconvertir que si nécessaire
+    if [ ! -f "$output_file" ] || [ "$txt_file" -nt "$output_file" ]; then
+        pandoc "$txt_file" -o "$output_file" --wrap=none
+        if [ $? -eq 0 ]; then
+            echo "✅ TXT → HTML : $txt_file → $output_file"
+        else
+            echo "❌ Échec de conversion TXT → HTML : $txt_file"
+        fi
     else
-        echo "❌ Échec de conversion TXT → HTML : $txt_file"
+        echo "⏩ TXT inchangé : $txt_file"
     fi
 done
 
@@ -71,12 +74,15 @@ find "$TEMP_DIR" -type f -name "*.html" | while read -r html_file; do
     fi
 
     mkdir -p "$(dirname "$xml_output")"
-    cp "$xml_template" "$xml_output"
 
-    # Insérer le contenu HTML généré dans le fichier XML
-    gsed -i '/<root lang="'$LANG'">/,/<\/root>/!b;//!d;/<root lang="'$LANG'">/r '"$html_file" "$xml_output"
-
-    echo "✅ Insertion réussie : $html_file → $xml_output"
+    # MODIFIÉ : ne réinsérer que si le HTML ou le modèle est plus récent
+    if [ ! -f "$xml_output" ] || [ "$html_file" -nt "$xml_output" ] || [ "$xml_template" -nt "$xml_output" ]; then
+        cp "$xml_template" "$xml_output"
+        gsed -i "/<root lang=\"$LANG\">/,/<\/root>/!b;//!d;/<root lang=\"$LANG\">/r $html_file" "$xml_output"
+        echo "✅ Insertion : $html_file → $xml_output"
+    else
+        echo "⏩ Insertion inchangée : $html_file"
+    fi
 done
 
 # === 3️⃣ Phase 3 : Transformer les fichiers XML avec xsltproc ===
@@ -91,17 +97,19 @@ find "$TEMP_DIR" -type f -name "*.xml" | while read -r xml_file; do
 
     mkdir -p "$output_subdir"
 
-    if [ -n "$XSLT_FILE" ]; then
-        xsltproc "$XSLT_FILE" "$xml_file" > "$output_file"
+    # MODIFIÉ : ne transformer que si le XML ou le XSLT est plus récent
+    if [ ! -f "$output_file" ] || [ "$xml_file" -nt "$output_file" ] || { [ -n "$XSLT_FILE" ] && [ "$XSLT_FILE" -nt "$output_file" ]; }; then
+        if [ -n "$XSLT_FILE" ]; then
+            xsltproc "$XSLT_FILE" "$xml_file" > "$output_file"
+        else
+            xsltproc "$xml_file" > "$output_file"
+        fi
+        if [ $? -eq 0 ]; then
+            echo "✅ XSLT : $xml_file → $output_file"
+        else
+            echo "❌ Échec XSLT : $xml_file"
+        fi
     else
-        xsltproc "$xml_file" > "$output_file"
-    fi
-
-    if [ $? -eq 0 ]; then
-        echo "✅ XML → HTML : $xml_file → $output_file"
-    else
-        echo "❌ Échec de conversion XML → HTML : $xml_file"
+        echo "⏩ XSLT inchangé : $xml_file"
     fi
 done
-
-echo "🎉 Transformation XSLT terminée. Les fichiers HTML finaux sont dans $DEST_DIR."
