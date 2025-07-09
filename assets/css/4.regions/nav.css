@@ -71,6 +71,7 @@
 			position: sticky;
 			display: block;
 			bottom: 0;
+			touch-action: auto;
 			grid-column: full;
 			background-color: oklch(45% 39% var(--ThemeHue));
 			border-top: 2px solid oklch(55% 39% var(--ThemeHue));
