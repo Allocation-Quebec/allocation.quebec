@@ -1,0 +1,67 @@
+.case-portrait {
+	font-family: var(--Grotesk);
+	display: flex;
+	flex-direction: column;
+
+	*+& {
+		margin-top: var(--SpacingBroadest);
+	}
+
+	&>div {
+		/* display: grid; */
+		/* grid-template-columns: repeat(2, auto); */
+		order: 1;
+		display: flex;
+		align-items: baseline;
+		flex-wrap: wrap;
+		gap: var(--Row);
+
+		--ScaleLevel: var(--Short);
+		--FontWeight: 480;
+		--LineHeightFactor: 0.75;
+
+		&>* {
+			flex-basis: 20ch;
+			flex-grow: 1;
+		}
+	}
+
+
+	& dl {
+		display: grid;
+		grid-template-columns: 1fr min-content;
+		gap: var(--SpacingThinnest) var(--SpacingThinner);
+
+		&>* {
+			margin: 0;
+		}
+
+		& dt {
+			display: flex;
+			align-items: baseline;
+
+			&::after {
+				content: "";
+				border-top: 1px dashed;
+				flex-grow: 1;
+				margin-left: var(--Row);
+			}
+		}
+
+		& dd {
+			font-family: "PP Neue Montreal Mono";
+			text-align: right;
+		}
+	}
+
+	& footer {
+		/* --ScaleLevel: var(--Tall); */
+		/* --LineHeightFactor: 1.5; */
+		/* --Color: oklch(40% 36% var(--BlueHue)); */
+	}
+
+	& h4+* {
+		margin-top: var(--SpacingThinner);
+	}
+
+}

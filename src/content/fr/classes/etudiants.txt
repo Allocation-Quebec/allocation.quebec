@@ -1,0 +1,131 @@
+<header>
+<h1>Étudiant•es</h1>
+</header>
+<section>
+<header>
+<small>éducation et avenir</small>
+<h2 class="h3"><i>📚</i> Une génération libre d’apprendre</h2>
+</header>
+
+<div class="as-grid">
+<div class="as-prose">
+<p>L’allocation de subsistance permet aux étudiant·es de poursuivre leurs études avec dignité, liberté et vision à long terme. En réduisant le besoin de travailler en parallèle ou de s’endetter, elle libère du temps et de l’énergie pour s'éduquer plus efficacement. Elle renforce l’accès équitable à l’éducation et facilite la transition vers une société, plus innovante et inclusive.</p>
+
+<h3 class="h4">Pourquoi c’est important ?</h3>
+<p>Dans une société du savoir, chacun·e devrait pouvoir apprendre librement, sans que la survie financière ne conditionne l’accès au savoir. Une allocation rend possible une éducation émancipatrice, inclusive et créative, pour toutes les générations.</p>
+</div>
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>Selon <strong>Daniel Bell</strong>, les sociétés postindustrielles se structurent autour de la production et de la diffusion du savoir[^bell1973]. Pour y participer, les individus doivent pouvoir apprendre tout au long de leur vie — une liberté que favorise une allocation de subsistance.</p>
+</aside>
+</div>
+
+<h3 class="h4">Résultats concrets</h3>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Moins de dettes étudiantes</strong>
+<p>Les bénéficiaires réduisent leur recours aux prêts étudiants, diminuant ainsi le fardeau financier à la sortie des études[^bican2020].</p></li>
+
+<li class="tile"><strong class="h5">Plus de temps pour étudier</strong>
+<p>Moins de nécessité de travailler en parallèle : cela améliore la concentration, les résultats, et réduit le stress[^kela2019].</p></li>
+
+<li class="tile"><strong class="h5">Accès élargi à des parcours non conventionnels</strong>
+<p>Des disciplines moins rentables à court terme, mais essentielles socialement, comme les arts ou l’écologie, deviennent accessibles[^illich1971].</p></li>
+
+<li class="tile"><strong class="h5">Valorisation de l’exploration intellectuelle</strong>
+<p>Les étudiant·es peuvent changer de domaine et expérimenter, sans crainte d’un échec coûteux[^bican2020].</p></li>
+
+<li class="tile"><strong class="h5">Retour aux études facilité</strong>
+<p>Les adultes en reconversion peuvent étudier sans précarité, ce qui stimule l’apprentissage permanent[^oecd2021].</p></li>
+
+<li class="tile"><strong class="h5">Hybridation des rôles sociaux</strong>
+<p>Étudiant·e, travailleur·euse, militant·e, parent, créateur·rice : les parcours deviennent plus fluides et riches.</p></li>
+</ul>
+</section>
+
+<section>
+<header>
+<h2>Scénarios typiques</h2>
+<p>Comment l'allocation de subsistance changerait-elle la réalité des étudiants et étudiantes québécoises ? Voici quelques scénarios s'attardant à des situations typiques.</p>
+</header>
+<article class="case-portrait">
+<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
+<header>
+<h3>Un•e etudiant·e à temps plein avec un revenu d’appoint 15 000 \$ *verra un gain net de 9 800 \$*</h3>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net</dt>
+<dd>14 000 \$</dd>
+<dt>Bourse <abbr>AFE</abbr></dt>
+<dd>\+3 000 \$</dd>
+<dt>Total disponible</dt>
+<dd>17 000 \$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Programme de réforme</h4>
+<dl>
+<dt>Allocation brute</dt><dd>18 000 \$</dd>
+<dt>Bourse AFE supprimée</dt><dd>\–3 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>\+200 \$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Situation post-réforme</h4>
+<dl>
+<dt>Allocation nette</dt><dd>12 600 \$</dd>
+<dt>Revenu net</dt><dd>14 200 \$</dd>
+<dt>**Total disponible**</dt><dd>**26 800 \$**</dd>
+</dl>
+</section>
+<footer>
+<h4 class="h5">Possibilités économiques</h4>
+<ul>
+<li>40 % de dettes en moins à l'obtention du diplôme.</li>
+<li>travailler à temps partiel sans réduire son niveau de vie.</li>
+</ul>
+</footer>
+</div>
+</article>
+</section>
+
+<section class="as-fullbleed with-scheme-secondary">
+<header>
+<small>quand apprendre devient une liberté</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
+
+<ul class="as-grid">
+<li class="tile">Personne ne renonce à ses études faute de moyens.</li>
+<li class="tile">Les savoirs critiques et créatifs sont pleinement valorisés.</li>
+<li class="tile">L’éducation permanente devient une norme, pas un luxe.</li>
+<li class="tile">Les étudiant·es s’engagent dans la société en dehors des cours.</li>
+<li class="tile">L’apprentissage devient un bien commun, pour toutes les générations.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Qu’aimeriez-vous apprendre si vous en aviez les moyens ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ul>
+
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="as-grid">
+<blockquote class="tile"><p>« Je pourrais me consacrer à mes études au lieu de faire 25h de travail par semaine. »</p><cite class="h4">Anaïs G.</cite></blockquote>
+<blockquote class="tile"><p>« J’ai 42 ans et je veux changer de métier. L’allocation me donnerait enfin cette chance. »</p><cite class="h4">Jean-Michel C.</cite></blockquote>
+<blockquote class="tile"><p>« Je pourrais étudier la philosophie, pas juste pour un emploi, mais pour comprendre le monde. »</p><cite class="h4">Salma D.</cite></blockquote>
+</div>
+
+<hr />
+<p>Avec une allocation de subsistance, un Québec <em>plus instruit</em> est possible.</p>
+</section>
+
+<!-- Notes de bas de page -->
+[^bican2020]: Basic Income Canada Network. 2020. *Revenu de base et éducation*. [https://www.basicincomecanada.org/education](https://www.basicincomecanada.org/education)
+
+[^kela2019]: KELA. 2019. *Results of the Finnish Basic Income Experiment*. [https://www.kela.fi/web/en/basic-income-experiment-2017-2018](https://www.kela.fi/web/en/basic-income-experiment-2017-2018)
+
+[^bell1973]: Bell, Daniel. 1973. *The Coming of Post-Industrial Society*. Basic Books. [https://www.goodreads.com/book/show/907724](https://www.goodreads.com/book/show/907724)
+
+[^illich1971]: Illich, Ivan. 1971. *Deschooling Society*. Harper & Row. [https://archive.org/details/DeschoolingSociety](https://archive.org/details/DeschoolingSociety)
+
+[^oecd2021]: OECD. 2021. *Education at a Glance*. [https://www.oecd.org/education/education-at-a-glance/](https://www.oecd.org/education/education-at-a-glance/)
