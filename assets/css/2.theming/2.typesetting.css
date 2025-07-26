@@ -48,11 +48,17 @@
 
 
 	h3+p {
-		font-style: italic;
+		/* font-style: italic; */
+	}
+
+	h2+p {
+		--ScaleLevel: var(--Tall);
+		--BaselineInterval: calc(var(--Row) / 4);
+		--LineHeightFactor 1.5;
 	}
 
 	html {
-		--Color: oklch(51% 4% var(--BrownHue));
+		--Color: oklch(46% 8% var(--BrownHue));
 		--TargetFontSize: round(3dvw, 2px);
 		--FontWeight: 400;
 
@@ -90,13 +96,14 @@
 	}
 
 	li {
+		--LineHeightFactor: 1.25;
+	}
+
+	ol>li {
 		font-family: var(--Serif);
 
-		--LineHeightFactor: 1.2;
 		--ScaleLevel: var(--Tall);
 		--FontWeight: 500;
-
-
 	}
 
 	li:has(>strong+:is(p, ul)) {

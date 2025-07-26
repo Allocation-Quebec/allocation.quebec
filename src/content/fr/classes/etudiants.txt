@@ -51,7 +51,8 @@
 <article class="case-portrait">
 <link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
 <header>
-<h3>Un•e etudiant·e à temps plein avec un revenu d’appoint 15 000 \$ *verra un gain net de 9 800 \$*</h3>
+<h3><i>1️⃣</i> Une étudiante à temps plein avec un revenu d’appoint de 15 000 \$</h3>
+<p> *verra un gain net de 9 800 \$* par année.</p>
 </header>
 <div>
 <section>
@@ -59,35 +60,37 @@
 <dl>
 <dt>Revenu net</dt>
 <dd>14 000 \$</dd>
-<dt>Bourse <abbr>AFE</abbr></dt>
+<dt>Bourse <abbr>AFE</abbr></dt>
 <dd>\+3 000 \$</dd>
-<dt>Total disponible</dt>
+<dt>Total actuel</dt>
 <dd>17 000 \$</dd>
 </dl>
 </section>
 <section>
-<h4 class="h5">Programme de réforme</h4>
+<h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocation brute</dt><dd>18 000 \$</dd>
+<dt>Allocation nette</dt><dd>12 600 \$</dd>
 <dt>Bourse AFE supprimée</dt><dd>\–3 000 \$</dd>
 <dt>Allègement AE & RRQ</dt><dd>\+200 \$</dd>
+<dt>Ajustement</dt><dd>+9 800 \$</dd>
 </dl>
 </section>
 <section>
-<h4 class="h5">Situation post-réforme</h4>
+<h4 class="h5">Situation finale</h4>
 <dl>
 <dt>Allocation nette</dt><dd>12 600 \$</dd>
 <dt>Revenu net</dt><dd>14 200 \$</dd>
-<dt>**Total disponible**</dt><dd>**26 800 \$**</dd>
+<dt>**Total final**</dt><dd>**26 800 \$**</dd>
 </dl>
 </section>
-<footer>
-<h4 class="h5">Possibilités économiques</h4>
+<section>
+<h4 class="h5">Concrètement c'est...</h4>
 <ul>
 <li>40 % de dettes en moins à l'obtention du diplôme.</li>
 <li>travailler à temps partiel sans réduire son niveau de vie.</li>
+<li>**une hausse de 58% de son niveau de vie.**</li>
 </ul>
-</footer>
+</section>
 </div>
 </article>
 </section>
@@ -99,14 +102,14 @@
 <strong>Imaginez un Québec où…</strong>
 </header>
 
-<ul class="as-grid">
+<ol class="as-grid">
 <li class="tile">Personne ne renonce à ses études faute de moyens.</li>
 <li class="tile">Les savoirs critiques et créatifs sont pleinement valorisés.</li>
 <li class="tile">L’éducation permanente devient une norme, pas un luxe.</li>
 <li class="tile">Les étudiant·es s’engagent dans la société en dehors des cours.</li>
 <li class="tile">L’apprentissage devient un bien commun, pour toutes les générations.</li>
 <li class="tile editable"><span><em>Et vous ?</em> Qu’aimeriez-vous apprendre si vous en aviez les moyens ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
-</ul>
+</ol>
 
 <h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
 <div class="as-grid">

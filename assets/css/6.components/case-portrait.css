@@ -1,7 +1,31 @@
 .case-portrait {
 	font-family: var(--Grotesk);
-	display: flex;
-	flex-direction: column;
+
+	&>*+* {
+		margin-top: var(--SpacingThin);
+	}
+
+	&>header {
+		text-wrap: balance;
+		&>* {
+			display: inline;
+			--ScaleLevel: var(--Taller);
+			--FontWeight: 600;
+		}
+
+		& p {
+		}
+
+
+		& em {
+			padding-inline: 0.25em;
+			background-color: oklch(98% 30% var(--LimeHue));
+			color: oklch(56% 100% var(--LimeHue));
+			border-radius: 0.25em;
+
+			font-style: normal;
+		}
+	}
 
 	*+& {
 		margin-top: var(--SpacingBroadest);
@@ -12,45 +36,106 @@
 		/* grid-template-columns: repeat(2, auto); */
 		order: 1;
 		display: flex;
-		align-items: baseline;
 		flex-wrap: wrap;
-		gap: var(--Row);
+	}
+
+	& section {
+		display: flex;
+		flex-direction: column;
+
+		border-top: 4px solid oklch(82% 36% var(--SelectedHue));
+		background-color: oklch(100% 36% var(--SelectedHue));
+		padding: var(--SpacingThin);
+		padding-top: var(--SpacingThinner);
+		flex-basis: 20ch;
+		flex-grow: 1;
+
+		position: relative;
 
 		--ScaleLevel: var(--Short);
 		--FontWeight: 480;
 		--LineHeightFactor: 0.75;
 
-		&>* {
-			flex-basis: 20ch;
+		--DefaultHue: var(--BrownHue);
+		--SelectedHue: var(--DefaultHue);
+
+		& :is(h4, dt, dd) {
+			color: oklch(60% 36% var(--SelectedHue));
+		}
+
+		&+*:before {
+			content: "";
+			position: absolute;
+			top: 0px;
+			bottom: 0;
+			border-left: 2px solid rgba(255,255,255,0.5);
+			left: 0;
+		}
+
+		&:nth-child(1) {
+			border-top: 4px solid oklch(82% 6% var(--SelectedHue));
+			background-color: oklch(94% 12% var(--SelectedHue));
+		}
+
+		&:nth-child(2) {
+			--SelectedHue: var(--BlueHue);
+		}
+
+		&:nth-child(3) {
+			--SelectedHue: var(--LimeHue);
+		}
+
+		&:nth-child(4) {
+			--SelectedHue: var(--BrownHue);
+		}
+
+		&>dl {
 			flex-grow: 1;
 		}
 	}
 
 
 	& dl {
-		display: grid;
-		grid-template-columns: 1fr min-content;
-		gap: var(--SpacingThinnest) var(--SpacingThinner);
+		display: flex;
+		flex-wrap: wrap;
+		gap: 5px;
+
+		--FontWeight: 500;
 
 		&>* {
 			margin: 0;
+			align-self: start;
 		}
+	}
 
-		& dt {
-			display: flex;
-			align-items: baseline;
+	& dt {
+		flex-basis: 50%;
+		flex-grow: 1;
+		display: flex;
+		align-items: baseline;
 
-			&::after {
-				content: "";
-				border-top: 1px dashed;
-				flex-grow: 1;
-				margin-left: var(--Row);
-			}
+		&::after {
+			content: "";
+			border-top: 1px dashed;
+			flex-grow: 1;
+			margin-left: 5px;
 		}
+	}
 
-		& dd {
-			font-family: "PP Neue Montreal Mono";
-			text-align: right;
+	& dd {
+		font-family: "PP Neue Montreal Mono";
+		text-align: right;
+
+	}
+
+	& :is(dd,dt):last-of-type {
+		margin-top: var(--SpacingThin);
+		align-self: last baseline;
+		color: inherit;
+
+		&:is(dd) {
+
+			font-weight: 800;
 		}
 	}
 
@@ -61,7 +146,7 @@
 	}
 
 	& h4+* {
-		margin-top: var(--SpacingThinner);
+		margin-top: var(--SpacingThin);
 	}
 
 }
