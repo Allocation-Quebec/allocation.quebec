@@ -130,13 +130,13 @@
 					<div class="__dropdown">
 						<h3 class="h5">Pour qui ?</h3>
 						<div>
-							<a href="/fr/classes/travailleurs">Travailleur•es</a>
-							<a href="/fr/classes/consommateurs">Consommateur•rices</a>
+							<a href="/fr/classes/travailleurs">Travailleur·es</a>
+							<a href="/fr/classes/consommateurs">Consommateur·rices</a>
 							<a href="/fr/classes/artistes">Artistes</a>
-							<a href="/fr/classes/entrepreneurs">Entrepreneur•es</a>
+							<a href="/fr/classes/entrepreneurs">Entrepreneur·es</a>
 							<a href="/fr/classes/parents">Parents</a>
-							<a href="/fr/classes/retraites">Retraité•es</a>
-							<a href="/fr/classes/etudiants">Étudiant•es</a>
+							<a href="/fr/classes/retraites">Retraité·es</a>
+							<a href="/fr/classes/etudiants">Étudiant·es</a>
 						</div>
 					</div>
 					<div class="__dropdown">
@@ -199,13 +199,13 @@
 						</section>
 						<section>
 							<h3 class="h4">Pour qui ?</h3>
-							<a href="/fr/classes/travailleurs">Travailleur•es</a>
-							<a href="/fr/classes/consommateurs">Consommateur•rices</a>
+							<a href="/fr/classes/travailleurs">Travailleur·es</a>
+							<a href="/fr/classes/consommateurs">Consommateur·rices</a>
 							<a href="/fr/classes/artistes">Artistes</a>
-							<a href="/fr/classes/entrepreneurs">Entrepreneur•es</a>
+							<a href="/fr/classes/entrepreneurs">Entrepreneur·es</a>
 							<a href="/fr/classes/parents">Parents</a>
-							<a href="/fr/classes/retraites">Retraité•es</a>
-							<a href="/fr/classes/etudiants">Étudiant•es</a>
+							<a href="/fr/classes/retraites">Retraité·es</a>
+							<a href="/fr/classes/etudiants">Étudiant·es</a>
 						</section>
 						<section>
 							<h3 class="h4">Comment ?</h3>
