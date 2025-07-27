@@ -76,7 +76,7 @@ find "$TEMP_DIR" -type f -name "*.html" | while read -r html_file; do
     mkdir -p "$(dirname "$xml_output")"
 
     # MODIFIÉ : ne réinsérer que si le HTML ou le modèle est plus récent
-    if [ ! -f "$xml_output" ] || [ "$html_file" -nt "$xml_output" ] || [ "$xml_template" -nt "$xml_output" ]; then
+	 if [ ! -f "$xml_output" ] || [ "$html_file" -nt "$xml_output" ] || [ "$xml_template" -nt "$xml_output" ] || find src/includes -type f -newer "$xml_output" | grep -q .; then
         cp "$xml_template" "$xml_output"
         gsed -i "/<root lang=\"$LANG\">/,/<\/root>/!b;//!d;/<root lang=\"$LANG\">/r $html_file" "$xml_output"
         echo "✅ Insertion : $html_file → $xml_output"
@@ -98,7 +98,7 @@ find "$TEMP_DIR" -type f -name "*.xml" | while read -r xml_file; do
     mkdir -p "$output_subdir"
 
     # MODIFIÉ : ne transformer que si le XML ou le XSLT est plus récent
-    if [ ! -f "$output_file" ] || [ "$xml_file" -nt "$output_file" ] || { [ -n "$XSLT_FILE" ] && [ "$XSLT_FILE" -nt "$output_file" ]; }; then
+	 if [ ! -f "$output_file" ] || [ "$xml_file" -nt "$output_file" ] || { [ -n "$XSLT_FILE" ] && [ "$XSLT_FILE" -nt "$output_file" ]; } || find src/includes src/templates -type f -newer "$output_file" | grep -q .; then
         if [ -n "$XSLT_FILE" ]; then
             xsltproc "$XSLT_FILE" "$xml_file" > "$output_file"
         else
