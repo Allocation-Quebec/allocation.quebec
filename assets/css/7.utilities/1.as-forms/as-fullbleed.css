@@ -36,21 +36,6 @@
 			margin-top: var(--SpacingLarge);
 		}
 
-		& ul {
-			counter-reset: imagine;
-		}
 
-		& ul>li {
-			counter-increment: imagine;
-			display: flex;
-			align-items: baseline;
-			gap: 10px;
-
-			&::before {
-				content: counter(imagine)". ";
-				font-weight: 700;
-				font-family: var(--Grotesk);
-			}
-		}
 	}
 }
