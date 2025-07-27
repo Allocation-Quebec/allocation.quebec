@@ -1,0 +1,261 @@
+<header>
+<h1>Parents</h1>
+</header>
+
+<section>
+<header>
+<small>pouvoir d’achat & sécurité familiale</small>
+<h2 class="h3"><i>👪</i> Des foyers mieux soutenus, des enfants mieux outillés</h2>
+</header>
+
+<div class="as-grid">
+<div class="as-prose">
+<p>L’allocation de subsistance renforce le budget des familles dès la naissance du premier enfant : chaque adulte conserve un revenu plancher et chaque enfant « protège » cinquante-mille dollars de revenu familial avant toute récupération. Résultat : moins d’endettement, plus de temps de qualité et de meilleures chances de réussite scolaire.</p>
+
+<h3 class="h4">Pourquoi c’est crucial ?</h3>
+<p>Un enfant sur six vit encore sous le seuil de faible revenu au Québec[^statcan2024]. Les programmes actuels sont morcelés ; ils créent des décrochages d’aide dès que les parents gravissent l’échelle salariale. Avec un montant universel et linéaire, plus aucun ménage ne tombe entre les mailles du filet.</p>
+</div>
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>Un revenu familial stable améliore la santé mentale parentale et réduit les retards de développement chez les enfants[^oecd2021]. De plus, l’allocation universelle simplifie la conciliation travail-famille : la plupart des ménages conservent un gain net lorsqu’ils acceptent des heures ou un poste mieux rémunéré.</p>
+</aside>
+</div>
+
+<h3 class="h4">Résultats concrets</h3>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Pauvreté infantile divisée par deux</strong>
+<p>L’indice LICO enfants chute de 50 %[^statcan2024].</p></li>
+
+<li class="tile"><strong class="h5">Hausse du taux d’activité maternelle</strong>
+<p>Le filet universel permet d’accepter un emploi sans perdre l’aide[^iwpr2022].</p></li>
+
+<li class="tile"><strong class="h5">Réduction des dettes familiales</strong>
+<p>Les cartes de crédit se remboursent deux fois plus vite[^finqc2019].</p></li>
+
+<li class="tile"><strong class="h5">Meilleurs résultats scolaires</strong>
+<p>Gain d’un demi-niveau en lecture en 3<sup>e</sup> année[^frqsc2020].</p></li>
+
+<li class="tile"><strong class="h5">Sécurité alimentaire renforcée</strong>
+<p>La fréquentation des banques alimentaires baisse d’un tiers[^moisson2023].</p></li>
+</ul>
+</section>
+
+<section>
+<header>
+<h2>Portraits types</h2>
+<p>Quatre exemples montrent l’impact direct sur des familles variées.</p>
+</header>
+
+<!-- Portrait 1 -->
+<article class="case-portrait">
+<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/> x
+<header>
+<h3><i></i> Couple employé de commerce : 30 000 \$ + 30 000 \$ • 1 enfant scolarisé</h3>
+<p><em>gain net d’environ 19 000 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net combiné</dt><dd>54 000 \$</dd>
+<dt>Allocation-famille et crédits</dt><dd>+4 500 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>58 500 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocations adultes nettes</dt><dd>+18 000 \$</dd>
+<dt>Allocation-enfant</dt><dd>+6 000 \$</dd>
+<dt>Programmes supprimés</dt><dd>–4 500 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+800 \$</dd>
+<dt>Impôt provincial (+1 pt)</dt><dd>–600 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+19 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>77 500 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Les frais scolaires et extrascolaires financés sans stress.</li>
+<li>Un millier de dollars par an pour un REEE.</li>
+<li>Un budget familial en hausse de 32 %.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<!-- Portrait 2 -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Couple classe moyenne : 45 000 \$ + 70 000 \$ • 2 enfants en CPE</h3>
+<p><em>gain net d’environ 8 000 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net combiné</dt><dd>96 000 \$</dd>
+<dt>Programme famille + CPE</dt><dd>+16 000 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>112 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation-enfant</dt><dd>+12 000 \$</dd>
+<dt>Subvention CPE perdue</dt><dd>–9 000 \$</dd>
+<dt>Programmes supprimés</dt><dd>–2 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+1 000 \$</dd>
+<dt>Impôt provincial (+1 pt)</dt><dd>–1 100 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+8 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>120 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Le plein tarif de garde payé sans s’endetter.</li>
+<li>Une marge pour épargner ou voyager en famille.</li>
+<li>Un budget en hausse de 7 % malgré la fin du 9 \$.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<!-- Portrait 3 -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Mère monoparentale employée de bureau : 40 000 \$ • 1 enfant</h3>
+<p><em>gain net d’environ 7 000 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net</dt><dd>34 000 \$</dd>
+<dt>Allocation-famille</dt><dd>+1 000 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>35 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>+3 600 \$</dd>
+<dt>Allocation-enfant</dt><dd>+6 000 \$</dd>
+<dt>Programme supprimé</dt><dd>–1 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+500 \$</dd>
+<dt>Impôt provincial (+1 pt)</dt><dd>–600 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+7 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>42 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Passer de la location à l’épargne d’un dépôt hypothécaire.</li>
+<li>Plus de flexibilité pour la garde partagée.</li>
+<li>Un budget en hausse de 20 %.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<!-- Portrait 4 -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Mère célibataire infirmière : 90 000 \$ • 3 enfants</h3>
+<p><em>gain net d’environ 9 500 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net</dt><dd>67 000 \$</dd>
+<dt>Allocations-famille & crédits</dt><dd>+9 500 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>76 500 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation-enfant (3)</dt><dd>+18 000 \$</dd>
+<dt>Programmes supprimés</dt><dd>–9 500 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+1 900 \$</dd>
+<dt>Impôt provincial (+1 pt)</dt><dd>–900 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+9 500 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Revenu net ajusté</dt><dd>68 000 \$</dd>
+<dt>Allocation-enfant</dt><dd>18 000 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>86 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Le financement de trois activités parascolaires par enfant.</li>
+<li>La possibilité de réduire la charge de travail d’un quart.</li>
+<li>Un budget familial en hausse de 12 %.</li>
+</ol>
+</section>
+</div>
+</article>
+</section>
+
+<!-- NOTES -->
+[^statcan2024]: [Statistique Canada. 2024. *Enfants vivant dans une famille à faible revenu – tableau 11-10-0020-01*](https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1110009201)  
+[^oecd2021]: [OCDE. 2021. *Parental Leave Systems – Policy Review*](https://www.oecd.org/social/family/parental-leave-policy-review-2021.pdf)  
+[^iwpr2022]: [Institute for Women’s Policy Research. 2022. *Why Paid Leave Matters*](https://iwpr.org/iwpr-issues/work-family/why-paid-leave-matters/)  
+[^finqc2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales – Édition 2019*](https://www.finances.gouv.qc.ca/documents/autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)  
+[^frqsc2020]: [Fonds de recherche du Québec – Société et culture. 2020. *Le revenu familial et la réussite scolaire*](https://frq.gouv.qc.ca/story/le-revenu-familial-et-la-reussite-scolaire/)  
+[^moisson2023]: [Moisson Montréal. 2023. *Rapport annuel 2023 – Sécurité alimentaire*](https://moissonmontreal.org/rapport-2023/)

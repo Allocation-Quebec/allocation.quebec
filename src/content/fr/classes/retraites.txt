@@ -1,0 +1,221 @@
+<header>
+<h1>Retraité·es</h1>
+</header>
+
+<section>
+<header>
+<small>sécurité et dignité</small>
+<h2 class="h3"><i>🧓</i> Vieillir sans précarité</h2>
+</header>
+
+<div class="as-grid">
+<div class="as-prose">
+<p>L’allocation de subsistance garantit à chaque personne aînée un revenu de base qui complète ou remplace ses pensions existantes. Elle réduit la pauvreté des 65 ans et + et offre la tranquillité d’esprit nécessaire pour profiter pleinement de la retraite.</p>
+
+<h3 class="h4">Pourquoi c’est important ?</h3>
+<p>Près d’un aîné québécois sur huit vit sous le seuil de faible revenu[^statcan2023]. La longévité augmente, mais les régimes de retraite publics et privés ne couvrent pas toujours les besoins essentiels. Un revenu universel et inconditionnel protège la dignité et allège la pression sur les services sociaux et la santé.</p>
+</div>
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>Des expériences internationales montrent qu’un soutien monétaire inconditionnel améliore la santé physique et mentale des aînés[^basicfinland2019]. En assurant un revenu sûr, on retarde l’entrée en institution et on réduit les hospitalisations.</p>
+</aside>
+</div>
+
+<h3 class="h4">Résultats concrets</h3>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Baisse de la pauvreté aînée</strong>
+<p>Le taux de pauvreté des 65 ans et + recule de plus de la moitié[^statcan2023].</p></li>
+
+<li class="tile"><strong class="h5">Soulagement des proches aidants</strong>
+<p>Un revenu garanti réduit la charge financière des familles qui soutiennent leurs parents âgés[^lco2021].</p></li>
+
+<li class="tile"><strong class="h5">Report de l’hébergement en CHSLD</strong>
+<p>Grâce à de meilleurs moyens à domicile, l’entrée en institution est retardée en moyenne d’un an[^cihi2022].</p></li>
+
+<li class="tile"><strong class="h5">Stimulation de la consommation locale</strong>
+<p>Les aînés dépensent l’allocation surtout dans leur quartier (alimentation, services de proximité)[^fms2019].</p></li>
+
+<li class="tile"><strong class="h5">Prévention de l’isolement</strong>
+<p>Un revenu stable favorise les activités sociales et bénévoles, renforçant le tissu communautaire[^ageuk2018].</p></li>
+</ul>
+</section>
+
+<section>
+<header>
+<h2>Portraits types</h2>
+<p>Comment l’allocation de subsistance transformerait-elle la vie des retraité·es ? Voici quelques situations typiques.</p>
+</header>
+
+<article class="case-portrait">
+<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
+<header>
+<h3><i></i> Retraitée seule recevant 15 000&nbsp;\$ de pensions publiques</h3>
+<p><em>verra un gain net de 11 850&nbsp;\$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>RRQ et PSV nettes</dt><dd>15 000&nbsp;\$</dd>
+<dt>Crédit solidarité</dt><dd>+600&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>15 600&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>12 600&nbsp;\$</dd>
+<dt>Crédit solidarité supprimé</dt><dd>–600&nbsp;\$</dd>
+<dt>Impôt provincial (+1 pt)</dt><dd>–150&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+11 850&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Allocation nette</dt><dd>12 600&nbsp;\$</dd>
+<dt>Pensions nettes</dt><dd>14 850&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>27 450&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Le loyer et les dépenses courantes couverts sans stress.</li>
+<li>Un budget loisirs qui triple.</li>
+<li>Une hausse de 76 % du revenu disponible.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<article class="case-portrait">
+<header>
+<h3><i></i> Couple retraité avec 50 000&nbsp;\$ de revenus privés</h3>
+<p><em>verra un gain net de 4 200&nbsp;\$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Rentes privées après impôt</dt><dd>50 000&nbsp;\$</dd>
+<dt>RRQ et PSV</dt><dd>+34 000&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>84 000&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette (2)</dt><dd>0&nbsp;\$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+800&nbsp;\$</dd>
+<dt>Impôt provincial (+1 pt chacun)</dt><dd>–1 600&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+4 200&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Revenu net ajusté</dt><dd>88 200&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Le budget voyage annuel entièrement financé.</li>
+<li>Une protection accrue contre l’inflation.</li>
+<li>Aucune cotisation additionnelle à payer.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<article class="case-portrait">
+<header>
+<h3><i></i> Retraité travaillant à temps partiel 25 000&nbsp;\$</h3>
+<p><em>verra un gain net de 6 600&nbsp;\$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net d’emploi</dt><dd>23 500&nbsp;\$</dd>
+<dt>RRQ partielle</dt><dd>+8 000&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>31 500&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>5 400&nbsp;\$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+400&nbsp;\$</dd>
+<dt>Impôt provincial (+1 pt)</dt><dd>–200&nbsp;\$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+6 600&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Revenu net ajusté</dt><dd>38 100&nbsp;\$</dd>
+</dl>
+</section>
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>La possibilité de réduire d’un jour par semaine le travail.</li>
+<li>Une marge de 550&nbsp;\$ par mois pour loisirs et santé.</li>
+<li>Un revenu en hausse de 21&nbsp;%.</li>
+</ol>
+</section>
+</div>
+</article>
+</section>
+
+<section class="as-fullbleed with-scheme-secondary" data-after="footnotes">
+<header>
+<small>vieillir en confiance</small>
+<h2 class="h1">Projetons-nous</h2>
+<strong>Imaginez un Québec où…</strong>
+</header>
+
+<ol class="as-grid">
+<li class="tile">Aucun aîné ne choisit entre se nourrir et se chauffer.</li>
+<li class="tile">Les grands-parents participent activement à la vie communautaire.</li>
+<li class="tile">Les soins à domicile deviennent la norme, pas un luxe.</li>
+<li class="tile">Les proches aidants reçoivent le soutien qu’ils méritent.</li>
+<li class="tile">La retraite devient une nouvelle aventure, pas une inquiétude.</li>
+<li class="tile editable"><span><em>Et vous ?</em> Comment profiteriez-vous d’une retraite sécurisée ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
+</ol>
+
+<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
+<div class="as-grid">
+<blockquote class="tile"><p>« Je pourrais rester chez moi plus longtemps, entourée de mes souvenirs. »</p><cite class="h4">Claire L.</cite></blockquote>
+<blockquote class="tile"><p>« Finies les fins de mois serrées ; place aux sorties avec mes petits-enfants. »</p><cite class="h4">Gaston P.</cite></blockquote>
+<blockquote class="tile"><p>« Ce revenu de base est un filet de sécurité pour toute la société. »</p><cite class="h4">Louise R.</cite></blockquote>
+</div>
+
+<hr />
+<p>Avec une allocation de subsistance, un Québec <em>plus digne et solidaire</em> est possible.</p>
+</section>
+
+<!-- Notes de bas de page -->
+[^statcan2023]: [Statistique Canada. 2023. *Taux de faible revenu chez les aînés au Canada.*](https://www150.statcan.gc.ca/n1/pub/45-20-0002/452000022024002-fra.htm)  
+[^basicfinland2019]: [KELA. 2019. *The Basic Income Experiment 2017–2018 in Finland – Preliminary Results.*](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161361/Report_TheBasicIncomeExperiment20172018inFinland.pdf)  
+[^lco2021]: [Law Commission of Ontario. 2021. *Last Stages of Life — Final Report.*](https://www.lco-cdo.org/wp-content/uploads/2021/11/Last-Stages-of-Life-Final-Report-Oct-1-2021.pdf)  
+[^cihi2022]: [Institut canadien d’information sur la santé (CIHI). 2022. *Long-Term Care Data, 2022–2023 — User Guide.*](https://www.cihi.ca/sites/default/files/document/long-term-care-data-2022-2023-guide-en.pdf)  
+[^fms2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales — Édition 2019.*](https://www.finances.gouv.qc.ca/documents/Autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)  
+[^ageuk2018]: [Age UK. 2018. *Creative and Cultural Activities and Wellbeing in Later Life.*](https://www.ageuk.org.uk/bp-assets/globalassets/oxfordshire/original-blocks/about-us/age-uk-report--creative-and-cultural-activities-and-wellbeing-in-later-life-april-2018.pdf)
