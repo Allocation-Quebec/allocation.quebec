@@ -89,6 +89,7 @@
 				border-radius: 50%;
 				border: 2px solid transparent;
 				background-color: oklch(98% 6% var(--BrownHue));
+				line-height: 0;
 			}
 
 			&:is(h1)>i {
@@ -96,6 +97,7 @@
 				padding: 0.75ch;
 				border-color: oklch(88% 6% var(--BrownHue));
 				background-color: oklch(55% 39% var(--ThemeHue));
+				margin-right: calc(60px - 2ch - 0.75ch - 4px);
 			}
 
 		}
