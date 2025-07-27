@@ -46,11 +46,6 @@
 		display: block;
 	}
 
-
-	h3+p {
-		/* font-style: italic; */
-	}
-
 	h2+p {
 		--ScaleLevel: var(--Tall);
 		--BaselineInterval: calc(var(--Row) / 4);
@@ -97,13 +92,6 @@
 
 	li {
 		--LineHeightFactor: 1.25;
-	}
-
-	ol>li {
-		font-family: var(--Serif);
-
-		--ScaleLevel: var(--Tall);
-		--FontWeight: 500;
 	}
 
 	li:has(>strong+:is(p, ul)) {
