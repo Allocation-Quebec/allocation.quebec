@@ -1,0 +1,6 @@
+<header class="with-scheme-secondary-dark">
+    <h1><strong>L'allocation de subsistance</strong><br/><small>un projet de société porteur pour le XXI<sup>e</sup> siècle</small>.</h1>
+    <br />
+    <strong>Parce qu'il est maintenant possible de s'assurer que tout·e québécois·e ait les moyens financiers de se loger, se nourrir et se vêtir. Parce que ce faisant, nous pouvons réduire la bureaucratie, libéraliser l'économie, promouvoir la liberté et plus encore.</strong>
+    <p> Parce qu'il est plus que temps de mettre la <strong>solidarité québécoise</strong> à profit. Pour vrai.</p>
+</header>
