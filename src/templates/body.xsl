@@ -78,8 +78,12 @@
 		</xsl:copy>
 	</xsl:template>
 
-	<xsl:variable name="theme">
-		<xsl:value-of select="//meta/@theme"/>
+	<xsl:variable name="theme" select="//meta/@theme"/>
+	<xsl:variable name="page-id" select="//meta/@page-id" />
+	<xsl:variable name="with-line-and-icons">
+			<xsl:if test="not(//meta/@with-line-and-icons = 'no')">
+				<xsl:text>with-line-and-icons</xsl:text>
+			</xsl:if>
 	</xsl:variable>
 
 	<xsl:template match="root[@lang='fr']" mode="noscript">
@@ -90,7 +94,7 @@
 	</xsl:template>
 
 	<xsl:template match="root" mode="body" name="body">
-		<body ontouchstart="" class="{$theme} with-line-and-icons">
+		<body id="{$page-id}" class="{$theme} {$with-line-and-icons}" ontouchstart="">
 			<link rel="stylesheet" href="/assets/css/4.regions/body.css"/>
 			<xsl:if test="$script">
 				<noscript>
