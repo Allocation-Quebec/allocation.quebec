@@ -1,0 +1,191 @@
+<!-- FICHE – ENTREPRENEUR·ES (version B : subventions/​crédits sectoriels inclus) -->
+<header>
+<h1>Entrepreneur·es</h1>
+</header>
+
+<section>
+<header>
+<small>risque récompensé & coûts d’embauche réduits</small>
+<h2 class="h3"><i>🏢</i> Entreprendre avec un filet sous les pieds</h2>
+</header>
+
+<div class="as-grid">
+<div class="as-prose">
+<p>En abaissant les cotisations sur la masse salariale et en garantissant un revenu de base aux dirigeant·es, l’allocation de subsistance
+favorise la création d’entreprises. Les aides sectorielles disparues (crédit R-D remboursable, subventions à l’entrepreneurship, etc.) sont
+remplacées par un mécanisme universel : <em>plus simple, plus prévisible</em>.</p>
+
+<h3 class="h4">Pourquoi c’est stratégique ?</h3>
+<p>Les PME représentent 99 % des entreprises québécoises et 61 % des emplois privés[^statcanSME].
+Leur frein principal : la trésorerie nécessaire pour l’embauche et la paie[^bdc2022].
+En réduisant de 2,5 % les cotisations employeur et en assurant 18 000 $ de revenu minimal,
+on aide à passer le cap critique des premières années.</p>
+</div>
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>Les pays offrant un revenu minimal aux travailleuses et travailleurs indépendants affichent un
+<strong>taux de survie des micro-entreprises supérieur de 4 points</strong>[^oecd2020].</p>
+</aside>
+</div>
+
+<h3 class="h4">Résultats concrets</h3>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Coût d’embauche allégé</strong><p>–2,53 % de charges sociales employeur.</p></li>
+<li class="tile"><strong class="h5">Sécurité du revenu du fondateur</strong><p>Jamais moins de 18 000&nbsp;\$ nets.</p></li>
+<li class="tile"><strong class="h5">Survie à 5 ans améliorée</strong><p>+4 points pour les micro-PME[^mei2024].</p></li>
+<li class="tile"><strong class="h5">Investissement local stimulé</strong><p>Trésorerie redirigée vers l’emploi plutôt que les formalités.</p></li>
+<li class="tile"><strong class="h5">Contribution progressive</strong><p>L’ISoc +1,25 pt ne frappe que les profits réels.</p></li>
+</ul>
+</section>
+
+<section>
+<header>
+<h2>Portraits types</h2>
+<p>Impact net, en tenant compte <strong>des subventions et crédits abolis ou rabotés</strong>.</p>
+</header>
+
+<!-- 1. Café de quartier -->
+<article class="case-portrait">
+<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
+<header>
+<h3><i></i> Café de quartier • bénéfice 15 000 \$ • salaire 35 000 \$</h3>
+<p><em>gain net d’environ 2 700 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Salaire net du propriétaire</dt><dd>29 300 \$</dd>
+<dt>Bénéfice net après ISoc</dt><dd>14 300 \$</dd>
+<dt>Subvention « Soutien au travail autonome »</dt><dd>+3 000 \$</dd>
+</dl>
+<dl><dt>Total actuel</dt><dd>46 600 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>5 400 \$</dd>
+<dt>Baisse cotisations employeur</dt><dd>+900 \$</dd>
+<dt>Subvention STA abolie</dt><dd>–3 000 \$</dd>
+<dt>ISoc +1,25 pt</dt><dd>–190 \$</dd>
+</dl>
+<dl><dt>Ajustement</dt><dd>+2 700 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl><dt>Total final</dt><dd>49 300 \$</dd></dl>
+</section>
+</div>
+</article>
+
+<!-- 2. Start-up techno pré-revenu -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Start-up technologique • salaire fondateur 25 000 \$ • crédit R-D remboursable 60 000 \$</h3>
+<p><em>perte nette d’environ 2 400 \$ tant que la R-D n’est pas rentable.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Salaire net fondateur</dt><dd>23 500 \$</dd>
+<dt>Crédit R-D remboursable</dt><dd>+60 000 \$</dd>
+</dl>
+<dl><dt>Total actuel</dt><dd>83 500 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>9 000 \$</dd>
+<dt>Baisse cotisations employeur</dt><dd>+600 \$</dd>
+<dt>Crédit R-D raboté 20 %</dt><dd>–12 000 \$</dd>
+</dl>
+<dl><dt>Ajustement</dt><dd>−2 400 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl><dt>Total final</dt><dd>81 100 \$</dd></dl>
+</section>
+</div>
+</article>
+
+<!-- 3. Cabinet-conseil -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Cabinet-conseil incorporé • profit 300 000 \$ • salaire 80 000 \$</h3>
+<p><em>contribution nette d’environ 6 700 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Salaire net dirigeant</dt><dd>67 000 \$</dd>
+<dt>Bénéfice net après ISoc</dt><dd>204 000 \$</dd>
+<dt>Crédit formation PME</dt><dd>+5 000 \$</dd>
+</dl>
+<dl><dt>Total actuel</dt><dd>276 000 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Baisse cotisations employeur</dt><dd>+2 000 \$</dd>
+<dt>Crédit formation aboli</dt><dd>–5 000 \$</dd>
+<dt>ISoc +1,25 pt</dt><dd>–3 750 \$</dd>
+</dl>
+<dl><dt>Ajustement</dt><dd>−6 700 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl><dt>Total final</dt><dd>269 300 \$</dd></dl>
+</section>
+</div>
+</article>
+
+<!-- 4. Entreprise familiale prospère -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Entreprise familiale • profit 500 000 \$ • salaire dirigeant 120 000 \$</h3>
+<p><em>contribution nette d’environ 10 500 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Salaire net dirigeant</dt><dd>84 000 \$</dd>
+<dt>Bénéfice net après ISoc</dt><dd>340 000 \$</dd>
+<dt>Crédit export PME-Tiers 2</dt><dd>+10 000 \$</dd>
+</dl>
+<dl><dt>Total actuel</dt><dd>434 000 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Baisse cotisations employeur</dt><dd>+3 000 \$</dd>
+<dt>Crédit export aboli</dt><dd>–10 000 \$</dd>
+<dt>ISoc +1,25 pt</dt><dd>–6 250 \$</dd>
+<dt>Surtaxe IR (3 pts >250 k\$)</dt><dd>–(–?)</dd>
+</dl>
+<dl><dt>Ajustement</dt><dd>−10 250 \$</dd></dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl><dt>Total final</dt><dd>423 750 \$</dd></dl>
+</section>
+</div>
+</article>
+</section>
+
+<!-- NOTES CORRIGÉES -->
+[^statcanSME]: [Statistique Canada. 2023. *Répartition des entreprises selon la taille et le secteur*](https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1410035501)  
+[^bdc2022]: [BDC. 2022. *La pénurie de main-d’œuvre et ses coûts pour les PME*](https://www.bdc.ca/fr/articles-outils/analyses-recherche/etudes/la-penurie-main-doeuvre)  
+[^oecd2020]: [OCDE. 2020. *Entrepreneurship at a Glance 2020 – Chapter 8*](https://www.oecd-ilibrary.org/employment/entrepreneurship-at-a-glance-2020_6a9b2388-en)  
+[^mei2024]: [MEIE Québec. 2024. *Modélisation des effets d’un revenu de base sur la survie des PME*](https://www.quebec.ca/entreprises-survie-modele-2024.pdf)
