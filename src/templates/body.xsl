@@ -134,6 +134,7 @@
 							<a href="/fr/classes/consommateurs">Consommateur·rices</a>
 							<a href="/fr/classes/artistes">Artistes</a>
 							<a href="/fr/classes/entrepreneurs">Entrepreneur·es</a>
+							<a href="/fr/classes/employeurs">Employeur·es</a>
 							<a href="/fr/classes/parents">Parents</a>
 							<a href="/fr/classes/retraites">Retraité·es</a>
 							<a href="/fr/classes/etudiants">Étudiant·es</a>
@@ -148,7 +149,7 @@
 						</div>
 					</div>
 					<div class="__dropdown">
-						<h3 class="h5">En savoir plus</h3>
+						<h3 class="h5">Mais encore ?</h3>
 						<div>
 							<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>
 							<a href="/fr/plus/mythes">Mythes persistants</a>
@@ -203,6 +204,7 @@
 							<a href="/fr/classes/consommateurs">Consommateur·rices</a>
 							<a href="/fr/classes/artistes">Artistes</a>
 							<a href="/fr/classes/entrepreneurs">Entrepreneur·es</a>
+							<a href="/fr/classes/employeurs">Employeur·es</a>
 							<a href="/fr/classes/parents">Parents</a>
 							<a href="/fr/classes/retraites">Retraité·es</a>
 							<a href="/fr/classes/etudiants">Étudiant·es</a>
@@ -214,7 +216,7 @@
 							<a href="/fr/comment/etat">Rôle de l'État</a>
 						</section>
 						<section>
-							<h3 class="h4">En savoir plus</h3>
+							<h3 class="h4">Mais encore ?</h3>
 							<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>
 							<a href="/fr/plus/mythes">Mythes persistants</a>
 							<a href="/fr/plus/partisans">Panthéon des partisans</a>
