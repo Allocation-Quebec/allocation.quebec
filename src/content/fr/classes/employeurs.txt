@@ -1,13 +1,6 @@
 <header>
 <h1>Employeur·es</h1>
 </header>
-<section>
-<header>
-<small>éducation et avenir</small>
-<h2 class="h3"><i>📚</i> Une génération libre d’apprendre</h2>
-</header>
-</section>
-<section>
 <!-- 1. PME de service / faible R-D -->
 <article class="case-portrait">
 <header>
