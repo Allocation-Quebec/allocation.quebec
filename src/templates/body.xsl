@@ -99,7 +99,7 @@
 			</xsl:if>
 			<link rel="stylesheet" href="/assets/css/4.regions/header.css"/>
 			<header id="header">
-				<h1 class="signature">Allocation <em>Québec</em></h1>
+				<h1 class="signature"><a href="/fr">Allocation <em>Québec</em></a></h1>
 			</header>
 			<link rel="stylesheet" href="/assets/css/4.regions/nav.css"/>
 			<nav id="nav">
