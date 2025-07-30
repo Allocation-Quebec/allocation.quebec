@@ -7,6 +7,9 @@
 		font-family: var(--Grotesk);
 		white-space: nowrap;
 
+		a {
+			all: inherit;
+		}
 		&.as-big {
 			--ScaleLevel: var(--Tall);
 		}
