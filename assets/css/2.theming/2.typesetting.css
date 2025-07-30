@@ -32,6 +32,10 @@
 		--LineHeightFactor: 1.1;
 	}
 
+	:is(h1, .h1) small {
+		font-size: 0.875em;
+	}
+
 	.h3, h3 {
 		--FontWeight: 540;
 	}
