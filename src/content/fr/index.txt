@@ -2,15 +2,54 @@
 <meta page-id="index"/>
 
 <header class="with-scheme-secondary-dark">
-    <h1><strong>L'allocation de subsistance</strong><br/><small>un projet de société porteur pour le XXI<sup>e</sup> siècle</small>.</h1>
-    <br />
-    <strong>Parce qu'il est maintenant possible de s'assurer que tout·e québécois·e ait les moyens financiers de se loger, se nourrir et se vêtir. Parce que ce faisant, nous pouvons réduire la bureaucratie, libéraliser l'économie, promouvoir la liberté et plus encore.</strong>
-    <p> Parce qu'il est plus que temps de mettre la <strong>solidarité québécoise</strong> à profit. Pour vrai.</p>
+<h1><strong>L'allocation de subsistance</strong><br/><small>un projet de société porteur pour le XXI<sup>e</sup> siècle</small>.</h1>
+<p>Parce qu'il est maintenant possible de s'assurer que tout·e québécois·e ait les moyens financiers de se loger, se nourrir et se vêtir. Parce que ce faisant, nous pouvons <a href="/fr/bienfaits/bureaucratie">réduire la bureaucratie</a>, <a href="/fr/bienfaits/deregelementation">libéraliser l'économie</a>, promouvoir la liberté et plus encore.</p>
+<a class="cta" href="/fr/programme-economique">Et oui, c'est économiquement viable.</a>
 </header>
 <section class="as-fullbleed with-scheme-secondary">
-    <header>
-    <small>une politique simple et efficace</small>
-    <h2>C'est quoi une « allocation de subsistance » ?</h2>
-    <p>L'allocation de subsistance c'est un versement inconditionnel, récupéré progressivement par l'impôt sur le revenu, et qui assure à tout adulte québécois un minimum de 18 000 \$ par année et 6 000 $ pour tout enfant de 17 ans et moins à leur charge.</p>
-    </header>
+<header>
+<small>C'est quoi une « allocation de subsistance » ?</small>
+<h2>Une politique simple et efficace</h2>
+</header>
+<div class="as-grid">
+<div>
+<p class="h3" style="--LineHeightFactor: 1.5;--BaselineInterval: calc(var(--Row) / 4);">L'allocation de subsistance c'est un versement inconditionnel, récupéré progressivement par l'impôt sur le revenu, et qui <strong>assure à tout adulte québécois un minimum de 18 000 \$ par année et 6 000 $ pour tout enfant de 17 ans et moins à leur charge.</strong> </p>
+<p>Mais surtout, tout en promettant un éventail de bienfaits souhaitbles et largement répartis dans la société.</p>
+</div>
+<div>
+<h3>Honorer des valeurs chères aux québécois·es</h3>
+<ul class="as-grid" style="--ColumnWidth: 16ch; --GutterWidth: 4px;">
+<li class="tile">
+<a href="/fr/valeurs/securite" class="brick">
+<h3>Sécurité</h3>
+<small>personne laissé pour compte</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/valeurs/liberte" class="brick">
+<h3>Liberté</h3>
+<small>pouvoir choisir son parcours</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/valeurs/equite" class="brick">
+<h3>Équité</h3>
+<small>réduire les plus grands écarts</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/valeurs/ecologie" class="brick">
+<h3>Écologie</h3>
+<small>pour une croissance durable</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/valeurs/solidarite" class="brick">
+<h3>Solidarité</h3>
+<small>pour nous supporter ensemble</small>
+</a>
+</li>
+</ul>
+</div>
+</div>
 </section>

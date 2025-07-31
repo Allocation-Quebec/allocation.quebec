@@ -50,7 +50,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> PME manufacturière • 200 employé·es • masse salariale&nbsp;20 000 000 \$ • profit&nbsp;2 000 000 \$</h3>
-<p><em>contribution nette d’environ 360 000 \$ par année.</em></p>
+<p><em class="__loss">contribution nette d’environ 360 000 \$ par année.</em></p>
 </header>
 <div>
 <section>
@@ -76,7 +76,7 @@
 <dl><dt>Ajustement</dt><dd>–359 000 \$</dd></dl>
 </section>
 
-<section>
+<section class="__loss">
 <h4 class="h5">Situation finale</h4>
 <dl><dt>Profit net après réforme</dt><dd>1 641 000 \$</dd></dl>
 </section>

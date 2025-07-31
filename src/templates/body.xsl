@@ -54,9 +54,9 @@
 	</xsl:template>
 
 	<xsl:template match="*[@class='tile'][generate-id() = generate-id(//*[@class='tile'][1])]">
+		<link rel="stylesheet" href="/assets/css/6.components/tile.css"/>
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>
-			<link rel="stylesheet" href="/assets/css/6.components/tile.css"/>
 			<xsl:apply-templates select="node()"/>
 		</xsl:copy>
 	</xsl:template>

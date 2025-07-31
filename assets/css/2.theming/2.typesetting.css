@@ -40,11 +40,15 @@
 		--FontWeight: 540;
 	}
 
+	.h4, h4 {
+		--FontWeight: 640;
+	}
+
 	strong {
 		--FontWeight: 600;
 	}
 
-	:is(h1, .h1)~strong {
+	:is(h1, .h1)~:is(p, strong) {
 		--ScaleLevel: var(--Taller);
 
 		display: block;
@@ -52,8 +56,8 @@
 
 	h2+p {
 		--ScaleLevel: var(--Tall);
+		--LineHeightFactor: 1.5;
 		--BaselineInterval: calc(var(--Row) / 4);
-		--LineHeightFactor 1.5;
 	}
 
 	html {
@@ -65,6 +69,14 @@
 		font-family: var(--Serif);
 		scroll-padding-top: 40px;
 	}
+
+	/* main>section p:only-of-type { */
+	/* 	--ScaleLevel: var(--Tall); */
+	/* 	--FontWeight: 500; */
+	/* 	--LineHeightFactor: 1.5; */
+	/* 	--BaselineInterval: calc(var(--Row) / 4); */
+	/* 	font-family: var(--Grotesk); */
+	/* } */
 
 	header {
 		--FontWeight: 540;
@@ -78,19 +90,10 @@
 
 			text-transform: uppercase;
 		}
-	}
 
-	main>section>p:only-of-type {
-		--ScaleLevel: var(--Hugest);
-		--FontWeight: 800;
-		--LineHeightFactor: 1.1;
-
-		font-family: var(--Condensed);
-		text-transform: uppercase;
-		min-width: initial;
-
-		& em {
-			color: oklch(96% 46% var(--LimeHue));
+		p {
+			--FontWeight: 500;
+			text-wrap: balance;
 		}
 	}
 
@@ -128,6 +131,13 @@
 
 		&>p {
 			--ScaleLevel: var(--Short);
+		}
+	}
+
+	p a {
+		color: oklch(98% 30% var(--RedHue));
+		&:not(:hover) {
+			text-decoration: none;
 		}
 	}
 }

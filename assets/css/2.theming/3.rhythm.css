@@ -72,8 +72,16 @@
 		margin-top: var(--SpacingThinnest);
 	}
 
-	h1 + p {
-		margin-top: var(--SpacingBroader);
+	h1 ~ p {
+		margin-top: var(--SpacingBroad);
+	}
+
+	h1 ~ p + a {
+		margin-top: var(--SpacingBroadest);
+	}
+
+	h2 + p {
+		margin-top: var(--SpacingBroad);
 	}
 
 	p + h3 {

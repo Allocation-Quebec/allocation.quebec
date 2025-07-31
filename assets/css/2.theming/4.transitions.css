@@ -15,7 +15,7 @@ main>header {
 		view-transition-name: entete;
 	}
 	&+* {
-		view-transition-name: over-entete;
+		/* view-transition-name: over-entete; */
 	}
 }
 

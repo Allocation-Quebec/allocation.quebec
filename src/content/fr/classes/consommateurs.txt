@@ -4,6 +4,7 @@
 <section>
 <!-- 1. Étudiant urbain -->
 <article class="case-portrait">
+<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
 <header>
 <h3><i></i> Étudiant urbain • consommation 13 000 \$ • revenu 20 000 \$</h3>
 <p><em>gain net d’environ 10 850 \$ par année.</em></p>
@@ -81,7 +82,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> Professionnel célibataire • revenu 95 000 \$ • consommation 45 000 \$</h3>
-<p><em>contribution nette d’environ 190 \$ par année.</em></p>
+<p><em class="__loss">contribution nette d’environ 190 \$ par année.</em></p>
 </header>
 <div>
 <section>
@@ -97,7 +98,7 @@
 <dt>Carbone (+12 $/t)</dt><dd>–90 \$</dd></dl>
 <dl><dt>Ajustement</dt><dd>–190 \$</dd></dl>
 </section>
-<section>
+<section class="__loss">
 <h4 class="h5">Situation finale</h4>
 <dl><dt>Revenu disponible ajusté</dt><dd>66 810 \$</dd></dl>
 </section>
@@ -154,7 +155,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> Couple haut revenu • revenu 300 000 \$ • consommation 80 000 \$</h3>
-<p><em>contribution nette d’environ 13 900 \$ par année.</em></p>
+<p><em class="__loss">contribution nette d’environ 13 900 \$ par année.</em></p>
 </header>
 <div>
 <section>
@@ -171,7 +172,7 @@
 <dt>Surtaxes luxe (foncière, FTT, capital)</dt><dd>–13 500 \$</dd></dl>
 <dl><dt>Ajustement</dt><dd>–13 900 \$</dd></dl>
 </section>
-<section>
+<section class="__loss">
 <h4 class="h5">Situation finale</h4>
 <dl><dt>Revenu disponible ajusté</dt><dd>–4 % par rapport à avant</dd></dl>
 </section>

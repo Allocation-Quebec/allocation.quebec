@@ -1,0 +1,190 @@
+<header>
+<h1>Artistes</h1>
+</header>
+<section>
+<!-- 1. Peintre émergente -->
+<article class="case-portrait">
+<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
+<header>
+<h3><i></i> Peintre émergente • revenu annuel 18 000 \$</h3>
+<p><em>gain net d’environ 11 800 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net d’art</dt><dd>17 000 \$</dd>
+<dt>Bourse CALQ création</dt><dd>+6 000 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>23 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>+11 520 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+280 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+11 800 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>34 800 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Une sécurité financière toute l’année.</li>
+<li>La possibilité d’exposer sans courir les petits boulots.</li>
+<li>Un revenu disponible en hausse de 51 %.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<!-- 2. Musicien·ne pigiste -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Musicien·ne pigiste • revenu annuel 30 000 \$</h3>
+<p><em>gain net d’environ 5 150 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net de cachets</dt><dd>27 500 \$</dd>
+<dt>Crédit production sonore</dt><dd>+1 500 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>29 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte nette</dt><dd>+6 200 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+450 \$</dd>
+<dt>Crédit production supprimé</dt><dd>–1 500 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+5 150 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>34 150 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Moins de pression pour accepter les cachets sous-payés.</li>
+<li>Budget d’équipement renouvelé sans emprunt.</li>
+<li>Revenu disponible en hausse de 18 %.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<!-- 3. Réalisateur-producteur indépendant -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Réalisateur-producteur indépendant • revenu annuel 65 000 \$</h3>
+<p><em>contribution nette d’environ 5 200 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net d’honoraires</dt><dd>50 000 \$</dd>
+<dt>Crédit d’impôt audiovisuel</dt><dd>+6 000 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>56 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Crédit audiovisuel raboté</dt><dd>–6 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+800 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>–5 200 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>50 800 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Une légère baisse du revenu net (–8 %).</li>
+<li>Incite à ajuster les tarifs ou co-productions.</li>
+<li>Moins de démarches pour réclamer des crédits.</li>
+</ol>
+</section>
+</div>
+</article>
+
+<!-- 4. Chanteuse populaire autonome -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Chanteuse populaire autonome • revenu annuel 180 000 \$</h3>
+<p><em>contribution nette d’environ 5 400 \$ par année.</em></p>
+</header>
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net après impôt</dt><dd>132 000 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Cotisations AE & RRQ ↓</dt><dd>+1 600 \$</dd>
+<dt>Surtaxes luxe (foncière, FTT, gains cap.)</dt><dd>–7 000 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>–5 400 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Total final</dt><dd>126 600 \$</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Une contribution équivalente à 3 % du revenu net.</li>
+<li>Charges sociales allégées malgré la surtaxe patrimoine.</li>
+<li>Aide à financer le filet social dont bénéficient les jeunes artistes.</li>
+</ol>
+</section>
+</div>
+</article>
+</section>

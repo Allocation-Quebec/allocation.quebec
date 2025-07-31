@@ -9,6 +9,7 @@
 
 		a {
 			all: inherit;
+			cursor: pointer;
 		}
 		&.as-big {
 			--ScaleLevel: var(--Tall);
