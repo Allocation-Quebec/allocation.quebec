@@ -50,3 +50,77 @@ i {
 	font-style: normal;
 }
 
+.brick {
+	--SelectedHue: var(--BlueHue);
+
+	&:hover {
+
+	--SelectedHue: var(--LimeHue);
+	}
+
+	font-family: var(--Grotesk);
+	padding: var(--SpacingThinner);
+	border-radius: 5px;
+	background-color: oklch(94% 32% var(--SelectedHue));
+	--Color: oklch(46% 8% var(--BrownHue));
+
+	aspect-ratio: 4/3;
+
+
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: space-between;
+
+
+	small {
+		--FontWeight: 700;
+		--ScaleLevel: var(--Short);
+		--Color: oklch(52% 34% var(--SelectedHue));
+		line-height: 1;
+	}
+
+	h3 {
+		&::after {
+			color: oklch(60% 34% var(--SelectedHue));
+			content: "⮊";
+			font-size: 0.75em;
+			margin-left: auto;
+		}
+
+		display: flex;
+		align-items: baseline;
+
+		--LineHeightFactor: 1;
+		--ScaleLevel: var(--Taller);
+		/* --FontWeight: 700; */
+	}
+
+	&:not(:hover) h3::after {
+		opacity: 0;
+	}
+}
+
+.cta {
+	&::after {
+		color: oklch(60% 34% var(--SelectedHue));
+		content: "➔";
+		font-size: 0.75em;
+		margin-left: var(--SpacingThin);
+		line-height: 1;
+		align-self: center;
+		position: relative;
+		top: 0.125em;
+	}
+
+	&:hover {
+		background-color: oklch(96% 40% var(--LimeHue));
+	}
+
+	display: inline-flex;
+
+	--ScaleLevel: var(--Tall);
+	padding: var(--SpacingThinner) var(--SpacingThin);
+	border-radius: 7px;
+	background-color: oklch(96% 40% var(--CyanHue));
+	color: oklch(45% 39% var(--BlueHue));
+}

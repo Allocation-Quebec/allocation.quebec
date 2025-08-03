@@ -16,7 +16,7 @@
 	}
 
 	/* Anchor decoration is unwanted in nav. */
-	nav a { 
+	nav a, a:where([class]) { 
 		text-decoration: none; 
 	}
 
