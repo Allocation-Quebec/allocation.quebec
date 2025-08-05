@@ -5,8 +5,11 @@
 .with-scheme-secondary {
 	--Color: oklch(98% 6% var(--BrownHue));
 	background-color: oklch(55% 39% var(--ThemeHue));
+
+	&.and-dark {
+		background-color: oklch(45% 39% var(--ThemeHue));
+	}
+}
 }
 
-.with-scheme-secondary-dark {
-	background-color: oklch(45% 39% var(--ThemeHue));
 }
