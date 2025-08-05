@@ -49,7 +49,6 @@
 
 <!-- Portrait 1 -->
 <article class="case-portrait">
-<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/> x
 <header>
 <h3><i></i> Couple employé de commerce : 30 000 \$ + 30 000 \$ • 1 enfant scolarisé</h3>
 <p><em>gain net d’environ 19 000 \$ par année.</em></p>

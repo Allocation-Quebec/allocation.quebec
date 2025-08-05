@@ -48,7 +48,6 @@
 </header>
 
 <article class="case-portrait">
-<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
 <header>
 <h3><i></i> Retraitée seule recevant 15 000&nbsp;\$ de pensions publiques</h3>
 <p><em>verra un gain net de 11 850&nbsp;\$ par année.</em></p>

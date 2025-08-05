@@ -48,7 +48,6 @@
 </header>
 
 <article class="case-portrait">
-<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
 <header>
 <h3><i></i> Commis à temps partiel : 20 000 \$ par an</h3>
 <p><em>gain net d’environ 11 100 \$ par année.</em></p>

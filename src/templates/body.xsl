@@ -45,6 +45,14 @@
 		</xsl:copy>
 	</xsl:template>
 
+	<xsl:template match="*[@class='case-portrait'][generate-id() = generate-id(//*[@class='case-portrait'][1])]">
+		<xsl:copy>
+			<xsl:apply-templates select="@*"/>
+			<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
+			<xsl:apply-templates select="node()"/>
+		</xsl:copy>
+	</xsl:template>
+
 	<xsl:template match="*[@class='insert'][generate-id() = generate-id(//*[@class='insert'][1])]">
 		<xsl:copy>
 			<xsl:apply-templates select="@*"/>

@@ -49,7 +49,6 @@
 <p>Comment l'allocation de subsistance changerait-elle la réalité des étudiants et étudiantes québécoises ? Voici quelques portraits présentant des situations typiques.</p>
 </header>
 <article class="case-portrait">
-<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
 <header>
 <h3><i></i> Une étudiante à temps plein avec un revenu d’appoint de 15 000 \$</h3>
 <p> *verra un gain net de 9 800 \$* par année.</p>

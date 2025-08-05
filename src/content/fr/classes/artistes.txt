@@ -4,7 +4,6 @@
 <section>
 <!-- 1. Peintre émergente -->
 <article class="case-portrait">
-<link rel="stylesheet" href="/assets/css/6.components/case-portrait.css"/>
 <header>
 <h3><i></i> Peintre émergente • revenu annuel 18 000 \$</h3>
 <p><em>gain net d’environ 11 800 \$ par année.</em></p>
