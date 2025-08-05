@@ -10,6 +10,13 @@
 		background-color: oklch(45% 39% var(--ThemeHue));
 	}
 }
+
+.with-scheme-lime {
+	--Color: oklch(56% 100% var(--LimeHue));
+	background-color: oklch(98% 30% var(--LimeHue));
 }
 
+.with-scheme-red {
+	--Color: oklch(56% 100% var(--RedHue));
+	background-color: oklch(98% 30% var(--RedHue));
 }
