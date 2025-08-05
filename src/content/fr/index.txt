@@ -1,7 +1,7 @@
 <meta with-line-and-icons="no"/>
 <meta page-id="index"/>
 
-<header class="with-scheme-secondary-dark">
+<header class="and-dark and-padding-larger">
 <h1><strong>L'allocation de subsistance</strong><br/><small>un projet de société porteur pour le XXI<sup>e</sup> siècle</small>.</h1>
 <p>Parce qu'il est maintenant possible de s'assurer que tout·e québécois·e ait les moyens financiers de se loger, se nourrir et se vêtir. Parce que ce faisant, nous pouvons <a href="/fr/bienfaits/bureaucratie">réduire la bureaucratie</a>, <a href="/fr/bienfaits/deregelementation">libéraliser l'économie</a>, promouvoir la liberté et plus encore.</p>
 <a class="cta" href="/fr/programme-economique">Et oui, c'est économiquement viable.</a>
@@ -9,15 +9,15 @@
 <section class="as-fullbleed with-scheme-secondary">
 <header>
 <small>C'est quoi une « allocation de subsistance » ?</small>
-<h2>Une politique simple et efficace</h2>
+<h2>Une politique juste et <em style="color: oklch(96% 46% var(--LimeHue)); font-weight: 560;">morale</em></h2>
 </header>
-<div class="as-grid">
+<div class="as-grid" style="--ColumnWidth: 40ch; --GutterWidth: 40px;">
 <div>
-<p class="h3" style="--LineHeightFactor: 1.5;--BaselineInterval: calc(var(--Row) / 4);">L'allocation de subsistance c'est un versement inconditionnel, récupéré progressivement par l'impôt sur le revenu, et qui <strong>assure à tout adulte québécois un minimum de 18 000 \$ par année et 6 000 $ pour tout enfant de 17 ans et moins à leur charge.</strong> </p>
-<p>Mais surtout, tout en promettant un éventail de bienfaits souhaitbles et largement répartis dans la société.</p>
+<p><strong>L'allocation de subsistance assure annuellement <em>un minimum de 18 000 \$ à chaque adulte et 6 000 $ pour chaque enfant</em> de 17 ans et moins à leur charge.</strong> </p>
+<p>C'est un versement inconditionnel, récupéré progressivement par l'impôt sur le revenu, et qui honore et promouvoie plusieurs valeurs chères aux québécois·es.</p>
+<!-- <p>Mais surtout, tout en promettant un éventail de bienfaits souhaitables et largement répartis dans la société.</p> -->
 </div>
 <div>
-<h3>Honorer des valeurs chères aux québécois·es</h3>
 <ul class="as-grid" style="--ColumnWidth: 16ch; --GutterWidth: 4px;">
 <li class="tile">
 <a href="/fr/valeurs/securite" class="brick">
@@ -49,7 +49,88 @@
 <small>pour nous supporter ensemble</small>
 </a>
 </li>
+<li class="tile">
+<a href="/fr/valeurs/dignite" class="brick">
+<h3>Dignité</h3>
+<small>la survie n'a rien de honteux</small>
+</a>
+</li>
 </ul>
 </div>
 </div>
+</section>
+<hr/>
+<section class="as-fullbleed with-scheme-secondary">
+<header>
+<small>C'est quoi une « allocation de subsistance » ?</small>
+<h2>Une politique simple et <em>efficace</em></h2>
+</header>
+<div class="as-grid" style="--ColumnWidth: 40ch; --GutterWidth: 40px;">
+<div>
+<p>L'allocation de subsistance  <em>remplace une panoplie de programmes byzantins, souvent injustes, redondants et lourds à gérer.</em> Elle retire au marché du travail la responsabilité de permettre aux travailleurs de survivre, responsabilité qui force son lot de réglementations... byzantines et ainsi de suite.</p>
+<p>Des bienfaits substantiels sont à prévoir suite à son instauration bienfaits qui originent de son efficacité fondamentale. Elle n'a qu'un seul rôle, clair et simple : assurer la subsistance de tout un chacun. Ni plus, ni moins.</p>
+<!-- <p>Mais surtout, tout en promettant un éventail de bienfaits souhaitables et largement répartis dans la société.</p> -->
+</div>
+<div>
+<ul class="as-grid" style="--ColumnWidth: 16ch; --GutterWidth: 4px;">
+<li class="tile">
+<a href="/fr/bienfaits/efficacite" class="brick">
+<h3>Efficacité</h3>
+<small>un seul rôle clair et défini</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/bienfaits/bureaucratie" class="brick">
+<h3>Bureaucratie</h3>
+<small>alléger l'État et son appareil</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/bienfaits/dereglementation" class="brick">
+<h3>Libéralisation</h3>
+<small>Déréglementer pour mieux travailler</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/bienfaits/innovation" class="brick">
+<h3>Innovation</h3>
+<small>propulser l'entrepreneuriat</small>
+</a>
+</li>
+<li class="tile">
+<a href="/fr/bienfaits/productivite" class="brick">
+<h3>Productivité</h3>
+<small>faire plus, avec moins</small>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</section>
+<hr/>
+<section class="as-fullbleed with-scheme-secondary">
+<header>
+<small>C'est pour qui une « allocation de subsistance » ?</small>
+<h2>Une politique qui bénéficie à la grande majorité</h2>
+</header>
+<div class="as-prose">
+<p>L'allocation de subsistance présente des implications pour tous les rôles et toutes les classes de la société. En tant que citoyen·nes, nous assumons plusieurs rôles, faisons partie de plusieurs classes.</p>
+<p>En tant que parents de tous petits vous pourriez contribuer un peu plus qu'en ce moment... mais en tant que parents d'écoliers, vous gagnerez nettement plus. En tant que consommatrice de biens de luxe vous paierez plus de taxes, mais en tant que dirigeante d'une moyenne entreprise vous paierez moins de charges sur vos salaires.</p>
+<p>En déplaçant le coût de financement actuel depuis les retenues salariales vers la taxation de la consommation non-essentielle et de la pollution, <em>la réforme économique que nous proposons incite et récompense des comportements qui profitent largement à tous et toutes.</em></p>
+</div>
+<h3 class="h4">Quelques portraits types parmi d'autres</h3>
+<ul class="as-grid" style="--ColumnWidth: 26ch; --GutterWidth: 4px;">
+<li class="tile">
+<a href="" class="brick with-scheme-lime">
+<h4 class="h3">Une étudiante à temps plein</h4>
+<p>reçoit 9 800 \$</p>
+</a>
+</li>
+<li class="tile">
+<a href="" class="brick with-scheme-red">
+<h4 class="h3">Un consommateur à revenu très élevé</h4>
+<p>contribue 13 900 \$</p>
+</a>
+</li>
+</ul>
 </section>
