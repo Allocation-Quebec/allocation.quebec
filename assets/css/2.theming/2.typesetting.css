@@ -48,7 +48,7 @@
 		--FontWeight: 600;
 	}
 
-	:is(h1, .h1)~:is(p, strong) {
+	:is(h1, .h1)+:is(p, strong) {
 		--ScaleLevel: var(--Taller);
 
 		display: block;
