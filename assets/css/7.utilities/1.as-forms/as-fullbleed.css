@@ -3,7 +3,7 @@
 		grid-column: full;
 		display: grid;
 		grid-template-columns: subgrid;
-		padding: var(--SpacingLarger) 0;
+		padding-block: var(--SpacingLarge);
 		background: inherit;
 
 		&>* {
