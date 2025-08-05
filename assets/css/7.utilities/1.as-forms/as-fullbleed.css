@@ -41,8 +41,8 @@
 			margin-top: var(--SpacingBroader);
 		}
 
-		&>*+:is(h3, h4) {
-			margin-top: var(--SpacingLarge);
+		&.and-padding-larger {
+			padding-block: var(--SpacingLarger);
 		}
 
 		&.and-full-height {
