@@ -8,6 +8,13 @@
 
 	&.and-dark {
 		background-color: oklch(45% 39% var(--ThemeHue));
+
+		& p a {
+			color: oklch(98% 30% var(--RedHue));
+			&:not(:hover) {
+				text-decoration: none;
+			}
+		}
 	}
 }
 

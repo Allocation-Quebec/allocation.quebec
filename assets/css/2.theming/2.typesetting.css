@@ -134,10 +134,4 @@
 		}
 	}
 
-	p a {
-		color: oklch(98% 30% var(--RedHue));
-		&:not(:hover) {
-			text-decoration: none;
-		}
-	}
 }
