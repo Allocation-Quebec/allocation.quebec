@@ -1,194 +1,196 @@
-.case-portrait {
-	font-family: var(--Grotesk);
+@layer components {
+	.case-portrait {
+		font-family: var(--Grotesk);
 
-	&:first-of-type {
-		counter-set: case;
-	}
-
-	&>*+* {
-		margin-top: var(--SpacingThin);
-	}
-
-	&>header {
-		text-wrap: balance;
-		&>* {
-			display: inline;
-			--ScaleLevel: var(--Taller);
-			--FontWeight: 600;
-			&+* {
-				margin-top: 0;
-			}
+		&:first-of-type {
+			counter-set: case;
 		}
 
-		& i {
-			counter-increment: case;
-			font-size: 2rem;
-			display: inline-flex;
-			justify-content: end;
-
-			&::before {
-				content: counter(case)".";
-			}
-		}
-
-		& em {
-			--SelectedHue: var(--LimeHue);
-			padding-inline: 0.25em;
-			background-color: oklch(98% 30% var(--SelectedHue));
-			color: oklch(56% 100% var(--SelectedHue));
-			border-radius: 0.25em;
-
-			font-style: normal;
-
-			&.__loss {
-				--SelectedHue: var(--RedHue);
-			}
-		}
-	}
-
-	*+& {
-		margin-top: var(--SpacingBroadest);
-	}
-
-	&+& {
-		margin-top: var(--SpacingLarge);
-
-		&:before {
-			content: "";
-			display: block;
-			border-top: 2px solid oklch(92% 6% var(--BrownHue));
-			min-width: 100%;
-			margin-left: -60px;
-			position: relative;
-			top: calc(-1 * var(--SpacingLarge) / 2);
-		}
-	}
-
-	&>div {
-		/* display: grid; */
-		/* grid-template-columns: repeat(2, auto); */
-		order: 1;
-		display: flex;
-		flex-wrap: wrap;
-	}
-
-	& section {
-		display: flex;
-		flex-direction: column;
-
-		border-top: 4px solid oklch(82% 36% var(--SelectedHue));
-		background-color: oklch(100% 36% var(--SelectedHue));
-		padding: var(--SpacingThin);
-		padding-top: var(--SpacingThinner);
-		flex-basis: 20ch;
-		flex-grow: 1;
-
-		position: relative;
-
-		--ScaleLevel: var(--Short);
-		--FontWeight: 480;
-		--LineHeightFactor: 0.75;
-
-		--DefaultHue: var(--BrownHue);
-		--SelectedHue: var(--DefaultHue);
-		--Color: oklch(60% 36% var(--SelectedHue));
-
-		&:nth-child(1) {
-			border-top: 4px solid oklch(82% 6% var(--SelectedHue));
-			background-color: oklch(94% 12% var(--SelectedHue));
-
-			--Color: oklch(60% 13% var(--SelectedHue));
-		}
-
-		&:nth-child(2) {
-			--SelectedHue: var(--BlueHue);
-		}
-
-		&:nth-child(3) {
-			--SelectedHue: var(--LimeHue);
-
-			&.__loss {
-				--SelectedHue: var(--RedHue);
-			}
-		}
-
-		&:nth-child(4) {
-			--SelectedHue: var(--BrownHue);
-		}
-	}
-
-	& ol {
-		list-style-position: inside;
-		--FontWeight: 600;
-		padding-left: 0;
-		text-wrap: pretty;
-
-		& li:last-child {
-			--FontWeight: 700;
-		}
-	}
-
-	& dl {
-		display: flex;
-		flex-wrap: wrap;
-		gap: 5px;
-
-		--FontWeight: 500;
-
-		&>* {
-			margin: 0;
-			align-self: start;
-		}
-
-		&:nth-last-of-type(2) {
-			margin-bottom: auto;
-		}
-
-		&:last-of-type {
+		&>*+* {
 			margin-top: var(--SpacingThin);
+		}
 
-			& :is(dd) {
+		&>header {
+			text-wrap: balance;
+			&>* {
+				display: inline;
+				--ScaleLevel: var(--Taller);
+				--FontWeight: 600;
+				&+* {
+					margin-top: 0;
+				}
+			}
 
-				color: inherit;
-				font-weight: 800;
+			& i {
+				counter-increment: case;
+				font-size: 2rem;
+				display: inline-flex;
+				justify-content: end;
+
+				&::before {
+					content: counter(case)".";
+				}
+			}
+
+			& em {
+				--SelectedHue: var(--LimeHue);
+				padding-inline: 0.25em;
+				background-color: oklch(98% 30% var(--SelectedHue));
+				color: oklch(56% 100% var(--SelectedHue));
+				border-radius: 0.25em;
+
+				font-style: normal;
+
+				&.__loss {
+					--SelectedHue: var(--RedHue);
+				}
 			}
 		}
 
-		&:only-of-type {
-			margin-top: auto;
+		*+& {
+			margin-top: var(--SpacingBroadest);
 		}
 
-	}
+		&+& {
+			margin-top: var(--SpacingLarge);
 
-	& dt {
-		flex-basis: 50%;
-		flex-grow: 1;
-		display: flex;
-		align-items: baseline;
+			&:before {
+				content: "";
+				display: block;
+				border-top: 2px solid oklch(92% 6% var(--BrownHue));
+				min-width: 100%;
+				margin-left: -60px;
+				position: relative;
+				top: calc(-1 * var(--SpacingLarge) / 2);
+			}
+		}
 
-		&::after {
-			content: "";
-			border-top: 1px dashed;
+		&>div {
+			/* display: grid; */
+			/* grid-template-columns: repeat(2, auto); */
+			order: 1;
+			display: flex;
+			flex-wrap: wrap;
+		}
+
+		& section {
+			display: flex;
+			flex-direction: column;
+
+			border-top: 4px solid oklch(82% 36% var(--SelectedHue));
+			background-color: oklch(100% 36% var(--SelectedHue));
+			padding: var(--SpacingThin);
+			padding-top: var(--SpacingThinner);
+			flex-basis: 20ch;
 			flex-grow: 1;
-			margin-left: 5px;
+
+			position: relative;
+
+			--ScaleLevel: var(--Short);
+			--FontWeight: 480;
+			--LineHeightFactor: 0.75;
+
+			--DefaultHue: var(--BrownHue);
+			--SelectedHue: var(--DefaultHue);
+			--Color: oklch(60% 36% var(--SelectedHue));
+
+			&:nth-child(1) {
+				border-top: 4px solid oklch(82% 6% var(--SelectedHue));
+				background-color: oklch(94% 12% var(--SelectedHue));
+
+				--Color: oklch(60% 13% var(--SelectedHue));
+			}
+
+			&:nth-child(2) {
+				--SelectedHue: var(--BlueHue);
+			}
+
+			&:nth-child(3) {
+				--SelectedHue: var(--LimeHue);
+
+				&.__loss {
+					--SelectedHue: var(--RedHue);
+				}
+			}
+
+			&:nth-child(4) {
+				--SelectedHue: var(--BrownHue);
+			}
 		}
+
+		& ol {
+			list-style-position: inside;
+			--FontWeight: 600;
+			padding-left: 0;
+			text-wrap: pretty;
+
+			& li:last-child {
+				--FontWeight: 700;
+			}
+		}
+
+		& dl {
+			display: flex;
+			flex-wrap: wrap;
+			gap: 5px;
+
+			--FontWeight: 500;
+
+			&>* {
+				margin: 0;
+				align-self: start;
+			}
+
+			&:nth-last-of-type(2) {
+				margin-bottom: auto;
+			}
+
+			&:last-of-type {
+				margin-top: var(--SpacingThin);
+
+				& :is(dd) {
+
+					color: inherit;
+					font-weight: 800;
+				}
+			}
+
+			&:only-of-type {
+				margin-top: auto;
+			}
+
+		}
+
+		& dt {
+			flex-basis: 50%;
+			flex-grow: 1;
+			display: flex;
+			align-items: baseline;
+
+			&::after {
+				content: "";
+				border-top: 1px dashed;
+				flex-grow: 1;
+				margin-left: 5px;
+			}
+		}
+
+		& dd {
+			font-family: "PP Neue Montreal Mono";
+			text-align: right;
+
+		}
+
+
+		& footer {
+			/* --ScaleLevel: var(--Tall); */
+			/* --LineHeightFactor: 1.5; */
+			/* --Color: oklch(40% 36% var(--BlueHue)); */
+		}
+
+		& h4+* {
+			margin-top: var(--SpacingThin);
+		}
+
 	}
-
-	& dd {
-		font-family: "PP Neue Montreal Mono";
-		text-align: right;
-
-	}
-
-
-	& footer {
-		/* --ScaleLevel: var(--Tall); */
-		/* --LineHeightFactor: 1.5; */
-		/* --Color: oklch(40% 36% var(--BlueHue)); */
-	}
-
-	& h4+* {
-		margin-top: var(--SpacingThin);
-	}
-
 }
