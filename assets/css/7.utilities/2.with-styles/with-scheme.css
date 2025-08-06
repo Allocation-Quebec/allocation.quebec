@@ -1,13 +1,15 @@
-.with-scheme-dark {
-	background-color: oklch(92% 6% var(--BrownHue));
-}
+@layer utilities {
+	.with-scheme-dark {
+		background-color: oklch(92% 6% var(--BrownHue));
+	}
 
-.with-scheme-secondary {
-	--Color: oklch(98% 6% var(--BrownHue));
-	background-color: oklch(55% 39% var(--ThemeHue));
+	.with-scheme-secondary {
+		--Color: oklch(98% 6% var(--BrownHue));
+		background-color: oklch(55% 39% var(--ThemeHue));
 
-	&.and-dark {
-		background-color: oklch(45% 39% var(--ThemeHue));
+		&.and-dark {
+			background-color: oklch(45% 39% var(--ThemeHue));
+		}
 
 		& p a {
 			color: oklch(98% 30% var(--RedHue));
@@ -16,14 +18,14 @@
 			}
 		}
 	}
-}
 
-.with-scheme-lime {
-	--Color: oklch(56% 100% var(--LimeHue));
-	background-color: oklch(98% 30% var(--LimeHue));
-}
+	.with-scheme-lime {
+		--Color: oklch(60% 36% var(--LimeHue));
+		background-color: oklch(98% 30% var(--LimeHue));
+	}
 
-.with-scheme-red {
-	--Color: oklch(56% 100% var(--RedHue));
-	background-color: oklch(98% 30% var(--RedHue));
+	.with-scheme-red {
+		--Color: oklch(60% 36% var(--RedHue));
+		background-color: oklch(98% 30% var(--RedHue));
+	}
 }
