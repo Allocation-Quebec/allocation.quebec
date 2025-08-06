@@ -91,7 +91,7 @@
 			text-transform: uppercase;
 		}
 
-		p {
+		& :is(p, strong) {
 			--FontWeight: 500;
 			text-wrap: balance;
 		}
