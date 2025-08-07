@@ -181,13 +181,20 @@ i {
 }
 
 .timeline {
-	display: flex;
-	gap: 20px;
-	position: relative;
+	overflow: auto;
+	margin-inline: calc(-1 * var(--SpacingRow));
+	padding-inline: var(--SpacingRow);
+	padding-bottom: var(--SpacingRow);
 
-	&::before {
+	&>div {
+		display: flex;
+		gap: 20px;
+		position: relative;
+		width: max-content;
+		min-width: 100%;
+	}
 
-
+	&>div::before {
 		content: "";
 		height: 4px;
 		width: 100%;
@@ -200,9 +207,10 @@ i {
 		margin-top: var(--SpacingBroadest);
 	}
 
-	&>* {
+	&>div>* {
 		margin: 0;
 		flex-grow: 1;
+		flex-shrink: 0;
 		text-align: center;
 		position: relative;
 
@@ -231,3 +239,4 @@ i {
 
 	}
 }
+
