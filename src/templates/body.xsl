@@ -156,19 +156,19 @@
 						<h3 class="h5">Comment ?</h3>
 						<div>
 							<a href="/fr/comment/programme">Programme économique</a>
-							<a href="/fr/comment/plan">Plan de déploiement</a>
-							<a href="/fr/comment/etat">Rôle de l'État</a>
+							<span aria-hidden="true">Plan de déploiement</span>
+							<span aria-hidden="true">Rôle de l'État</span>
 						</div>
 					</div>
 					<div class="__dropdown">
 						<h3 class="h5">Mais encore ?</h3>
 						<div>
-							<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>
-							<a href="/fr/plus/mythes">Mythes persistants</a>
-							<a href="/fr/plus/partisans">Panthéon des partisans</a>
-							<a href="/fr/plus/considerations">Considérations pratiques</a>
-							<a href="/fr/plus/theorie">Fondements théoriques</a>
-							<a href="/fr/plus/faq">Foire aux questions</a>
+							<span aria-hidden="true">Pourquoi cette appellation ?</span>
+							<span aria-hidden="true">Mythes persistants</span>
+							<span aria-hidden="true">Panthéon des partisans</span>
+							<span aria-hidden="true">Considérations pratiques</span>
+							<span aria-hidden="true">Fondements théoriques</span>
+							<span aria-hidden="true">Foire aux questions</span>
 						</div>
 					</div>
 					<a class="h5" href="/fr/impliquez-vous">Impliquez-vous !</a>
@@ -224,17 +224,17 @@
 						<section>
 							<h3 class="h4">Comment ?</h3>
 							<a href="/fr/comment/programme">Programme économique</a>
-							<a href="/fr/comment/plan">Plan de déploiement</a>
-							<a href="/fr/comment/etat">Rôle de l'État</a>
+							<span aria-hidden="true">Plan de déploiement</span>
+							<span aria-hidden="true">Rôle de l'État</span>
 						</section>
 						<section>
 							<h3 class="h4">Mais encore ?</h3>
-							<a href="/fr/plus/appellation">Pourquoi cette appellation ?</a>
-							<a href="/fr/plus/mythes">Mythes persistants</a>
-							<a href="/fr/plus/partisans">Panthéon des partisans</a>
-							<a href="/fr/plus/considerations">Considérations pratiques</a>
-							<a href="/fr/plus/theorie">Fondements théoriques</a>
-							<a href="/fr/plus/faq">Foire aux questions</a>
+							<span aria-hidden="true">Pourquoi cette appellation ?</span>
+							<span aria-hidden="true">Mythes persistants</span>
+							<span aria-hidden="true">Panthéon des partisans</span>
+							<span aria-hidden="true">Considérations pratiques</span>
+							<span aria-hidden="true">Fondements théoriques</span>
+							<span aria-hidden="true">Foire aux questions</span>
 						</section>
 					</div>
 				</nav>
