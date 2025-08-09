@@ -1,7 +1,6 @@
 .with-line-and-icons {
 	& :is(h1, h2, h3)>i {
-		font-size: 1.5rem;
-		height: auto;
+		font-size: 1.5em;
 	}
 
 	& h2:has(i) {
@@ -49,6 +48,7 @@
 				display: contents;
 			}
 			&>i {
+				margin-bottom: var(--SpacingThinner);
 				order: -1;
 			}
 		}
@@ -64,7 +64,7 @@
 		&>main>header {
 			& h1::before {
 				content: "";
-				top: var(--SpacingLarge);
+				top: var(--SpacingBroadest);
 				margin-top: 4rem;
 				margin-left: -60px;
 				bottom: 0;
@@ -80,11 +80,12 @@
 
 		& :is(h1, h2, h3) {
 			&>i {
-				margin-left: calc(-60px - 2ch + 1px);
+				height: 1ch;
+				width: 1ch;
+				margin-left: calc(-60px - 0.75ch - 1px);
 				position: relative;
-				padding-inline: 0.75ch;
-				margin-right: calc(60px - 2ch - 4px);
-				width: 2ch;
+				padding: 0.25ch;
+				margin-right: calc(60px + 0.5ch - .75em - 2px);
 				aspect-ratio: 1;
 				border-radius: 50%;
 				border: 2px solid transparent;
@@ -93,11 +94,9 @@
 			}
 
 			&:is(h1)>i {
-				height: 2ch;
-				padding: 0.75ch;
 				border-color: oklch(88% 6% var(--BrownHue));
 				background-color: oklch(55% 39% var(--ThemeHue));
-				margin-right: calc(60px - 2ch - 0.75ch - 4px);
+				margin-right: calc(60px + 0.75ch - .75em - 2px);
 			}
 
 		}

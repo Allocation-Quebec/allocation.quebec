@@ -14,7 +14,11 @@
 			text-wrap: balance;
 			&>* {
 				display: inline;
+				min-width: initial;
+				align-self: start;
 				--ScaleLevel: var(--Taller);
+				--LineHeightFactor: 1.25;
+				--BaselineInterval: calc(var(--Row) / 4);
 				--FontWeight: 600;
 				&+* {
 					margin-top: 0;
@@ -33,17 +37,9 @@
 			}
 
 			& em {
-				--SelectedHue: var(--LimeHue);
 				padding-inline: 0.25em;
-				background-color: oklch(98% 30% var(--SelectedHue));
-				color: oklch(56% 100% var(--SelectedHue));
 				border-radius: 0.25em;
-
 				font-style: normal;
-
-				&.__loss {
-					--SelectedHue: var(--RedHue);
-				}
 			}
 		}
 
