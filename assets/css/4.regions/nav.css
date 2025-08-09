@@ -40,7 +40,7 @@
 			left: var(--SpacingThinnest);
 		}
 
-		& a {
+		& :is(a, span) {
 			--FontWeight: 600;
 			display: block;
 			line-height: 1;
@@ -51,7 +51,7 @@
 				--ScaleLevel: var(--Short);
 			}
 
-			&:hover {
+			&:where(a):hover {
 				color: oklch(98% 38% var(--RedHue));
 			}
 		}

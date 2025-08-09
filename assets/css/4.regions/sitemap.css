@@ -1,15 +1,23 @@
 @layer regions {
 	[id=sitemap] {
-		& a {
+		& :is(span, a) {
 			display: block;
 
 			&:visited {
-				color: oklch(98% 38% var(--RedHue));
+				color: oklch(92% 28% var(--LimeHue));
 			}
 		}
 
 		& h4 {
 			--Color: oklch(84% 39% var(--ThemeHue));
+		}
+
+		& h3+* {
+			margin-top: var(--SpacingThin);
+		}
+
+		& h3+div {
+			margin-top: var(--SpacingThinner);
 		}
 
 		& div {

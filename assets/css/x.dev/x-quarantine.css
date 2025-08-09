@@ -240,3 +240,33 @@ i {
 	}
 }
 
+nav span:where([aria-hidden=true]) {
+	cursor: help;
+	mix-blend-mode: luminosity;
+
+	&:not(:hover) {
+		filter: contrast(0.2);
+	}
+	&:hover {
+		position: relative;
+		color: oklch(from var(--Color) l c h / 0);
+
+		&::after {
+			/* background-color: oklch(from currentColor 90% c h / 100); */
+			color: var(--Color);
+			position: absolute;
+			left: 0;
+
+		}
+
+		html[lang=fr] &::after {
+			content: "Bientôt !"
+		}
+
+		html[lang=en] & {
+			content: "Soon!"
+		}
+	}
+}
+
+

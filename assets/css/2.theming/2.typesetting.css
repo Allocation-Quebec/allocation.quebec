@@ -3,7 +3,8 @@
 	html { font-family: var(--BaseFontStack, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"); }
 
 	/* Adaptation of the typography ----------------------- */
-	@media (max-width: 110ch) { :root { --Scale: var(--MinorThird); } }
+	@media (max-width: 80ch) { :root { --Scale: var(--MajorSecond); } }
+	@media (min-width: 80ch) { :root { --Scale: var(--MinorThird); } }
 	@media (min-width: 110ch) { :root { --Scale: var(--MajorThird); } }
 
 
@@ -49,6 +50,7 @@
 	}
 
 	:is(h1, .h1)+:is(p, strong) {
+		--BaselineInterval: calc(var(--Row) / 4);
 		--ScaleLevel: var(--Taller);
 
 		display: block;
