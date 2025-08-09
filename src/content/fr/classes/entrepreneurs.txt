@@ -1,6 +1,6 @@
 <!-- FICHE – ENTREPRENEUR·ES (version B : subventions/​crédits sectoriels inclus) -->
 <header>
-<h1>Entrepreneur·es</h1>
+<h1><i><img src="/assets/img/lightrocket.svg" alt=""/></i>Entrepreneur·es</h1>
 </header>
 
 <section>

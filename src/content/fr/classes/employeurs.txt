@@ -1,5 +1,5 @@
 <header>
-<h1>Employeur·es</h1>
+<h1><i><img src="/assets/img/handshake.svg" alt=""/></i>Employeur·es</h1>
 </header>
 <!-- 1. PME de service / faible R-D -->
 <article class="case-portrait">

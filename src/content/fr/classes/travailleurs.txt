@@ -1,5 +1,5 @@
 <header>
-<h1>Travailleur·euses</h1>
+<h1><i><img src="/assets/img/work.svg" alt=""/></i>Travailleur·euses</h1>
 </header>
 
 <section>

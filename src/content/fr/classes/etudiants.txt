@@ -1,5 +1,6 @@
 <header>
-<h1>Étudiant·es</h1>
+<h1><i><img src="/assets/img/cap.svg" alt=""/></i>Étudiant·es</h1>
+<p>L’allocation de subsistance permet aux étudiant·es de poursuivre leurs études avec dignité, liberté et vision à long terme. </p>
 </header>
 <section>
 <header>
@@ -9,7 +10,7 @@
 
 <div class="as-grid">
 <div class="as-prose">
-<p>L’allocation de subsistance permet aux étudiant·es de poursuivre leurs études avec dignité, liberté et vision à long terme. En réduisant le besoin de travailler en parallèle ou de s’endetter, elle libère du temps et de l’énergie pour s'éduquer plus efficacement. Elle renforce l’accès équitable à l’éducation et facilite la transition vers une société, plus innovante et inclusive.</p>
+<p>En réduisant le besoin de travailler en parallèle ou de s’endetter, elle libère du temps et de l’énergie pour s'éduquer plus efficacement. Elle renforce l’accès équitable à l’éducation et facilite la transition vers une société, plus innovante et inclusive.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Dans une société du savoir, chacun·e devrait pouvoir apprendre librement, sans que la survie financière ne conditionne l’accès au savoir. Une allocation rend possible une éducation émancipatrice, inclusive et créative, pour toutes les générations.</p>
@@ -46,12 +47,12 @@
 <section>
 <header>
 <h2>Portraits types</h2>
-<p>Comment l'allocation de subsistance changerait-elle la réalité des étudiants et étudiantes québécoises ? Voici quelques portraits présentant des situations typiques.</p>
+<p>Comment l'allocation de subsistance changerait-elle la réalité des étudiant·es québécois·es ? Voici quelques portraits présentant des situations typiques.</p>
 </header>
 <article class="case-portrait">
 <header>
-<h3><i></i> Une étudiante à temps plein avec un revenu d’appoint de 15 000 \$</h3>
-<p> *verra un gain net de 9 800 \$* par année.</p>
+<h3><i></i> Une étudiante à temps plein ayant un revenu de 15 000 \$</h3>
+<p class="with-scheme-lime">recevrait 9 800 \$</p>
 </header>
 <div>
 <section>
@@ -63,7 +64,7 @@
 <dd>\+3 000 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt>
+<dt>Budget actuel</dt>
 <dd>17 000 \$</dd>
 </dl>
 </section>
@@ -85,7 +86,7 @@
 <dt>Revenu net</dt><dd>14 200 \$</dd>
 </dl>
 <dl>
-<dt>Total final</dt><dd>26 800 \$</dd>
+<dt>Budget final</dt><dd>26 800 \$</dd>
 </dl>
 </section>
 <section>
@@ -100,8 +101,8 @@
 </article>
 <article class="case-portrait">
 <header>
-<h3><i></i> Un étudiant à temps partiel travaillant 35 000 \$ par année</h3>
-<p><em>verra un gain net d’environ 4 300 \$ par année.</em></p>
+<h3><i></i> Un étudiant à temps partiel ayant un revenu 35 000 \$</h3>
+<p class="with-scheme-lime">recevrait 4 300 \$</p>
 </header>
 <div>
 <section>
@@ -111,7 +112,7 @@
 <dt>Bourse AFE (portion réduite)</dt><dd>+1 000 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>≈ 31 400 \$</dd>
+<dt>Budget actuel</dt><dd>≈ 31 400 \$</dd>
 </dl>
 </section>
 <section>
@@ -133,7 +134,7 @@
 <dt>Revenu net d’emploi</dt><dd>≈ 30 300 \$</dd>
 </dl>
 <dl>
-<dt>Total final</dt><dd>≈ 35 700 \$</dd>
+<dt>Budget final</dt><dd>≈ 35 700 \$</dd>
 </dl>
 </section>
 <section>
@@ -148,8 +149,8 @@
 </article>
 <article class="case-portrait">
 <header>
-<h3><i></i> Une mère monoparentale étudiante gagnant 20 000 \$ par année</h3>
-<p><em>verra un gain net d’environ 10 800 \$ par année.</em></p>
+<h3><i></i> Une étudiante monoparentale ayant un revenu de 20 000 \$</h3>
+<p class="with-scheme-lime">recevrait 10 800 \$.</p>
 </header>
 <div>
 <section>
@@ -222,7 +223,7 @@
 </div>
 
 <hr />
-<p>Avec une allocation de subsistance, un Québec <em>plus instruit</em> est possible.</p>
+<p>Avec une allocation de subsistance, un Québec qui <em>travaille mieux</em> est possible.</p>
 </section>
 
 <!-- Notes de bas de page -->

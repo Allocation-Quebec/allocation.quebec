@@ -1,5 +1,5 @@
 <header>
-<h1>Retraité·es</h1>
+<h1><i><img src="/assets/img/cane.svg" alt=""/></i>Retraité·es</h1>
 </header>
 
 <section>

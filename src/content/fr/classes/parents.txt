@@ -1,5 +1,5 @@
 <header>
-<h1>Parents</h1>
+<h1><i><img src="/assets/img/family.svg" alt=""/></i>Parents</h1>
 </header>
 
 <section>

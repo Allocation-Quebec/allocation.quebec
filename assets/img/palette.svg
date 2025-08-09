@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+  viewBox="0 0 24 24" fill="none" stroke="oklch(88% 6% 88deg)" stroke-width="1.8"
+  stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Artists icon">
+  <title>Artists</title>
+  <desc>Paint palette</desc>
+  <path d="M12 3c-4.9 0-9 3.6-9 8a6 6 0 0 0 6 6h1.5a2 2 0 0 1 0 4c6 0 10.5-4.7 10.5-9.5S16.9 3 12 3z"/>
+  <path d="M8.5 10.5h.01M11 8h.01M14.5 9.5h.01M15 13h.01"/>
+</svg>

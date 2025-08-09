@@ -1,5 +1,5 @@
 <header>
-<h1>Consommateur·ices</h1>
+<h1><i><img src="/assets/img/bag.svg" alt=""/></i>Consommateur·ices</h1>
 </header>
 <section>
 <!-- 1. Étudiant urbain -->
