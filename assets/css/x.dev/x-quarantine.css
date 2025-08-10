@@ -261,19 +261,17 @@ nav span:where([aria-hidden=true]) {
 		position: relative;
 		color: oklch(from var(--Color) l c h / 0);
 
-		&::after {
+		&::before {
 			/* background-color: oklch(from currentColor 90% c h / 100); */
 			color: var(--Color);
 			position: absolute;
-			left: 0;
-
 		}
 
-		html[lang=fr] &::after {
+		html[lang=fr] &::before {
 			content: "Bientôt !"
 		}
 
-		html[lang=en] & {
+		html[lang=en] &::before {
 			content: "Soon!"
 		}
 	}
