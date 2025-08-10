@@ -29,6 +29,7 @@
 	}
 
 	.h1, h1, .h2, h2 {
+		--BaselineInterval: calc(var(--Row) / 4);
 		--FontWeight: 440;
 		--LineHeightFactor: 1.1;
 	}
