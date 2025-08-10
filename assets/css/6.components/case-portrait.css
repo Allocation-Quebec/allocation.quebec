@@ -1,6 +1,7 @@
 @layer components {
 	.case-portrait {
 		font-family: var(--Grotesk);
+		container-type: inline-size;
 
 		&:first-of-type {
 			counter-set: case;
@@ -62,11 +63,13 @@
 		}
 
 		&>div {
-			/* display: grid; */
-			/* grid-template-columns: repeat(2, auto); */
 			order: 1;
 			display: flex;
 			flex-wrap: wrap;
+
+			@container (width < 80ch) {
+				margin-inline: calc(-1 * var(--SpacingThin) / 1.5);
+			}
 		}
 
 		& section {
@@ -77,6 +80,11 @@
 			background-color: oklch(100% 36% var(--SelectedHue));
 			padding: var(--SpacingThin);
 			padding-top: var(--SpacingThinner);
+
+			@container (width < 80ch) {
+				padding-inline: calc(var(--SpacingThin) / 1.5);
+			}
+
 			flex-basis: 20ch;
 			flex-grow: 1;
 
@@ -89,6 +97,7 @@
 			--DefaultHue: var(--BrownHue);
 			--SelectedHue: var(--DefaultHue);
 			--Color: oklch(60% 36% var(--SelectedHue));
+			--BaselineInterval: calc(var(--Row) / 4);
 
 			&:nth-child(1) {
 				border-top: 4px solid oklch(82% 6% var(--SelectedHue));

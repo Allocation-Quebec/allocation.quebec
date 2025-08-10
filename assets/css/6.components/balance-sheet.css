@@ -15,7 +15,7 @@
 				margin-top: var(--SpacingThinner);
 			}
 			&:has(details)+article {
-				margin-top: var(--Row);
+				/* margin-top: var(--Row); */
 			}
 
 			&:has(details[open])+article {
@@ -38,8 +38,9 @@
 
 	& :is(article, footer) {
 		display: grid;
-		column-gap: var(--SpacingThinner);
+		gap: var(--SpacingThinnest) var(--SpacingThinner);
 		grid-template-columns: 1fr auto;
+		grid-template-rows: 1fr auto;
 		grid-template-areas: 
 			"title amount"
 			"desc  amount";
@@ -74,26 +75,40 @@
 			}
 		}
 
-	}
-
-	& article {
-		&:has(details):not(:has(+footer)) {
-			padding-bottom: var(--SpacingThinner);
-			border-bottom: 3px solid;
-		}
-
-		&>small {
+		& small {
+			--ScaleLevel: var(--Short);
 			display: flex;
 			align-items: last baseline;
+			/* overflow: auto; */
+			/* white-space: nowrap; */
 
-			&:not(:has(~details))::after {
+			&::after {
 				content: "";
-				border-top: 1px dashed;
 				flex-grow: 1;
 				margin-left: var(--Row);
 			}
 
+			&:not(:has(~details))::after {
+				border-bottom: 1px dashed;
+			}
 		}
+	}
+
+	& article {
+		&:has(details:not([open])) summary {
+			cursor: s-resize;
+		}
+		&:has(details[open]) summary {
+			cursor: n-resize;
+		}
+		&:has(details[open]) summary>small::after {
+			border-bottom: 3px solid;
+		}
+		&:has(details[open]):not(:has(+footer)) {
+			padding-bottom: var(--SpacingThinner);
+			border-bottom: 3px solid;
+		}
+
 	}
 
 	& footer {
@@ -107,7 +122,8 @@
 		& article {
 			border: none;
 			padding: 0;
-			
+			row-gap: 0;
+
 			&+article {
 				margin-top: var(--SpacingThinnest);
 			}
@@ -144,6 +160,10 @@
 				font-size: 0.6125em;
 				position: relative;
 				top: -2px;
+			}
+
+			&>small {
+				--FontWeight: 540;
 			}
 		}
 
