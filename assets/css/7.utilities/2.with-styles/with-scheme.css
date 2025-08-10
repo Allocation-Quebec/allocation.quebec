@@ -17,6 +17,10 @@
 				text-decoration: none;
 			}
 		}
+
+		& p em {
+			color: oklch(100% 28% var(--CyanHue));
+		}
 	}
 
 	.with-scheme-lime {
