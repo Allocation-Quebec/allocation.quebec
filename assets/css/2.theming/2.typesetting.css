@@ -73,14 +73,6 @@
 		scroll-padding-top: 40px;
 	}
 
-	/* main>section p:only-of-type { */
-	/* 	--ScaleLevel: var(--Tall); */
-	/* 	--FontWeight: 500; */
-	/* 	--LineHeightFactor: 1.5; */
-	/* 	--BaselineInterval: calc(var(--Row) / 4); */
-	/* 	font-family: var(--Grotesk); */
-	/* } */
-
 	header {
 		--FontWeight: 540;
 

@@ -14,9 +14,6 @@
 			&+article {
 				margin-top: var(--SpacingThinner);
 			}
-			&:has(details)+article {
-				/* margin-top: var(--Row); */
-			}
 
 			&:has(details[open])+article {
 				margin-top: var(--SpacingBroadest);
@@ -79,8 +76,6 @@
 			--ScaleLevel: var(--Short);
 			display: flex;
 			align-items: last baseline;
-			/* overflow: auto; */
-			/* white-space: nowrap; */
 
 			&::after {
 				content: "";
