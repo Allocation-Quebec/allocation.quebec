@@ -2,6 +2,11 @@
   navigation: auto;
 }
 
+* {
+	transition-property: color, background-color, opacity, transform;
+	transition-duration: 120ms;
+}
+
 body {
 	transition: opacity 400ms;
 	@starting-style {
