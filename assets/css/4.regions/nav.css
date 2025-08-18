@@ -1,4 +1,16 @@
 @layer regions {
+	nav {
+		& a {
+			color: white;
+		}
+		& a:visited {
+			color: oklch(92% 28% var(--LimeHue));
+		}
+		& a:hover {
+			color: oklch(96% 40% var(--BrownHue));
+		}
+	}
+
 	[id=nav] {
 
 		--Color: oklch(90% 17% var(--CyanHue));

@@ -3,9 +3,6 @@
 		& :is(span, a) {
 			display: block;
 
-			&:visited {
-				color: oklch(92% 28% var(--LimeHue));
-			}
 		}
 
 		& h4 {
