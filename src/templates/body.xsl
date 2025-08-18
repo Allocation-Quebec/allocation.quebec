@@ -118,7 +118,7 @@
 				<h2 class="as-invisible">Navigation principale</h2>
 				<div>
 					<div class="__dropdown">
-						<h3 class="h5">Pourquoi ?</h3>
+						<h3 class="h4">Pourquoi ?</h3>
 						<div>
 							<section>
 								<h4 class="h5">Valeurs</h4>
@@ -140,7 +140,7 @@
 						</div>
 					</div>
 					<div class="__dropdown">
-						<h3 class="h5">Pour qui ?</h3>
+						<h3 class="h4">Pour qui ?</h3>
 						<div>
 							<a href="/fr/classes/travailleurs">Travailleur·es</a>
 							<a href="/fr/classes/consommateurs">Consommateur·rices</a>
@@ -153,7 +153,7 @@
 						</div>
 					</div>
 					<div class="__dropdown">
-						<h3 class="h5">Comment ?</h3>
+						<h3 class="h4">Comment ?</h3>
 						<div>
 							<a href="/fr/comment/programme">Programme économique</a>
 							<span aria-hidden="true">Plan de déploiement</span>
@@ -161,7 +161,7 @@
 						</div>
 					</div>
 					<div class="__dropdown">
-						<h3 class="h5">Mais encore ?</h3>
+						<h3 class="h4">Mais encore ?</h3>
 						<div>
 							<span aria-hidden="true">Pourquoi cette appellation ?</span>
 							<span aria-hidden="true">Mythes persistants</span>
