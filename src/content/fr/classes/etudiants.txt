@@ -216,12 +216,12 @@
 <li class="tile editable"><span><em>Et vous ?</em> Qu’aimeriez-vous apprendre si vous en aviez les moyens ?</span><textarea placeholder="Partagez votre témoignage ici..."></textarea></li>
 </ol>
 
-<h3 class="h4">Ce que vos concitoyen·nes en disent</h3>
-<div class="as-grid">
-<blockquote class="tile"><p>« Je pourrais me consacrer à mes études au lieu de faire 25h de travail par semaine. »</p><cite class="h4">Anaïs G.</cite></blockquote>
-<blockquote class="tile"><p>« J’ai 42 ans et je veux changer de métier. L’allocation me donnerait enfin cette chance. »</p><cite class="h4">Jean-Michel C.</cite></blockquote>
-<blockquote class="tile"><p>« Je pourrais étudier la philosophie, pas juste pour un emploi, mais pour comprendre le monde. »</p><cite class="h4">Salma D.</cite></blockquote>
-</div>
+<!-- <h3 class="h4">Ce que vos concitoyen·nes en disent</h3> -->
+<!-- <div class="as-grid"> -->
+<!-- <blockquote class="tile"><p>« Je pourrais me consacrer à mes études au lieu de faire 25h de travail par semaine. »</p><cite class="h4">Anaïs G.</cite></blockquote> -->
+<!-- <blockquote class="tile"><p>« J’ai 42 ans et je veux changer de métier. L’allocation me donnerait enfin cette chance. »</p><cite class="h4">Jean-Michel C.</cite></blockquote> -->
+<!-- <blockquote class="tile"><p>« Je pourrais étudier la philosophie, pas juste pour un emploi, mais pour comprendre le monde. »</p><cite class="h4">Salma D.</cite></blockquote> -->
+<!-- </div> -->
 
 <hr />
 <p>Avec une allocation de subsistance, un Québec qui <em>étudie mieux</em> est possible.</p>

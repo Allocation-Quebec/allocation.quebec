@@ -1,5 +1,6 @@
 <header>
 <h1><i><img src="/assets/img/family.svg" alt=""/></i>Parents</h1>
+<p>L’allocation de subsistance renforce la stabilité des familles, réduit la pauvreté infantile et permet aux parents de mieux concilier travail et vie familiale.</p>
 </header>
 
 <section>
@@ -10,15 +11,15 @@
 
 <div class="as-grid">
 <div class="as-prose">
-<p>L’allocation de subsistance renforce le budget des familles dès la naissance du premier enfant : chaque adulte conserve un revenu plancher et chaque enfant « protège » cinquante-mille dollars de revenu familial avant toute récupération. Résultat : moins d’endettement, plus de temps de qualité et de meilleures chances de réussite scolaire.</p>
+<p>L’allocation de subsistance renforce le budget des familles dès la naissance du premier enfant : chaque adulte conserve un revenu plancher et chaque enfant « protège » 50 000 \$ de revenu familial avant toute récupération. Résultat : moins d’endettement, plus de temps de qualité et de meilleures chances de réussite scolaire.</p>
 
 <h3 class="h4">Pourquoi c’est crucial ?</h3>
-<p>Un enfant sur six vit encore sous le seuil de faible revenu au Québec[^statcan2024]. Les programmes actuels sont morcelés ; ils créent des décrochages d’aide dès que les parents gravissent l’échelle salariale. Avec un montant universel et linéaire, plus aucun ménage ne tombe entre les mailles du filet.</p>
+<p>Un enfant sur six vit encore sous le seuil de faible revenu au Québec[^statcan2024]. Les programmes actuels sont morcelés ; ils créent des décrochages d’aide dès que les parents gravissent l’échelle salariale. Avec un montant universel et linéaire, plus aucun ménage ne tombe entre les mailles du filet.</p>
 </div>
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Un revenu familial stable améliore la santé mentale parentale et réduit les retards de développement chez les enfants[^oecd2021]. De plus, l’allocation universelle simplifie la conciliation travail-famille : la plupart des ménages conservent un gain net lorsqu’ils acceptent des heures ou un poste mieux rémunéré.</p>
+<p>Un revenu familial stable améliore la santé mentale parentale et réduit les retards de développement chez les enfants[^oecd2021]. De plus, l’allocation de subsistance simplifie la conciliation travail-famille puisque la plupart des ménages conservent un gain net lorsqu’ils acceptent des heures ou un poste mieux rémunéré.</p>
 </aside>
 </div>
 
@@ -50,26 +51,26 @@
 <!-- Portrait 1 -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Couple employé de commerce : 30 000 \$ + 30 000 \$ • 1 enfant scolarisé</h3>
-<p><em>gain net d’environ 19 000 \$ par année.</em></p>
+<h3><i></i>Un Couple ayant 60 000 \$ de revenu et un enfant scolarisé</h3>
+<p class="with-scheme-lime">recevrait 19 000 \$.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net combiné</dt><dd>54 000 \$</dd>
-<dt>Allocation-famille et crédits</dt><dd>+4 500 \$</dd>
+<dt>Revenu net (combiné)</dt><dd>54 000 \$</dd>
+<dt>Allocation-famille et crédits</dt><dd>4 500 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>58 500 \$</dd>
+<dt>Budget actuel</dt><dd>58 500 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocations adultes nettes</dt><dd>+18 000 \$</dd>
-<dt>Allocation-enfant</dt><dd>+6 000 \$</dd>
+<dt>Allocation adulte nette (2)</dt><dd>+18 000 \$</dd>
+<dt>Allocation enfant</dt><dd>+6 000 \$</dd>
 <dt>Programmes supprimés</dt><dd>–4 500 \$</dd>
 <dt>Allègement AE & RRQ</dt><dd>+800 \$</dd>
 <dt>Impôt provincial (+1 pt)</dt><dd>–600 \$</dd>
@@ -82,7 +83,7 @@
 <section>
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>77 500 \$</dd>
+<dt>Budget final</dt><dd>77 500 \$</dd>
 </dl>
 </section>
 
@@ -100,48 +101,52 @@
 <!-- Portrait 2 -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Couple classe moyenne : 45 000 \$ + 70 000 \$ • 2 enfants en CPE</h3>
-<p><em>gain net d’environ 8 000 \$ par année.</em></p>
+<h3><i></i>Un couple ayant des revenus de 45 000 \$ et 70 000 \$ avec 2 enfants en CPE</h3>
+<p class="with-scheme-red">contribuerait 2 700 \$</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net combiné</dt><dd>96 000 \$</dd>
-<dt>Programme famille + CPE</dt><dd>+16 000 \$</dd>
+<dt>Revenu net (combiné)</dt><dd>96 000 \$</dd>
+<dt>Programme famille + CPE</dt><dd>16 000 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>112 000 \$</dd>
+<dt>Budget actuel</dt><dd>112 000 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocation-enfant</dt><dd>+12 000 \$</dd>
+<dt>Allocation enfant (2)</dt><dd>+12 000 \$</dd>
+<dt>Allocation adulte</dt><dd>+1 800 \$</dd>
 <dt>Subvention CPE perdue</dt><dd>–9 000 \$</dd>
-<dt>Programmes supprimés</dt><dd>–2 000 \$</dd>
+<dt>Allocation-famille abolie</dt><dd>–7 000 \$</dd>
 <dt>Allègement AE & RRQ</dt><dd>+1 000 \$</dd>
 <dt>Impôt provincial (+1 pt)</dt><dd>–1 100 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+8 000 \$</dd>
+<dt>Ajustement</dt><dd>-2 300 \$</dd>
 </dl>
 </section>
 
-<section>
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>120 000 \$</dd>
+<dt>Revenu net (combiné)</dt><dd>95 900 \$</dd>
+<dt>Allocation enfant (2)</dt><dd>+12 000 \$</dd>
+<dt>Allocation adulte</dt><dd>+1 800 \$</dd>
+<dt>Budget final</dt><dd>109 700 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Le plein tarif de garde payé sans s’endetter.</li>
-<li>Une marge pour épargner ou voyager en famille.</li>
-<li>Un budget en hausse de 7 % malgré la fin du 9 \$.</li>
+<li>Le plein tarif de garde payé, mais un budget légèrement réduit.</li>
+<li>Nécessité d’un ajustement de dépenses ou d’un étalement des frais scolaires.</li>
+<li>Un recul d’environ 2 % du budget global.</li>
 </ol>
 </section>
 </div>
@@ -150,18 +155,18 @@
 <!-- Portrait 3 -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Mère monoparentale employée de bureau : 40 000 \$ • 1 enfant</h3>
-<p><em>gain net d’environ 7 000 \$ par année.</em></p>
+<h3><i></i> Une mère monoparentale ayant un revenu de 40 000 \$ et 1 enfant</h3>
+<p class="with-scheme-lime">recevrait 8 500 \$.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net</dt><dd>34 000 \$</dd>
-<dt>Allocation-famille</dt><dd>+1 000 \$</dd>
+<dt>Revenu net</dt><dd>34 000 \$</dd>
+<dt>Allocation-famille</dt><dd>1 000 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>35 000 \$</dd>
+<dt>Budget actuel</dt><dd>35 000 \$</dd>
 </dl>
 </section>
 
@@ -169,20 +174,23 @@
 <h4 class="h5">Réforme économique</h4>
 <dl>
 <dt>Allocation adulte nette</dt><dd>+3 600 \$</dd>
-<dt>Allocation-enfant</dt><dd>+6 000 \$</dd>
-<dt>Programme supprimé</dt><dd>–1 000 \$</dd>
+<dt>Allocation enfant</dt><dd>+6 000 \$</dd>
+<dt>Allocation-famille abolie</dt><dd>–1 000 \$</dd>
 <dt>Allègement AE & RRQ</dt><dd>+500 \$</dd>
 <dt>Impôt provincial (+1 pt)</dt><dd>–600 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+7 000 \$</dd>
+<dt>Ajustement</dt><dd>+8 500 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>42 000 \$</dd>
+<dt>Revenu net</dt><dd>33 900 \$</dd>
+<dt>Allocation adulte nette</dt><dd>+3 600 \$</dd>
+<dt>Allocation enfant</dt><dd>+6 000 \$</dd>
+<dt>Budget final</dt><dd>43 500 \$</dd>
 </dl>
 </section>
 
@@ -191,7 +199,7 @@
 <ol>
 <li>Passer de la location à l’épargne d’un dépôt hypothécaire.</li>
 <li>Plus de flexibilité pour la garde partagée.</li>
-<li>Un budget en hausse de 20 %.</li>
+<li>Un budget en hausse de près de 25 %.</li>
 </ol>
 </section>
 </div>
@@ -200,8 +208,8 @@
 <!-- Portrait 4 -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Mère célibataire infirmière : 90 000 \$ • 3 enfants</h3>
-<p><em>gain net d’environ 9 500 \$ par année.</em></p>
+<h3><i></i> Une mère infirmière ayant 90 000 \$ de revenu et 3 enfants</h3>
+<p class="with-scheme-lime">recevrait 9 500 \$.</p>
 </header>
 <div>
 <section>
@@ -211,7 +219,7 @@
 <dt>Allocations-famille & crédits</dt><dd>+9 500 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>76 500 \$</dd>
+<dt>Budget actuel</dt><dd>76 500 \$</dd>
 </dl>
 </section>
 
@@ -232,10 +240,10 @@
 <h4 class="h5">Situation finale</h4>
 <dl>
 <dt>Revenu net ajusté</dt><dd>68 000 \$</dd>
-<dt>Allocation-enfant</dt><dd>18 000 \$</dd>
+<dt>Allocation enfant (3)</dt><dd>18 000 \$</dd>
 </dl>
 <dl>
-<dt>Total final</dt><dd>86 000 \$</dd>
+<dt>Budget final</dt><dd>86 000 \$</dd>
 </dl>
 </section>
 

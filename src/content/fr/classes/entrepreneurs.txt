@@ -1,6 +1,7 @@
 <!-- FICHE – ENTREPRENEUR·ES (version B : subventions/​crédits sectoriels inclus) -->
 <header>
 <h1><i><img src="/assets/img/lightrocket.svg" alt=""/></i>Entrepreneur·es</h1>
+<p>L’allocation de subsistance assure aux entrepreneurs un revenu plancher et des coûts d’embauche réduits, favorisant la prise de risque et la pérennité des projets.</p>
 </header>
 
 <section>
@@ -12,8 +13,8 @@
 <div class="as-grid">
 <div class="as-prose">
 <p>En abaissant les cotisations sur la masse salariale et en garantissant un revenu de base aux dirigeant·es, l’allocation de subsistance
-favorise la création d’entreprises. Les aides sectorielles disparues (crédit R-D remboursable, subventions à l’entrepreneurship, etc.) sont
-remplacées par un mécanisme universel : <em>plus simple, plus prévisible</em>.</p>
+favorise la création d’entreprises. Les aides sectorielles disparues (crédit R&D remboursable, subventions à l’entrepreneurship, etc.) sont
+remplacées par un mécanisme universel <em>plus simple, plus prévisible</em>.</p>
 
 <h3 class="h4">Pourquoi c’est stratégique ?</h3>
 <p>Les PME représentent 99 % des entreprises québécoises et 61 % des emplois privés[^statcanSME].
@@ -42,58 +43,63 @@ on aide à passer le cap critique des premières années.</p>
 <section>
 <header>
 <h2>Portraits types</h2>
-<p>Impact net, en tenant compte <strong>des subventions et crédits abolis ou rabotés</strong>.</p>
+<p>Impact net pour plusieurs profils, en tenant compte <strong>des subventions et crédits abolis ou réduits</strong>.</p>
 </header>
 
 <!-- 1. Café de quartier -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Café de quartier • bénéfice 15 000 \$ • salaire 35 000 \$</h3>
-<p><em>gain net d’environ 2 700 \$ par année.</em></p>
+<h3><i></i> Une propriétaire d'un café de quartier avec salaire 35 000 \$ et bénéfice de 15 000 \$</h3>
+<p class="with-scheme-green">recevrait 2 150 \$.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Salaire net du propriétaire</dt><dd>29 300 \$</dd>
-<dt>Bénéfice net après ISoc</dt><dd>14 300 \$</dd>
-<dt>Subvention « Soutien au travail autonome »</dt><dd>+3 000 \$</dd>
+<dt>Salaire net</dt><dd>29 300 \$</dd>
+<dt>Bénéfice net</dt><dd>14 300 \$</dd>
+<dt>Soutien au travail autonome</dt><dd>+3 000 \$</dd>
 </dl>
-<dl><dt>Total actuel</dt><dd>46 600 \$</dd></dl>
+<dl><dt>Budget actuel</dt><dd>46 600 \$</dd></dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocation adulte nette</dt><dd>5 400 \$</dd>
+<dt>Allocation nette</dt><dd>5 400 \$</dd>
+<dt>Allègement AE & RRQ (salariée)</dt><dd>+140 \$</dd>
 <dt>Baisse cotisations employeur</dt><dd>+900 \$</dd>
-<dt>Subvention STA abolie</dt><dd>–3 000 \$</dd>
-<dt>ISoc +1,25 pt</dt><dd>–190 \$</dd>
+<dt>Subvention STA abolie</dt><dd>-3 000 \$</dd>
+<dt>ISoc +1,25 pt</dt><dd>-190 \$</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>+2 700 \$</dd></dl>
+<dl><dt>Ajustement</dt><dd>3 250 \$</dd></dl>
 </section>
 
-<section>
+<section class="with-scheme-green">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>49 300 \$</dd></dl>
+<dt>Allocation nette</dt><dd>5 400 \$</dd>
+<dt>Salaire net</dt><dd>29 440 \$</dd>
+<dt>Bénéfice net</dt><dd>15 010 \$</dd>
+<dl><dt>Budget final</dt><dd>49 850 \$</dd></dl>
 </section>
 </div>
 </article>
 
+
 <!-- 2. Start-up techno pré-revenu -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Start-up technologique • salaire fondateur 25 000 \$ • crédit R-D remboursable 60 000 \$</h3>
-<p><em>perte nette d’environ 2 400 \$ tant que la R-D n’est pas rentable.</em></p>
+<h3><i></i> Un fondateur de start-up ayant un revenu de 25 000 \$ et un crédit R&D de 60 000 \$</h3>
+<p class="with-scheme-red">contribuerait 2 400 \$.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
 <dt>Salaire net fondateur</dt><dd>23 500 \$</dd>
-<dt>Crédit R-D remboursable</dt><dd>+60 000 \$</dd>
+<dt>Crédit R&D remboursable</dt><dd>+60 000 \$</dd>
 </dl>
-<dl><dt>Total actuel</dt><dd>83 500 \$</dd></dl>
+<dl><dt>Avoir actuel</dt><dd>83 500 \$</dd></dl>
 </section>
 
 <section>
@@ -101,12 +107,12 @@ on aide à passer le cap critique des premières années.</p>
 <dl>
 <dt>Allocation adulte nette</dt><dd>9 000 \$</dd>
 <dt>Baisse cotisations employeur</dt><dd>+600 \$</dd>
-<dt>Crédit R-D raboté 20 %</dt><dd>–12 000 \$</dd>
+<dt>Crédit R&D réduit</dt><dd>–12 000 \$</dd>
 </dl>
 <dl><dt>Ajustement</dt><dd>−2 400 \$</dd></dl>
 </section>
 
-<section>
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
 <dl><dt>Total final</dt><dd>81 100 \$</dd></dl>
 </section>
@@ -116,18 +122,18 @@ on aide à passer le cap critique des premières années.</p>
 <!-- 3. Cabinet-conseil -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Cabinet-conseil incorporé • profit 300 000 \$ • salaire 80 000 \$</h3>
-<p><em>contribution nette d’environ 6 700 \$ par année.</em></p>
+<h3><i></i>Une présidente ayant un salaire de 80 000 \$ d'un cabinet conseil avec profit 300 000 \$</h3>
+<p class="with-scheme-red">contribuerait 6 750 \$.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Salaire net dirigeant</dt><dd>67 000 \$</dd>
-<dt>Bénéfice net après ISoc</dt><dd>204 000 \$</dd>
-<dt>Crédit formation PME</dt><dd>+5 000 \$</dd>
+<dt>Salaire net</dt><dd>67 000 \$</dd>
+<dt>Bénéfice net</dt><dd>204 000 \$</dd>
+<dt>Crédit formation PME</dt><dd>5 000 \$</dd>
 </dl>
-<dl><dt>Total actuel</dt><dd>276 000 \$</dd></dl>
+<dl><dt>Avoir actuel</dt><dd>276 000 \$</dd></dl>
 </section>
 
 <section>
@@ -137,12 +143,14 @@ on aide à passer le cap critique des premières années.</p>
 <dt>Crédit formation aboli</dt><dd>–5 000 \$</dd>
 <dt>ISoc +1,25 pt</dt><dd>–3 750 \$</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>−6 700 \$</dd></dl>
+<dl><dt>Ajustement</dt><dd>−6 750 \$</dd></dl>
 </section>
 
-<section>
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>269 300 \$</dd></dl>
+<dt>Salaire net</dt><dd>67 000 \$</dd>
+<dt>Bénéfice net</dt><dd>202 250 \$</dd>
+<dl><dt>Budget final</dt><dd>269 250 \$</dd></dl>
 </section>
 </div>
 </article>
@@ -150,18 +158,18 @@ on aide à passer le cap critique des premières années.</p>
 <!-- 4. Entreprise familiale prospère -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Entreprise familiale • profit 500 000 \$ • salaire dirigeant 120 000 \$</h3>
-<p><em>contribution nette d’environ 10 500 \$ par année.</em></p>
+<h3><i></i>Une propriétaire ayant un salaire de 120 000 \$ d'une entreprise familiale avec un profit de 500 000 \$</h3>
+<p class="with-scheme-red">contribuerait 10 500 \$.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Salaire net dirigeant</dt><dd>84 000 \$</dd>
-<dt>Bénéfice net après ISoc</dt><dd>340 000 \$</dd>
+<dt>Salaire net</dt><dd>84 000 \$</dd>
+<dt>Bénéfice net</dt><dd>340 000 \$</dd>
 <dt>Crédit export PME-Tiers 2</dt><dd>+10 000 \$</dd>
 </dl>
-<dl><dt>Total actuel</dt><dd>434 000 \$</dd></dl>
+<dl><dt>Budget actuel</dt><dd>434 000 \$</dd></dl>
 </section>
 
 <section>
@@ -175,9 +183,9 @@ on aide à passer le cap critique des premières années.</p>
 <dl><dt>Ajustement</dt><dd>−10 250 \$</dd></dl>
 </section>
 
-<section>
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>423 750 \$</dd></dl>
+<dl><dt>Budget final</dt><dd>423 750 \$</dd></dl>
 </section>
 </div>
 </article>
