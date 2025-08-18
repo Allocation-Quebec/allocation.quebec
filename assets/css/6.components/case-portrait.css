@@ -16,7 +16,6 @@
 			&>* {
 				display: inline;
 				min-width: initial;
-				align-self: start;
 				--ScaleLevel: var(--Taller);
 				--LineHeightFactor: 1.25;
 				--BaselineInterval: calc(var(--Row) / 4);
@@ -114,10 +113,6 @@
 
 			&:nth-child(3) {
 				--SelectedHue: var(--LimeHue);
-
-				&.__loss {
-					--SelectedHue: var(--RedHue);
-				}
 			}
 
 			&:nth-child(4) {
@@ -140,6 +135,11 @@
 			display: flex;
 			flex-wrap: wrap;
 			gap: 5px;
+
+			&>dt {
+				flex-basis: 50%;
+				flex-grow: 1;
+			}
 
 			--FontWeight: 500;
 
@@ -169,8 +169,6 @@
 		}
 
 		& dt {
-			flex-basis: 50%;
-			flex-grow: 1;
 			display: flex;
 			align-items: baseline;
 
@@ -188,16 +186,8 @@
 
 		}
 
-
-		& footer {
-			/* --ScaleLevel: var(--Tall); */
-			/* --LineHeightFactor: 1.5; */
-			/* --Color: oklch(40% 36% var(--BlueHue)); */
-		}
-
 		& h4+* {
 			margin-top: var(--SpacingThin);
 		}
-
 	}
 }

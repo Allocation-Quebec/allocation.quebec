@@ -59,13 +59,6 @@
 			padding: var(--SpacingThinnest);
 			margin: 0;
 
-			@media (orientation: landscape) {
-				--ScaleLevel: var(--Short);
-			}
-
-			&:where(a):hover {
-				color: oklch(98% 38% var(--RedHue));
-			}
 		}
 
 
@@ -88,17 +81,21 @@
 			background-color: oklch(45% 39% var(--ThemeHue));
 			border-top: 2px solid oklch(55% 39% var(--ThemeHue));
 
-			& * {
+			& :is(h3,h4) {
+				--ScaleLevel: var(--Tall);
+			}
 
-				--ScaleLevel: var(--Base);
+			& :is(a, span) {
+				--ScaleLevel: var(--Taller);
 			}
 
 			&>div {
 				overflow-x: auto;
+				padding-inline: var(--SpacingThinnest);
 
-				&::before {
+				&:not(:hover)::before {
 					position: sticky;
-					right: -1px;
+					right: calc( -1 * var(--SpacingThin) - 1px);
 					display: flex;
 					flex-shrink: 0;
 					align-items: center;
@@ -113,7 +110,7 @@
 
 				}
 
-				&::after {
+				&:not(:hover)::after {
 					position: relative;
 					z-index: 1;
 					display: flex;
@@ -149,6 +146,10 @@
 			padding: 20px 10px;
 			background-color: oklch(45% 39% var(--ThemeHue));
 
+			&:focus {
+				z-index: 1;
+			}
+
 			&:has(section) {
 				flex-direction: row;
 				flex-wrap: nowrap;
@@ -156,12 +157,18 @@
 			}
 
 			@media (orientation: portrait) {
-				bottom: calc(var(--Short) * 1rem + var(--SpacingThin) * 2 + 2px);
+				bottom: calc(var(--Taller) * 1rem + var(--SpacingThin) * 2 + 2px);
 				top: auto;
 				left: 0;
 				right: 0;
 				position: fixed;
-				box-shadow: 0px -12px 15px oklch(40% 36% var(--ThemeHue) / 0.5);
+				box-shadow: 0px -2px 5px oklch(40% 36% var(--ThemeHue) / 0.5);
+				padding: var(--SpacingBroad);
+				padding-top: var(--SpacingBroader);
+
+				& *+:is(span, a) {
+					margin-top: var(--SpacingThinnest);
+				}
 			}
 
 			@media (orientation: landscape) {
