@@ -1,40 +1,92 @@
 <header>
 <h1><i><img src="/assets/img/palette.svg" alt=""/></i>Artistes</h1>
+<p>L’allocation de subsistance stabilise les revenus irréguliers, réduit la précarité et permet aux artistes de créer sans multiplier les petits boulots.</p>
 </header>
+
 <section>
+<header>
+<small>stabilité & création</small>
+<h2 class="h3"><i>🎨</i> Moins d’insécurité, plus de temps pour créer</h2>
+</header>
+
+<div class="as-grid">
+<div class="as-prose">
+<p>Les carrières artistiques alternent contrats, bourses et périodes sans cachets. Un revenu plancher et des charges sociales allégées transforment des revenus en dents de scie en trajectoires soutenables : loyers payés, matériel financé, temps de recherche garanti.</p>
+
+<h3 class="h4">Pourquoi c’est crucial ?</h3>
+<p>Une part importante des artistes vit avec un revenu annuel sous le seuil de faible revenu, et la variabilité mensuelle complique l’accès au crédit et au logement. En garantissant un plancher et en simplifiant les règles, on remplace la course aux programmes par une sécurité prévisible.</p>
+</div>
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>La prévisibilité du revenu améliore la santé mentale et la productivité créative ; l’allègement des charges à faible revenu augmente l’offre de travail autonome (recherches en économie du travail et politiques culturelles).</p>
+</aside>
+</div>
+
+<h3 class="h4">Résultats concrets</h3>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Revenu plancher assuré</strong>
+<p>Une allocation adulte nette qui stabilise les mois creux.</p></li>
+
+<li class="tile"><strong class="h5">Allègement AE & RRQ</strong>
+<p>Des cotisations réduites quand les cachets sont modestes.</p></li>
+
+<li class="tile"><strong class="h5">Temps de création libéré</strong>
+<p>Moins de petits boulots ; plus de résidence, de production et de diffusion.</p></li>
+
+<li class="tile"><strong class="h5">Moins de paperasse</strong>
+<p>Moins de programmes ciblés à gérer, plus de simplicité.</p></li>
+
+<li class="tile"><strong class="h5">Écosystème renforcé</strong>
+<p>Un filet universel qui soutient particulièrement l’émergence.</p></li>
+</ul>
+</section>
+
+<section>
+<header>
+<h2>Portraits types</h2>
+<p>Quatre exemples illustrent l’impact direct selon des situations artistiques différentes.</p>
+</header>
+
 <!-- 1. Peintre émergente -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Peintre émergente • revenu annuel 18 000 \$</h3>
-<p><em>gain net d’environ 11 800 \$ par année.</em></p>
+<h3><i></i> Une peintre émergente qui expose et vend de façon irrégulière</h3>
+<p class="with-scheme-lime">gagnerait 11 800 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net d’art</dt><dd>17 000 \$</dd>
-<dt>Bourse CALQ création</dt><dd>+6 000 \$</dd>
+<dt>Revenu net d’art</dt><dd>17 000 \$</dd>
+<dt>Bourse CALQ – création</dt><dd>6 000 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>23 000 \$</dd>
+<dt>Total actuel</dt><dd>23 000 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocation adulte nette</dt><dd>+11 520 \$</dd>
-<dt>Allègement AE & RRQ</dt><dd>+280 \$</dd>
+<dt>Allocation adulte nette</dt><dd>11 520 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>280 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+11 800 \$</dd>
+<dt>Ajustement</dt><dd>+11 800 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>34 800 \$</dd>
+<dt>Revenu net d’art</dt><dd>17 000 \$</dd>
+<dt>Bourse CALQ – création</dt><dd>6 000 \$</dd>
+<dt>Allocation adulte nette</dt><dd>11 520 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>280 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>34 800 \$</dd>
 </dl>
 </section>
 
@@ -42,8 +94,8 @@
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
 <li>Une sécurité financière toute l’année.</li>
-<li>La possibilité d’exposer sans courir les petits boulots.</li>
-<li>Un revenu disponible en hausse de 51 %.</li>
+<li>La possibilité d’exposer sans multiplier les petits boulots.</li>
+<li>Un revenu disponible en hausse de 51 %.</li>
 </ol>
 </section>
 </div>
@@ -52,46 +104,51 @@
 <!-- 2. Musicien·ne pigiste -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Musicien·ne pigiste • revenu annuel 30 000 \$</h3>
-<p><em>gain net d’environ 5 150 \$ par année.</em></p>
+<h3><i></i> Un·e musicien·ne pigiste qui alterne tournées et périodes creuses</h3>
+<p class="with-scheme-lime">gagnerait 5 150 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net de cachets</dt><dd>27 500 \$</dd>
-<dt>Crédit production sonore</dt><dd>+1 500 \$</dd>
+<dt>Revenu net de cachets</dt><dd>27 500 \$</dd>
+<dt>Crédit production sonore</dt><dd>1 500 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>29 000 \$</dd>
+<dt>Total actuel</dt><dd>29 000 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocation adulte nette</dt><dd>+6 200 \$</dd>
-<dt>Allègement AE & RRQ</dt><dd>+450 \$</dd>
-<dt>Crédit production supprimé</dt><dd>–1 500 \$</dd>
+<dt>Allocation adulte nette</dt><dd>6 200 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>450 \$</dd>
+<dt>Crédit production sonore</dt><dd>−1 500 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+5 150 \$</dd>
+<dt>Ajustement</dt><dd>+5 150 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>34 150 \$</dd>
+<dt>Revenu net de cachets</dt><dd>27 500 \$</dd>
+<dt>Allocation adulte nette</dt><dd>6 200 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>450 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>34 150 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Moins de pression pour accepter les cachets sous-payés.</li>
-<li>Budget d’équipement renouvelé sans emprunt.</li>
-<li>Revenu disponible en hausse de 18 %.</li>
+<li>Moins de pression pour accepter des cachets sous-payés.</li>
+<li>Un budget d’équipement renouvelé sans emprunt.</li>
+<li>Un revenu disponible en hausse de 18 %.</li>
 </ol>
 </section>
 </div>
@@ -100,45 +157,49 @@
 <!-- 3. Réalisateur-producteur indépendant -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Réalisateur-producteur indépendant • revenu annuel 65 000 \$</h3>
-<p><em>contribution nette d’environ 5 200 \$ par année.</em></p>
+<h3><i></i> Un réalisateur‑producteur indépendant qui vit surtout d’honoraires</h3>
+<p class="with-scheme-red">contribuerait 5 200 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net d’honoraires</dt><dd>50 000 \$</dd>
-<dt>Crédit d’impôt audiovisuel</dt><dd>+6 000 \$</dd>
+<dt>Revenu net d’honoraires</dt><dd>50 000 \$</dd>
+<dt>Crédit d’impôt audiovisuel</dt><dd>6 000 \$</dd>
 </dl>
 <dl>
-<dt>Total actuel</dt><dd>56 000 \$</dd>
+<dt>Total actuel</dt><dd>56 000 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Crédit audiovisuel raboté</dt><dd>–6 000 \$</dd>
-<dt>Allègement AE & RRQ</dt><dd>+800 \$</dd>
+<dt>Crédit audiovisuel</dt><dd>−6 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>800 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>–5 200 \$</dd>
+<dt>Ajustement</dt><dd>−5 200 \$</dd>
 </dl>
 </section>
 
-<section>
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>50 800 \$</dd>
+<dt>Revenu net d’honoraires</dt><dd>50 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>800 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>50 800 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Une légère baisse du revenu net (–8 %).</li>
-<li>Incite à ajuster les tarifs ou co-productions.</li>
-<li>Moins de démarches pour réclamer des crédits.</li>
+<li>Une légère baisse du revenu net (−8 %).</li>
+<li>Une incitation à ajuster les tarifs ou à co‑produire.</li>
+<li>Moins de démarches pour réclamer des crédits ciblés.</li>
 </ol>
 </section>
 </div>
@@ -147,41 +208,46 @@
 <!-- 4. Chanteuse populaire autonome -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Chanteuse populaire autonome • revenu annuel 180 000 \$</h3>
-<p><em>contribution nette d’environ 5 400 \$ par année.</em></p>
+<h3><i></i> Une chanteuse populaire autonome avec des revenus élevés</h3>
+<p class="with-scheme-red">contribuerait 5 400 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net après impôt</dt><dd>132 000 \$</dd>
+<dt>Revenu net après impôt</dt><dd>132 000 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Cotisations AE & RRQ ↓</dt><dd>+1 600 \$</dd>
-<dt>Surtaxes luxe (foncière, FTT, gains cap.)</dt><dd>–7 000 \$</dd>
+<dt>Cotisations AE & RRQ ↓</dt><dd>+1 600 \$</dd>
+<dt>Surtaxes patrimoine (foncière, FTT, gains cap.)</dt><dd>−7 000 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>–5 400 \$</dd>
+<dt>Ajustement</dt><dd>−5 400 \$</dd>
 </dl>
 </section>
 
-<section>
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Total final</dt><dd>126 600 \$</dd>
+<dt>Revenu net de base</dt><dd>132 000 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+1 600 \$</dd>
+<dt>Surtaxes patrimoine</dt><dd>−7 000 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>126 600 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Une contribution équivalente à 3 % du revenu net.</li>
-<li>Charges sociales allégées malgré la surtaxe patrimoine.</li>
-<li>Aide à financer le filet social dont bénéficient les jeunes artistes.</li>
+<li>Une contribution équivalente à 3 % du revenu net.</li>
+<li>Des charges sociales allégées malgré une surtaxe sur le patrimoine.</li>
+<li>Un financement accru du filet social qui soutient l’émergence.</li>
 </ol>
 </section>
 </div>

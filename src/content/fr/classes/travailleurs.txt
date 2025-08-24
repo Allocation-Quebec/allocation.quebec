@@ -1,5 +1,6 @@
 <header>
 <h1><i><img src="/assets/img/work.svg" alt=""/></i>Travailleur·euses</h1>
+<p>L’allocation de subsistance garantit un revenu plancher qui monte toujours avec l’effort : chaque heure travaillée et chaque promotion augmentent le revenu disponible, sans « mur » ni perte soudaine d’aide.</p>
 </header>
 
 <section>
@@ -10,34 +11,34 @@
 
 <div class="as-grid">
 <div class="as-prose">
-<p>Avec l’allocation de subsistance, chaque emploi garantit un revenu qui ne retombe jamais sous un seuil de base. L’aide décroît graduellement, ce qui supprime les « trappes à pauvreté » : accepter plus d’heures ou une promotion rapporte toujours.</p>
+<p>La réforme remplace des programmes conditionnels et morcelés par une allocation universelle avec récupération graduelle. Concrètement, le soutien diminue doucement à mesure que le salaire augmente, ce qui élimine les trappes à pauvreté. L’effet combiné : plus de sécurité de revenu, plus de liberté pour accepter des heures supplémentaires, changer d’emploi ou reprendre des études, et une progression salariale qui se traduit enfin par un gain net.</p>
 
-<h3 class="h4">Pourquoi c’est décisif&nbsp;?</h3>
-<p>Près de 40 % des salarié·es québécois·es gagnent moins de 25 \$ l’heure[^statcanSal]. Les programmes conditionnels actuels coupent brusquement l’aide dès qu’un seuil est franchi. Ici, on remplace ces ruptures par une pente douce : plus d’effort, plus de revenu net.</p>
+<h3 class="h4">Pourquoi c’est décisif ?</h3>
+<p>Près de 40 % des salarié·es québécois·es gagnent moins de 25 \$/h[^statcanSal]. Les programmes actuels coupent abruptement des crédits et prestations quand un seuil est franchi. Ici, on remplace les ruptures par une pente douce : plus d’effort, plus de revenu net, pour tout le monde.</p>
 </div>
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Les recherches démontrent qu’un revenu de base améliore la santé mentale et la productivité des employé·es[^mit2021]. Les entreprises observent moins d’absentéisme et un meilleur engagement lorsqu’une sécurité financière de fond existe.</p>
+<p>Les transferts monétaires stables sont associés à une meilleure santé mentale et à une baisse de l’absentéisme, ce qui améliore la productivité[^mit2021]. L’effet est particulièrement marqué pour les bas et moyens revenus.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
 <li class="tile"><strong class="h5">Hausse du taux d’emploi</strong>
-<p>+2 points de participation chez les 18-64 ans[^statcanLab].</p></li>
+<p>+2 points de participation chez les 18–64 ans[^statcanLab].</p></li>
 
 <li class="tile"><strong class="h5">Revenus bas mieux protégés</strong>
-<p>Les salaires inférieurs à 30 000 \$ voient le revenu disponible grimper de 20 % à 60 %.</p></li>
+<p>En dessous de 30 000 \$, le revenu disponible grimpe de 20 % à 60 %.</p></li>
 
-<li class="tile"><strong class="h5">Équilibre vie-travail</strong>
-<p>Davantage de travail à temps partiel choisi, moins de temps partiel subi[^iwprWork].</p></li>
+<li class="tile"><strong class="h5">Équilibre vie‑travail</strong>
+<p>Plus de temps partiel choisi, moins de temps partiel subi[^iwprWork].</p></li>
 
 <li class="tile"><strong class="h5">Moins d’endettement</strong>
-<p>Les dettes de cartes de crédit reculent de 15 % dans le quintile inférieur[^finqc2019].</p></li>
+<p>–15 % de soldes de cartes de crédit dans le quintile inférieur[^finqc2019].</p></li>
 
 <li class="tile"><strong class="h5">Productivité accrue</strong>
-<p>Jours d’absence maladie en baisse de 12 % en moyenne[^mit2021].</p></li>
+<p>–12 % de jours d’absence maladie en moyenne[^mit2021].</p></li>
 </ul>
 </section>
 
@@ -47,134 +48,199 @@
 <p>Quatre profils illustrent l’impact selon différents niveaux de salaire, y compris les hauts revenus.</p>
 </header>
 
+<!-- Portrait 1 — GAIN -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Commis à temps partiel : 20 000 \$ par an</h3>
-<p><em>gain net d’environ 11 100 \$ par année.</em></p>
+<h3><i></i> Une personne qui travaille comme commis à temps partiel, 20 000 \$ par an</h3>
+<p class="with-scheme-lime"><em>gain net d’environ 11 100 \$ par année.</em></p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu net</dt><dd>18 700 \$</dd>
-<dt>Prime au travail</dt><dd>+600 \$</dd></dl>
-<dl><dt>Total actuel</dt><dd>19 300 \$</dd></dl>
+<dl>
+<dt>Revenu net</dt><dd>18 700 \$</dd>
+<dt>Prime au travail</dt><dd>+600 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>19 300 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
-<dl><dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
-<dt>Prime supprimée</dt><dd>–600 \$</dd>
-<dt>Allègement AE&RRQ</dt><dd>+350 \$</dd>
+<dl>
+<dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
+<dt>Prime supprimée</dt><dd>–600 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+350 \$</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>+11 100 \$</dd></dl>
+<dl>
+<dt>Ajustement</dt><dd>+11 100 \$</dd>
+</dl>
 </section>
-<section>
+
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>30 400 \$</dd></dl>
+<dl>
+<dt>Revenu d’emploi net ajusté</dt><dd>19 600 \$</dd>
+<dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>30 400 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
 <li>Sortir du découvert sans heures supplémentaires.</li>
-<li>Pouvoir se payer le transport en commun annuel.</li>
-<li>Une hausse de 58 % du revenu disponible.</li>
+<li>Pouvoir se payer l’abonnement annuel au transport.</li>
+<li>Une hausse de 58 % du revenu disponible.</li>
 </ol>
 </section>
 </div>
 </article>
 
+<!-- Portrait 2 — GAIN -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Technicien : 45 000 \$ par an</h3>
-<p><em>gain net d’environ 3 000 \$ par année.</em></p>
+<h3><i></i> Une personne technicienne à temps plein, 45 000 \$ par an</h3>
+<p class="with-scheme-lime"><em>gain net d’environ 3 000 \$ par année.</em></p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu net</dt><dd>36 200 \$</dd>
-<dt>Prime au travail</dt><dd>+600 \$</dd></dl>
-<dl><dt>Total actuel</dt><dd>36 800 \$</dd></dl>
+<dl>
+<dt>Revenu net</dt><dd>36 200 \$</dd>
+<dt>Prime au travail</dt><dd>+600 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>36 800 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
-<dl><dt>Allocation adulte nette</dt><dd>3 600 \$</dd>
-<dt>Prime supprimée</dt><dd>–600 \$</dd>
-<dt>Allègement AE&RRQ</dt><dd>+400 \$</dd>
-<dt>Impôt +1 pt</dt><dd>–400 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>+3 000 \$</dd></dl>
+<dl>
+<dt>Allocation adulte nette</dt><dd>3 600 \$</dd>
+<dt>Prime supprimée</dt><dd>–600 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+400 \$</dd>
+<dt>Impôt +1 pt</dt><dd>–400 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+3 000 \$</dd>
+</dl>
 </section>
-<section>
+
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>39 800 \$</dd></dl>
+<dl>
+<dt>Revenu d’emploi net ajusté</dt><dd>36 200 \$</dd>
+<dt>Allocation adulte nette</dt><dd>3 600 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>39 800 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
 <li>L’équivalent d’un treizième chèque de paie.</li>
 <li>Une assurance pour les mois creux.</li>
-<li>Aucun formulaire, tout automatique.</li>
+<li>Aucun formulaire : tout est automatique.</li>
 </ol>
 </section>
 </div>
 </article>
 
+<!-- Portrait 3 — PERTE quasi nulle -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Gestionnaire : 120 000 \$ par an</h3>
-<p><em class="__loss">impact net proche de zéro : perte d’environ 600 \$ par année.</em></p>
+<h3><i></i> Une personne gestionnaire au salaire élevé, 120 000 \$ par an</h3>
+<p class="with-scheme-red"><em>impact net proche de zéro : perte d’environ 600 \$ par année.</em></p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu net</dt><dd>85 000 \$</dd></dl>
+<dl>
+<dt>Revenu net</dt><dd>85 000 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
-<dl><dt>Allocation adulte récupérée</dt><dd>0 \$</dd>
-<dt>Allègement AE&RRQ</dt><dd>+1 100 \$</dd>
-<dt>Impôt +1 pt</dt><dd>–1 100 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>–600 \$ (TVQ & carbone)</dd></dl>
+<dl>
+<dt>Allocation adulte récupérée</dt><dd>0 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+1 100 \$</dd>
+<dt>Impôt +1 pt</dt><dd>–1 100 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>–600 \$ (TVQ & carbone)</dd>
+</dl>
 </section>
-<section class="__loss">
+
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>84 400 \$</dd></dl>
+<dl>
+<dt>Revenu d’emploi net ajusté</dt><dd>84 400 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>84 400 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Une contribution inférieure à 1 % du revenu.</li>
-<li>Retenues salariales identiques à la feuille de paie.</li>
-<li>Stabilité fiscale et simplification à la déclaration.</li>
+<li>Une contribution inférieure à 1 % du revenu.</li>
+<li>Retenues salariales stables grâce à la baisse AE & RRQ.</li>
+<li>Simplification à la déclaration de revenus.</li>
 </ol>
 </section>
 </div>
 </article>
 
+<!-- Portrait 4 — PERTE -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Dirigeant·e cadre : 200 000 \$ par an</h3>
-<p><em class="__loss">contribue environ 3 600 \$ de plus par année.</em></p>
+<h3><i></i> Une personne dirigeante/cadre supérieure, 200 000 \$ par an</h3>
+<p class="with-scheme-red"><em>contribue environ 3 600 \$ de plus par année.</em></p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu net</dt><dd>140 000 \$</dd></dl>
+<dl>
+<dt>Revenu net</dt><dd>140 000 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
-<dl><dt>Allocation adulte récupérée</dt><dd>0 \$</dd>
-<dt>Allègement AE&RRQ</dt><dd>+1 800 \$</dd>
-<dt>Impôt +1 pt + surtaxes</dt><dd>–4 200 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>–3 600 \$</dd></dl>
+<dl>
+<dt>Allocation adulte récupérée</dt><dd>0 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>+1 800 \$</dd>
+<dt>Impôt +1 pt + surtaxes</dt><dd>–4 200 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>–3 600 \$</dd>
+</dl>
 </section>
-<section class="__loss">
+
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>136 400 \$</dd></dl>
+<dl>
+<dt>Revenu d’emploi net ajusté</dt><dd>136 400 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>136 400 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Une contribution de 1,8 % du revenu net.</li>
-<li>Retenues salariales inchangées grâce à la baisse AE&RRQ.</li>
+<li>Une contribution d’environ 1,8 % du revenu net.</li>
+<li>Retenues stables en paie grâce à l’allègement AE & RRQ.</li>
 <li>Financement accru des services publics et de la lutte à la pauvreté.</li>
 </ol>
 </section>
@@ -183,8 +249,8 @@
 </section>
 
 <!-- NOTES -->
-[^statcanSal]: [Statistique Canada. 2023. *Distribution des salarié·es selon le salaire horaire – tableau 14-10-0328-01*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032801)  
-[^mit2021]: [J-PAL, MIT. 2021. *Cash Transfers and Workplace Outcomes – Evidence Review*](https://j-pAL.mit.edu/sites/default/files/research-paper.pdf)  
-[^statcanLab]: [Statistique Canada. 2024. *Taux d’activité de la population de 15 à 64 ans – tableau 14-10-0327-01*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032701)  
-[^iwprWork]: [Institute for Women’s Policy Research. 2022. *Why Paid Leave Matters*](https://iwpr.org/iwpr-issues/work-family/why-paid-leave-matters/)  
-[^finqc2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales – Édition 2019*](https://www.finances.gouv.qc.ca/documents/autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)
+[^statcanSal]: [Statistique Canada. 2023. *Distribution des salarié·es selon le salaire horaire – tableau 14‑10‑0328‑01*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032801)  
+[^mit2021]: [J‑PAL, MIT. 2021. *Cash Transfers and Workplace Outcomes – Evidence Review*](https://www.povertyactionlab.org)  
+[^statcanLab]: [Statistique Canada. 2024. *Taux d’activité de la population de 15 à 64 ans – tableau 14‑10‑0327‑01*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032701)  
+[^iwprWork]: [Institute for Women’s Policy Research. 2022. *Why Paid Leave Matters*](https://iwpr.org/iwpr-issues/work-family/why-paid-leave-matters/)  
+[^finqc2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales – Édition 2019*](https://www.finances.gouv.qc.ca/documents/autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)

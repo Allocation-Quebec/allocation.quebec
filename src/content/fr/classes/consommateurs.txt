@@ -1,30 +1,86 @@
 <header>
 <h1><i><img src="/assets/img/bag.svg" alt=""/></i>Consommateur·ices</h1>
+<p>L’allocation de subsistance et la réforme fiscale redéfinissent le budget quotidien : revenu plancher, allègements sociaux, mais aussi TVQ accrue et prix du carbone. Les effets varient selon les profils.</p>
 </header>
+<section>
+<header>
+<small>prix relatifs & choix de consommation</small>
+<h2 class="h3"><i>🛒</i> Consommer autrement pour dépenser moins</h2>
+</header>
+
+<div class="as-grid">
+<div class="as-prose">
+<p>La réforme introduit une tarification plus juste : les biens et services polluants ou superflus deviennent plus chers, alors que la consommation essentielle (logement, alimentation de base, soins, éducation) change peu ou pas. Résultat : chacun garde son pouvoir de consommer, mais l’incitation est forte à réduire les achats les plus coûteux pour l’environnement.</p>
+
+<h3 class="h4">Pourquoi c’est décisif ?</h3>
+<p>En réorientant la dépense vers des biens et services durables, les ménages peuvent non seulement réduire leurs coûts, mais aussi bénéficier d’un meilleur cadre de vie. L’allocation de subsistance compense largement les hausses ciblées et protège le panier essentiel.</p>
+</div>
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>Au Québec, 70 % des dépenses d’un ménage moyen vont au logement, à la nourriture et au transport[^isqCons]. Ce sont ces postes que la réforme veille à protéger, tout en modulant le prix des consommations plus polluantes.</p>
+</aside>
+</div>
+
+<h3 class="h4">Résultats concrets</h3>
+<ul class="as-grid">
+<li class="tile"><strong class="h5">Consommation essentielle préservée</strong>
+<p>Logement et alimentation de base inchangés.</p></li>
+
+<li class="tile"><strong class="h5">Carbone plus coûteux</strong>
+<p>Essence, chauffage fossile et transport aérien plus chers.</p></li>
+
+<li class="tile"><strong class="h5">Choix de substitution</strong>
+<p>Économies en optant pour l’électricité, le transport collectif et les biens durables.</p></li>
+
+<li class="tile"><strong class="h5">Pouvoir d’achat net protégé</strong>
+<p>L’allocation couvre en moyenne la hausse des prix ciblés.</p></li>
+</ul>
+</section>
 <section>
 <!-- 1. Étudiant urbain -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Étudiant urbain • consommation 13 000 \$ • revenu 20 000 \$</h3>
-<p><em>gain net d’environ 10 850 \$ par année.</em></p>
+<h3><i></i> Un étudiant urbain avec revenu de 20 000 \$ et consommation de 13 000 \$</h3>
+<p class="with-scheme-lime">gagnerait environ 10 850 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu disponible</dt><dd>18 700 \$</dd>
-<dt>Dépenses taxable (TVQ 9,975 %)</dt><dd>1 300 \$</dd></dl>
+<dl>
+<dt>Revenu disponible</dt><dd>18 700 \$</dd>
+<dt>Dépenses taxables (TVQ 9,975 %)</dt><dd>1 300 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>18 700 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
-<dl><dt>Allocation adulte nette</dt><dd>+10 800 \$</dd>
-<dt>Cotisations AE & RRQ</dt><dd>+350 \$</dd>
-<dt>TVQ (+2,3 pts)</dt><dd>–300 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>+10 850 \$</dd></dl>
+<dl>
+<dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>350 \$</dd>
+<dt>TVQ (+2,3 pts)</dt><dd>−300 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+10 850 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Revenu disponible ajusté</dt><dd>29 550 \$</dd></dl>
+<dl>
+<dt>Revenu disponible initial</dt><dd>18 700 \$</dd>
+<dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
+<dt>Allègement AE & RRQ</dt><dd>350 \$</dd>
+<dt>TVQ accrue</dt><dd>−300 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>29 550 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
@@ -36,36 +92,58 @@
 </div>
 </article>
 
-<!-- 2. Couple 2×45 k $ + 2 enfants -->
+<!-- 2. Couple revenu 45 000 \$ + 45 000 \$ -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Couple 45 000 \$ + 45 000 \$ • 2 enfants • consommation 55 000 \$</h3>
-<p><em>gain net d’environ 4 100 \$ par année.</em></p>
+<h3><i></i> Un couple (45 000 \$ + 45 000 \$) avec deux enfants et une consommation de 55 000 \$</h3>
+<p class="with-scheme-lime">gagnerait environ 4 100 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu disponible</dt><dd>90 000 \$</dd>
-<dt>Dépenses taxable (TVQ 9,975 %)</dt><dd>5 490 \$</dd>
-<dt>Tarif CPE subventionné</dt><dd>9 000 \$</dd></dl>
+<dl>
+<dt>Revenu disponible</dt><dd>90 000 \$</dd>
+<dt>TVQ (9,975 %)</dt><dd>5 490 \$</dd>
+<dt>Tarif CPE subventionné</dt><dd>9 000 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>90 000 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocations enfants</dt><dd>+12 000 \$</dd>
-<dt>Allocations adultes</dt><dd>+3 600 \$</dd>
-<dt>Cotisations allégées</dt><dd>+1 100 \$</dd>
-<dt>TVQ (+2,3 pts)</dt><dd>–1 300 \$</dd>
-<dt>Carbone (+12 $/t)</dt><dd>–200 \$</dd>
-<dt>Fin du tarif 9 \$ (garderie)</dt><dd>–9 000 \$</dd>
-<dt>Allocations familles abolies</dt><dd>–2 000 \$</dd>
+<dt>Allocations enfants</dt><dd>12 000 \$</dd>
+<dt>Allocations adultes</dt><dd>3 600 \$</dd>
+<dt>Allègement cotisations</dt><dd>1 100 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 300 \$</dd>
+<dt>Carbone (+12 \$/t)</dt><dd>−200 \$</dd>
+<dt>Fin tarif 9 \$ (garderie)</dt><dd>−9 000 \$</dd>
+<dt>Allocations familles abolies</dt><dd>−2 000 \$</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>+4 100 \$</dd></dl>
+<dl>
+<dt>Ajustement</dt><dd>+4 100 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Revenu disponible ajusté</dt><dd>94 100 \$</dd></dl>
+<dl>
+<dt>Revenu disponible initial</dt><dd>90 000 \$</dd>
+<dt>Allocations enfants</dt><dd>12 000 \$</dd>
+<dt>Allocations adultes</dt><dd>3 600 \$</dd>
+<dt>Allègement cotisations</dt><dd>1 100 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 300 \$</dd>
+<dt>Carbone</dt><dd>−200 \$</dd>
+<dt>Fin tarif garderie subventionnée</dt><dd>−9 000 \$</dd>
+<dt>Allocations familles abolies</dt><dd>−2 000 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>94 100 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
@@ -80,27 +158,46 @@
 <!-- 3. Professionnel célibataire -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Professionnel célibataire • revenu 95 000 \$ • consommation 45 000 \$</h3>
-<p><em class="__loss">contribution nette d’environ 190 \$ par année.</em></p>
+<h3><i></i> Un professionnel célibataire avec revenu de 95 000 \$ et consommation de 45 000 \$</h3>
+<p class="with-scheme-red">contribuerait environ 190 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Revenu disponible</dt><dd>67 000 \$</dd>
-<dt>Dépenses taxable</dt><dd>4 490 \$</dd></dl>
+<dl>
+<dt>Revenu disponible</dt><dd>67 000 \$</dd>
+<dt>Dépenses taxables</dt><dd>4 490 \$</dd>
+</dl>
+<dl>
+<dt>Total actuel</dt><dd>67 000 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Cotisations allégées</dt><dd>+900 \$</dd>
-<dt>TVQ (+2,3 pts)</dt><dd>–1 000 \$</dd>
-<dt>Carbone (+12 $/t)</dt><dd>–90 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>–190 \$</dd></dl>
+<dt>Allègement cotisations</dt><dd>900 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 000 \$</dd>
+<dt>Carbone</dt><dd>−90 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>−190 \$</dd>
+</dl>
 </section>
-<section class="__loss">
+
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Revenu disponible ajusté</dt><dd>66 810 \$</dd></dl>
+<dl>
+<dt>Revenu disponible initial</dt><dd>67 000 \$</dd>
+<dt>Allègement cotisations</dt><dd>900 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 000 \$</dd>
+<dt>Carbone</dt><dd>−90 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>66 810 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
@@ -112,33 +209,49 @@
 </div>
 </article>
 
-<!-- 4. Couple rural 120 k $ + 2 enfants -->
+<!-- 4. Couple rural 120 000 \$ + 2 enfants -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Couple rural • revenu 120 000 \$ • consommation 65 000 \$ • 2 enfants</h3>
-<p><em>gain net d’environ 2 400 \$ par année.</em></p>
+<h3><i></i> Un couple rural avec revenu de 120 000 \$, deux enfants et consommation de 65 000 \$</h3>
+<p class="with-scheme-lime">gagnerait environ 2 400 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Dépenses taxable</dt><dd>6 480 \$</dd>
-<dt>Carbone (carburant+chauffage)</dt><dd>1 250 \$</dd>
-<dt>Allocations familles</dt><dd>+2 000 \$</dd></dl>
+<dl>
+<dt>Dépenses taxables</dt><dd>6 480 \$</dd>
+<dt>Carbone (carburant + chauffage)</dt><dd>1 250 \$</dd>
+<dt>Allocations familles</dt><dd>2 000 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocations enfants</dt><dd>+6 000 \$</dd>
-<dt>Cotisations allégées</dt><dd>+1 600 \$</dd>
-<dt>Allocations familles abolies</dt><dd>–2 000 \$</dd>
-<dt>TVQ (+2,3 pts)</dt><dd>–1 500 \$</dd>
-<dt>Carbone (+12 $/t)</dt><dd>–500 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>+2 400 \$</dd></dl>
+<dt>Allocations enfants</dt><dd>6 000 \$</dd>
+<dt>Allègement cotisations</dt><dd>1 600 \$</dd>
+<dt>Allocations familles abolies</dt><dd>−2 000 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 500 \$</dd>
+<dt>Carbone</dt><dd>−500 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>+2 400 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Revenu disponible ajusté</dt><dd>+2 400 \$ par rapport à avant</dd></dl>
+<dl>
+<dt>Allocations enfants</dt><dd>6 000 \$</dd>
+<dt>Allègement cotisations</dt><dd>1 600 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 500 \$</dd>
+<dt>Carbone</dt><dd>−500 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>+2 400 \$ par rapport à avant</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
@@ -153,28 +266,44 @@
 <!-- 5. Couple haut revenu -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Couple haut revenu • revenu 300 000 \$ • consommation 80 000 \$</h3>
-<p><em class="__loss">contribution nette d’environ 13 900 \$ par année.</em></p>
+<h3><i></i> Un couple avec revenu de 300 000 \$ et consommation de 80 000 \$</h3>
+<p class="with-scheme-red">contribuerait environ 13 900 \$ par année.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
-<dl><dt>Dépenses taxable</dt><dd>7 980 \$</dd>
-<dt>Carbone & voyages</dt><dd>1 000 \$</dd></dl>
+<dl>
+<dt>Dépenses taxables</dt><dd>7 980 \$</dd>
+<dt>Carbone et voyages</dt><dd>1 000 \$</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Cotisations allégées</dt><dd>+1 800 \$</dd>
-<dt>TVQ (+2,3 pts)</dt><dd>–1 900 \$</dd>
-<dt>Carbone (+12 $/t)</dt><dd>–300 \$</dd>
-<dt>Surtaxes luxe (foncière, FTT, capital)</dt><dd>–13 500 \$</dd></dl>
-<dl><dt>Ajustement</dt><dd>–13 900 \$</dd></dl>
+<dt>Allègement cotisations</dt><dd>1 800 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 900 \$</dd>
+<dt>Carbone</dt><dd>−300 \$</dd>
+<dt>Surtaxes luxe (foncière, FTT, capital)</dt><dd>−13 500 \$</dd>
+</dl>
+<dl>
+<dt>Ajustement</dt><dd>−13 900 \$</dd>
+</dl>
 </section>
-<section class="__loss">
+
+<section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Revenu disponible ajusté</dt><dd>–4 % par rapport à avant</dd></dl>
+<dl>
+<dt>Allègement cotisations</dt><dd>1 800 \$</dd>
+<dt>TVQ accrue</dt><dd>−1 900 \$</dd>
+<dt>Carbone</dt><dd>−300 \$</dd>
+<dt>Surtaxes luxe</dt><dd>−13 500 \$</dd>
+</dl>
+<dl>
+<dt>Total final</dt><dd>−13 900 \$ par rapport à avant</dd>
+</dl>
 </section>
+
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
@@ -186,3 +315,5 @@
 </div>
 </article>
 </section>
+
+[^isqCons]: [Institut de la statistique du Québec. 2023. *Dépenses de consommation des ménages québécois*](https://statistique.quebec.ca)
