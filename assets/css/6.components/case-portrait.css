@@ -2,10 +2,7 @@
 	.case-portrait {
 		font-family: var(--Grotesk);
 		container-type: inline-size;
-
-		&:first-of-type {
-			counter-set: case;
-		}
+		counter-increment: case;
 
 		&>*+* {
 			margin-top: var(--SpacingThin);
@@ -26,7 +23,6 @@
 			}
 
 			& i {
-				counter-increment: case;
 				font-size: 2rem;
 				display: inline-flex;
 				justify-content: end;
