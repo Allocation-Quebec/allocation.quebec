@@ -19,7 +19,7 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Selon Retraite Québec, environ 40 % des nouveaux retraités comptent sur le Supplément de revenu garanti pour boucler leur budget. L’allocation universelle vient combler ces écarts sans démarches supplémentaires.</p>
+<p>En 2024, environ 40 % des personnes âgées de 65 ans et plus au Québec reçoivent le Supplément de revenu garanti[^fadoq2024]. L’allocation universelle vient combler ces écarts sans démarches supplémentaires.</p>
 </aside>
 </div>
 
@@ -217,7 +217,7 @@
 </div>
 
 <hr />
-<p>Avec une allocation de subsistance, un Québec <em>plus digne et solidaire</em> est possible.</p>
+<p>Avec une allocation de subsistance, un Québec <em>mieux retraité</em> est possible.</p>
 </section>
 
 <!-- Notes de bas de page -->
@@ -226,3 +226,5 @@
 [^cihi2022]: [Institut canadien d’information sur la santé (CIHI). 2022. *Long-Term Care Data, 2022–2023 — User Guide.*](https://www.cihi.ca/sites/default/files/document/long-term-care-data-2022-2023-guide-en.pdf)  
 [^fms2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales — Édition 2019.*](https://www.finances.gouv.qc.ca/documents/Autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)  
 [^ageuk2018]: [Age UK. 2018. *Creative and Cultural Activities and Wellbeing in Later Life.*](https://www.ageuk.org.uk/bp-assets/globalassets/oxfordshire/original-blocks/about-us/age-uk-report--creative-and-cultural-activities-and-wellbeing-in-later-life-april-2018.pdf)
+[^isqRetraite]: [Institut de la statistique du Québec. 2022. *Portrait des conditions de vie des personnes âgées*](https://statistique.quebec.ca)
+[^fadoq2024]: [Réseau FADOQ. 2024. Mémoire présenté au Comité permanent des finances de la Chambre des communes (FINA)](https://www.ourcommons.ca/Content/Committee/441/FINA/Brief/BR13226743/br-external/ReseauFADOQ-067-240716-006-e.pdf)

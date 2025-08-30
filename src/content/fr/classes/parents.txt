@@ -51,8 +51,8 @@
 <!-- Portrait 1 -->
 <article class="case-portrait">
 <header>
-<h3><i></i>Un Couple ayant 60 000 \$ de revenu et un enfant scolarisé</h3>
-<p class="with-scheme-lime">recevrait 19 000 \$.</p>
+<h3><i></i>Un couple ayant 60 000 \$ de revenu et un enfant scolarisé</h3>
+<p class="with-scheme-lime">recevrait 19 700 \$.</p>
 </header>
 <div>
 <section>
@@ -76,14 +76,19 @@
 <dt>Impôt provincial (+1 pt)</dt><dd>–600 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+19 000 \$</dd>
+<dt>Ajustement</dt><dd>+19 700 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Budget final</dt><dd>77 500 \$</dd>
+<dt>Revenu net (combiné)</dt><dd>54 200 \$</dd>
+<dt>Allocation adulte nette (2)</dt><dd>+18 000 \$</dd>
+<dt>Allocation enfant</dt><dd>+6 000 \$</dd>
+</dl>
+<dl>
+<dt>Budget final</dt><dd>78 200 \$</dd>
 </dl>
 </section>
 
@@ -137,6 +142,8 @@
 <dt>Revenu net (combiné)</dt><dd>95 900 \$</dd>
 <dt>Allocation enfant (2)</dt><dd>+12 000 \$</dd>
 <dt>Allocation adulte</dt><dd>+1 800 \$</dd>
+</dl>
+<dl>
 <dt>Budget final</dt><dd>109 700 \$</dd>
 </dl>
 </section>
@@ -145,7 +152,7 @@
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
 <li>Le plein tarif de garde payé, mais un budget légèrement réduit.</li>
-<li>Nécessité d’un ajustement de dépenses ou d’un étalement des frais scolaires.</li>
+<li>Nécessité d’un ajustement de dépenses.</li>
 <li>Un recul d’environ 2 % du budget global.</li>
 </ol>
 </section>
@@ -190,6 +197,8 @@
 <dt>Revenu net</dt><dd>33 900 \$</dd>
 <dt>Allocation adulte nette</dt><dd>+3 600 \$</dd>
 <dt>Allocation enfant</dt><dd>+6 000 \$</dd>
+</dl>
+<dl>
 <dt>Budget final</dt><dd>43 500 \$</dd>
 </dl>
 </section>
@@ -216,7 +225,7 @@
 <h4 class="h5">Situation actuelle</h4>
 <dl>
 <dt>Revenu net</dt><dd>67 000 \$</dd>
-<dt>Allocations-famille & crédits</dt><dd>+9 500 \$</dd>
+<dt>Allocation-famille & crédits</dt><dd>+9 500 \$</dd>
 </dl>
 <dl>
 <dt>Budget actuel</dt><dd>76 500 \$</dd>
