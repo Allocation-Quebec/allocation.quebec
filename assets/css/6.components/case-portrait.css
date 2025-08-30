@@ -107,9 +107,6 @@
 				--SelectedHue: var(--BlueHue);
 			}
 
-			&:nth-child(3) {
-				--SelectedHue: var(--LimeHue);
-			}
 
 			&:nth-child(4) {
 				--SelectedHue: var(--BrownHue);
