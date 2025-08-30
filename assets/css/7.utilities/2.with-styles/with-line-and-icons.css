@@ -96,7 +96,6 @@
 			&:is(h1)>i {
 				border-color: oklch(88% 6% var(--BrownHue));
 				background-color: oklch(55% 39% var(--ThemeHue));
-				margin-right: calc(60px + 0.75ch - .75em - 2px);
 			}
 
 		}
