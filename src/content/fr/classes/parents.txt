@@ -1,5 +1,5 @@
 <header>
-<h1><i><img src="/assets/img/family.svg" alt=""/></i>Parents</h1>
+<h1><i><img src="/assets/img/family.svg" alt=""/></i> Parents</h1>
 <p>L’allocation de subsistance renforce la stabilité des familles, réduit la pauvreté infantile et permet aux parents de mieux concilier travail et vie familiale.</p>
 </header>
 

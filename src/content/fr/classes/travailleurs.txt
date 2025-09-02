@@ -1,5 +1,5 @@
 <header>
-<h1><i><img src="/assets/img/work.svg" alt=""/></i>Travailleur·euses</h1>
+<h1><i><img src="/assets/img/work.svg" alt=""/></i> Travailleur·euses</h1>
 <p>L’allocation de subsistance garantit un revenu plancher qui monte toujours avec l’effort : chaque heure travaillée et chaque promotion augmentent le revenu disponible, sans « mur » ni perte soudaine d’aide.</p>
 </header>
 

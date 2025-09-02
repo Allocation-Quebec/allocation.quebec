@@ -1,5 +1,5 @@
 <header>
-<h1><i><img src="/assets/img/handshake.svg" alt=""/></i>Employeur·es</h1>
+<h1><i><img src="/assets/img/handshake.svg" alt=""/></i> Employeur·es</h1>
 <p>L’allocation de subsistance réduit les charges sociales, simplifie la gestion et donne aux entreprises une marge de manœuvre pour investir et embaucher.</p>
 </header>
 

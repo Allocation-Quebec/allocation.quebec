@@ -1,5 +1,5 @@
 <header>
-<h1><i><img src="/assets/img/cane.svg" alt=""/></i>Retraité·es</h1>
+<h1><i><img src="/assets/img/cane.svg" alt=""/></i> Retraité·es</h1>
 <p>L’allocation de subsistance complète les pensions publiques et privées. Elle réduit la pauvreté des aînés et garantit que la retraite rime avec sécurité et dignité.</p>
 </header>
 

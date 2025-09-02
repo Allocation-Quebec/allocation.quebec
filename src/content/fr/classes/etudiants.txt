@@ -1,5 +1,5 @@
 <header>
-<h1><i><img src="/assets/img/cap.svg" alt=""/></i>Étudiant·es</h1>
+<h1><i><img src="/assets/img/cap.svg" alt=""/></i> Étudiant·es</h1>
 <p>L’allocation de subsistance permet aux étudiant·es de poursuivre leurs études avec dignité, liberté et vision à long terme. </p>
 </header>
 <section>
