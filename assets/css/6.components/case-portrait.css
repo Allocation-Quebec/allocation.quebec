@@ -1,7 +1,6 @@
 @layer components {
 	.case-portrait {
 		font-family: var(--Grotesk);
-		container-type: inline-size;
 		counter-increment: case;
 
 		&>*+* {
@@ -62,7 +61,7 @@
 			display: flex;
 			flex-wrap: wrap;
 
-			@container (width < 80ch) {
+			@media (width < 80ch) {
 				margin-inline: calc(-1 * var(--SpacingThin) / 1.5);
 			}
 
@@ -81,7 +80,7 @@
 			padding: var(--SpacingThin);
 			padding-top: var(--SpacingThinner);
 
-			@container (width < 80ch) {
+			@media (width < 80ch) {
 				padding-inline: calc(var(--SpacingThin) / 1.5);
 			}
 
