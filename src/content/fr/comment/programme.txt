@@ -1,6 +1,6 @@
 <header>
 <small>désirable, possible et viable</small>
-<h1><i><img src="/assets/img/coin.svg" alt=""/></i>Programme économique</h1>
+<h1><i><img src="/assets/img/coin.svg" alt=""/></i> Programme économique</h1>
 <strong>18 000 \$ alloués à chaque adulte et 6 000 \$ pour chaque enfant à charge.</strong>
 <p>Notre proposition fait pratiquement disparaître la pauvreté tout en préservant l’incitation au travail. Avec un coût net de 41 G \$ entièrement couvert par environ 41 G \$ d’économies et de recettes stables et ce, avec une réduction de la pression fiscale sur les salaires de plus de 3%, *notre programme économique est soutenable, viable et efficace.*</p>
 <p><strong>Et nos calculs le prouvent.</strong></p>

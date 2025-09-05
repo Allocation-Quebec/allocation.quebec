@@ -206,7 +206,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> Un cadre supérieur avec un revenu de 200 000 \$</h3>
-<p class="with-scheme-red">contribue 3 600 \$.</p>
+<p class="with-scheme-red">contribuera 3 600 \$.</p>
 </header>
 <div>
 <section>

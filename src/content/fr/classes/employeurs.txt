@@ -48,165 +48,236 @@
 <p>Trois exemples concrets montrent l’effet différencié selon les secteurs.</p>
 </header>
 
-<!-- Portrait 1 -->
+
+<!-- Portrait 1 — PME de services (rentrées & sorties → profit net; impôt total inscrit en sections actuelle et finale) -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Une PME de services de 200 employé·es, rentable et en croissance</h3>
-<p class="with-scheme-lime">gagnerait 231 000 \$ par année.</p>
+<h3><i></i> Une PME de services de 200 employé·es, rentable et en croissance</h3>
+<p class="with-scheme-lime">économisera 196 071 $.</p>
 </header>
+
 <div>
+<!-- 1) SITUATION ACTUELLE — rentrées & sorties + impôt total → profit net -->
 <section>
 <h4 class="h5">Situation actuelle</h4>
+<h5 class="h6">Entrées</h5>
 <dl>
-<dt>Masse salariale</dt><dd>20 000 000 \$</dd>
-<dt>Profit net</dt><dd>2 000 000 \$</dd>
-<dt>Impôt sociétés (11,5 %)</dt><dd>230 000 \$</dd>
-<dt>Crédit R-D remboursable</dt><dd>+200 000 \$</dd>
-<dt>Subvention emploi (STA)</dt><dd>+50 000 \$</dd>
+<dt>Revenus d’exploitation</dt><dd>30 000 000 $</dd>
+<dt>Subventions d’exploitation</dt><dd>+250 000 $</dd>
+</dl>
+<h5 class="h6">Sorties</h5>
+<dl>
+<dt>Masse salariale</dt><dd>20 000 000 $</dd>
+<dt>Autres dépenses</dt><dd>8 250 000 $</dd>
+<dt>Impôt des sociétés</dt><dd>230 000 $</dd>
+</dl>
+<dl>
+<dt>Profit actuel</dt><dd><strong>1 770 000 $</strong></dd>
 </dl>
 </section>
 
+<!-- 2) RÉFORME ÉCONOMIQUE — deltas (dont impôt des sociétés en delta seulement) -->
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Baisse cotisations employeur (–2,53 %)</dt><dd>+506 000 \$</dd>
-<dt>ISoc +1,25 pt</dt><dd>–25 000 \$</dd>
-<dt>Crédit R-D raboté</dt><dd>–200 000 \$</dd>
-<dt>Subvention STA abolie</dt><dd>–50 000 \$</dd>
+<dt>Allègement des cotisations</dt><dd>+506 000 $</dd>
+<dt>Subventions abolies</dt><dd>−250 000 $</dd>
+<dt>Prix du carbone</dt><dd>−2 624 $</dd>
+<dt>Hausse de l'impôt</dt><dd>−57 305 $</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+231 000 \$</dd>
+<dt>Ajustement total</dt><dd><strong>+196 071 $</strong></dd>
 </dl>
 </section>
 
-<section>
+<!-- 3) SITUATION FINALE — rentrées & sorties + impôt total → nouveau profit net -->
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
+<h5 class="h6">Entrées</h5>
 <dl>
-<dt>Impôt sociétés</dt><dd>255 000 \$</dd>
-<dt>Baisse cotisations employeur</dt><dd>+506 000 \$</dd>
+<dt>Revenus d’exploitation</dt><dd>30 000 000 $</dd>
+<dt>Subventions d’exploitation</dt><dd>0 $</dd>
+</dl>
+<h5 class="h6">Sorties</h5>
+<dl>
+<dt>Masse salariale</dt><dd>19 494 000 $</dd>
+<dt>Autres dépenses</dt><dd>8 252 624 $</dd>
+<dt>Impôt des sociétés</dt><dd>287 305 $</dd>
 </dl>
 <dl>
-<dt>Profit net</dt><dd>2 231 000 \$</dd>
+<dt>Profit net</dt><dd>1 966 071 $</dd>
 </dl>
 </section>
 
+<!-- 4) CONCRÈTEMENT -->
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Deux embauches supplémentaires sans subvention spécifique.</li>
-<li>Un coussin de trésorerie simple, sans paperasse.</li>
-<li>Un gain de 12 % sur le résultat net.</li>
+<li>Une embauche partielle ou des primes ciblées financées par l’économie de charges.</li>
+<li>Un plan d’entretien garanti sans dépendre de subventions.</li>
+<li>Un profit net en hausse d’environ 11 % malgré un coût carbone modeste et une ISoc plus élevée.</li>
 </ol>
 </section>
 </div>
 </article>
 
-<!-- Portrait 2 -->
+
+
+
+
+
+<!-- 2) PME manufacturière innovante — structure harmonisée (tous chiffres complétés) -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Une PME manufacturière innovante de 200 employé·es, intensive en R-D</h3>
-<p class="with-scheme-red">contribuerait 359 000 \$ par année.</p>
+<h3><i></i> Une PME manufacturière innovante de 200 employé·es, intensive en R-D</h3>
+<p class="with-scheme-red">contribuera 279 770 $.</p>
 </header>
+
 <div>
+<!-- 1) SITUATION ACTUELLE — entrées & sorties + impôt total → profit -->
 <section>
 <h4 class="h5">Situation actuelle</h4>
+
+<h5 class="h6">Entrées</h5>
 <dl>
-<dt>Masse salariale</dt><dd>20 000 000 \$</dd>
-<dt>Profit net</dt><dd>2 000 000 \$</dd>
-<dt>Impôt sociétés (11,5 %)</dt><dd>230 000 \$</dd>
-<dt>Crédit R-D remboursable</dt><dd>+700 000 \$</dd>
-<dt>Subvention emploi (STA)</dt><dd>+80 000 \$</dd>
-<dt>Coût carbone actuel</dt><dd>60 000 \$</dd>
+<dt>Revenus d’exploitation</dt><dd>45 000 000 $</dd>
+<dt>Subventions d’exploitation</dt><dd>780 000 $</dd>
+</dl>
+
+<h5 class="h6">Sorties</h5>
+<dl>
+<dt>Masse salariale</dt><dd>20 000 000 $</dd>
+<dt>Autres dépenses</dt><dd>23 780 000 $</dd>
+<dt>Impôt des sociétés</dt><dd>230 000 $</dd>
+</dl>
+
+<dl>
+<dt>Profit actuel</dt><dd>1 770 000 $</dd>
 </dl>
 </section>
 
+<!-- 2) RÉFORME ÉCONOMIQUE — deltas (dont impôt en delta seulement) -->
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Baisse cotisations employeur (–2,53 %)</dt><dd>+506 000 \$</dd>
-<dt>ISoc +1,25 pt</dt><dd>–25 000 \$</dd>
-<dt>Crédit R-D raboté (–20 %)</dt><dd>–140 000 \$</dd>
-<dt>Subvention STA abolie</dt><dd>–80 000 \$</dd>
-<dt>Hausse du coût carbone</dt><dd>–60 000 \$</dd>
+<dt>Allègement des cotisations</dt><dd>+506 000 $</dd>
+<dt>Subventions abolies</dt><dd>−780 000 $</dd>
+<dt>Prix du carbone</dt><dd>−18 000 $</dd>
+<dt>Hausse de l'impôt</dt><dd>+12 230 $</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>–359 000 \$</dd>
+<dt>Ajustement total</dt><dd>−279 770 $</dd>
 </dl>
 </section>
 
+<!-- 3) SITUATION FINALE — entrées & sorties + impôt total → nouveau profit -->
 <section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
+
+<h5 class="h6">Entrées</h5>
 <dl>
-<dt>Impôt sociétés</dt><dd>255 000 \$</dd>
-<dt>Crédit R-D</dt><dd>560 000 \$</dd>
-<dt>Coût carbone</dt><dd>120 000 \$</dd>
-<dt>Baisse cotisations employeur</dt><dd>+506 000 \$</dd>
+<dt>Revenus d’exploitation</dt><dd>45 000 000 $</dd>
+<dt>Subventions d’exploitation</dt><dd>0 $</dd>
 </dl>
+
+<h5 class="h6">Sorties</h5>
 <dl>
-<dt>Profit net</dt><dd>1 641 000 \$</dd>
+<dt>Masse salariale</dt><dd>19 494 000 $</dd>
+<dt>Autres dépenses</dt><dd>23 798 000 $</dd>
+<dt>Impôt des sociétés</dt><dd>217 770 $</dd>
+</dl>
+
+<dl>
+<dt>Profit net</dt><dd>1 490 230 $</dd>
 </dl>
 </section>
 
+<!-- 4) CONCRÈTEMENT -->
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Un effort équivalant à 18 % du profit.</li>
+<li>Un effort net d’environ 16 % du profit actuel.</li>
 <li>Moins de dépendance aux subventions ciblées.</li>
-<li>Une contribution accrue au financement de l’allocation universelle.</li>
+<li>Des gains de productivité pour compenser le coût carbone.</li>
 </ol>
 </section>
 </div>
 </article>
 
-<!-- Portrait 3 -->
+
+<!-- 3) Entreprise de transport routier — structure harmonisée (tous chiffres complétés) -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Une entreprise de transport routier de 500 employé·es, exposée au prix du carburant</h3>
-<p class="with-scheme-lime">gagnerait 320 000 \$ par année.</p>
+<h3><i></i> Une entreprise de transport routier de 500 employé·es, exposée au prix du carburant</h3>
+<p class="with-scheme-lime">économisera 266 328 $.</p>
 </header>
+
 <div>
+<!-- 1) SITUATION ACTUELLE — entrées & sorties + impôt total → profit -->
 <section>
 <h4 class="h5">Situation actuelle</h4>
+
+<h5 class="h6">Entrées</h5>
 <dl>
-<dt>Masse salariale</dt><dd>35 000 000 \$</dd>
-<dt>Profit net</dt><dd>4 000 000 \$</dd>
-<dt>Subvention embauche (PSE)</dt><dd>+150 000 \$</dd>
-<dt>Programme Écocamionnage</dt><dd>+125 000 \$</dd>
-<dt>Coût carbone (40 \$/t CO₂)</dt><dd>800 000 \$</dd>
+<dt>Revenus d’exploitation</dt><dd>100 000 000 $</dd>
+<dt>Subventions d’exploitation</dt><dd>275 000 $</dd>
+</dl>
+
+<h5 class="h6">Sorties</h5>
+<dl>
+<dt>Masse salariale</dt><dd>35 000 000 $</dd>
+<dt>Autres dépenses</dt><dd>60 755 226 $</dd>
+<dt>Impôt des sociétés</dt><dd>519 774 $</dd>
+</dl>
+
+<dl>
+<dt>Profit actuel</dt><dd>4 000 000 $</dd>
 </dl>
 </section>
 
+<!-- 2) RÉFORME ÉCONOMIQUE — deltas (dont impôt en delta seulement) -->
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Baisse cotisations employeur (–2,53 %)</dt><dd>+885 000 \$</dd>
-<dt>ISoc +1,25 pt (12,75 %)</dt><dd>–50 000 \$</dd>
-<dt>Subventions PSE &amp; Écocamionnage abolies</dt><dd>–275 000 \$</dd>
-<dt>Hausse carbone (+12 \$/t)</dt><dd>–240 000 \$</dd>
+<dt>Allègement des cotisations</dt><dd>+885 000 $</dd>
+<dt>Subventions abolies</dt><dd>−275 000 $</dd>
+<dt>Prix du carbone</dt><dd>−240 000 $</dd>
+<dt>Hausse de l'impôt</dt><dd>−103 672 $</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+320 000 \$</dd>
+<dt>Ajustement total</dt><dd>+266 328 $</dd>
 </dl>
 </section>
 
-<section>
+<!-- 3) SITUATION FINALE — entrées & sorties + impôt total → nouveau profit -->
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
+
+<h5 class="h6">Entrées</h5>
 <dl>
-<dt>Impôt sociétés</dt><dd>510 000 \$</dd>
-<dt>Coût carbone</dt><dd>1 040 000 \$</dd>
-<dt>Baisse cotisations employeur</dt><dd>+885 000 \$</dd>
+<dt>Revenus d’exploitation</dt><dd>100 000 000 $</dd>
+<dt>Subventions d’exploitation</dt><dd>0 $</dd>
 </dl>
+
+<h5 class="h6">Sorties</h5>
 <dl>
-<dt>Profit net</dt><dd>4 320 000 \$</dd>
+<dt>Masse salariale</dt><dd>34 115 000 $</dd>
+<dt>Autres dépenses</dt><dd>60 995 226 $</dd>
+<dt>Impôt des sociétés</dt><dd>623 446 $</dd>
+</dl>
+
+<dl>
+<dt>Profit net</dt><dd>4 266 328 $</dd>
 </dl>
 </section>
 
+<!-- 4) CONCRÈTEMENT -->
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>La marge pour investir dans trois camions propres.</li>
+<li>La marge pour investir dans des camions plus sobres.</li>
 <li>Un amortisseur face aux fluctuations du diesel.</li>
-<li>Un résultat net en hausse de 8 % malgré la fin des subventions.</li>
+<li>Un résultat net en hausse malgré la fin des subventions.</li>
 </ol>
 </section>
 </div>

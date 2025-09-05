@@ -52,7 +52,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> Une étudiante à temps plein ayant un revenu de 15 000 \$</h3>
-<p class="with-scheme-lime">recevrait 9 800 \$</p>
+<p class="with-scheme-lime">recevra 9 800 \$</p>
 </header>
 <div>
 <section>
@@ -79,7 +79,7 @@
 <dt>Ajustement</dt><dd>+9 800 \$</dd>
 </dl>
 </section>
-<section>
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
 <dl>
 <dt>Allocation nette</dt><dd>12 600 \$</dd>
@@ -102,7 +102,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> Un étudiant à temps partiel ayant un revenu 35 000 \$</h3>
-<p class="with-scheme-lime">recevrait 4 300 \$</p>
+<p class="with-scheme-lime">recevra 4 300 \$</p>
 </header>
 <div>
 <section>
@@ -127,7 +127,7 @@
 <dt>Ajustement</dt><dd>+4 300 \$</dd>
 </dl>
 </section>
-<section>
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
 <dl>
 <dt>Allocation nette</dt><dd>5 400 \$</dd>
@@ -150,7 +150,7 @@
 <article class="case-portrait">
 <header>
 <h3><i></i> Une étudiante monoparentale ayant un revenu de 20 000 \$</h3>
-<p class="with-scheme-lime">recevrait 10 800 \$.</p>
+<p class="with-scheme-lime">recevra 10 800 \$.</p>
 </header>
 <div>
 <section>
@@ -177,7 +177,7 @@
 <dt>Ajustement</dt><dd>+10 800 \$</dd>
 </dl>
 </section>
-<section>
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
 <dl>
 <dt>Allocation adulte nette</dt><dd>+10 800 \$</dd>

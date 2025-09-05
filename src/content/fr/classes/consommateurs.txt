@@ -39,263 +39,287 @@
 </section>
 <section>
 <!-- 1. Étudiant urbain -->
+
+<!-- 1. Étudiant·e urbain·e -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Un étudiant urbain avec revenu de 20 000 \$ et consommation de 13 000 \$</h3>
-<p class="with-scheme-lime">recevrait 10 850 \$.</p>
+<h3><i></i> Un étudiant urbain avec revenu de 20 000 $ et consommation de 13 000 $</h3>
+<p class="with-scheme-lime">recevra 10 850 $.</p>
 </header>
+
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net</dt><dd>18 700 \$</dd>
+<dt>Revenu net</dt><dd>18 700 $</dd>
+<dt>Dépenses de consommation</dt><dd>13 000 $</dd>
 </dl>
 <dl>
-<dt>Budget actuel</dt><dd>18 700 \$</dd>
+<dt>Revenu discrétionnaire</dt><dd>5 700 $</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
-<dt>Allègement AE & RRQ</dt><dd>350 \$</dd>
-<dt>TVQ (+2,3 pts)</dt><dd>−300 \$</dd>
+<dt>Allocation adulte</dt><dd>+10 800 $</dd>
+<dt>Allègement de cotisations</dt><dd>+350 $</dd>
+<dt>TVQ +2,3 points</dt><dd>−300 $</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+10 850 \$</dd>
-</dl>
-</section>
-
-<section>
-<h4 class="h5">Situation finale</h4>
-<dl>
-<dt>Revenu disponible initial</dt><dd>18 700 \$</dd>
-<dt>Allocation adulte nette</dt><dd>10 800 \$</dd>
-<dt>Allègement AE & RRQ</dt><dd>350 \$</dd>
-<dt>TVQ accrue</dt><dd>−300 \$</dd>
-</dl>
-<dl>
-<dt>Budget final</dt><dd>29 550 \$</dd>
-</dl>
-</section>
-
-<section>
-<h4 class="h5">Concrètement, c’est…</h4>
-<ol>
-<li>Toutes les factures scolaires payées sans prêt.</li>
-<li>Moins d’heures de travail obligatoires en session.</li>
-<li>Une hausse de 58 % du pouvoir d’achat.</li>
-</ol>
-</section>
-</div>
-</article>
-
-<!-- 2. Couple revenu 45 000 \$ + 45 000 \$ -->
-<article class="case-portrait">
-<header>
-<h3><i></i> Les parents de deux enfants ayant une consommation de 55 000 \$</h3>
-<p class="with-scheme-lime">recevront 4 100 \$.</p>
-</header>
-<div>
-<section>
-<h4 class="h5">Situation actuelle</h4>
-<dl>
-<dt>Revenu disponible</dt><dd>90 000 \$</dd>
-<dt>Tarif CPE subventionné</dt><dd>9 000 \$</dd>
-<dt>Allocations familles</dt><dd>2 000 \$</dd>
-</dl>
-<dl>
-<dt>Budget actuel</dt><dd>101 000 \$</dd>
-</dl>
-</section>
-
-<section>
-<h4 class="h5">Réforme économique</h4>
-<dl>
-<dt>Allocations enfants</dt><dd>+12 000 \$</dd>
-<dt>Allocations adultes</dt><dd>+3 600 \$</dd>
-<dt>Allègement cotisations</dt><dd>+1 100 \$</dd>
-<dt>TVQ accrue</dt><dd>−1 300 \$</dd>
-<dt>Carbone (+12 \$/t)</dt><dd>−200 \$</dd>
-<dt>Subvention CPE supprimée</dt><dd>−9 000 \$</dd>
-<dt>Allocations familles abolies</dt><dd>−2 000 \$</dd>
-</dl>
-<dl>
-<dt>Ajustement</dt><dd>+4 200 \$</dd>
+<dt>Ajustement total</dt><dd>+10 850 $</dd>
 </dl>
 </section>
 
 <section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Revenu disponible</dt><dd>89 600 \$</dd>
-<dt>Allocations enfants</dt><dd>12 000 \$</dd>
-<dt>Allocations adultes</dt><dd>3 600 \$</dd>
+<dt>Revenu net</dt><dd>29 850 $</dd>
+<dt>Dépenses de consommation</dt><dd>13 300 $</dd>
 </dl>
 <dl>
-<dt>Budget final</dt><dd>105 200 \$</dd>
+<dt>Épargne finale</dt><dd>16 550 $</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Le plein tarif de garde payé sans déficit.</li>
-<li>Un coussin REEE pour chaque enfant.</li>
-<li>Un budget familial en hausse de 4 % malgré la hausse de dépenses.</li>
+<li>Un coussin pour études et logement.</li>
+<li>Moins d’heures de travail en session.</li>
+<li>TVQ marginale quasi neutre à l’échelle du panier.</li>
 </ol>
 </section>
 </div>
 </article>
 
-<!-- 3. Professionnel célibataire -->
+<!-- 2. Famille avec 2 enfants -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Un professionnel célibataire avec revenu de 95 000 \$ et consommation de 45 000 \$</h3>
-<p class="with-scheme-red">contribuera 190 \$.</p>
+<h3><i></i> Les parents de deux enfants ayant une consommation de 55 000 $</h3>
+<p class="with-scheme-lime">recevront 4 200 $.</p>
 </header>
+
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu disponible</dt><dd>67 000 \$</dd>
+<dt>Revenu net</dt><dd>90 000 $</dd>
+<dt>Tarif CPE subventionné</dt><dd>9 000 \$</dd>
+<dt>Allocations familles</dt><dd>2 000 \$</dd>
+<dt>Dépenses de consommation</dt><dd>55 000 $</dd>
 </dl>
 <dl>
-<dt>Budget actuel</dt><dd>67 000 \$</dd>
+<dt>Revenu discrétionnaire</dt><dd>35 000 $</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allègement cotisations</dt><dd>900 \$</dd>
-<dt>TVQ accrue</dt><dd>−1 000 \$</dd>
-<dt>Carbone</dt><dd>−90 \$</dd>
+<dt>Allocations enfants</dt><dd>+12 000 $</dd>
+<dt>Allocations adultes</dt><dd>+3 600 $</dd>
+<dt>Allègement de cotisations</dt><dd>+1 100 $</dd>
+<dt>TVQ +2,3 points</dt><dd>−1 300 $</dd>
+<dt>Prix du carbone</dt><dd>−200 $</dd>
+<dt>Subvention CPE supprimée</dt><dd>−9 000 $</dd>
+<dt>Allocations familles abolies</dt><dd>−2 000 $</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>−190 \$</dd>
+<dt>Ajustement total</dt><dd>+4 200 $</dd>
+</dl>
+</section>
+
+<section class="with-scheme-lime">
+<h4 class="h5">Situation finale</h4>
+<dl>
+<dt>Revenu net</dt><dd>104 700 $</dd>
+<dt>Dépenses de consommation</dt><dd>65 500 $</dd>
+</dl>
+<dl>
+<dt>Épargne finale</dt><dd>39 200 $</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Plein tarif de garde absorbé par l’allocation enfants.</li>
+<li>Panier familial stabilisé malgré TVQ/carbone.</li>
+<li>Capacité accrue d’épargne/REEE.</li>
+</ol>
+</section>
+</div>
+</article>
+
+
+<!-- 3. Professionnel·le célibataire -->
+<article class="case-portrait">
+<header>
+<h3><i></i> Une professionnelle célibataire avec revenu de 95 000 $ et consommation de 45 000 $</h3>
+<p class="with-scheme-red">contribuera 190 $.</p>
+</header>
+
+<div>
+<section>
+<h4 class="h5">Situation actuelle</h4>
+<dl>
+<dt>Revenu net</dt><dd>67 000 $</dd>
+<dt>Dépenses de consommation</dt><dd>45 000 $</dd>
+</dl>
+<dl>
+<dt>Revenu discrétionnaire</dt><dd>22 000 $</dd>
+</dl>
+</section>
+
+<section>
+<h4 class="h5">Réforme économique</h4>
+<dl>
+<dt>Allocation adulte</dt><dd>0 $</dd>
+<dt>Allègement de cotisations</dt><dd>+900 $</dd>
+<dt>TVQ +2,3 points</dt><dd>−1 000 $</dd>
+<dt>Prix du carbone</dt><dd>−90 $</dd>
+</dl>
+<dl>
+<dt>Ajustement total</dt><dd>−190 $</dd>
 </dl>
 </section>
 
 <section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Revenu disponible</dt><dd>66 810 \$</dd>
+<dt>Revenu net</dt><dd>67 900 $</dd>
+<dt>Dépenses de consommation</dt><dd>46 090 $</dd>
 </dl>
 <dl>
-<dt>Budget final</dt><dd>66 810 \$</dd>
+<dt>Épargne finale</dt><dd>21 810 $</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Une contribution équivalente à deux billets de concert haut de gamme.</li>
-<li>Paie nette quasi inchangée.</li>
-<li>Simplification fiscale sans formulaires de crédits.</li>
+<li>Effet net quasi neutre (−190 $/an).</li>
+<li>TVQ/carbone absorbés par l’allègement de cotisations.</li>
+<li>Pas de prélèvements patrimoniaux spécifiques.</li>
 </ol>
 </section>
 </div>
 </article>
 
-<!-- 4. Couple rural 120 000 \$ + 2 enfants -->
+<!-- 4. Couple en milieu rural -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Un couple rural avec revenu de 120 000 \$, deux enfants et consommation de 65 000 \$</h3>
-<p class="with-scheme-lime">recevront 3 600 \$.</p>
+<h3><i></i> Un couple en milieu rural avec revenu de 120 000 $, deux enfants et consommation de 65 000 $</h3>
+<p class="with-scheme-lime">recevra 3 600 $.</p>
 </header>
+
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
-<dt>Revenu net</dt><dd>78 800 \$</dd>
+<dt>Revenu net</dt><dd>78 800 $</dd>
 <dt>Allocations familles</dt><dd>2 000 \$</dd>
+<dt>Dépenses de consommation</dt><dd>65 000 $</dd>
 </dl>
 <dl>
-<dt>Budget actuel</dt><dd>80 800 \$</dd>
+<dt>Revenu discrétionnaire</dt><dd>13 800 $</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allocations enfants</dt><dd>+6 000 \$</dd>
-<dt>Allègement cotisations</dt><dd>+1 600 \$</dd>
-<dt>Allocations familles abolies</dt><dd>−2 000 \$</dd>
-<dt>TVQ accrue</dt><dd>−1 500 \$</dd>
-<dt>Carbone</dt><dd>−500 \$</dd>
+<dt>Allocations enfants</dt><dd>+6 000 $</dd>
+<dt>Allègement de cotisations</dt><dd>+1 600 $</dd>
+<dt>Allocations familles abolies</dt><dd>−2 000 $</dd>
+<dt>TVQ +2,3 points</dt><dd>−1 500 $</dd>
+<dt>Prix du carbone</dt><dd>−500 $</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>+3 600 \$</dd>
+<dt>Ajustement total</dt><dd>+3 600 $</dd>
 </dl>
 </section>
 
-<section>
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Revenu disponible</dt><dd>78 400 \$</dd>
-<dt>Allocations enfants</dt><dd>6 000 \$</dd>
+<dt>Revenu net</dt><dd>84 400 $</dd>
+<dt>Dépenses de consommation</dt><dd>67 000 $</dd>
 </dl>
 <dl>
-<dt>Budget final</dt><dd>84 400 \$</dd>
+<dt>Épargne finale</dt><dd>17 400 $</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>De quoi financer l’isolation du grenier ou un poêle à granules.</li>
-<li>Une marge pour activités familiales malgré l’essence plus chère.</li>
-<li>Une hausse de 2 % du budget global.</li>
+<li>Panier auto/carburant plus exposé au carbone, compensé par l’allocation enfants.</li>
+<li>Budget familial stabilisé malgré TVQ/carbone.</li>
+<li>Pas de prélèvements patrimoniaux spécifiques.</li>
 </ol>
 </section>
 </div>
 </article>
 
+
 <!-- 5. Couple haut revenu -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Un couple avec revenu de 300 000 \$ et consommation de 80 000 \$</h3>
-<p class="with-scheme-red">contribuera 13 900 \$.</p>
+<h3><i></i> Un couple avec revenu de 300 000 \$ et consommation de 80 000 $</h3>
+<p class="with-scheme-red">contribuera 16 030 \$.</p>
 </header>
+
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
 <dl>
 <dt>Revenu net</dt><dd>172 000 \$</dd>
+<dt>Dépenses de consommation</dt><dd>80 000 \$</dd>
+<dt>Charges de patrimoine</dt><dd>18 450 \$</dd>
+</dl>
+<dl>
+<dt>Revenu discrétionnaire</dt><dd>73 550 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
 <dl>
-<dt>Allègement cotisations</dt><dd>1 800 \$</dd>
-<dt>TVQ accrue</dt><dd>−1 900 \$</dd>
-<dt>Carbone</dt><dd>−300 \$</dd>
-<dt>Surtaxes luxe (foncière, FTT, capital)</dt><dd>−13 500 \$</dd>
+<dt>Allocation adulte</dt><dd>0 \$</dd>
+<dt>Allègement de cotisations</dt><dd>+1 800 \$</dd>
+<dt>TVQ +2,3 points</dt><dd>−1 900 \$</dd>
+<dt>Prix du carbone</dt><dd>−300 \$</dd>
+<dt>Surtaxes « luxe »</dt><dd>−13 500 \$</dd>
+<dt>Impôt sur le revenu</dt><dd>−2 130 \$</dd>
 </dl>
 <dl>
-<dt>Ajustement</dt><dd>−13 900 \$</dd>
+<dt>Ajustement total</dt><dd>−16 030 \$</dd>
 </dl>
 </section>
 
 <section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
 <dl>
-<dt>Revenu disponible</dt><dd>158 100 \$</dd>
+<dt>Revenu net</dt>
+<dd>171 670 \$</dd>
+<dt>Dépenses de consommation</dt>
+<dd>82 200 \$</dd>
+<dt>Charges de patrimoine</dt><dd>31 950 \$</dd>
 </dl>
 <dl>
-<dt>Budget final</dt><dd>158 100 \$</dd>
+<dt>Épargne finale</dt>
+<dd>57 520 \$</dd>
 </dl>
 </section>
 
 <section>
 <h4 class="h5">Concrètement, c’est…</h4>
 <ol>
-<li>Une contribution progressive axée sur le patrimoine.</li>
-<li>Retenues salariales inchangées malgré la TVQ majorée.</li>
-<li>Part équitable pour financer l’allocation de subsistance.</li>
+<li>Une contribution surtout via patrimoine/transactions financières.</li>
+<li>Une épargne annuelle encore élevée, mais réduite d’environ 1 336 \$/mois.</li>
+<li>Effets TVQ/carbone modestes à l’échelle du ménage.</li>
 </ol>
 </section>
 </div>

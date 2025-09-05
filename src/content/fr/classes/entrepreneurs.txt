@@ -46,149 +46,302 @@ on aide à passer le cap critique des premières années.</p>
 <p>Impact net pour plusieurs profils, en tenant compte <strong>des subventions et crédits abolis ou réduits</strong>.</p>
 </header>
 
-<!-- 1. Café de quartier -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Une propriétaire d'un café de quartier avec salaire 35 000 \$ et bénéfice de 15 000 \$</h3>
-<p class="with-scheme-green">recevrait 2 150 \$.</p>
+<h3><i></i> Une propriétaire d'un café de quartier avec salaire 35 000 $ et bénéfice de 15 000 $</h3>
+<p class="with-scheme-lime">recevra 3 250 $.</p>
 </header>
 <div>
 <section>
 <h4 class="h5">Situation actuelle</h4>
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Salaire net</dt><dd>29 300 \$</dd>
-<dt>Bénéfice net</dt><dd>14 300 \$</dd>
-<dt>Soutien au travail autonome</dt><dd>+3 000 \$</dd>
+<dt>Bénéfice net</dt><dd>14 300 $</dd>
 </dl>
-<dl><dt>Budget actuel</dt><dd>46 600 \$</dd></dl>
+<h5 class="h6">Entrepreneure</h5>
+<dl>
+<dt>Salaire net</dt><dd>29 300 $</dd>
+<dt>Subvention <abbr title="Soutien au travail autonome">STA</abbr></dt><dd>3 000 $</dd>
+</dl>
+<dl>
+<dt>Recettes actuelles</dt><dd><strong>46 600 $</strong></dd>
+</dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Allocation nette</dt><dd>5 400 \$</dd>
-<dt>Allègement AE & RRQ (salariée)</dt><dd>+140 \$</dd>
-<dt>Baisse cotisations employeur</dt><dd>+900 \$</dd>
-<dt>Subvention STA abolie</dt><dd>-3 000 \$</dd>
-<dt>ISoc +1,25 pt</dt><dd>-190 \$</dd>
+<dt>Baisse des cotisations employeur</dt><dd>+900 $</dd>
+<dt>Impôt des sociétés (+1,25 pt)</dt><dd>−190 $</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>3 250 \$</dd></dl>
+<h5 class="h6">Entrepreneure</h5>
+<dl>
+<dt>Allocation nette</dt><dd>+5 400 $</dd>
+<dt>Allègement AE & RRQ</dt><dd>+140 $</dd>
+<dt>Subvention STA abolie</dt><dd>−3 000 $</dd>
+</dl>
+<dl>
+<dt>Ajustement total</dt><dd><strong>+3 250 $</strong></dd>
+</dl>
 </section>
 
-<section class="with-scheme-green">
+<section class="with-scheme-lime">
 <h4 class="h5">Situation finale</h4>
-<dt>Allocation nette</dt><dd>5 400 \$</dd>
-<dt>Salaire net</dt><dd>29 440 \$</dd>
-<dt>Bénéfice net</dt><dd>15 010 \$</dd>
-<dl><dt>Budget final</dt><dd>49 850 \$</dd></dl>
+<h5 class="h6">Entreprise</h5>
+<dl>
+<dt>Bénéfice net</dt>
+<dd>15 010 $</dd>
+</dl>
+<h5 class="h6">Entrepreneure</h5>
+<dl>
+<dt>Salaire net</dt>
+<dd>29 440 $ </dd>
+<dt>Allocation nette</dt>
+<dd>5 400 $</dd>
+</dl>
+<dl>
+<dt>Recettes finales</dt>
+<dd><strong>49 850 $</strong></dd>
+</dl>
 </section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Une douzaine d’heures de renfort barista chaque mois.</li>
+<li>L’entretien des équipements et un mini-budget fidélité financés sans stress.</li>
+<li>Un budget combiné en hausse d’environ 7 %.</li>
+</ol>
+</section>
+
 </div>
 </article>
 
-
-<!-- 2. Start-up techno pré-revenu -->
+<!-- 2. Start-up techno pré-revenu — version harmonisée -->
 <article class="case-portrait">
 <header>
-<h3><i></i> Un fondateur de start-up ayant un revenu de 25 000 \$ et un crédit R&D de 60 000 \$</h3>
-<p class="with-scheme-red">contribuerait 2 400 \$.</p>
+<h3><i></i> Un fondateur de start-up ayant un revenu de 25 000 $ et un crédit R&D de 60 000 $</h3>
+<p class="with-scheme-red">contribuera 2 400 $.</p>
 </header>
 <div>
+
 <section>
 <h4 class="h5">Situation actuelle</h4>
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Salaire net fondateur</dt><dd>23 500 \$</dd>
-<dt>Crédit R&D remboursable</dt><dd>+60 000 \$</dd>
+<dt>Crédit R&D remboursable</dt><dd>60 000 $</dd>
 </dl>
-<dl><dt>Avoir actuel</dt><dd>83 500 \$</dd></dl>
+<h5 class="h6">Fondateur</h5>
+<dl>
+<dt>Salaire net</dt><dd>23 500 $</dd>
+</dl>
+<dl>
+<dt>Recettes actuelles</dt><dd><strong>83 500 $</strong></dd>
+</dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Allocation adulte nette</dt><dd>9 000 \$</dd>
-<dt>Baisse cotisations employeur</dt><dd>+600 \$</dd>
-<dt>Crédit R&D réduit</dt><dd>–12 000 \$</dd>
+<dt>Baisse des cotisations employeur</dt><dd>+600 $</dd>
+<dt>Crédit R&D réduit</dt><dd>−12 000 $</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>−2 400 \$</dd></dl>
+<h5 class="h6">Fondateur</h5>
+<dl>
+<dt>Allocation adulte nette</dt><dd>+9 000 $</dd>
+</dl>
+<dl>
+<dt>Ajustement total</dt><dd><strong>−2 400 $</strong></dd>
+</dl>
 </section>
 
 <section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Total final</dt><dd>81 100 \$</dd></dl>
+<h5 class="h6">Entreprise</h5>
+<dl>
+<dt>Crédit R&D (révisé)</dt><dd>48 000 $</dd>
+<dt>Allègement cotisations employeur</dt><dd>600 $</dd>
+</dl>
+<h5 class="h6">Fondateur</h5>
+<dl>
+<dt>Salaire net</dt><dd>23 500 $</dd>
+<dt>Allocation nette</dt><dd>9 000 $</dd>
+</dl>
+<dl>
+<dt>Recettes finales</dt><dd><strong>81 100 $</strong></dd>
+</dl>
 </section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Un plancher de revenu de 9 000 $ pour le fondateur.</li>
+<li>Des coûts d’embauche réduits d’environ 600 $ par an.</li>
+<li>Un budget combiné en baisse d’environ 3 %.</li>
+</ol>
+</section>
+
 </div>
 </article>
 
-<!-- 3. Cabinet-conseil -->
+
+
+<!-- 3. Cabinet-conseil — version harmonisée -->
 <article class="case-portrait">
 <header>
-<h3><i></i>Une présidente ayant un salaire de 80 000 \$ d'un cabinet conseil avec profit 300 000 \$</h3>
-<p class="with-scheme-red">contribuerait 6 750 \$.</p>
+<h3><i></i> Une présidente ayant un salaire de 80 000 $ d'un cabinet-conseil avec profit 300 000 $</h3>
+<p class="with-scheme-red">contribuera 6 750 $.</p>
 </header>
 <div>
+
 <section>
 <h4 class="h5">Situation actuelle</h4>
+
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Salaire net</dt><dd>67 000 \$</dd>
-<dt>Bénéfice net</dt><dd>204 000 \$</dd>
-<dt>Crédit formation PME</dt><dd>5 000 \$</dd>
+<dt>Bénéfice net</dt><dd>204 000 $</dd>
+<dt>Crédit formation PME</dt><dd>5 000 $</dd>
 </dl>
-<dl><dt>Avoir actuel</dt><dd>276 000 \$</dd></dl>
+
+<h5 class="h6">Présidente</h5>
+<dl>
+<dt>Salaire net</dt><dd>67 000 $</dd>
+</dl>
+
+<dl>
+<dt>Recettes actuelles</dt><dd><strong>276 000 $</strong></dd>
+</dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
+
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Baisse cotisations employeur</dt><dd>+2 000 \$</dd>
-<dt>Crédit formation aboli</dt><dd>–5 000 \$</dd>
-<dt>ISoc +1,25 pt</dt><dd>–3 750 \$</dd>
+<dt>Baisse des cotisations employeur</dt><dd>+2 000 $</dd>
+<dt>Crédit formation aboli</dt><dd>−5 000 $</dd>
+<dt>Impôt des sociétés (+1,25 pt)</dt><dd>−3 750 $</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>−6 750 \$</dd></dl>
+
+<h5 class="h6">Présidente</h5>
+<dl>
+<dt>Allègement AE & RRQ</dt><dd>0 $</dd>
+</dl>
+
+<dl>
+<dt>Ajustement total</dt><dd><strong>−6 750 $</strong></dd>
+</dl>
 </section>
 
 <section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dt>Salaire net</dt><dd>67 000 \$</dd>
-<dt>Bénéfice net</dt><dd>202 250 \$</dd>
-<dl><dt>Budget final</dt><dd>269 250 \$</dd></dl>
+
+<h5 class="h6">Entreprise</h5>
+<dl>
+<dt>Bénéfice net</dt><dd>202 250 $</dd>
+</dl>
+
+<h5 class="h6">Présidente</h5>
+<dl>
+<dt>Salaire net</dt><dd>67 000 $</dd>
+</dl>
+
+<dl>
+<dt>Recettes finales</dt><dd><strong>269 250 $</strong></dd>
+</dl>
 </section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Un budget combiné en baisse d’environ 2 %.</li>
+<li>Des charges employeur allégées compensant partiellement l’ISoc.</li>
+<li>La formation maintenue sans le crédit dédié.</li>
+</ol>
+</section>
+
 </div>
 </article>
 
-<!-- 4. Entreprise familiale prospère -->
+<!-- 4. Entreprise familiale prospère — version harmonisée -->
 <article class="case-portrait">
 <header>
-<h3><i></i>Une propriétaire ayant un salaire de 120 000 \$ d'une entreprise familiale avec un profit de 500 000 \$</h3>
-<p class="with-scheme-red">contribuerait 10 500 \$.</p>
+<h3><i></i> Une propriétaire ayant un salaire de 120 000 $ d'une entreprise familiale avec un profit de 500 000 $</h3>
+<p class="with-scheme-red">contribuera 10 500 $.</p>
 </header>
 <div>
+
 <section>
 <h4 class="h5">Situation actuelle</h4>
+
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Salaire net</dt><dd>84 000 \$</dd>
-<dt>Bénéfice net</dt><dd>340 000 \$</dd>
-<dt>Crédit export PME-Tiers 2</dt><dd>+10 000 \$</dd>
+<dt>Bénéfice net</dt><dd>340 000 $</dd>
+<dt>Crédit export PME – Tiers 2</dt><dd>10 000 $</dd>
 </dl>
-<dl><dt>Budget actuel</dt><dd>434 000 \$</dd></dl>
+
+<h5 class="h6">Propriétaire</h5>
+<dl>
+<dt>Salaire net</dt><dd>84 000 $</dd>
+</dl>
+
+<dl>
+<dt>Recettes actuelles</dt><dd><strong>434 000 $</strong></dd>
+</dl>
 </section>
 
 <section>
 <h4 class="h5">Réforme économique</h4>
+
+<h5 class="h6">Entreprise</h5>
 <dl>
-<dt>Baisse cotisations employeur</dt><dd>+3 000 \$</dd>
-<dt>Crédit export aboli</dt><dd>–10 000 \$</dd>
-<dt>ISoc +1,25 pt</dt><dd>–6 250 \$</dd>
-<dt>Surtaxe IR (3 pts >250 k\$)</dt><dd>–(–?)</dd>
+<dt>Baisse des cotisations employeur</dt><dd>+3 000 $</dd>
+<dt>Crédit export aboli</dt><dd>−10 000 $</dd>
+<dt>Impôt des sociétés (+1,25 pt)</dt><dd>−6 250 $</dd>
 </dl>
-<dl><dt>Ajustement</dt><dd>−10 250 \$</dd></dl>
+
+<h5 class="h6">Propriétaire</h5>
+<dl>
+<dt>Surtaxe IR (3 pts &gt; 250 k$)</dt><dd>0 $</dd>
+</dl>
+
+<dl>
+<dt>Ajustement total</dt><dd><strong>−10 250 $</strong></dd>
+</dl>
 </section>
 
 <section class="with-scheme-red">
 <h4 class="h5">Situation finale</h4>
-<dl><dt>Budget final</dt><dd>423 750 \$</dd></dl>
+
+<h5 class="h6">Entreprise</h5>
+<dl>
+<dt>Bénéfice net</dt><dd>339 750 $</dd>
+</dl>
+
+<h5 class="h6">Propriétaire</h5>
+<dl>
+<dt>Salaire net</dt><dd>84 000 $</dd>
+</dl>
+
+<dl>
+<dt>Recettes finales</dt><dd><strong>423 750 $</strong></dd>
+</dl>
 </section>
+
+<section>
+<h4 class="h5">Concrètement, c’est…</h4>
+<ol>
+<li>Un budget combiné en baisse d’environ 2 %.</li>
+<li>L’abolition du crédit export partiellement compensée par la baisse des charges employeur.</li>
+<li>Un effet concentré sur l’entreprise; le salaire net demeure inchangé.</li>
+</ol>
+</section>
+
 </div>
 </article>
+
 </section>
 
 <!-- NOTES CORRIGÉES -->
