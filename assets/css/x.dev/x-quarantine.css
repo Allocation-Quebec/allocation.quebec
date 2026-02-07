@@ -278,7 +278,7 @@ nav span:where([aria-hidden=true]) {
 }
 
 #footnotes a {
-	pointer-events: none;
+	/* pointer-events: none; */
 }
 
 
