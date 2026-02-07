@@ -33,7 +33,7 @@
 						<title>Allocation Québec</title>
 					</xsl:otherwise>
 				</xsl:choose>
-				<link rel="stylesheet" href="/assets/css/min.e.css"/>
+				<link rel="stylesheet" href="/assets/css/e.css"/>
 				<link rel="stylesheet" href="/assets/css/6.components/signature.css"/>
 			</head>
 			<xsl:call-template name="body" />
