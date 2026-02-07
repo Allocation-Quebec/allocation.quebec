@@ -57,7 +57,7 @@ i {
 		&:hover {
 
 			--SelectedHue: var(--BrownHue);
-			background-color: oklch(94% 32% var(--BrownHue)) !important;
+			background-color: oklch(96% 32% var(--BrownHue));
 		}
 
 		font-family: var(--Grotesk);
@@ -91,7 +91,7 @@ i {
 		small {
 			--FontWeight: 700;
 			--ScaleLevel: var(--Short);
-			--Color: oklch(52% 34% var(--SelectedHue));
+			--Color: oklch(48% 34% var(--SelectedHue));
 			line-height: 1;
 		}
 

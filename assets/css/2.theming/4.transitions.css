@@ -3,7 +3,7 @@
 }
 
 * {
-	transition-property: color, background-color, opacity, transform;
+	transition-property: color, background-color, opacity, transform, text-underline-offset, text-decoration-thickness;
 	transition-duration: 120ms;
 }
 
