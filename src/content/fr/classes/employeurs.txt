@@ -14,12 +14,12 @@
 <p>Avec l’allocation de subsistance, la majorité des subventions ciblées sont remplacées par une réduction universelle des cotisations employeurs. Résultat : moins de formulaires, moins de délais, et une prévisibilité accrue pour la planification financière.</p>
 
 <h3 class="h4">Pourquoi c’est crucial ?</h3>
-<p>Au Québec, plus de 90 % des entreprises sont des PME[^statcan2023]. Celles-ci disposent rarement de services fiscaux sophistiqués pour naviguer les multiples crédits, subventions et programmes sectoriels. Une baisse nette et linéaire des charges sociales rend la croissance et l’embauche beaucoup plus simples, quel que soit le secteur.</p>
+<p>Au Québec, la quasi‑totalité (99,8 %) des entreprises sont des PME[^statcan2023]. Celles-ci disposent rarement de services fiscaux sophistiqués pour naviguer les multiples crédits, subventions et programmes sectoriels. Une baisse nette et linéaire des charges sociales rend la croissance et l’embauche beaucoup plus simples, quel que soit le secteur.</p>
 </div>
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Selon l’OCDE, une réduction uniforme des cotisations sociales est parmi les mesures les plus efficaces pour stimuler l’emploi[^oecd2020]. Elle permet aux employeurs de convertir directement les économies en salaires, en embauches ou en investissements.</p>
+<p>L’OCDE souligne que la fiscalité du travail, incluant les cotisations sociales, influence l’emploi et recense des mesures de réduction de cotisations employeur utilisées pour soutenir l’emploi[^oecd2020].</p>
 </aside>
 </div>
 
@@ -285,5 +285,5 @@
 </section>
 
 <!-- NOTES -->
-[^statcan2023]: [Statistique Canada. 2023. *Portrait des PME québécoises*](https://www150.statcan.gc.ca/)  
-[^oecd2020]: [OCDE. 2020. *Taxation and Employment: Policy Review*](https://www.oecd.org/tax/)  
+[^statcan2023]: [Institut de la statistique du Québec. 2020. *Les entreprises québécoises de moins de 5 employés : portrait et contribution à la dynamique des entreprises et de l’emploi*](https://statistique.quebec.ca/fr/communique/les-entreprises-quebecoises-de-moins-de-5-employes-portrait-et-contribution-a-la-dynamique-des-entreprises-et-de-lemploi)  
+[^oecd2020]: [OECD. 2011. *Taxation and Employment* (PDF)](https://www.oecd.org/content/dam/oecd/en/publications/reports/2011/10/taxation-and-employment_g1g14cd2/9789264120808-en.pdf)  

@@ -14,31 +14,31 @@
 <p>La réforme remplace des programmes conditionnels et morcelés par une allocation universelle avec récupération graduelle. Concrètement, le soutien diminue doucement à mesure que le salaire augmente, ce qui élimine les trappes à pauvreté. L’effet combiné : plus de sécurité de revenu, plus de liberté pour accepter des heures supplémentaires, changer d’emploi ou reprendre des études, et une progression salariale qui se traduit enfin par un gain net.</p>
 
 <h3 class="h4">Pourquoi c’est décisif ?</h3>
-<p>Près de 40 % des salarié·es québécois·es gagnent moins de 25 \$/h[^statcanSal]. Les programmes actuels coupent abruptement des crédits et prestations quand un seuil est franchi. Ici, on remplace les ruptures par une pente douce : plus d’effort, plus de revenu net, pour tout le monde.</p>
+<p>En 2024, 18,5 % des employé·es au Canada gagnaient moins que le seuil de faible rémunération (20 \$/h)[^statcanSal]. Les programmes actuels coupent abruptement des crédits et prestations quand un seuil est franchi. Ici, on remplace les ruptures par une pente douce : plus d’effort, plus de revenu net, pour tout le monde.</p>
 </div>
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Les transferts monétaires stables sont associés à une meilleure santé mentale et à une baisse de l’absentéisme, ce qui améliore la productivité[^mit2021]. L’effet est particulièrement marqué pour les bas et moyens revenus.</p>
+<p>Les transferts monétaires stables sont associés à une baisse de la détresse psychologique et à une réduction de la volatilité des revenus[^mit2021]. Des essais cliniques montrent qu’une meilleure santé mentale se traduit par des gains de productivité et moins d’absentéisme[^prod2004].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Hausse du taux d’emploi</strong>
-<p>+2 points de participation chez les 18–64 ans[^statcanLab].</p></li>
+<li class="tile"><strong class="h5">Emploi à temps plein</strong>
+<p>Une hausse de l’emploi à temps plein a été observée dans l’essai SEED[^seedEmployment].</p></li>
 
 <li class="tile"><strong class="h5">Revenus bas mieux protégés</strong>
 <p>En dessous de 30 000 \$, le revenu disponible grimpe de 20 % à 60 %.</p></li>
 
 <li class="tile"><strong class="h5">Équilibre vie‑travail</strong>
-<p>Plus de temps partiel choisi, moins de temps partiel subi[^iwprWork].</p></li>
+<p>Les congés payés améliorent la conciliation et la rétention[^iwprWork].</p></li>
 
-<li class="tile"><strong class="h5">Moins d’endettement</strong>
-<p>–15 % de soldes de cartes de crédit dans le quintile inférieur[^finqc2019].</p></li>
+<li class="tile"><strong class="h5">Revenus plus stables</strong>
+<p>La volatilité mensuelle des revenus diminue dans le groupe traité[^mit2021].</p></li>
 
-<li class="tile"><strong class="h5">Productivité accrue</strong>
-<p>–12 % de jours d’absence maladie en moyenne[^mit2021].</p></li>
+<li class="tile"><strong class="h5">Productivité potentielle</strong>
+<p>La baisse de la détresse s’accompagne, dans d’autres essais, d’une productivité accrue et de moins d’absences[^prod2004].</p></li>
 </ul>
 </section>
 
@@ -251,8 +251,8 @@
 </section>
 
 <!-- NOTES -->
-[^statcanSal]: [Statistique Canada. 2023. *Distribution des salarié·es selon le salaire horaire – tableau 14‑10‑0328‑01*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032801)  
-[^mit2021]: [J‑PAL, MIT. 2021. *Cash Transfers and Workplace Outcomes – Evidence Review*](https://www.povertyactionlab.org)  
-[^statcanLab]: [Statistique Canada. 2024. *Taux d’activité de la population de 15 à 64 ans – tableau 14‑10‑0327‑01*](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032701)  
+[^statcanSal]: [Statistique Canada. 2025. *Employees with low pay, 2024*](https://www150.statcan.gc.ca/n1/pub/14-28-0001/2025001/article/00002-eng.htm)  
+[^mit2021]: [West, Stacia & Castro, Amy (2023). *Impact of Guaranteed Income on Health, Finances, and Agency: Findings from the Stockton Randomized Controlled Trial*. *Journal of Urban Health*](https://link.springer.com/article/10.1007/s11524-023-00723-0)  
+[^seedEmployment]: [Stockton Economic Empowerment Demonstration (SEED). *Employment*](https://www.stocktondemonstration.org/employment)  
+[^prod2004]: [Rost, Kathryn L., Smith, Jeffrey L., & Dickinson, Miriam. 2004. *The Effect of Improving Primary Care Depression Management on Employee Absenteeism and Productivity: A Randomized Trial*. *Medical Care*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1350979/)  
 [^iwprWork]: [Institute for Women’s Policy Research. 2022. *Why Paid Leave Matters*](https://iwpr.org/iwpr-issues/work-family/why-paid-leave-matters/)  
-[^finqc2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales – Édition 2019*](https://www.finances.gouv.qc.ca/documents/autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)

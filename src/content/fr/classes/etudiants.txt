@@ -228,12 +228,12 @@
 </section>
 
 <!-- Notes de bas de page -->
-[^bican2020]: Basic Income Canada Network. 2020. *Revenu de base et éducation*. [https://www.basicincomecanada.org/education](https://www.basicincomecanada.org/education)
+[^bican2020]: Basic Income Canada Network. 2020. *Revenu de base et éducation* (archive). [https://web.archive.org/web/20190813160847/https://www.basicincomecanada.org/education](https://web.archive.org/web/20190813160847/https://www.basicincomecanada.org/education)
 
-[^kela2019]: KELA. 2019. *Results of the Finnish Basic Income Experiment*. [https://www.kela.fi/web/en/basic-income-experiment-2017-2018](https://www.kela.fi/web/en/basic-income-experiment-2017-2018)
+[^kela2019]: Kela. 2019. *The basic income experiment 2017–2018 in Finland: Preliminary results*. [https://www.utupub.fi/handle/10024/160792](https://www.utupub.fi/handle/10024/160792)
 
-[^bell1973]: Bell, Daniel. 1973. *The Coming of Post-Industrial Society*. Basic Books. [https://www.goodreads.com/book/show/907724](https://www.goodreads.com/book/show/907724)
+[^bell1973]: Bell, Daniel. 1973. *The Coming of Post-Industrial Society*. Basic Books. [https://openlibrary.org/works/OL82588W/The_Coming_of_Post-Industrial_Society](https://openlibrary.org/works/OL82588W/The_Coming_of_Post-Industrial_Society)
 
 [^illich1971]: Illich, Ivan. 1971. *Deschooling Society*. Harper & Row. [https://archive.org/details/DeschoolingSociety](https://archive.org/details/DeschoolingSociety)
 
-[^oecd2021]: OECD. 2021. *Education at a Glance*. [https://www.oecd.org/education/education-at-a-glance/](https://www.oecd.org/education/education-at-a-glance/)
+[^oecd2021]: OECD. 2021. *Education at a Glance 2021*. [https://www.oecd.org/education/education-at-a-glance/education-at-a-glance-2021.htm](https://www.oecd.org/education/education-at-a-glance/education-at-a-glance-2021.htm)

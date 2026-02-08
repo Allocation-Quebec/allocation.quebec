@@ -326,4 +326,4 @@
 </article>
 </section>
 
-[^isqCons]: [Institut de la statistique du Québec. 2023. *Dépenses de consommation des ménages québécois*](https://statistique.quebec.ca)
+[^isqCons]: [Institut de la statistique du Québec. 2023. *Comptes économiques du Québec — Trimestriels (dépenses de consommation finale des ménages)*](https://statistique.quebec.ca/fr/document/comptes-economiques-du-quebec-trimestriels)

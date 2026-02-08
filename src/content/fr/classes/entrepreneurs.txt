@@ -17,16 +17,16 @@ favorise la création d’entreprises. Les aides sectorielles disparues (crédit
 remplacées par un mécanisme universel <em>plus simple, plus prévisible</em>.</p>
 
 <h3 class="h4">Pourquoi c’est stratégique ?</h3>
-<p>Les PME représentent 99 % des entreprises québécoises et 61 % des emplois privés[^statcanSME].
-Leur frein principal : la trésorerie nécessaire pour l’embauche et la paie[^bdc2022].
+<p>Les PME représentent 99,8 % des entreprises québécoises[^statcanSME].
+Leur frein principal : maintenir une trésorerie suffisante pour l’embauche et la paie[^bdc2022].
 En réduisant de 2,5 % les cotisations employeur et en assurant 18 000 $ de revenu minimal,
 on aide à passer le cap critique des premières années.</p>
 </div>
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Les pays offrant un revenu minimal aux travailleuses et travailleurs indépendants affichent un
-<strong>taux de survie des micro-entreprises supérieur de 4 points</strong>[^oecd2020].</p>
+<p>Au Canada, les micro‑entreprises (1–4 employé·es) ont un <strong>taux de survie à 5 ans d’environ 63 %</strong>,
+contre ~75 % pour celles qui démarrent avec 20–99 employé·es[^oecd2020].</p>
 </aside>
 </div>
 
@@ -34,7 +34,7 @@ on aide à passer le cap critique des premières années.</p>
 <ul class="as-grid">
 <li class="tile"><strong class="h5">Coût d’embauche allégé</strong><p>–2,53 % de charges sociales employeur.</p></li>
 <li class="tile"><strong class="h5">Sécurité du revenu du fondateur</strong><p>Jamais moins de 18 000&nbsp;\$ nets.</p></li>
-<li class="tile"><strong class="h5">Survie à 5 ans améliorée</strong><p>+4 points pour les micro-PME[^mei2024].</p></li>
+<li class="tile"><strong class="h5">Survie à 5 ans (micro‑PME)</strong><p>Environ 63 % pour les entreprises de 1–4 employé·es[^mei2024].</p></li>
 <li class="tile"><strong class="h5">Investissement local stimulé</strong><p>Trésorerie redirigée vers l’emploi plutôt que les formalités.</p></li>
 <li class="tile"><strong class="h5">Contribution progressive</strong><p>L’ISoc +1,25 pt ne frappe que les profits réels.</p></li>
 </ul>
@@ -345,7 +345,7 @@ on aide à passer le cap critique des premières années.</p>
 </section>
 
 <!-- NOTES CORRIGÉES -->
-[^statcanSME]: [Statistique Canada. 2023. *Répartition des entreprises selon la taille et le secteur*](https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1410035501)  
-[^bdc2022]: [BDC. 2022. *La pénurie de main-d’œuvre et ses coûts pour les PME*](https://www.bdc.ca/fr/articles-outils/analyses-recherche/etudes/la-penurie-main-doeuvre)  
-[^oecd2020]: [OCDE. 2020. *Entrepreneurship at a Glance 2020 – Chapter 8*](https://www.oecd-ilibrary.org/employment/entrepreneurship-at-a-glance-2020_6a9b2388-en)  
-[^mei2024]: [MEIE Québec. 2024. *Modélisation des effets d’un revenu de base sur la survie des PME*](https://www.quebec.ca/entreprises-survie-modele-2024.pdf)
+[^statcanSME]: [Institut de la statistique du Québec. 2020. *Les entreprises québécoises de moins de 5 employés : portrait et contribution à la dynamique des entreprises et de l’emploi*](https://statistique.quebec.ca/fr/communique/les-entreprises-quebecoises-de-moins-de-5-employes-portrait-et-contribution-a-la-dynamique-des-entreprises-et-de-lemploi)  
+[^bdc2022]: [BDC. 2025. *Mental Health and Productivity of Entrepreneurs Under Pressure Amid High Uncertainty: BDC Survey*](https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-mental-health-productivity-entrepreneurs-under-pressure-amid-high-uncertainty)  
+[^oecd2020]: [Innovation, Sciences et Développement économique Canada (ISDE). 2025. *Key Small Business Statistics 2025*](https://ised-isde.canada.ca/site/sme-research-statistics/en/key-small-business-statistics/key-small-business-statistics-2025)  
+[^mei2024]: [Innovation, Sciences et Développement économique Canada (ISDE). 2025. *Key Small Business Statistics 2025*](https://ised-isde.canada.ca/site/sme-research-statistics/en/key-small-business-statistics/key-small-business-statistics-2025)

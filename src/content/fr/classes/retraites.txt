@@ -40,7 +40,7 @@
 </section>
 
 <!-- NOTE -->
-[^isqRetraite]: [Institut de la statistique du Québec. 2022. *Portrait des conditions de vie des personnes âgées*](https://statistique.quebec.ca)
+[^isqRetraite]: [Institut de la statistique du Québec. 2024. *Vitrine sur le vieillissement de la population et les personnes aînées*](https://statistique.quebec.ca/fr/vitrine/vieillissement)
 
 <section>
 <header>
@@ -231,5 +231,5 @@
 [^cihi2022]: [Institut canadien d’information sur la santé (CIHI). 2022. *Long-Term Care Data, 2022–2023 — User Guide.*](https://www.cihi.ca/sites/default/files/document/long-term-care-data-2022-2023-guide-en.pdf)  
 [^fms2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales — Édition 2019.*](https://www.finances.gouv.qc.ca/documents/Autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)  
 [^ageuk2018]: [Age UK. 2018. *Creative and Cultural Activities and Wellbeing in Later Life.*](https://www.ageuk.org.uk/bp-assets/globalassets/oxfordshire/original-blocks/about-us/age-uk-report--creative-and-cultural-activities-and-wellbeing-in-later-life-april-2018.pdf)
-[^isqRetraite]: [Institut de la statistique du Québec. 2022. *Portrait des conditions de vie des personnes âgées*](https://statistique.quebec.ca)
+[^isqRetraite]: [Institut de la statistique du Québec. 2024. *Vitrine sur le vieillissement de la population et les personnes aînées*](https://statistique.quebec.ca/fr/vitrine/vieillissement)
 [^fadoq2024]: [Réseau FADOQ. 2024. Mémoire présenté au Comité permanent des finances de la Chambre des communes (FINA)](https://www.ourcommons.ca/Content/Committee/441/FINA/Brief/BR13226743/br-external/ReseauFADOQ-067-240716-006-e.pdf)

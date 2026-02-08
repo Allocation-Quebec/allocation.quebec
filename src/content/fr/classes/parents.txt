@@ -269,8 +269,8 @@
 </section>
 
 <!-- NOTES -->
-[^statcan2024]: [Statistique Canada. 2024. *Enfants vivant dans une famille à faible revenu – tableau 11-10-0020-01*](https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1110009201)  
-[^oecd2021]: [OCDE. 2021. *Parental Leave Systems – Policy Review*](https://www.oecd.org/social/family/parental-leave-policy-review-2021.pdf)  
+[^statcan2024]: [Statistique Canada. 2024. *Enfants vivant dans une famille à faible revenu – tableau 11-10-0020-01*](https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1110002001)  
+[^oecd2021]: [OECD. 2021. *Parental leave systems (OECD Family Database, PF2.1)*](https://webfs.oecd.org/Els-com/Family_Database/PF2_1_Parental_leave_systems.pdf)  
 [^iwpr2022]: [Institute for Women’s Policy Research. 2022. *Why Paid Leave Matters*](https://iwpr.org/iwpr-issues/work-family/why-paid-leave-matters/)  
 [^finqc2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales – Édition 2019*](https://www.finances.gouv.qc.ca/documents/autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)  
 [^frqsc2020]: [Fonds de recherche du Québec – Société et culture. 2020. *Le revenu familial et la réussite scolaire*](https://frq.gouv.qc.ca/story/le-revenu-familial-et-la-reussite-scolaire/)  
