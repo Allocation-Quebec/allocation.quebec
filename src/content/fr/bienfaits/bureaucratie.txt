@@ -15,6 +15,7 @@
 <div class="as-prose">
 <p>Des dizaines de programmes différents, chacun avec ses critères, ses formulaires, ses guichets, ses délais. Cette complexité administrative décourage même les plus déterminés, et pèse lourd sur les institutions publiques.</p>
 <p>Une allocation de subsistance supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Elle réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
+<p>Concrètement, chaque formulaire ou preuve supplémentaire représente une barrière de plus pour des personnes déjà fragilisées.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Quand le système est trop compliqué, ce sont souvent les plus vulnérables qui renoncent ou échouent à obtenir ce qu’ils méritent. Simplifier, c’est aussi réparer une injustice structurelle.</p>
@@ -22,30 +23,27 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Le politiste <strong>Gøsta Esping-Andersen</strong> a montré que les systèmes de protection les plus efficaces sont ceux où les droits sociaux sont automatiques et universels[^esping1990].</p>
-<p>Une bureaucratie légère (ou absente !) renforce l’inclusion et la dignité.</p>
+<p>L’OCDE montre que le non-recours est souvent dû à l’information insuffisante, aux procédures complexes et aux « hassle costs » liés à la demande de prestations[^oecd2024].</p>
+<p>Des droits plus simples et plus lisibles améliorent l’accès effectif aux prestations.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Réduction du non-recours à l’aide</strong>
-<p>L’universalité élimine les erreurs d’inadmissibilité et le découragement face aux démarches[^basicincomeearth2013]. Un droit accessible est un droit exercé.</p></li>
+<li class="tile"><strong class="h5">Non-recours élevé</strong>
+<p>En Europe, le non-recours aux prestations de revenu minimum est estimé entre 29 % et 57 %, ce qui limite l’efficacité des programmes ciblés[^issa2022].</p></li>
 
-<li class="tile"><strong class="h5">Moins de dossiers incomplets ou rejetés</strong>
-<p>Les systèmes conditionnels souffrent de taux élevés de refus administratifs — problème inexistant avec une prestation automatique[^ccds2007]. La simplicité administrative devient un filet de sécurité.</p></li>
+<li class="tile"><strong class="h5">Barrières administratives documentées</strong>
+<p>L’OCDE identifie comme principaux obstacles l’information insuffisante, la complexité des procédures, les « hassle costs » et la stigmatisation[^oecd2024].</p></li>
 
-<li class="tile"><strong class="h5">Diminution des files d’attente</strong>
-<p>Les services sociaux peuvent se concentrer sur l’accompagnement plutôt que sur la paperasse[^macdonald2016]. Le temps libéré devient du temps utile.</p></li>
+<li class="tile"><strong class="h5">Coûts administratifs non négligeables</strong>
+<p>Au Canada, les coûts administratifs de l’aide sociale et de l’assurance‑emploi peuvent approcher 10 % des montants versés[^macdonald2016].</p></li>
 
-<li class="tile"><strong class="h5">Baisse du nombre de révisions et litiges</strong>
-<p>Moins de décisions contestées, moins de recours devant les tribunaux administratifs[^forget2017]. Un système clair diminue les tensions.</p></li>
+<li class="tile"><strong class="h5">Exemple canadien de non‑recours</strong>
+<p>L’évaluation du Supplément de revenu garanti indique que 44 % des non‑bénéficiaires éligibles ignoraient l’existence du programme[^gis_eval].</p></li>
 
-<li class="tile"><strong class="h5">Réduction du stress administratif pour les citoyens</strong>
-<p>Les bénéficiaires rapportent un soulagement significatif lié à la fin des justifications récurrentes[^forget2017]. Moins d’humiliation, plus de confiance.</p></li>
-
-<li class="tile"><strong class="h5">Simplification du travail des fonctionnaires</strong>
-<p>Les agents des services sociaux peuvent enfin se consacrer à l’écoute, à l’orientation, à l’humain[^basicincomeearth2013]. La bureaucratie administrative devient un outil, pas un obstacle.</p></li>
+<li class="tile"><strong class="h5">Exemple américain de non‑recours</strong>
+<p>Aux États‑Unis, le taux de participation national à l’EITC était d’environ 80,8 % (tax year 2022), montrant qu’une part des ménages éligibles n’en bénéficie pas[^eitc_irs].</p></li>
 </ul>
 </section>
 
@@ -65,30 +63,18 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Le prix Nobel d’économie <strong>Herbert Simon</strong> a démontré que trop de complexité nuit à la prise de décision efficace dans les grandes organisations[^simon1976].</p>
-<p>La simplification structurelle est un levier de performance publique.</p>
+<p>Herbert Simon souligne que la prise de décision est au cœur de l’administration et qu’elle traverse l’ensemble de l’organisation[^simon1976].</p>
+<p>Des procédures plus simples facilitent des décisions plus cohérentes et plus rapides.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Réduction des coûts de gestion</strong>
-<p>Les modèles de revenu de base montrent une baisse importante des dépenses administratives[^macdonald2016]. L’argent va directement aux gens, pas aux structures.</p></li>
+<li class="tile"><strong class="h5">Coûts administratifs élevés dans les dispositifs conditionnels</strong>
+<p>Les coûts de gestion peuvent représenter une part substantielle des montants versés, ce qui alimente l’argument en faveur de dispositifs plus simples[^macdonald2016].</p></li>
 
-<li class="tile"><strong class="h5">Moins de doublons entre programmes</strong>
-<p>L’universalité permet de regrouper plusieurs prestations redondantes[^macdonald2016]. Cela évite les inefficacités systémiques.</p></li>
-
-<li class="tile"><strong class="h5">Transparence accrue pour les citoyens</strong>
-<p>Les gens comprennent enfin d’où vient l’argent et pourquoi ils y ont droit[^basicincomeearth2013]. La lisibilité renforce la confiance démocratique.</p></li>
-
-<li class="tile"><strong class="h5">Réduction des erreurs administratives</strong>
-<p>Moins de critères = moins de risques d’erreur ou d’omission[^forget2011]. La clarté protège tout le monde, des citoyens aux institutions.</p></li>
-
-<li class="tile"><strong class="h5">Moins de personnel affecté au contrôle</strong>
-<p>Des ressources peuvent être redirigées vers des missions d’accompagnement ou de prévention[^basicincomeearth2013]. La bureaucratie devient facilitatrice plutôt que gardienne.</p></li>
-
-<li class="tile"><strong class="h5">Modernisation de l’administration publique</strong>
-<p>Un système universel est plus facile à intégrer aux outils numériques de l’État[^ccds2007]. L’innovation publique passe par la simplification.</p></li>
+<li class="tile"><strong class="h5">Non-recours réduit l’efficacité</strong>
+<p>Quand une part importante des personnes éligibles ne perçoit pas l’aide, le système dépense en gestion sans atteindre les objectifs sociaux[^issa2022][^oecd2024].</p></li>
 </ul>
 </section>
 
@@ -119,16 +105,14 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus simple et plus juste</em> est possible.</p>
 </section>
 
-[^esping1990]: Esping-Andersen, Gøsta. 1990. *The Three Worlds of Welfare Capitalism.* pp. 112. [https://pagotto.wordpress.com/wp-content/uploads/2018/05/the-three-worlds-of-welfare-capitalism-1990.pdf](https://pagotto.wordpress.com/wp-content/uploads/2018/05/the-three-worlds-of-welfare-capitalism-1990.pdf)
-
-[^simon1976]: Simon, Herbert A. 1976. *Administrative Behavior.* pp. 89. [https://jespersimonsen.dk/Downloads/Simon-introduction.pdf](https://jespersimonsen.dk/Downloads/Simon-introduction.pdf)
-
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 12–33. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+[^simon1976]: Simon, Herbert A. 1976. *Administrative Behavior.* [https://www.simonandschuster.com/books/Administrative-Behavior-4th-Edition/Herbert-A-Simon/9780684835822](https://www.simonandschuster.com/books/Administrative-Behavior-4th-Edition/Herbert-A-Simon/9780684835822)
 
 [^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* pp. 10, 16, 21. [https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf](https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf)
 
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 14, 19. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+[^oecd2024]: OECD. 2024. *Modernising Access to Social Protection: Non-take-up and the digital transformation of social programmes in OECD countries.* [https://www.oecd.org/en/publications/modernising-access-to-social-protection_af31746d-en/full-report/component-5.html](https://www.oecd.org/en/publications/modernising-access-to-social-protection_af31746d-en/full-report/component-5.html)
 
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 23. [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
+[^issa2022]: ISSA. 2022. *Social security and human rights: ensuring access and combatting the non-take-up of social benefits.* [https://www.issa.int/analysis/social-security-and-human-rights-ensuring-access-and-combatting-non-take-social-benefits](https://www.issa.int/analysis/social-security-and-human-rights-ensuring-access-and-combatting-non-take-social-benefits)
 
-[^ccds2007]: Canadian Council on Social Development. 2007. *Lost in the Details.* pp. 24, 28. [https://publications.gc.ca/collections/Collection/HS4-31-2007E.pdf](https://publications.gc.ca/collections/Collection/HS4-31-2007E.pdf)
+[^gis_eval]: Employment and Social Development Canada. *Evaluation of the Guaranteed Income Supplement.* [https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations/guaranteed-income-supplement.html](https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations/guaranteed-income-supplement.html)
+
+[^eitc_irs]: Internal Revenue Service. *EITC participation rate by states.* [https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state)

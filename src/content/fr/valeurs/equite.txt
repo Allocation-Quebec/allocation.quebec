@@ -22,30 +22,18 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Selon Wilkinson & Pickett, les sociétés plus égalitaires présentent moins de problèmes sociaux : moins de violence, d’obésité, de décrochage scolaire, de maladies mentales[^wilkinson2009].</p>
-<p>Une allocation de subsistance réduit les inégalités à leur racine et ce, sans stigmatisation ni bureaucratie.</p>
+<p>Wilkinson & Pickett montrent une association entre plus d’égalité et moins de problèmes sociaux dans les comparaisons internationales[^wilkinson2009].</p>
+<p>Une allocation de subsistance peut réduire les inégalités de revenus tout en évitant la stigmatisation liée aux aides conditionnelles.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Réduction des écarts de revenu</strong>
-<p>Des simulations au Canada montrent que l’instauration d’un revenu de base réduit significativement l’indice de Gini[^macdonald2016]. Cela signifie une société structurellement et naturellement plus égalitaire.</p></li>
+<li class="tile"><strong class="h5">Réduction de la pauvreté</strong>
+<p>Des simulations au Canada montrent que certaines formules de revenu de base réduisent la pauvreté globale[^macdonald2016].</p></li>
 
-<li class="tile"><strong class="h5">Moins de pauvreté infantile</strong>
-<p>Une allocation de subsistance abaisserait de moitié le taux de pauvreté chez les enfants au Canada[^forget2017]. Les premières années de vie sont décisives : égaliser les conditions dès l’enfance, c’est créer un avenir plus juste.</p></li>
-
-<li class="tile"><strong class="h5">Amélioration de la santé publique</strong>
-<p>Les écarts de santé diminuent dans les sociétés plus égalitaires[^wilkinson2009]. Moins de stress économique = moins de maladies chroniques.</p></li>
-
-<li class="tile"><strong class="h5">Meilleure réussite scolaire</strong>
-<p>Une sécurité de revenu familiale réduit l’absentéisme, améliore les résultats et soutient les choix postsecondaires[^forget2017]. Chaque jeune mérite minimalement les mêmes chances.</p></li>
-
-<li class="tile"><strong class="h5">Baisse de la criminalité</strong>
-<p>Plusieurs études relient inégalités fortes et taux de criminalité élevés[^wilkinson2009]. Une allocation de subsistance agit ainsi comme un mécanisme de prévention sociale automatique.</p></li>
-
-<li class="tile"><strong class="h5">Renforcement du sentiment d’équité</strong>
-<p>Les bénéficiaires se disent traités « à égalité » lorsqu’aucune condition ne leur est imposée[^basicincomeearth2013]. Ce ressenti améliore la confiance en l’État et entre citoyen•nes.</p></li>
+<li class="tile"><strong class="h5">Moins de pauvreté chez les enfants</strong>
+<p>Dans ces simulations, plusieurs scénarios réduisent aussi la pauvreté infantile[^macdonald2016].</p></li>
 </ul>
 </section>
 
@@ -67,28 +55,23 @@
 <span class="h4">Encart savoir</span>
 <p>L’économiste <strong>Amartya Sen</strong> distingue « l’égalité formelle » (traiter tout le monde pareil) et « l’équité réelle » (compenser les désavantages)[^sen1999].</p>
 <p>L'allocation de subsistance agit sur cette seconde dimension en fournissant une base commune concrète à tous et toutes, peu importe leur point de départ.</p>
+<p>Attention : la CEPAL souligne que certains programmes conditionnels peuvent renforcer le rôle de care des femmes et ajouter des contraintes de temps[^cepal2012].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Hausse de l’accès aux soins</strong>
-<p>Les bénéficiaires marginalisés rapportent plus de consultations préventives lorsque leur revenu est garanti[^basicincomeearth2013]. La peur du coût ne freine plus l’accès à la santé.</p></li>
-
-<li class="tile"><strong class="h5">Amélioration de l’habitation</strong>
-<p>Plusieurs personnes vivant en logement instable ont pu stabiliser leur situation grâce à un revenu régulier[^haarmann2009]. L’accès à un toit est une condition de base de l’équité réelle.</p></li>
-
-<li class="tile"><strong class="h5">Réduction des discriminations systémiques</strong>
-<p>Lorsque le revenu ne dépend plus d’un employeur ou d’un statut légal, les biais structurels pèsent moins[^sen1999]. Cela offre un espace d’émancipation face aux inégalités d’accès aux droits.</p></li>
-
 <li class="tile"><strong class="h5">Recul de l’itinérance</strong>
-<p>Des projets de transferts directs ont permis à des personnes à la rue de se reloger rapidement[^forget2017]. La stabilité commence souvent avec une clé de porte.</p></li>
+<p>Un essai randomisé à Vancouver a montré qu’un transfert inconditionnel unique réduisait le nombre de jours passés en situation d’itinérance sur un an[^dwyer2023].</p></li>
 
-<li class="tile"><strong class="h5">Moins de recours aux services d’urgence</strong>
-<p>Des hôpitaux ont constaté une baisse des admissions en lien avec des situations de détresse sociale chez les bénéficiaires[^forget2011]. L’équité, c’est aussi désengorger les services publics pour permettre un accès élargi.</p></li>
+<li class="tile"><strong class="h5">Moins de recours aux urgences</strong>
+<p>À Chelsea (Massachusetts), des versements mensuels ont été associés à une baisse des visites aux urgences, y compris pour des motifs de santé mentale et d’usage de substances[^jama2024].</p></li>
 
-<li class="tile"><strong class="h5">Autonomie pour les jeunes en rupture</strong>
-<p>Des jeunes sans soutien familial ont pu poursuivre des études ou un projet de vie sans basculer dans la survie[^forget2017]. Un soutien de base minimal ouvre la porte à un avenir digne.</p></li>
+<li class="tile"><strong class="h5">Autonomie économique accrue</strong>
+<p>Au Pérou, le programme Juntos est associé à une amélioration de l’estime de soi et de la capacité de décision des femmes au sein du ménage[^juntos2016].</p></li>
+
+<li class="tile"><strong class="h5">Moins de naissances non désirées</strong>
+<p>Les transferts conditionnels au Pérou sont associés à une baisse des naissances non désirées, ce qui reflète une autonomie reproductive renforcée[^juntos2024].</p></li>
 </ul>
 </section>
 
@@ -121,14 +104,16 @@
 
 [^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level: Why Equality is Better for Everyone.* pp. 19, 31, 42, 54. [https://archive.org/details/spiritlevelwhyeq0000unse](https://archive.org/details/spiritlevelwhyeq0000unse)
 
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17. [https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf](https://nccdh.ca/images/uploads/comments/forget-cea_%282%29.pdf)
-
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 5, 14, 19, 31. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
-
 [^macdonald2016]: Macdonald, David. 2016. *A Policymaker’s Guide to Basic Income.* CCPA. pp. 22. [https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf](https://www.policyalternatives.ca/wp-content/uploads/attachments/Policymakers_Guide_to_Basic_Income.pdf)
 
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 23–24. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
-
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 7, 38. [https://basicincome.org/bien/pdf/Flash63.pdf](https://basicincome.org/bien/pdf/Flash63.pdf)
-
 [^sen1999]: Sen, Amartya. 1999. *Development as Freedom.* pp. 24. [https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000](https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000)
+
+[^dwyer2023]: Dwyer, Ryan et al. 2023. *Unconditional cash transfers reduce homelessness.* *PNAS*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10483630/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10483630/)
+
+[^jama2024]: Liebman, Jeffrey et al. 2024. *Effect of Cash Benefits on Health Care Utilization and Health: A Randomized Study.* *JAMA*. [https://jamanetwork.com/journals/jama/fullarticle/2821454](https://jamanetwork.com/journals/jama/fullarticle/2821454)
+
+[^juntos2016]: GRADE. 2016. *Does the Juntos Program Increase Women’s Empowerment?* [https://www.grade.org.pe/wp-content/uploads/GRADEdebate14-1.pdf](https://www.grade.org.pe/wp-content/uploads/GRADEdebate14-1.pdf)
+
+[^juntos2024]: Dammert, Ana C. et al. 2024. *Conditional cash transfers and unintended births: Evidence from Peru.* *Health Economics*. [https://pubmed.ncbi.nlm.nih.gov/37845819/](https://pubmed.ncbi.nlm.nih.gov/37845819/)
+
+[^cepal2012]: CEPAL. 2012. *Conditional transfer programmes perpetuate women’s role as carers.* [https://www.cepal.org/en/pressreleases/conditional-transfer-programmes-perpetuate-womens-role-carers](https://www.cepal.org/en/pressreleases/conditional-transfer-programmes-perpetuate-womens-role-carers)

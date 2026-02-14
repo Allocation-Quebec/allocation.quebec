@@ -22,30 +22,18 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Selon l’Institut national de santé publique du Québec, l’insécurité résidentielle augmente les risques de dépression, d’isolement et de détresse psychosociale[^inspq2019].</p>
+<p>Selon l’Institut national de santé publique du Québec, de mauvaises conditions de logement sont associées à des effets négatifs sur la santé physique et mentale, et la stabilité résidentielle est un déterminant majeur de santé[^inspq2021].</p>
 <p>Une allocation de subsistance agit comme stabilisateur des conditions de vie les plus fondamentales.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Baisse des expulsions de logement</strong>
-<p>Dans des projets pilotes, les bénéficiaires ont pu éviter l’expulsion grâce à un revenu stable[^haarmann2009]. Cette sécurité de base protège l’accès à un domicile fixe.</p></li>
+<li class="tile"><strong class="h5">Réduction des jours d’itinérance</strong>
+<p>À Vancouver, un essai randomisé montre qu’un transfert inconditionnel unique réduit les jours passés en situation d’itinérance sur un an[^dwyer2023].</p></li>
 
-<li class="tile"><strong class="h5">Hausse de la stabilité résidentielle</strong>
-<p>Moins de déménagements liés à des difficultés financières ont été observés[^forget2011]. La stabilité du logement est une forme directe de sécurité au quotidien.</p></li>
-
-<li class="tile"><strong class="h5">Diminution des recours aux refuges</strong>
-<p>Des transferts monétaires ont permis de réduire le nombre de personnes recourant à l’hébergement d’urgence[^forget2017]. Quand on peut payer un loyer, on évite de tomber dans la rue.</p></li>
-
-<li class="tile"><strong class="h5">Prévention des expulsions locatives</strong>
-<p>Un filet de sécurité permet d’éviter les retards de paiement et les conflits avec les propriétaires[^basicincomeearth2013]. La prévention coûte moins cher que l’urgence.</p></li>
-
-<li class="tile"><strong class="h5">Amélioration de l’entretien des logements</strong>
-<p>Les ménages à faible revenu utilisent une partie du revenu garanti pour réparer ou entretenir leur logement[^haarmann2009]. Mieux habiter, c’est aussi se sentir à sa place.</p></li>
-
-<li class="tile"><strong class="h5">Moins d’anxiété liée au logement</strong>
-<p>Les bénéficiaires expriment une réduction significative du stress lié à la peur de perdre leur domicile[^forget2017]. Ce soulagement favorise la santé mentale et la stabilité familiale.</p></li>
+<li class="tile"><strong class="h5">Moins de séjours en refuge</strong>
+<p>Le même essai observe une baisse du temps passé en refuge, ce qui améliore la stabilité résidentielle[^dwyer2023].</p></li>
 </ul>
 </section>
 
@@ -65,30 +53,21 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Le psychiatre <strong>Richard Wilkinson</strong> a montré que l’insécurité économique chronique aggrave l’anxiété, la dépression et le repli social[^wilkinson2009].</p>
-<p>Une allocation de subsistance agit comme une protection psychologique collective.</p>
+<p>Les études comparatives soulignent des liens entre inégalités et problèmes de santé mentale, ce qui suggère que la sécurité économique peut agir comme un facteur de protection[^wilkinson2009].</p>
+<p>Une allocation de subsistance peut ainsi réduire certains risques psychosociaux.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Diminution des consultations pour détresse psychologique</strong>
-<p>Mincome a entraîné une baisse significative des visites médicales liées au stress[^forget2011]. Moins d’angoisse = moins de symptômes.</p></li>
+<li class="tile"><strong class="h5">Moins d’hospitalisations</strong>
+<p>Mincome est associé à une réduction des hospitalisations, notamment liées à la santé mentale et aux accidents[^forget2011].</p></li>
 
-<li class="tile"><strong class="h5">Réduction du sentiment d’insécurité</strong>
-<p>Les bénéficiaires rapportent une plus grande paix intérieure et une meilleure capacité à faire face à l’imprévu[^forget2017]. La sécurité permet de se recentrer sur l’essentiel.</p></li>
+<li class="tile"><strong class="h5">Moins de contacts médicaux liés à la santé mentale</strong>
+<p>Les contacts avec les médecins ont diminué, en particulier pour des motifs de santé mentale[^forget2011].</p></li>
 
-<li class="tile"><strong class="h5">Moins de médication liée à l’anxiété</strong>
-<p>Certains projets ont observé une baisse de la consommation de médicaments psychotrope[^knight2019]. Cela indique un apaisement structurel du stress de survie.</p></li>
-
-<li class="tile"><strong class="h5">Stabilisation des troubles existants</strong>
-<p>Les personnes vivant avec un trouble mental ont vu leur état se stabiliser ou s’améliorer légèrement[^haarmann2009]. Moins de stress chronique = meilleure gestion du quotidien.</p></li>
-
-<li class="tile"><strong class="h5">Réduction de l’isolement social</strong>
-<p>La sécurité économique facilite la reprise de contact avec les proches ou les services d’aide [^basicincomeearth2013]. Être en sécurité, c’est aussi pouvoir s’ouvrir aux autres.</p></li>
-
-<li class="tile"><strong class="h5">Diminution de la honte et de l’auto-dévalorisation</strong>
-<p>Des bénéficiaires ont témoigné d’un regain d’estime personnelle lié au fait de recevoir un revenu sans conditions[^forget2017]. La dignité est un facteur de protection mentale.</p></li>
+<li class="tile"><strong class="h5">Baisse des urgences en santé mentale</strong>
+<p>Dans un essai randomisé au Massachusetts, des versements mensuels ont réduit les visites aux urgences liées à la santé mentale et à l’usage de substances[^jama2024].</p></li>
 </ul>
 </section>
 
@@ -119,16 +98,12 @@
 <p>Avec une allocation de subsistance, un Québec <em>plus sécurisant</em> est possible.</p>
 </section>
 
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21–24. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+[^dwyer2023]: Dwyer, Ryan et al. 2023. *Unconditional cash transfers reduce homelessness.* *PNAS*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC10483630/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10483630/)
 
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty.* pp. 17, 19. [https://utppublishing.com/doi/abs/10.3138/cpp.37.3.283](https://utppublishing.com/doi/abs/10.3138/cpp.37.3.283)
+[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* *Canadian Public Policy*. [https://www.researchgate.net/publication/227387994_The_Town_with_No_Poverty_The_Health_Effects_of_a_Canadian_Guaranteed_Annual_Income_Field_Experiment](https://www.researchgate.net/publication/227387994_The_Town_with_No_Poverty_The_Health_Effects_of_a_Canadian_Guaranteed_Annual_Income_Field_Experiment)
 
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 9, 14–25. [https://www.amazon.com/Basic-Income-Canadians-healthier-happier/dp/1459413504](https://www.amazon.com/Basic-Income-Canadians-healthier-happier/dp/1459413504)
+[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* [https://archive.org/details/spiritlevelwhygr0000wilk_c2w6](https://archive.org/details/spiritlevelwhygr0000wilk_c2w6)
 
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 23–28. [https://basicincome.org/](https://basicincome.org/)
+[^inspq2021]: INSPQ. 2021. *Logement et inégalités sociales de santé en temps de COVID-19 : des stratégies pour des logements abordables et de qualité.* [https://www.inspq.qc.ca/sites/default/files/publications/3152-inegalites-sociales-covid-19-strategies-logements-abordables-qualite.pdf](https://www.inspq.qc.ca/sites/default/files/publications/3152-inegalites-sociales-covid-19-strategies-logements-abordables-qualite.pdf)
 
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 15. [https://pubmed.ncbi.nlm.nih.gov/34534779/](https://pubmed.ncbi.nlm.nih.gov/34534779/)
-
-[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 29. [https://www.amazon.com/Spirit-Level-Equality-Societies-Stronger/dp/1608193411](https://www.amazon.com/Spirit-Level-Equality-Societies-Stronger/dp/1608193411)
-
-[^inspq2019]: INSPQ. 2019. *Les inégalités sociales de santé liées au logement au Québec.* [https://www.inspq.qc.ca/publications/3152-logement-inegalites-sociales-strategies-covid-19](https://www.inspq.qc.ca/publications/3152-logement-inegalites-sociales-strategies-covid-19)
+[^jama2024]: Liebman, Jeffrey et al. 2024. *Effect of Cash Benefits on Health Care Utilization and Health: A Randomized Study.* *JAMA*. [https://jamanetwork.com/journals/jama/fullarticle/2821454](https://jamanetwork.com/journals/jama/fullarticle/2821454)

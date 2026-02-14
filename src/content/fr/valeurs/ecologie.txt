@@ -3,7 +3,7 @@
 <h1><i><img src="/assets/img/leaf.svg" alt=""/></i> Écologie</h1>
 <strong>Et si gagner sa vie ne voulait plus dire détruire la planète ?</strong>
 <p>Quand la précarité frappe, il est souvent impossible de choisir des produits durables, d’adopter des modes de vie plus respectueux de l’environnement ou de participer activement à la transition écologique.</p>
-<p>Une allocation de subsistance donnerait aux citoyen•nes le pouvoir de prendre des décisions plus durables, réduisant ainsi la pression économique qui pousse à la surconsommation et à la pollution.</p>
+<p>Une allocation de subsistance donnerait aux citoyen•nes le pouvoir de prendre des décisions plus durables, et pourrait réduire la pression économique qui pousse à la surconsommation et à la pollution.</p>
 </header>
 
 <section>
@@ -14,7 +14,7 @@
 <div class="as-grid">
 <div class="as-prose">
 <p>Les ménages à faible revenu sont plus enclins à acheter des produits bon marché, souvent jetables, en raison de contraintes budgétaires. Cela contribue à un cycle de consommation court et polluant, accentuant l’épuisement des ressources et la production de déchets.</p>
-<p>Une sécurité financière de base permet de choisir des biens de meilleure qualité, plus durables, réparables, et parfois locaux ou éthiques. Cela transforme les comportements individuels en actions écologiques soutenues.</p>
+<p>Une sécurité financière de base peut faciliter le choix de biens de meilleure qualité, plus durables, réparables, et parfois locaux ou éthiques. Cela rend les comportements individuels plus cohérents avec les objectifs écologiques.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Changer ses habitudes de consommation nécessite du temps, de l’accès à l’information, et surtout la capacité de faire des choix. Une allocation de subsistance offre ce levier de transformation quotidien, à l’échelle de millions de gestes.</p>
@@ -29,23 +29,14 @@
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Réduction de l’achat de produits à usage unique</strong>
-<p>Dans plusieurs études pilotes, les bénéficiaires ont réduit l’achat de biens jetables pour privilégier des alternatives durables[^basicincomeearth2013]. Ce changement de panier de consommation diminue directement la production de déchets.</p></li>
+<li class="tile"><strong class="h5">Pauvreté alimentaire en forte baisse</strong>
+<p>Dans le projet namibien d’Otjivero, la part des ménages sous la ligne de pauvreté alimentaire est passée de 76 % à 37 % après un an[^haarmann2009].</p></li>
 
-<li class="tile"><strong class="h5">Hausse des achats alimentaires locaux</strong>
-<p>Des programmes de revenu de base ont montré une augmentation de la consommation de produits locaux et frais[^haarmann2009]. Ces choix réduisent l’empreinte carbone liée au transport.</p></li>
+<li class="tile"><strong class="h5">Malnutrition infantile en nette diminution</strong>
+<p>La malnutrition est passée de 42 % à 10 % en un an[^haarmann2009].</p></li>
 
-<li class="tile"><strong class="h5">Diminution du gaspillage alimentaire</strong>
-<p>Les ménages avec un revenu de base planifient mieux leurs repas et jettent moins[^forget2011]. L’amélioration de la stabilité financière favorise une gestion plus consciente des ressources.</p></li>
-
-<li class="tile"><strong class="h5">Achats plus durables (réparables ou réutilisables)</strong>
-<p>Lorsque le revenu est sécurisé, les personnes investissent davantage dans des biens réparables plutôt qu’en remplacement[^jackson2017]. Cela ralentit le cycle de consommation et prolonge la durée de vie des objets.</p></li>
-
-<li class="tile"><strong class="h5">Baisse de la consommation sous contrainte</strong>
-<p>Moins de stress financier signifie moins d’achats impulsifs, moins de dettes de consommation[^knight2019]. Ce type de consommation est souvent à fort impact environnemental.</p></li>
-
-<li class="tile"><strong class="h5">Transition vers la sobriété choisie</strong>
-<p>Plusieurs témoignages dans les projets pilotes évoquent une satisfaction accrue dans un mode de vie simplifié[^knight2019]. Une allocation de subsistance soutient cette transition sans insécurité.</p></li>
+<li class="tile"><strong class="h5">Moins de perte de couvert forestier (co-bénéfice)</strong>
+<p>En Indonésie, un programme national de transferts conditionnels a réduit la perte de couvert forestier d’environ 30 % dans les villages participants, bien que le programme ne soit pas conçu pour l’environnement[^ferraro2020].</p></li>
 </ul>
 </section>
 
@@ -57,7 +48,8 @@
 <div class="as-grid">
 <div class="as-prose">
 <p>Actuellement, de nombreuses personnes acceptent des emplois dans des secteurs polluants ou destructeurs parce qu’elles n’ont pas d’autre choix. Cette dépendance économique freine les transitions dans les secteurs de l’énergie, des ressources, du transport et de l’agroalimentaire.</p>
-<p>Une allocation de subsistance permettrait à plusieurs de se tourner vers des emplois plus alignés avec leurs valeurs, ou de refuser des emplois qui nuisent à l’environnement. C’est une condition essentielle pour qu’une transition écologique soit socialement juste.</p>
+<p>Une allocation de subsistance pourrait permettre à plusieurs de se tourner vers des emplois plus alignés avec leurs valeurs, ou de refuser des emplois qui nuisent à l’environnement. C’est une condition essentielle pour qu’une transition écologique soit socialement juste.</p>
+<p>Une baisse modeste du temps de travail (par exemple de l’ordre de quelques pourcents) pourrait aussi contribuer à réduire la pression écologique, car des analyses comparatives montrent une association entre davantage d’heures travaillées et des émissions plus élevées, toutes choses égales par ailleurs[^rosnick2007][^schor2013][^landivar2022].</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une transition verte imposée sans soutien financier aux travailleurs mène à la colère, à la résistance, voire à l’échec. Il faut sécuriser les parcours de reconversion pour qu’ils soient possibles et désirables.</p>
@@ -66,30 +58,21 @@
 <aside class="insert">
 <span class="h4">Encart savoir</span>
 <p>Le concept de <strong>justice climatique</strong> soutient que les populations les plus vulnérables sont aussi celles qui subissent le plus les conséquences du changement climatique.</p>
-<p>Un revenu de base leur permet non seulement de se protéger, mais aussi de contribuer à la solution[^oecd2019].</p>
+<p>Les transitions justes nécessitent des protections sociales et des services d’emploi efficaces, pour accompagner les reconversions et sécuriser les parcours[^oecd2019].</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Hausse de l’intérêt pour les métiers verts</strong>
-<p>Des participants à des programmes de revenu de base ont déclaré vouloir s’orienter vers des métiers en agriculture urbaine, réemploi, écoconstruction[^basicincomeearth2013]. Cela crée les fondations d'une économie résiliente.</p></li>
+<li class="tile"><strong class="h5">Incitations de conservation efficaces</strong>
+<p>En Ouganda, un essai randomisé de paiements pour services écosystémiques a réduit la déforestation: la couverture arborée a diminué d’environ 4,2 % dans les villages traités contre 9,1 % dans les villages témoins[^jayachandran2017].</p></li>
 
-<li class="tile"><strong class="h5">Moins de dépendance aux emplois nuisibles</strong>
-<p>Des travailleurs ont pu quitter des postes dans des industries polluantes pour des projets durables ou sociaux[^haarmann2009]. La liberté de refuser un emploi destructeur est une clé d'une économie plus écologique.</p></li>
-
-<li class="tile"><strong class="h5">Création de micro-coopératives écologiques</strong>
-<p>Plusieurs expériences documentent l’apparition de coopératives locales dans les domaines du recyclage, compostage, ou agriculture[^haarmann2009]. Un revenu stable encourage l’initiative collective.</p></li>
-
-<li class="tile"><strong class="h5">Diminution des déplacements motorisés</strong>
-<p>Des gens ont pu réduire leurs déplacements quotidiens, souvent en voiture, en changeant leur rythme ou lieu de travail[^knight2019]. Moins de précarité, c’est aussi moins de dépendance automobile.</p></li>
-
-<li class="tile"><strong class="h5">Formation environnementale revalorisée</strong>
-<p>Avec du temps libre, plusieurs bénéficiaires s'inscrivent à des formations en agriculture, permaculture, ou écologie[^basicincomeearth2013]. Cela alimente les compétences nécessaires à la transition.</p></li>
-
-<li class="tile"><strong class="h5">Meilleure acceptabilité des politiques vertes</strong>
-<p>Les projets montrent une plus grande adhésion aux politiques climatiques chez les personnes soutenues financièrement[^oecd2019]. L'assurance de subsister rend les grandes transformations collectives possibles.</p></li>
+<li class="tile"><strong class="h5">Conserver plutôt que cultiver</strong>
+<p>Aux États‑Unis, le programme fédéral CRP rémunère les propriétaires pour retirer des terres sensibles de la production agricole. Les documents officiels indiquent des bénéfices environnementaux (qualité de l’eau, érosion, habitat faunique), et des enquêtes rapportent des gains observés sur ces dimensions[^crp_fsa][^crp_usgs].</p></li>
 </ul>
+
+<h3 class="h4">Repère</h3>
+<p>Les analyses de l’OCDE soulignent que les transitions professionnelles réussies nécessitent des protections sociales et des services d’emploi efficaces, afin de soutenir les personnes affectées par les reconversions[^oecd2019].</p>
 </section>
 
 <section>
@@ -108,30 +91,12 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Les <strong>biens communs écologiques</strong> sont mieux protégés lorsqu’ils sont cogérés par des communautés actives et stables. Une allocation de subsistance permet à ces communautés d’exister et de se renforcer[^ostrom1990].</p>
+<p>Les <strong>biens communs écologiques</strong> sont mieux protégés lorsqu’ils sont cogérés par des communautés actives et stables[^ostrom1990].</p>
 </aside>
 </div>
 
-<h3 class="h4">Résultats concrets</h3>
-<ul class="as-grid">
-<li class="tile"><strong class="h5">Hausse de la participation au jardinage collectif</strong>
-<p>Des projets pilotes ont vu croître l’implication citoyenne dans des initiatives locales de verdissement[^knight2019]. Ce type d’engagement génère des effets écologiques, sociaux et symboliques à ne pas négliger.</p></li>
-
-<li class="tile"><strong class="h5">Développement d’ateliers de réparation</strong>
-<p>Des gens ont lancé ou rejoint des espaces de réparation communautaire (« repair » cafés), grâce à plus de temps libre[^basicincomeearth2013]. Moins de consommation, plus de savoir-faire partagé.</p></li>
-
-<li class="tile"><strong class="h5">Diminution de la dépendance à l’automobile</strong>
-<p>Les horaires flexibles offerts par un revenu de base ont permis d’opter pour des déplacements actifs ou partagés[^knight2019]. Cela réduit l’impact carbone des transports quotidiens.</p></li>
-
-<li class="tile"><strong class="h5">Participation accrue aux instances locales</strong>
-<p>Plus de gens assistent aux assemblées citoyennes, s’impliquent dans les comités de quartier ou les projets environnementaux[^basicincomeearth2013]. L’écologie devient alors un projet collectif.</p></li>
-
-<li class="tile"><strong class="h5">Stabilisation des liens de voisinage</strong>
-<p>Avec plus de temps et moins de stress, les réseaux de solidarité se renforcent autour d’objectifs écologiques partagés[^knight2019]. La confiance mutuelle facilite la gestion commune des ressources.</p></li>
-
-<li class="tile"><strong class="h5">Valorisation des biens communs</strong>
-<p>Les projets liés à l’eau, à la terre, à l’air, deviennent portés par la base plutôt que par injonction politique[^ostrom1990]. Cela permet une écologie enracinée et durable.</p></li>
-</ul>
+<h3 class="h4">Repère</h3>
+<p>Les travaux d’Ostrom montrent que les biens communs sont mieux protégés lorsqu’ils sont cogérés par des communautés locales stables[^ostrom1990].</p>
 </section>
 
 <section class="as-fullbleed with-scheme-secondary" data-after="footnotes">
@@ -163,14 +128,21 @@
 
 [^jackson2017]: Jackson, Tim. 2017. *Prosperity Without Growth: Foundations for the Economy of Tomorrow.* Routledge. p. 11, 19, 32. [https://www.routledge.com/Prosperity-without-Growth-Foundations-for-the-Economy-of-Tomorrow-2nd/Jackson/p/book/9781138935419](https://www.routledge.com/Prosperity-without-Growth-Foundations-for-the-Economy-of-Tomorrow-2nd/Jackson/p/book/9781138935419)
 
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* Basic Income Grant Coalition. p. 20–21, 25–27. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The BIG in Namibia: Basic Income Grant Pilot Project Assessment Report.* [https://cdhaarmann.com/resources/publications/BIG_Assessment_report_08b.pdf](https://cdhaarmann.com/resources/publications/BIG_Assessment_report_08b.pdf)
 
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* p. 11, 14–20. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+[^ferraro2020]: Ferraro, Paul J. & Simorangkir, Rhita. 2020. *Conditional cash transfers to alleviate poverty also reduced deforestation in Indonesia.* *Science Advances*. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7292618/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7292618/)
 
-[^forget2011]: Forget, Evelyn L. 2011. *The Town with No Poverty: The Health Effects of a Canadian Guaranteed Annual Income Field Experiment.* *Canadian Public Policy*, 37(3). p. 26. [https://utpjournals.press/doi/abs/10.3138/cpp.37.3.283](https://utpjournals.press/doi/abs/10.3138/cpp.37.3.283)
-
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Environmental Behavior.* Open Research Exchange. p. 18–30. [https://www.researchgate.net/publication/333795345_Universal_Basic_Income_and_Environmental_Behavior](https://www.researchgate.net/publication/333795345_Universal_Basic_Income_and_Environmental_Behavior)
-
+[^jayachandran2017]: Jayachandran, Seema et al. 2017. *Cash for carbon: A randomized trial of payments for ecosystem services to reduce deforestation.* *Science*. [https://collaborate.princeton.edu/en/publications/cash-for-carbon-a-randomized-trial-of-payments-for-ecosystem-serv/](https://collaborate.princeton.edu/en/publications/cash-for-carbon-a-randomized-trial-of-payments-for-ecosystem-serv/)
 [^oecd2019]: OECD. 2019. *Employment Outlook: Well-Being and Job Security.* p. 33. [https://www.oecd.org/employment/Employment-Outlook-2019-Highlights-ENG.pdf](https://www.oecd.org/employment/Employment-Outlook-2019-Highlights-ENG.pdf)
 
 [^ostrom1990]: Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action.* Cambridge University Press. p. 28. [https://www.cambridge.org/core/books/governing-the-commons/7AB7AE11BADA84409C34815CC288CD79](https://www.cambridge.org/core/books/governing-the-commons/7AB7AE11BADA84409C34815CC288CD79)
+
+[^crp_fsa]: USDA Farm Service Agency. *Conservation Reserve Program (CRP).* [https://www.fsa.usda.gov/programs-and-services/conservation-programs/conservation-reserve-program/index](https://www.fsa.usda.gov/programs-and-services/conservation-programs/conservation-reserve-program/index)
+
+[^crp_usgs]: USGS. 2021. *A National Survey of Conservation Reserve Program (CRP) Participants: Environmental Effects.* [https://www.usgs.gov/publications/a-national-survey-conservation-reserve-program-crp-participants-environmental-effects](https://www.usgs.gov/publications/a-national-survey-conservation-reserve-program-crp-participants-environmental-effects)
+
+[^rosnick2007]: Rosnick, David & Weisbrot, Mark. 2007. *Are Shorter Work Hours Good for the Environment? A Comparison of U.S. and European Energy Consumption.* *International Journal of Health Services*. [https://pubmed.ncbi.nlm.nih.gov/17844926/](https://pubmed.ncbi.nlm.nih.gov/17844926/)
+
+[^schor2013]: Schor, Juliet B. 2013. *Working Hours and Carbon Emissions: Why a Shorter Work Week Is Better for the Environment.* *Global Environmental Change*. [https://www.sciencedirect.com/science/article/abs/pii/S0959378013000472](https://www.sciencedirect.com/science/article/abs/pii/S0959378013000472)
+
+[^landivar2022]: Landivar, Liana Christin et al. 2022. *Working Time, Income Inequality, and Carbon Dioxide Emissions in the United States, 2005–2015.* *Energy Research & Social Science*. [https://www.sciencedirect.com/science/article/abs/pii/S2214629621004734](https://www.sciencedirect.com/science/article/abs/pii/S2214629621004734)

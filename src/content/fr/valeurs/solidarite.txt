@@ -14,6 +14,7 @@
 <div class="as-grid">
 <div class="as-prose">
 <p>Dans un contexte d’isolement croissant, les liens sociaux se fragilisent. Les personnes seules, les nouveaux arrivants, les aînés ou les jeunes marginalisés peuvent se retrouver sans réseau, sans appui, sans relais.</p>
+<p>Selon l’OMS, la solitude et l’isolement social sont liés à des facteurs comme le faible revenu et fragilisent la santé et la cohésion sociale[^who2025].</p>
 <p>Une allocation de subsistance renforce la capacité des gens à s’impliquer dans leur quartier, à créer des espaces d’entraide, à offrir leur temps et leur écoute. Elle soutient les solidarités naturelles plutôt que de les épuiser.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
@@ -22,30 +23,18 @@
 
 <aside class="insert">
 <span class="h4">Encart savoir</span>
-<p>Le sociologue <strong>Robert Putnam</strong> a démontré que le capital social — la confiance et l'entraide entre citoyens — diminue avec l’insécurité économique[^putnam2000].</p>
-<p>En garantissant à chacun un minimum pour subsister, l'allocation de subsistance assure la base matérielle de la solidarité réelle et vécue.</p>
+<p>Le sociologue <strong>Robert Putnam</strong> a documenté l’importance du capital social — la confiance et l'entraide entre citoyens — pour la cohésion des communautés[^putnam2000].</p>
+<p>Une allocation de subsistance peut soutenir ces dynamiques en réduisant l’insécurité qui fragilise les liens.</p>
 </aside>
 </div>
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Hausse de l’engagement bénévole</strong>
-<p>Dans plusieurs projets pilotes, les participants ont augmenté leur implication dans des groupes communautaires et projets d’entraide[^basicincomeearth2013]. Moins de précarité = plus de disponibilité pour les autres.</p></li>
+<li class="tile"><strong class="h5">Capital social renforcé</strong>
+<p>Au Malawi, un essai randomisé observe un effet positif des transferts sur la confiance et les dons, et au Zimbabwe un programme communautaire est perçu comme participatif et équitable, favorisant l’acceptabilité sociale et la participation collective[^malawi2024][^zimbabwe2013].</p></li>
 
-<li class="tile"><strong class="h5">Création d’initiatives locales autogérées</strong>
-<p>Les bénéficiaires ont lancé des coopératives, des cuisines collectives, des groupes d’achat [^haarmann2009]. Allouer la subsistance est un catalyseur de solidarité concrète.</p></li>
-
-<li class="tile"><strong class="h5">Renforcement des liens intergénérationnels</strong>
-<p>Le soutien économique réduit les tensions entre générations au sein des familles et favorise la cohabitation[^forget2017]. Une meilleure sécurité financière permet de redonner plutôt que de dépendre.</p></li>
-
-<li class="tile"><strong class="h5">Moins de méfiance entre citoyens</strong>
-<p>Les études montrent une corrélation entre la sécurité économique et le niveau de confiance dans autrui[^wilkinson2009]. La solidarité augmente à mesure que la peur diminue.</p></li>
-
-<li class="tile"><strong class="h5">Réseautage accru dans les milieux ruraux</strong>
-<p>Des expériences ont montré un tissage de relations plus dense dans les régions éloignées quand un revenu stable est garanti[^basicincomeearth2013]. Le filet social ne tient pas sans les gens qui l’entrelacent.</p></li>
-
-<li class="tile"><strong class="h5">Plus d’initiatives citoyennes</strong>
-<p>Les gens qui ne luttent pas pour survivre créent, organisent, fédèrent[^knight2019]. L'allocation de subsistance devient levier de démocratie participative.</p></li>
+<li class="tile"><strong class="h5">Moins de stigmatisation</strong>
+<p>À Dauphin (Mincome), la conception du programme a réduit la stigmatisation associée aux revenus de remplacement[^calnitsky2016].</p></li>
 </ul>
 </section>
 
@@ -70,26 +59,8 @@
 </aside>
 </div>
 
-<h3 class="h4">Résultats concrets</h3>
-<ul class="as-grid">
-<li class="tile"><strong class="h5">Plus de présence auprès des proches</strong>
-<p>Les bénéficiaires peuvent passer plus de temps avec leurs enfants, leurs parents âgés ou leurs conjoints en difficulté[^forget2017]. La solidarité familiale ne se décrète pas : elle se permet.</p></li>
-
-<li class="tile"><strong class="h5">Soutien au travail invisible</strong>
-<p>Le revenu de base valorise les formes d’engagement non salariées, souvent associées au soin [^kittay1999]. Cela corrige une injustice structurelle dans la reconnaissance sociale.</p></li>
-
-<li class="tile"><strong class="h5">Réduction de la fatigue compassionnelle</strong>
-<p>Les proches aidants rapportent moins d’épuisement émotionnel lorsqu’ils ont un revenu stable [^knight2019]. Moins de précarité = plus de capacité à donner.</p></li>
-
-<li class="tile"><strong class="h5">Moins d’absences de travail pour raisons familiales</strong>
-<p>Les personnes peuvent mieux organiser leur temps sans devoir choisir entre emploi et soins [^forget2017]. La flexibilité nécessite la sécurité.</p></li>
-
-<li class="tile"><strong class="h5">Baisse de l’isolement des aînés</strong>
-<p>Plus de visites, plus de soutien à domicile, plus de temps pour accompagner les aînés[^basicincomeearth2013]. Le vieillissement se vit mieux quand on n’est pas seul.</p></li>
-
-<li class="tile"><strong class="h5">Soutien aux familles en contexte de handicap</strong>
-<p>Des familles avec enfants ou adultes vivant avec un handicap ont rapporté une amélioration de leur capacité d’accompagnement[^haarmann2009]. La solidarité se pratique mieux sans sacrifices indus.</p></li>
-</ul>
+<h3 class="h4">Repère</h3>
+<p>Le travail de soin est central dans la solidarité. Kittay rappelle notre « dépendance relationnelle » et l’importance sociale des activités de care, souvent invisibles dans l’économie marchande[^kittay1999].</p>
 </section>
 
 <section class="as-fullbleed with-scheme-secondary" data-after="footnotes">
@@ -121,14 +92,12 @@
 
 [^putnam2000]: Putnam, Robert. 2000. *Bowling Alone: The Collapse and Revival of American Community.* pp. 27–42. [https://archive.org/details/bowlingalone00robe](https://archive.org/details/bowlingalone00robe)
 
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 14, 21, 25, 30. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+[^malawi2024]: Mesfin, Hiwot & Cecchi, Francesco. 2024. *Cash Transfers and Social Capital: Evidence from a Randomized Controlled Trial in Malawi.* *Journal of African Economies.* [https://academic.oup.com/jae/article/33/4/411/7242549](https://academic.oup.com/jae/article/33/4/411/7242549)
 
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+[^zimbabwe2013]: Skovdal, Morten et al. 2013. *Social acceptability and perceived impact of a community-led cash transfer programme in Zimbabwe.* *BMC Public Health.* [https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-342](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-342)
 
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 18–25. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+[^calnitsky2016]: Calnitsky, David. 2016. *More Normal than Welfare: The Mincome Experiment, Stigma, and Community Experience.* *Canadian Review of Sociology.* [https://pubmed.ncbi.nlm.nih.gov/26890446/](https://pubmed.ncbi.nlm.nih.gov/26890446/)
 
-[^wilkinson2009]: Wilkinson, Richard & Pickett, Kate. 2009. *The Spirit Level.* pp. 42. [https://archive.org/details/spiritlevelwhygr0000wilk_c2w6](https://archive.org/details/spiritlevelwhygr0000wilk_c2w6)
-
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27. [https://pubmed.ncbi.nlm.nih.gov/34534779/](https://pubmed.ncbi.nlm.nih.gov/34534779/)
+[^who2025]: World Health Organization. 2025. *Social connection linked to improved health and reduced risk of early death.* [https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death](https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death)
 
 [^kittay1999]: Kittay, Eva Feder. 1999. *Love’s Labor: Essays on Women, Equality and Dependency.* pp. 22. [https://www.taylorfrancis.com/books/mono/10.4324/9781315108926/love-labor-eva-feder-kittay](https://www.taylorfrancis.com/books/mono/10.4324/9781315108926/love-labor-eva-feder-kittay)

@@ -15,6 +15,7 @@
 <div class="as-prose">
 <p>Le risque est au cœur de toute innovation. Mais quand l’échec signifie l’exclusion ou la pauvreté, seule une minorité peut se permettre d’innover. Une allocation de subsistance réduit le coût personnel de l’expérimentation.</p>
 <p>Elle rend possible des projets atypiques, collectifs, sociaux, artisanaux ou culturels — qui souvent échappent aux logiques de financement classiques. L’innovation devient un droit partagé, pas un privilège rare.</p>
+<p>Les preuves citées proviennent de contextes différents (New York, Kenya) et servent d’illustrations de mécanismes plutôt que de prédictions automatiques.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Les idées neuves viennent de partout. Pour qu'une société puisse en profiter au maximum, il faut donc que chacun ait les moyens de les faire émerger, et pas seulement ceux qui ont déjà un coussin financier.</p>
@@ -29,23 +30,20 @@
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Hausse de la créativité autodirigée</strong>
-<p>Des bénéficiaires ont profité de la sécurité économique pour lancer des projets artistiques, artisanaux ou sociaux[^kela2020]. Le filet de base devient un levier de création.</p></li>
+<li class="tile"><strong class="h5">Plus de temps consacré à la création</strong>
+<p>Dans le programme CRNY, les artistes ont consacré 19 % d’heures en plus à leur pratique artistique[^crny2025].</p></li>
 
-<li class="tile"><strong class="h5">Émergence d’initiatives collectives</strong>
-<p>Des coopératives, incubateurs citoyens et « fab labs » sont apparus dans les zones pilotes[^basicincomeearth2013]. Le revenu de base libère les énergies locales.</p></li>
+<li class="tile"><strong class="h5">Moins d’insécurité et plus de marge mentale</strong>
+<p>Le même programme rapporte une baisse de 19 % de l’insécurité alimentaire et une diminution de 29 % des symptômes sévères d’anxiété et de dépression[^crny2025].</p></li>
 
-<li class="tile"><strong class="h5">Diversité accrue des projets lancés</strong>
-<p>On observe une augmentation des projets atypiques, non-techniques, souvent portés par des personnes éloignées du marché classique[^haarmann2009]. L’innovation sort des sentiers battus.</p></li>
+<li class="tile"><strong class="h5">Capacité accrue de prise de risque</strong>
+<p>À Stockton (SEED), les bénéficiaires rapportent que le revenu garanti a créé une capacité de prise de risque pour saisir des opportunités professionnelles[^seed_employment].</p></li>
 
-<li class="tile"><strong class="h5">Plus grande tolérance à l’échec</strong>
-<p>Les gens se permettent d’expérimenter sans craindre les conséquences irréversibles[^kela2020]. Le droit à l’essai est une base de l’innovation réelle.</p></li>
+<li class="tile"><strong class="h5">Investissements en actifs productifs</strong>
+<p>Un essai randomisé au Kenya montre que des transferts inconditionnels augmentent la valeur des actifs, notamment durables et bétail, suggérant une capacité accrue d’investissement[^haushofer2016].</p></li>
 
-<li class="tile"><strong class="h5">Réduction des freins psychologiques à la création</strong>
-<p>Les participants témoignent d’un apaisement mental qui favorise la pensée divergente[^knight2019]. L’innovation commence là où l’anxiété recule.</p></li>
-
-<li class="tile"><strong class="h5">Réinvestissement des savoirs oubliés</strong>
-<p>Des savoir-faire artisanaux ou traditionnels ont été remis en circulation par des personnes libérées de la précarité[^basicincomeearth2013]. L’innovation peut aussi puiser dans les racines.</p></li>
+<li class="tile"><strong class="h5">Investissements non durables et intrants</strong>
+<p>Le même essai observe une hausse des investissements en intrants (agriculture, entreprise, éducation, épargne), reflétant une capacité à engager des projets[^haushofer2016].</p></li>
 </ul>
 </section>
 
@@ -72,23 +70,11 @@
 
 <h3 class="h4">Résultats concrets</h3>
 <ul class="as-grid">
-<li class="tile"><strong class="h5">Création de projets liés à la transition écologique</strong>
-<p>Des initiatives en agriculture urbaine, réparation, recyclage ont fleuri dans les communautés soutenues[^basicincomeearth2013]. Le revenu de base libère l’innovation verte.</p></li>
+<li class="tile"><strong class="h5">Revenus d’activités en hausse (court terme)</strong>
+<p>Les transferts inconditionnels au Kenya ont augmenté les revenus issus d’activités agricoles et d’entreprises, bien que les profits ne soient pas encore significativement plus élevés à court terme[^haushofer2016].</p></li>
 
-<li class="tile"><strong class="h5">Développement d’outils libres et partagés</strong>
-<p>Des bénéficiaires ont contribué à des logiciels ou plateformes en open source, sans attente immédiate de revenu[^kela2020]. L’innovation sociale devient possible sans pression marchande.</p></li>
-
-<li class="tile"><strong class="h5">Apparition de nouveaux modèles d’affaires sociaux</strong>
-<p>Des structures hybrides, à mi-chemin entre entreprise et projet citoyen, ont émergé[^haarmann2009]. Le filet de base soutient l’expérimentation organisationnelle.</p></li>
-
-<li class="tile"><strong class="h5">Hausse des projets à visée communautaire</strong>
-<p>Des projets orientés vers le bien commun ont été portés par des personnes sans profil entrepreneurial classique[^basicincomeearth2013]. L’innovation devient collective.</p></li>
-
-<li class="tile"><strong class="h5">Moins d’obstacles à la reconversion professionnelle</strong>
-<p>Les gens osent changer de métier ou de secteur pour contribuer différemment[^forget2017]. L’innovation passe aussi par soi-même.</p></li>
-
-<li class="tile"><strong class="h5">Élargissement de la base d’innovation</strong>
-<p>La participation à l’innovation s’étend au-delà des élites éduquées[^mazzucato2018]. On libère une intelligence collective trop longtemps contrainte.</p></li>
+<li class="tile"><strong class="h5">Expérimentation facilitée</strong>
+<p>La combinaison d’investissements en actifs et d’intrants permet d’essayer, d’ajuster et de relancer des projets sans dépendre d’un financement classique[^haushofer2016].</p></li>
 </ul>
 </section>
 
@@ -123,12 +109,8 @@
 
 [^mazzucato2018]: Mazzucato, Mariana. 2018. *The Entrepreneurial State.* pp. 28. [https://marianamazzucato.com/books/the-entrepreneurial-state/](https://marianamazzucato.com/books/the-entrepreneurial-state/)
 
-[^basicincomeearth2013]: Basic Income Earth Network. 2013. *Basic Income as a Sustainable Transition Strategy.* pp. 25–31. [https://basicincome.org/bien/pdf/Flash67.pdf](https://basicincome.org/bien/pdf/Flash67.pdf)
+[^crny2025]: Creatives Rebuild New York. 2025. *Guaranteed Income for Artists — Impact.* [https://www.creativesrebuildny.org/research/gi-research/impact/](https://www.creativesrebuildny.org/research/gi-research/impact/)
 
-[^haarmann2009]: Haarmann, Claudia & Dirk. 2009. *The Basic Income Grant Pilot Project in Namibia.* pp. 21, 30. [https://base.socioeco.org/docs/big_resource_book.pdf](https://base.socioeco.org/docs/big_resource_book.pdf)
+[^haushofer2016]: Haushofer, Johannes & Shapiro, Jeremy. 2016. *The Short-term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya.* *Quarterly Journal of Economics.* [https://pmc.ncbi.nlm.nih.gov/articles/PMC7575201/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7575201/)
 
-[^kela2020]: Kela. 2020. *Evaluation of the Finnish Basic Income Experiment.* pp. 19, 24, 26, 29. [https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment](https://www.researchgate.net/publication/353833411_Evaluation_of_the_experiment)
-
-[^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 27. [https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320)
-
-[^forget2017]: Forget, Evelyn L. 2017. *Basic Income for Canadians.* pp. 32. [https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all](https://www.researchgate.net/publication/344713136_Basic_Income_for_Canadians_from_the_covid-19_emergency_to_financial_security_for_all)
+[^seed_employment]: Stockton Economic Empowerment Demonstration. *Employment.* [https://www.stocktondemonstration.org/employment](https://www.stocktondemonstration.org/employment)
