@@ -282,35 +282,22 @@ nav span:where([aria-hidden=true]) {
 }
 
 
-main { 
-	&>section:not([class]) {
-		display: grid;
-		grid-template:
-		"header header header" auto
-		"text insert subtitle" auto
-		"text insert results" auto
-		"text insert results" auto / min(100%, 52ch) min(100%, 24ch) 1fr;
-		grid-gap: 40px;
+/* main { */ 
+/* 	&>section:not([class]) { */
+/* 		display: flex; */
+/* 		flex-wrap: wrap; */
+/* 		column-gap: 40px; */
 
-		&>div.as-grid {
-			display: contents;
-		}
-		&>header {
-			grid-area: header;
-		}
-		& .as-prose {
-			grid-area: text;
-		}
-		>h3 {
-			grid-area: subtitle;
-			margin-block:0 !important;
-		}
-		&>ul {
-			grid-area: results;
-			max-width: 40ch;
-		}
-		& .insert {
-			grid-area: insert;
-		}
-	}
-}
+/* 		&>header { */
+/* 			flex-basis: 100%; */
+/* 		} */
+
+/* 		div { */
+/* 			flex-basis: 50ch; */
+/* 		} */
+
+/* 		section { */
+/* 			flex-basis: 40ch; */
+/* 			margin-inline: auto; */
+/* 	} */
+/* } */
