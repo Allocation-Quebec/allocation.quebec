@@ -4,6 +4,7 @@
 <strong>Et si on remplaçait la lourdeur par la clarté ?</strong>
 <p>Les systèmes d’aide actuels sont souvent complexes, coûteux à administrer et inefficaces à rejoindre les bonnes personnes. Des milliers d’heures sont perdues chaque année en formulaires, contrôles, vérifications et révisions.</p>
 <p>Une allocation de subsistance simplifie le paysage : elle peut remplacer une mosaïque de programmes par un mécanisme clair, direct et accessible. Moins de bureaucratie, plus d’impact.</p>
+<p>Plusieurs analyses soulignent qu’un dispositif universel et simple réduit les coûts d’administration et les “trappes” créées par les retraits abrupts d’aide, tout en maintenant des incitations au travail.[^pbo2018][^policybrief2017]</p>
 </header>
 
 <section>
@@ -15,6 +16,7 @@
 <div class="as-prose">
 <p>Les dispositifs d’aide sociale conditionnelle exigent une armature administrative complexe pour contrôler l’admissibilité, traquer la fraude, gérer les réclamations et appliquer des sanctions. Cela engendre des coûts importants sans garantir une efficacité équitable.</p>
 <p>Une allocation de subsistance réduit cette charge en supprimant le besoin de vérifications constantes. Elle repose sur un principe simple : faire confiance, et redistribuer à la source, sans filtres coûteux.</p>
+<p>Des synthèses récentes insistent aussi sur l’effet “anti‑trappes” d’un dispositif universel qui limite les retraits abrupts d’aide et clarifie les incitations.[^policybrief2017][^hoynes2018]</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une politique publique peut être ambitieuse sans être compliquée. L’efficacité ne s’oppose pas à la justice — elle peut en être le vecteur.</p>
@@ -172,3 +174,6 @@
 [^mullainathan2013]: Mullainathan, Sendhil & Eldar Shafir. 2013. *Scarcity: Why Having Too Little Means So Much.* pp. 28. [https://archive.org/details/scarcitywhyhavin0000mull](https://archive.org/details/scarcitywhyhavin0000mull)
 
 [^knight2019]: Knight, Kyle et al. 2019. *Universal Basic Income and Mental Health Outcomes.* pp. 24. [https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320](https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1671320)
+[^pbo2018]: Parliamentary Budget Officer. 2018. *Costing a National Guaranteed Basic Income Using the Ontario Basic Income Model.* [https://distribution-a617274656661637473.pbo-dpb.ca/46dfbef2121c66dc930500f0522ba37474c6cad68876ef153f9865225eb902fe](https://distribution-a617274656661637473.pbo-dpb.ca/46dfbef2121c66dc930500f0522ba37474c6cad68876ef153f9865225eb902fe)
+[^policybrief2017]: Institute for Policy Research. 2017. *Basic Income Policy Brief.* [https://www.bath.ac.uk/publications/assessing-the-case-for-a-universal-basic-income-in-the-uk/attachments/ipr-assessing-the-case-for-a-universal-basic-income-in-the-uk.pdf](https://www.bath.ac.uk/publications/assessing-the-case-for-a-universal-basic-income-in-the-uk/attachments/ipr-assessing-the-case-for-a-universal-basic-income-in-the-uk.pdf)
+[^hoynes2018]: Hoynes, Hilary & Rothstein, Jesse. 2018. *Universal Basic Income in the US and Advanced Countries.* NBER Working Paper. [https://www.nber.org/system/files/working_papers/w25538/w25538.pdf](https://www.nber.org/system/files/working_papers/w25538/w25538.pdf)

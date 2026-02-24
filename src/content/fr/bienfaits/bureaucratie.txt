@@ -15,6 +15,8 @@
 <div class="as-prose">
 <p>Des dizaines de programmes différents, chacun avec ses critères, ses formulaires, ses guichets, ses délais. Cette complexité administrative décourage même les plus déterminés, et pèse lourd sur les institutions publiques.</p>
 <p>Une allocation de subsistance supprime les démarches complexes : pas besoin de prouver sa misère, ni de se justifier. Elle réduit les frais de gestion, évite les doublons et libère du temps pour l’accompagnement humain.</p>
+<p>Plusieurs analyses soulignent que la sélection fine des “méritants” exige une collecte d’informations intrusive et coûteuse, ce qui alourdit mécaniquement l’appareil administratif.[^zwolinski2015]</p>
+<p>Des synthèses internationales pointent aussi le rôle des “trappes” administratives et de la complexité dans le non‑recours, ce qui renforce l’intérêt d’un versement universel plus lisible.[^policybrief2017]</p>
 <p>Concrètement, chaque formulaire ou preuve supplémentaire représente une barrière de plus pour des personnes déjà fragilisées.</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
@@ -116,3 +118,5 @@
 [^gis_eval]: Employment and Social Development Canada. *Evaluation of the Guaranteed Income Supplement.* [https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations/guaranteed-income-supplement.html](https://www.canada.ca/en/employment-social-development/corporate/reports/evaluations/guaranteed-income-supplement.html)
 
 [^eitc_irs]: Internal Revenue Service. *EITC participation rate by states.* [https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state](https://www.irs.gov/tax-professionals/eitc-central/eitc-participation-rate-by-state)
+[^zwolinski2015]: Zwolinski, Matt. 2015. *Classical Liberalism and the Basic Income.* *Basic Income Studies*.
+[^policybrief2017]: Institute for Policy Research. 2017. *Basic Income Policy Brief.* [https://www.bath.ac.uk/publications/assessing-the-case-for-a-universal-basic-income-in-the-uk/attachments/ipr-assessing-the-case-for-a-universal-basic-income-in-the-uk.pdf](https://www.bath.ac.uk/publications/assessing-the-case-for-a-universal-basic-income-in-the-uk/attachments/ipr-assessing-the-case-for-a-universal-basic-income-in-the-uk.pdf)

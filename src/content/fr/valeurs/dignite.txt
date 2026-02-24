@@ -4,6 +4,8 @@
 <strong>Personne ne devrait avoir à quémander pour subsister</strong>
 <p>Le système d'aide sociale actuel impose aux personnes dans le besoin de prouver leur misère pour obtenir de l’aide minimale. Ces processus stigmatisants, intrusifs, et souvent humiliants, brisent la confiance en soi, alimentent la honte et affaiblissent les liens sociaux.</p>
 <p>En Europe, le non-recours aux prestations de revenu minimum est estimé entre 29 % et 57 %, notamment à cause de la complexité administrative et de la stigmatisation associée[^issa2022].</p>
+<p>Plusieurs analyses soulignent que la sélection fine des bénéficiaires repose sur une collecte d’informations intrusive et coûteuse, ce qui alimente la stigmatisation et la perte de dignité.[^zwolinski2015][^policybrief2017]</p>
+<p>Une approche plus universelle peut également réduire la stigmatisation liée à la participation aux programmes.[^hoynes2018]</p>
 <p>Une allocation de subsistance change radicalement cette logique : elle repose sur la confiance, la reconnaissance de la valeur humaine intrinsèque et l’idée que chacun mérite de subsister avec dignité — sans condition, sans justification, sans humiliation.</p>
 </header>
 
@@ -164,3 +166,6 @@
 [^issa2022]: ISSA. 2022. *Social security and human rights: ensuring access and combatting non-take-up of social benefits.* [https://www.issa.int/analysis/social-security-and-human-rights-ensuring-access-and-combatting-non-take-social-benefits](https://www.issa.int/analysis/social-security-and-human-rights-ensuring-access-and-combatting-non-take-social-benefits)
 
 [^cepal2012]: CEPAL. 2012. *Conditional transfer programmes perpetuate women’s role as carers.* [https://www.cepal.org/en/pressreleases/conditional-transfer-programmes-perpetuate-womens-role-carers](https://www.cepal.org/en/pressreleases/conditional-transfer-programmes-perpetuate-womens-role-carers)
+[^zwolinski2015]: Zwolinski, Matt. 2015. *Classical Liberalism and the Basic Income.* *Basic Income Studies*.
+[^policybrief2017]: Institute for Policy Research. 2017. *Basic Income Policy Brief.* [https://www.bath.ac.uk/publications/assessing-the-case-for-a-universal-basic-income-in-the-uk/attachments/ipr-assessing-the-case-for-a-universal-basic-income-in-the-uk.pdf](https://www.bath.ac.uk/publications/assessing-the-case-for-a-universal-basic-income-in-the-uk/attachments/ipr-assessing-the-case-for-a-universal-basic-income-in-the-uk.pdf)
+[^hoynes2018]: Hoynes, Hilary & Rothstein, Jesse. 2018. *Universal Basic Income in the US and Advanced Countries.* NBER Working Paper. [https://www.nber.org/system/files/working_papers/w25538/w25538.pdf](https://www.nber.org/system/files/working_papers/w25538/w25538.pdf)

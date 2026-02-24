@@ -15,6 +15,8 @@
 <div class="as-prose">
 <p>Les écarts de revenus extrêmes nuisent à tous, y compris aux plus riches. Ils affectent la santé, la réussite scolaire, la confiance sociale et la mobilité économique. Or, les transferts ciblés ou temporaires ne parviennent souvent pas à corriger durablement ces déséquilibres.</p>
 <p>Une allocation de subsistance garantit que personne ne tombe sous le seuil de la pauvreté, tout en maintenant la liberté d’entreprendre, d’innover ou de travailler davantage. <strong>Elle agit comme une égalisation du point de départ, pas de l’arrivée.</strong></p>
+<p>Mais le design compte : des simulations montrent que certaines formules de revenu garanti peuvent créer des perdants ou même augmenter la pauvreté si le niveau de garantie et le financement sont mal calibrés.[^clavet2012][^oecd2017bi]</p>
+<p>Plusieurs analyses soulignent aussi un arbitrage entre adéquation et abordabilité, ce qui rend essentiel un choix explicite des priorités.[^bowman2017]</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Il ne s’agit pas de tout niveler, mais de donner à chacun les moyens de contribuer. Moins d’inégalités, c’est aussi moins de divisions sociales et plus de confiance collective. Il est possible de produire une société équitable sans ralentir ni le progrès, ni le succès.</p>
@@ -117,3 +119,6 @@
 [^juntos2024]: Dammert, Ana C. et al. 2024. *Conditional cash transfers and unintended births: Evidence from Peru.* *Health Economics*. [https://pubmed.ncbi.nlm.nih.gov/37845819/](https://pubmed.ncbi.nlm.nih.gov/37845819/)
 
 [^cepal2012]: CEPAL. 2012. *Conditional transfer programmes perpetuate women’s role as carers.* [https://www.cepal.org/en/pressreleases/conditional-transfer-programmes-perpetuate-womens-role-carers](https://www.cepal.org/en/pressreleases/conditional-transfer-programmes-perpetuate-womens-role-carers)
+[^clavet2012]: Clavet, Nicholas-James; Duclos, Jean-Yves; Lacroix, Guy. 2012. *Fighting Poverty: Assessing the Effect of a Guaranteed Minimum Income Proposals in Québec.* [https://docs.iza.org/dp7283.pdf](https://docs.iza.org/dp7283.pdf)
+[^oecd2017bi]: OECD. 2017. *Basic Income as a Policy Option: Can it add up?* [https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/basic-income-as-a-policy-option_6d481cff/77d7fe00-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/basic-income-as-a-policy-option_6d481cff/77d7fe00-en.pdf)
+[^bowman2017]: Bowman, Dina et al. 2017. *Basic Income: Trade-offs and Bottom Lines.* Brotherhood of St Laurence. [https://library.bsl.org.au/showitem.php?handle=1/10141](https://library.bsl.org.au/showitem.php?handle=1/10141)

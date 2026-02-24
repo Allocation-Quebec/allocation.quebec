@@ -50,6 +50,7 @@
 <p>Actuellement, de nombreuses personnes acceptent des emplois dans des secteurs polluants ou destructeurs parce qu’elles n’ont pas d’autre choix. Cette dépendance économique freine les transitions dans les secteurs de l’énergie, des ressources, du transport et de l’agroalimentaire.</p>
 <p>Une allocation de subsistance pourrait permettre à plusieurs de se tourner vers des emplois plus alignés avec leurs valeurs, ou de refuser des emplois qui nuisent à l’environnement. C’est une condition essentielle pour qu’une transition écologique soit socialement juste.</p>
 <p>Une baisse modeste du temps de travail (par exemple de l’ordre de quelques pourcents) pourrait aussi contribuer à réduire la pression écologique, car des analyses comparatives montrent une association entre davantage d’heures travaillées et des émissions plus élevées, toutes choses égales par ailleurs[^rosnick2007][^schor2013][^landivar2022].</p>
+<p>Certains auteurs soulignent que la poursuite du plein emploi par la seule croissance comporte des coûts écologiques et sociaux, ce qui renforce l’intérêt de sécuriser autrement les parcours de vie.[^offe2008]</p>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 <p>Une transition verte imposée sans soutien financier aux travailleurs mène à la colère, à la résistance, voire à l’échec. Il faut sécuriser les parcours de reconversion pour qu’ils soient possibles et désirables.</p>
@@ -146,3 +147,4 @@
 [^schor2013]: Schor, Juliet B. 2013. *Working Hours and Carbon Emissions: Why a Shorter Work Week Is Better for the Environment.* *Global Environmental Change*. [https://www.sciencedirect.com/science/article/abs/pii/S0959378013000472](https://www.sciencedirect.com/science/article/abs/pii/S0959378013000472)
 
 [^landivar2022]: Landivar, Liana Christin et al. 2022. *Working Time, Income Inequality, and Carbon Dioxide Emissions in the United States, 2005–2015.* *Energy Research & Social Science*. [https://www.sciencedirect.com/science/article/abs/pii/S2214629621004734](https://www.sciencedirect.com/science/article/abs/pii/S2214629621004734)
+[^offe2008]: Offe, Claus. 2008. *Basic Income and the Labor Contract.* *Basic Income Studies*.

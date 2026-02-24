@@ -4,6 +4,7 @@
 <strong>Et si on investissait dans le potentiel humain ?</strong>
 <p>La productivité n’est pas qu’une affaire de machines ou de capital. Elle dépend aussi de la santé, de la motivation, de l’éducation et du sentiment de sécurité des personnes. Une société où chacun peut contribuer à son plein potentiel est une société plus dynamique.</p>
 <p>Une allocation de subsistance libère du temps, de l’énergie mentale, et de la marge pour entreprendre, apprendre, s’adapter. Elle permet de créer des conditions propices à une productivité humaine, durable, croissante.</p>
+<p>Les essais récents indiquent toutefois un effet modéré de réduction d’heures travaillées, ce qui renforce l’importance du design et des objectifs visés.[^vivalt2024][^pbo2018]</p>
 </header>
 
 <section>
@@ -110,3 +111,5 @@
 [^jama2024]: Liebman, Jeffrey et al. 2024. *Effect of Cash Benefits on Health Care Utilization and Health: A Randomized Study.* *JAMA*. [https://jamanetwork.com/journals/jama/fullarticle/2821454](https://jamanetwork.com/journals/jama/fullarticle/2821454)
 
 [^seed_employment]: Stockton Economic Empowerment Demonstration. *Employment.* [https://www.stocktondemonstration.org/employment](https://www.stocktondemonstration.org/employment)
+[^vivalt2024]: Vivalt, Eva et al. 2024. *The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States.* NBER Working Paper 32719. [https://www.nber.org/system/files/working_papers/w32719/w32719.pdf](https://www.nber.org/system/files/working_papers/w32719/w32719.pdf)
+[^pbo2018]: Parliamentary Budget Officer. 2018. *Costing a National Guaranteed Basic Income Using the Ontario Basic Income Model.* [https://distribution-a617274656661637473.pbo-dpb.ca/46dfbef2121c66dc930500f0522ba37474c6cad68876ef153f9865225eb902fe](https://distribution-a617274656661637473.pbo-dpb.ca/46dfbef2121c66dc930500f0522ba37474c6cad68876ef153f9865225eb902fe)

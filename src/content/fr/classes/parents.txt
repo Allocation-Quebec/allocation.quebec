@@ -1,6 +1,7 @@
 <header>
 <h1><i><img src="/assets/img/family.svg" alt=""/></i> Parents</h1>
 <p>L’allocation de subsistance renforce la stabilité des familles, réduit la pauvreté infantile et permet aux parents de mieux concilier travail et vie familiale.</p>
+<p>Des essais récents de transferts inconditionnels indiquent des améliorations du comportement parental, mais des effets mitigés sur certains résultats pour les enfants, ce qui justifie une approche prudente et progressive.[^krause2025]</p>
 </header>
 
 <section>
@@ -275,3 +276,4 @@
 [^finqc2019]: [Ministère des Finances du Québec. 2019. *Dépenses fiscales – Édition 2019*](https://www.finances.gouv.qc.ca/documents/autres/fr/AUTFR_Depenses_fiscales_2019_Complet.pdf)  
 [^frqsc2020]: [Fonds de recherche du Québec – Société et culture. 2020. *Le revenu familial et la réussite scolaire*](https://frq.gouv.qc.ca/story/le-revenu-familial-et-la-reussite-scolaire/)  
 [^moisson2023]: [Moisson Montréal. 2023. *Rapport annuel 2023 – Sécurité alimentaire*](https://moissonmontreal.org/rapport-2023/)
+[^krause2025]: [Krause, Patrick K. et al. 2025. *The Impact of Unconditional Cash Transfers on Parenting and Children.* NBER Working Paper 34040.](https://www.nber.org/papers/w34040)

@@ -5,6 +5,7 @@
 <p>Des milliers de personnes occupent des emplois qu’ils détestent par peur de ne pas pouvoir payer leur loyer. D’autres rêvent de retourner aux études, de démarrer une entreprise ou de consacrer du temps à leur famille, mais se heurtent toujours à la même réalité : sans revenu stable, ces choix sont impossibles.
 </p>
 <p>Une allocation de subsistance changerait la donne en garantissant à chacun•e un minimum vital pour se libérer de la précarité et prendre des décisions basées sur ses aspirations, et non sur l’urgence de survivre. Plusieurs expériences internationales le démontrent. En voici quelques-unes.</p>
+<p>Au‑delà des essais, plusieurs analyses théoriques concluent qu’un revenu de base renforce l’autonomie réelle : pouvoir refuser un emploi abusif, négocier, ou s’engager dans des activités utiles sans crainte immédiate de la survie.[^offe2008][^howard2015][^policybrief2017]</p>
 </header>
 
 
@@ -16,25 +17,25 @@
 <h2 class="h3"><i>🇫🇮</i> Finlande : moins de stress, plus d’initiatives</h2>
 </header>
 
-<div class="as-grid">
-<div class="as-prose">
+<div>
 
 L’expérience finlandaise du revenu de base, menée entre janvier 2017 et décembre 2018, était un projet pilote national visant à évaluer les effets d’un revenu de base inconditionnel sur l’emploi et le bien-être. Pendant deux ans, 2 000 chômeurs âgés de 25 à 58 ans ont reçu un revenu mensuel de 560 euros, sans conditions ni obligation d’accepter un emploi.
 
 <strong>Les résultats ont montré peu d’impact sur le taux d’emploi global, mais une amélioration notable du bien-être psychologique, de la confiance en soi et de la perception de la sécurité économique des participants.</strong> L’expérience a été saluée pour sa rigueur méthodologique, bien que ses résultats aient été jugés limités par la taille restreinte de l’échantillon et son focus exclusif sur les chômeurs.
+
+<aside class="insert">
+<span class="h4">Encart savoir</span>
+<p>L’économiste **Amartya Sen**, dans sa **théorie des capabilités**, soutient que la liberté réelle des individus repose sur leurs moyens économiques et sociaux[^sen1999].</p>
+<p>Une allocation de subsistance renforcerait ces capabilités en offrant à chacun la possibilité d’exercer un choix véritable dans son parcours de vie.</p>
+</aside>
 
 <h3 class="h4">Pourquoi c’est important ?</h3>
 
 Un individu qui ne vit plus dans la peur du lendemain ose prendre des risques, que ce soit pour changer de métier, déménager ou se lancer en affaires. Cette dynamique peut être éclairée par la **[théorie du choix rationnel](https://en.wikipedia.org/wiki/Rational_choice_theory)**, qui modélise les décisions comme un arbitrage sous contraintes.
 
 </div>
-<aside class="insert">
-<span class="h4">Encart savoir</span>
-<p>L’économiste **Amartya Sen**, dans sa **théorie des capabilités**, soutient que la liberté réelle des individus repose sur leurs moyens économiques et sociaux[^sen1999].</p>
-<p>Une allocation de subsistance renforcerait ces capabilités en offrant à chacun la possibilité d’exercer un choix véritable dans son parcours de vie.</p>
-</aside>
-</div>
 
+<section>
 <h3 class="h4">Résultats concrets</h3>
 
 <ul class="as-grid">
@@ -72,6 +73,7 @@ Un individu qui ne vit plus dans la peur du lendemain ose prendre des risques, q
 <p>Aucune baisse significative de l’emploi moyen n’a été observée[^2].</p>
 </li>
 </ul>
+</section>
 </section>
 
 <section>
@@ -266,3 +268,6 @@ Voir aussi la page Wikipédia sur la [destruction créatrice](https://en.wikiped
 [^11]: West, Stacia & Castro, Amy (2023). *Impact of Guaranteed Income on Health, Finances, and Agency: Findings from the Stockton Randomized Controlled Trial*. *Journal of Urban Health*, 100, 227–244. [https://doi.org/10.1007/s11524-023-00723-0](https://doi.org/10.1007/s11524-023-00723-0)
 [^12]: Creatives Rebuild New York (2025). *Impact: Guaranteed Income Research*. [https://www.creativesrebuildny.org/research/gi-research/impact/](https://www.creativesrebuildny.org/research/gi-research/impact/)
 [^13]: Stockton Economic Empowerment Demonstration (SEED). *Employment*. [https://www.stocktondemonstration.org/employment](https://www.stocktondemonstration.org/employment)
+[^offe2008]: Offe, Claus. 2008. *Basic Income and the Labor Contract.* *Basic Income Studies*.
+[^howard2015]: Howard, Michael W. 2015. *Exploitation, Labor, and Basic Income.* *Analyse & Kritik*.
+[^policybrief2017]: Institute for Policy Research. 2017. *Basic Income Policy Brief*.

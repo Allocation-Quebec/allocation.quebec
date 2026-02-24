@@ -4,6 +4,7 @@
 <strong>Et si on acceptait de subsister collectivement plutôt qu'individuellement ?</strong>
 <p>Notre société valorise l’autonomie individuelle, mais oublie souvent que personne ne s’en sort seul. Nous dépendons tous et toutes, à un moment ou à un autre, des autres : pour élever nos enfants, prendre soin des aînés, traverser une épreuve, apprendre ou rebondir.</p>
 <p>Une allocation de subsistance reconnaît cette interdépendance. Elle ne remplace pas la solidarité, elle la rend possible. Elle libère du temps, du stress et de l’énergie pour prendre soin les uns des autres.</p>
+<p>Plusieurs analyses éthiques présentent le revenu de base comme un mécanisme qui renforce la solidarité sociale en reconnaissant l’appartenance commune à une même communauté politique.[^standing2017solid]</p>
 </header>
 
 <section>
@@ -101,3 +102,4 @@
 [^who2025]: World Health Organization. 2025. *Social connection linked to improved health and reduced risk of early death.* [https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death](https://www.who.int/news/item/30-06-2025-social-connection-linked-to-improved-heath-and-reduced-risk-of-early-death)
 
 [^kittay1999]: Kittay, Eva Feder. 1999. *Love’s Labor: Essays on Women, Equality and Dependency.* pp. 22. [https://www.taylorfrancis.com/books/mono/10.4324/9781315108926/love-labor-eva-feder-kittay](https://www.taylorfrancis.com/books/mono/10.4324/9781315108926/love-labor-eva-feder-kittay)
+[^standing2017solid]: Standing, Guy. 2017. *Basic Income as Common Dividends: Piloting a Transformative Policy.* Progressive Economy Forum. [https://www.ubi.org/_data/site/270/pg/32/PEF_Piloting_Basic_Income_Guy_Standing.pdf](https://www.ubi.org/_data/site/270/pg/32/PEF_Piloting_Basic_Income_Guy_Standing.pdf)

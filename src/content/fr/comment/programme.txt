@@ -3,6 +3,8 @@
 <h1><i><img src="/assets/img/coin.svg" alt=""/></i> Programme économique</h1>
 <strong>18 000 \$ alloués à chaque adulte et 6 000 \$ pour chaque enfant à charge.</strong>
 <p>Notre proposition fait pratiquement disparaître la pauvreté tout en préservant l’incitation au travail. Avec un coût net de 41 G \$ entièrement couvert par environ 41 G \$ d’économies et de recettes stables et ce, avec une réduction de la pression fiscale sur les salaires de plus de 3%, *notre programme économique est soutenable, viable et efficace.*</p>
+<p><strong>Note de prudence :</strong> les estimations de coûts sont ici <em>pré‑comportementales</em> et ne captent pas les ajustements d’offre de travail. Dans d’autres modèles, la différence entre coût brut et coût net est centrale, et les effets de comportement peuvent modifier les recettes fiscales.[^pbo2018][^widerquist2017]</p>
+<p>Enfin, il n’existe pas un seul modèle de revenu de base : la littérature insiste sur l’importance du design et du contexte institutionnel, et sur les arbitrages entre adéquation, coût et redistribution.[^oecd2017bi][^manyfaces2004]</p>
 <p><strong>Et nos calculs le prouvent.</strong></p>
 </header>
 
@@ -15,6 +17,7 @@
 </header>
 <div class="as-prose">
 <p>Allocation Québec propose 18 000 \$ par adulte et 6 000 \$ par enfant, par année, versés chaque mois, sans condition aucune.</p><p>L’allocation est ensuite linéairement réduite : à 50 000 \$ de revenu personnel, elle est entièrement récupérée à l’impôt diminuant ainsi drastiquement son coût brut. Chaque enfant « protège » 50 000 $ de revenu familial : tant que votre revenu demeure sous ce seuil multiplié par le nombre d’enfants, vous conservez intégralement l’allocation, puis elle diminue graduellement au taux de 12 % au-delà. 42 % des adultes gagnent déjà plus de 50 000 \$ et rendent 100% de leur allocation ; pour les autres, la récupération reprend environ la moitié des versements. **Environ deux tiers de la facture brute reviennent donc automatiquement au trésor.**</p>
+<p>Sur le plan fiscal, cette logique est proche d’un impôt négatif : un transfert universel dont la récupération se fait via l’impôt.[^rallo2019]</p>
 </div>
 <article>
 <h3>Coût brut</h3>
@@ -265,6 +268,7 @@
 <div class="as-prose">
 <p>En parallèle du financement supplémentaire, nous limitons l’effet aussi sur la paie : la cotisation d’Assurance-emploi est ramenée à un taux minimal symbolique et la portion bonifiée de la RRQ devient volontaire. Ces deux gestes limitent automatiquement l'impact sur le portefeuille du salarié et le coût d’embauche pour les PME.</p>
 <p>Cette réduction fiscale est faite tout en maintenant une assurance-chômage de base et en offrant aux travailleurs la liberté de choisir leur niveau d’épargne-retraite. Le résultat net est une pression sur les salaires substantiellement réduite, alors même que le budget provincial demeure en équilibre.</p>
+<p><em>Complément méthodologique :</em> dans les évaluations publiques, les coûts dépendent fortement des paramètres (niveau de garantie, taux de récupération, assiette fiscale). Nous maintenons ce principe de transparence dans les hypothèses chiffrées.[^pbo2018][^widerquist2017]</p>
 </div>
 <article>
 <h3>Pression brute sur la paie</h3>
@@ -288,3 +292,9 @@
 </footer>
 </section>
 </article>
+
+[^pbo2018]: Parliamentary Budget Officer. 2018. *Costing a National Guaranteed Basic Income Using the Ontario Basic Income Model.* [https://distribution-a617274656661637473.pbo-dpb.ca/46dfbef2121c66dc930500f0522ba37474c6cad68876ef153f9865225eb902fe](https://distribution-a617274656661637473.pbo-dpb.ca/46dfbef2121c66dc930500f0522ba37474c6cad68876ef153f9865225eb902fe)
+[^widerquist2017]: Widerquist, Karl. 2017. *The Cost of Basic Income: Back-of-the-Envelope Calculations.* [https://doi.org/10.1515/bis-2017-0016](https://doi.org/10.1515/bis-2017-0016)
+[^rallo2019]: Rallo, Juan Ramon. 2019. *Hayek and the Basic Income.* *The Independent Review*. [https://www.independent.org/wp-content/uploads/tir/2019/12/tir_24_3_02_rallo.pdf](https://www.independent.org/wp-content/uploads/tir/2019/12/tir_24_3_02_rallo.pdf)
+[^oecd2017bi]: OECD. 2017. *Basic Income as a Policy Option: Can it add up?* [https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/basic-income-as-a-policy-option_6d481cff/77d7fe00-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/05/basic-income-as-a-policy-option_6d481cff/77d7fe00-en.pdf)
+[^manyfaces2004]: De Wispelaere, Jurgen & Stirton, Lindsay. 2004. *The Many Faces of Universal Basic Income.* *The Political Quarterly*. [https://doi.org/10.1111/j.1467-923x.2004.00611.x](https://doi.org/10.1111/j.1467-923x.2004.00611.x)

@@ -12,6 +12,7 @@
 <div class="as-grid">
 <div class="as-prose">
 <p>La réforme remplace des programmes conditionnels et morcelés par une allocation universelle avec récupération graduelle. Concrètement, le soutien diminue doucement à mesure que le salaire augmente, ce qui élimine les trappes à pauvreté. L’effet combiné : plus de sécurité de revenu, plus de liberté pour accepter des heures supplémentaires, changer d’emploi ou reprendre des études, et une progression salariale qui se traduit enfin par un gain net.</p>
+<p>Les essais récents suggèrent toutefois un léger recul des heures travaillées, sans amélioration claire de la qualité d’emploi, ce qui plaide pour une mise en œuvre prudente et progressive.[^vivalt2024]</p>
 
 <h3 class="h4">Pourquoi c’est décisif ?</h3>
 <p>En 2024, 18,5 % des employé·es au Canada gagnaient moins que le seuil de faible rémunération (20 \$/h)[^statcanSal]. Les programmes actuels coupent abruptement des crédits et prestations quand un seuil est franchi. Ici, on remplace les ruptures par une pente douce : plus d’effort, plus de revenu net, pour tout le monde.</p>
@@ -256,3 +257,4 @@
 [^seedEmployment]: [Stockton Economic Empowerment Demonstration (SEED). *Employment*](https://www.stocktondemonstration.org/employment)  
 [^prod2004]: [Rost, Kathryn L., Smith, Jeffrey L., & Dickinson, Miriam. 2004. *The Effect of Improving Primary Care Depression Management on Employee Absenteeism and Productivity: A Randomized Trial*. *Medical Care*](https://pmc.ncbi.nlm.nih.gov/articles/PMC1350979/)  
 [^iwprWork]: [Institute for Women’s Policy Research. 2022. *Why Paid Leave Matters*](https://iwpr.org/iwpr-issues/work-family/why-paid-leave-matters/)  
+[^vivalt2024]: [Vivalt, Eva et al. 2024. *The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States.* NBER Working Paper 32719.](https://www.nber.org/papers/w32719)
